@@ -1,0 +1,67 @@
+32. Jesus Heals a Demon-Possessed Man & A Sick Woman
+====================================================
+
+One day, Jesus and his disciples crossed the Sea of Galilee to the
+country of the Gerasenes.
+
+When they reached the other side, a man with an evil spirit came running
+up to Jesus.
+
+This man was so strong that nobody could hold him down. People had even
+used chains to lock him up, but he kept breaking them.
+
+He lived among the tombs in the area. Day and night this man would
+scream. He wore no clothes and cut himself repeatedly with stones.
+
+When the man came to Jesus, he fell on his knees in front of him. Jesus
+said, “Come out of the man, you evil spirit!”
+
+The man with the evil spirit cried out in a loud voice and said, “What
+do you want with me, Jesus, Son of the Most High God? Please do not
+torture me!” Then Jesus asked the man, “What is your name?” He replied,
+“My name is Legion, for we are many.” (A legion was a group of up to
+6,000 soldiers.)
+
+The evil spirits begged Jesus, “Please do not send us out of this area!”
+There was a herd of pigs feeding on a nearby hill. So, the evil spirits
+begged Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
+
+The evil spirits came out of the man and entered the pigs. The pigs ran
+down a steep bank into the sea and drowned. There were about 2,000 pigs
+in the herd.
+
+When the people taking care of the pigs saw what happened, they ran and
+told everyone what Jesus had done. All the people came from the town and
+saw the man who used to have the evil spirits. He was sitting down,
+wearing clothes, and acting like a normal person.
+
+The people were very afraid and asked Jesus to leave. So Jesus got into
+the boat and prepared to leave. The man who had been healed begged to go
+along with Jesus.
+
+But Jesus said to him, “Go home and tell your friends and family how
+much God has done for you and how He has had mercy on you.”
+
+So the man went away and told everyone about what Jesus had done for
+him. Everyone who heard his story was filled with wonder and amazement.
+
+Jesus returned to the other side of the Sea of Galilee. A large crowd
+gathered around him and pressed in on him. In the crowd was a woman who
+had been bleeding for twelve years. She had spent all her money on
+doctors trying to get better, but she only got worse.
+
+She heard how Jesus had healed many sick people and thought to herself,
+“If I only touch Jesus’ clothes, then I, too, will be healed!” She came
+up behind Jesus and touched his clothes. As soon as she touched Jesus,
+the bleeding stopped!
+
+Immediately Jesus realized that power had gone out from him. So he
+turned around and asked, “Who touched me?” The disciples replied,
+“Jesus, there are many people crowding around you and bumping into you.
+How can you ask, ‘Who touched me?’”
+
+The woman fell on her knees before Jesus, shaking and very afraid. Then
+she told the whole truth. Jesus said to her, “Your faith has healed you.
+Go in peace and be healed of your sickness.”
+
+*A Bible story from: Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39*
