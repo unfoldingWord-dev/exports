@@ -1,20 +1,30 @@
 21. God Promises the Messiah
 ============================
 
+![obs-21-01.jpg](/_media/en/obs/obs-21-01.jpg?w=640&h=360&tok=3ce9a5 "obs-21-01.jpg")
+
 The first promise of the coming Messiah came to Adam and Eve. God
 promised that a descendant of Eve would be born who would crush the
 snake’s head. The snake who deceived Eve is Satan. The promise means the
 coming Messiah would defeat Satan completely.
 
+![obs-21-02.jpg](/_media/en/obs/obs-21-02.jpg?w=640&h=360&tok=0f39b7 "obs-21-02.jpg")
+
 God promised Abraham that through him all people groups of the world
 would be blessed. This blessing was the coming Messiah who would one day
 provide the way of salvation for all people groups.
 
+![obs-21-03.jpg](/_media/en/obs/obs-21-03.jpg?w=640&h=360&tok=14210f "obs-21-03.jpg")
+
 God promised Moses that He would raise up another prophet like Moses.
 This was another reference to the coming Messiah.
 
+![obs-21-04.jpg](/_media/en/obs/obs-21-04.jpg?w=640&h=360&tok=f65090 "obs-21-04.jpg")
+
 God promised David that the Messiah would be one of David’s own
 descendants.
+
+![obs-21-05.jpg](/_media/en/obs/obs-21-05.jpg?w=640&h=360&tok=574471 "obs-21-05.jpg")
 
 Through the prophet Jeremiah, God promised that He would make a New
 Covenant, but not like God’s Covenant with Israel. In the New Covenant,
@@ -22,24 +32,34 @@ God would write His law on the people’s hearts, the people would know
 God, they would be His people, and God would forgive their sins. The
 Messiah would start the New Covenant.
 
+![obs-21-06.jpg](/_media/en/obs/obs-21-06.jpg?w=640&h=360&tok=5b0aa5 "obs-21-06.jpg")
+
 The coming Messiah would be a prophet, a priest, and a king. A prophet
 is a person who hears the words of God and then proclaims God’s words to
 the people. The coming Messiah would be the perfect prophet.
+
+![obs-21-07.jpg](/_media/en/obs/obs-21-07.jpg?w=640&h=360&tok=0bb203 "obs-21-07.jpg")
 
 A priest is someone who makes sacrifices to God on behalf of the people
 to take away their sins. Priests also pray to God for the people. The
 coming Messiah would be the perfect high priest who would offer himself
 as a perfect sacrifice to God.
 
+![obs-21-08.jpg](/_media/en/obs/obs-21-08.jpg?w=640&h=360&tok=e2ff7d "obs-21-08.jpg")
+
 A king is someone who rules over a kingdom and judges the people. The
 coming Messiah would be the perfect king who would sit on the throne of
 his ancestor David, who would reign over the whole world forever, and
 who would judge honestly and make the right decision every time.
 
+![obs-21-09.jpg](/_media/en/obs/obs-21-09.jpg?w=640&h=360&tok=54a87e "obs-21-09.jpg")
+
 The prophets predicted the birth of the coming Messiah. Malachi foretold
 that a great prophet would come before the Messiah came. Isaiah
 prophesied that the Messiah would be born from a virgin. Micah said that
 he would be born in the town of Bethlehem.
+
+![obs-21-10.jpg](/_media/en/obs/obs-21-10.jpg?w=640&h=360&tok=c9f055 "obs-21-10.jpg")
 
 The prophets also prophesied about the Messiah’s ministry. Isaiah said
 he would live in Galilee, comfort the broken-hearted, proclaim freedom
@@ -47,24 +67,34 @@ to captives, and release to prisoners. He also predicted that the
 Messiah would heal sick people, including those who could not hear, see,
 speak, or walk.
 
+![obs-21-11.jpg](/_media/en/obs/obs-21-11.jpg?w=640&h=360&tok=b4d0fd "obs-21-11.jpg")
+
 Isaiah prophesied that the Messiah would be hated without reason and
 rejected. The Psalms foretold that the Messiah’s people would gamble for
 his clothes and he would be betrayed by a friend. (Psalms are Jewish
 worship songs in the Scriptures.) Zechariah foretold that the friend
 would be paid thirty pieces of silver for betraying him.
 
+![obs-21-12.jpg](/_media/en/obs/obs-21-12.jpg?w=640&h=360&tok=f2f3a1 "obs-21-12.jpg")
+
 The prophets also told about how the Messiah would die. Isaiah
 prophesied that the Messiah would be spit on, mocked, and beaten. Then
 he would be pierced and hung on a tree where he would die.
+
+![obs-21-13.jpg](/_media/en/obs/obs-21-13.jpg?w=640&h=360&tok=96305c "obs-21-13.jpg")
 
 The Messiah would be perfect, having no sin. He would die to receive the
 punishment for other people’s sin. His punishment would bring peace
 between God and people. For this reason, it pleased God to crush the
 Messiah.
 
+![obs-21-14.jpg](/_media/en/obs/obs-21-14.jpg?w=640&h=360&tok=21bd20 "obs-21-14.jpg")
+
 Not only would the Messiah die, but the prophets foretold that God would
 raise him from the dead. Through the Messiah’s death and resurrection,
 God would complete His plan of salvation and start the New Covenant.
+
+![obs-21-15.jpg](/_media/en/obs/obs-21-15.jpg?w=640&h=360&tok=3a4a36 "obs-21-15.jpg")
 
 God showed the prophets many things about the coming Messiah, but the
 Messiah had not come yet. More than 400 years after the last of these
