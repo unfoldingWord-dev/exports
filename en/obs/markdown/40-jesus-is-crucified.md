@@ -1,43 +1,43 @@
 40. Jesus Is Crucified
 ======================
 
-![obs-40-01.jpg](/_media/en/obs/obs-40-01.jpg?w=640&h=360&tok=2cc4f1 "obs-40-01.jpg")
+![obs-40-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-01.jpg "obs-40-01.jpg")
 
 Then they led Jesus away to be crucified, making him carry his own
 cross.
 
-![obs-40-02.jpg](/_media/en/obs/obs-40-02.jpg?w=640&h=360&tok=d10794 "obs-40-02.jpg")
+![obs-40-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-02.jpg "obs-40-02.jpg")
 
 They came to a place called “The Skull” and nailed his arms and feet to
 the cross. But Jesus said, “Father, forgive them, because they do not
 know what they are doing.” Pilate commanded that a sign be put above
 Jesus’ head that read, “King of the Jews.”
 
-![obs-40-03.jpg](/_media/en/obs/obs-40-03.jpg?w=640&h=360&tok=d3b1db "obs-40-03.jpg")
+![obs-40-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-03.jpg "obs-40-03.jpg")
 
 The soldiers gambled for Jesus’ clothing. When they did this, they
 fulfilled a prophecy which said, “They divided my garments among them,
 and gambled for my clothing.”
 
-![obs-40-04.jpg](/_media/en/obs/obs-40-04.jpg?w=640&h=360&tok=cb7a51 "obs-40-04.jpg")
+![obs-40-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-04.jpg "obs-40-04.jpg")
 
 Jesus was crucified between two robbers. One of them mocked Jesus, but
 the other said, “Don’t you fear God? We are guilty, but this man is
 innocent. Jesus, please remember me in your Kingdom.” Jesus said to him,
 “Today, you will be with me in Paradise.”
 
-![obs-40-05.jpg](/_media/en/obs/obs-40-05.jpg?w=640&h=360&tok=09d3d2 "obs-40-05.jpg")
+![obs-40-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-05.jpg "obs-40-05.jpg")
 
 The crowd and the Jewish leaders mocked Jesus, saying, “If you are the
 Son of God, come down from the cross and save yourself! Then we will
 believe you.”
 
-![obs-40-06.jpg](/_media/en/obs/obs-40-06.jpg?w=640&h=360&tok=2c2da9 "obs-40-06.jpg")
+![obs-40-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-06.jpg "obs-40-06.jpg")
 
 It was the middle of the day, but darkness came over the whole land. It
 stayed dark from noon until 3:00 in the afternoon.
 
-![obs-40-07.jpg](/_media/en/obs/obs-40-07.jpg?w=640&h=360&tok=9c8b0f "obs-40-07.jpg")
+![obs-40-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-07.jpg "obs-40-07.jpg")
 
 Then Jesus cried out, “It is finished! Father, I give my spirit into
 your hands.” Then he bowed his head and gave up his spirit. When he
@@ -45,13 +45,13 @@ died, there was an earthquake and the large curtain in the Temple that
 separated the presence of God from the people was torn in two, from the
 top to the bottom.
 
-![obs-40-08.jpg](/_media/en/obs/obs-40-08.jpg?w=640&h=360&tok=1c4d65 "obs-40-08.jpg")
+![obs-40-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-08.jpg "obs-40-08.jpg")
 
 Through his death, Jesus opened a way for people to come to God. When
 the soldier guarding Jesus saw everything that happened, he said,
 “Certainly, this man was innocent. He must have been the Son of God.”
 
-![obs-40-09.jpg](/_media/en/obs/obs-40-09.jpg?w=640&h=360&tok=c3fb6e "obs-40-09.jpg")
+![obs-40-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-09.jpg "obs-40-09.jpg")
 
 Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the
 Messiah, asked Pilate for Jesus’ body. They wrapped his body in cloth

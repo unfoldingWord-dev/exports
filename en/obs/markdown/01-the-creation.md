@@ -1,96 +1,96 @@
 1. The Creation
 ===============
 
-![obs-01-01.jpg](/_media/en/obs/obs-01-01.jpg?w=640&h=360&tok=ce6047 "obs-01-01.jpg")
+![obs-01-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-01.jpg "obs-01-01.jpg")
 
 This is how the beginning of everything happened. God created the
 universe and everything in it in six days. At first, the earth was dark
 and empty, and nothing had been formed in it. But God's Spirit was there
 over the water.
 
-![obs-01-02.jpg](/_media/en/obs/obs-01-02.jpg?w=640&h=360&tok=1c59b9 "obs-01-02.jpg")
+![obs-01-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-02.jpg "obs-01-02.jpg")
 
 Then God spoke and said, “Let there be light!” And there was light. God
 saw that the light was good and called it “day.” He separated it from
 the darkness, which He called “night.” God created the light on the
 first day of creation.
 
-![obs-01-03.jpg](/_media/en/obs/obs-01-03.jpg?w=640&h=360&tok=f6e5f3 "obs-01-03.jpg")
+![obs-01-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-03.jpg "obs-01-03.jpg")
 
 On the second day of creation, God spoke and created the sky above the
 earth.
 
-![obs-01-04.jpg](/_media/en/obs/obs-01-04.jpg?w=640&h=360&tok=93f1e2 "obs-01-04.jpg")
+![obs-01-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-04.jpg "obs-01-04.jpg")
 
 On the third day, God spoke and separated the water from the dry land.
 He called the dry land “earth,” and He called the water “seas.”
 
-![obs-01-05.jpg](/_media/en/obs/obs-01-05.jpg?w=640&h=360&tok=1afe95 "obs-01-05.jpg")
+![obs-01-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-05.jpg "obs-01-05.jpg")
 
 Then God said, “Let the earth produce all kinds of trees and plants.”
 And that is what happened. God saw that what He had created was good,
 and He was pleased with it all.
 
-![obs-01-06.jpg](/_media/en/obs/obs-01-06.jpg?w=640&h=360&tok=6db87b "obs-01-06.jpg")
+![obs-01-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-06.jpg "obs-01-06.jpg")
 
 On the fourth day of creation, God spoke and made the sun, the moon, and
 the stars. God made them to give light to the earth and to mark day and
 night, seasons and years.
 
-![obs-01-07.jpg](/_media/en/obs/obs-01-07.jpg?w=640&h=360&tok=2af539 "obs-01-07.jpg")
+![obs-01-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-07.jpg "obs-01-07.jpg")
 
 On the fifth day, God created everything that swims in the water and all
 the birds. God saw that it was good, and He blessed them.
 
-![obs-01-08.jpg](/_media/en/obs/obs-01-08.jpg?w=640&h=360&tok=18d0f3 "obs-01-08.jpg")
+![obs-01-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-08.jpg "obs-01-08.jpg")
 
 On the sixth day of creation, God said, “Let there be all kinds of land
 animals!” And it happened just like God said. Some were farm animals,
 some crawled on the ground, and some were wild. And God saw that it was
 good.
 
-![obs-01-09.jpg](/_media/en/obs/obs-01-09.jpg?w=640&h=360&tok=4d6ec6 "obs-01-09.jpg")
+![obs-01-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-09.jpg "obs-01-09.jpg")
 
 Then God said, “Let us make human beings in our image to be like us.
 They will have authority over the earth and all the animals.”
 
-![obs-01-10.jpg](/_media/en/obs/obs-01-10.jpg?w=640&h=360&tok=c426fa "obs-01-10.jpg")
+![obs-01-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-10.jpg "obs-01-10.jpg")
 
 So God took some dirt, formed it into a man, and breathed life into him.
 This man's name was Adam. God planted a garden where Adam could live,
 and put him there to care for it.
 
-![obs-01-11.jpg](/_media/en/obs/obs-01-11.jpg?w=640&h=360&tok=aa49cd "obs-01-11.jpg")
+![obs-01-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-11.jpg "obs-01-11.jpg")
 
 In the middle of the garden, God planted two special trees—the tree of
 life and the tree of the knowledge of good and evil. God told Adam that
 he could eat from any tree in the garden except from the tree of the
 knowledge of good and evil. If he ate from this tree, he would die.
 
-![obs-01-12.jpg](/_media/en/obs/obs-01-12.jpg?w=640&h=360&tok=4a3dad "obs-01-12.jpg")
+![obs-01-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-12.jpg "obs-01-12.jpg")
 
 Then God said, “It is not good for man to be alone.” But none of the
 animals could be Adam's helper.
 
-![obs-01-13.jpg](/_media/en/obs/obs-01-13.jpg?w=640&h=360&tok=5638a8 "obs-01-13.jpg")
+![obs-01-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-13.jpg "obs-01-13.jpg")
 
 So God made Adam fall into a deep sleep. Then God took one of Adam's
 ribs and made it into a woman and brought her to him.
 
-![obs-01-14.jpg](/_media/en/obs/obs-01-14.jpg?w=640&h=360&tok=69a5ad "obs-01-14.jpg")
+![obs-01-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-14.jpg "obs-01-14.jpg")
 
 When Adam saw her, he said, “At last! This one is like me! Let her be
 called 'Woman,' for she was made from Man.” This is why a man leaves his
 father and mother and becomes one with his wife.
 
-![obs-01-15.jpg](/_media/en/obs/obs-01-15.jpg?w=640&h=360&tok=3e7832 "obs-01-15.jpg")
+![obs-01-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-15.jpg "obs-01-15.jpg")
 
 God made man and woman in His own image, and He saw that it was very
 good. He blessed them and told them, “Have many children and
 grandchildren and fill the earth!” This all happened on the sixth day of
 creation.
 
-![obs-01-16.jpg](/_media/en/obs/obs-01-16.jpg?w=640&h=360&tok=d2266f "obs-01-16.jpg")
+![obs-01-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-16.jpg "obs-01-16.jpg")
 
 When the seventh day came, God had already finished His work. So God
 rested from all He had been doing. He blessed the seventh day and made
