@@ -2,9 +2,8 @@
 ========================
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Mount Sinai. God sent His prophets
-to warn them to repent and worship Him again, but they refused to
-listen.
+Covenant that God made with them at Sinai. God sent His prophets to warn
+them to repent and worship Him again, but they refused to listen.
 
 So God punished both nations by allowing them to be destroyed. Israel
 was destroyed by the Assyrian Empire, a powerful, cruel nation. The

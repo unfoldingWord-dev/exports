@@ -21,9 +21,10 @@ the thorns and did not produce any grain.”
 60, or even 100 times as much grain as had been planted. He who has
 ears, let him hear!”
 
-This story confused the disciples. Jesus explained, “The seed represents
-the Word of God. The seeds on the path are like people who hear God’s
-Word, do not understand it, and the devil takes the word from them.”
+This story confused the disciples. So Jesus explained, “The seed
+represents the Word of God. The seeds on the path are like people who
+hear God’s Word, do not understand it, and the devil takes the word from
+them.”
 
 “The seeds on the rocky soil are like people who hear God’s Word and
 accept it with joy. But in times of hardship or persecution, they fall

@@ -1,7 +1,7 @@
 3. The Flood
 ============
 
-Many years later, many people were living in the world. They had become
+After a long time, many people were living in the world. They had become
 very wicked and violent. It became so bad that God decided to destroy
 the whole world with a huge flood.
 

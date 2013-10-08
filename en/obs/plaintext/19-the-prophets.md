@@ -20,11 +20,11 @@ God provided so that neither their flour jar nor their bottle of oil
 ever ran out. They had food through the whole famine. Elijah stayed
 there a long time.
 
-After three years, God told Elijah to return to Israel and speak with
-Ahab because He was going to send rain again. When Ahab saw Elijah he
-said, “There you are, you troublemaker!” Elijah said, “You are the
-troublemaker! You have abandoned the true God and worshiped Baal. Bring
-all of Israel to Mount Carmel.”
+After three and a half years, God told Elijah to return to Israel and
+speak with Ahab because He was going to send rain again. When Ahab saw
+Elijah he said, “There you are, you troublemaker!” Elijah said, “You are
+the troublemaker! You have abandoned the true God and worshiped Baal.
+Bring all of Israel to Mount Carmel.”
 
 All of Israel, including the 400 prophets of Baal, came to Mount Carmel.
 Elijah said, “How long will you keep changing your mind? If the LORD is

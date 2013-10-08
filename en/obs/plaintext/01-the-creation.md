@@ -12,7 +12,8 @@ the darkness, which He called “night.” God created the light on the
 first day of creation.
 
 On the second day of creation, God spoke and created the sky above the
-earth.
+earth. He made the sky by separating the water above from the water
+below.
 
 On the third day, God spoke and separated the water from the dry land.
 He called the dry land “earth,” and He called the water “seas.”

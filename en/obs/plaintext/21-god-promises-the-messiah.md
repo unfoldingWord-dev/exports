@@ -1,10 +1,11 @@
 21. God Promises the Messiah
 ============================
 
-The first promise of the coming Messiah came to Adam and Eve. God
-promised that a descendant of Eve would be born who would crush the
-snake’s head. The snake who deceived Eve is Satan. The promise means the
-coming Messiah would defeat Satan completely.
+From the very beginning, God had a plan to send the Messiah. The first
+promise of the coming Messiah came to Adam and Eve. God promised that a
+descendant of Eve would be born who would crush the snake’s head. The
+snake who deceived Eve is Satan. The promise means the coming Messiah
+would defeat Satan completely.
 
 God promised Abraham that through him all people groups of the world
 would be blessed. This blessing was the coming Messiah who would one day

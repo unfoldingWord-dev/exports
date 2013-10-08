@@ -1,15 +1,15 @@
 39. Jesus Is Put on Trial
 =========================
 
-It was the middle of the night. The soldiers led Jesus to the house of
-the high priest to be questioned. Peter followed far behind. When Jesus
-was taken into the house, Peter stayed outside and warmed himself by a
-fire.
+It was now the middle of the night. The soldiers led Jesus to the house
+of the high priest to be questioned. Peter followed far behind. When
+Jesus was taken into the house, Peter stayed outside and warmed himself
+by a fire.
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought
 many witnesses who lied about him. However, their statements did not
-agree with each other, so they could not prove he was guilty. Jesus did
-not say anything.
+agree with each other, so they could not prove he was guilty of
+anything. Jesus did not say anything.
 
 Finally, the high priest looked directly at Jesus and said, “Tell us,
 are you the Messiah, the Son of the living God?”

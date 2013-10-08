@@ -1,8 +1,8 @@
 40. Jesus Is Crucified
 ======================
 
-Then they led Jesus away to be crucified, making him carry his own
-cross.
+After mocking Jesus, the soldiers led him away to be crucified. They
+made him carry his own cross.
 
 They came to a place called “The Skull” and nailed his arms and feet to
 the cross. But Jesus said, “Father, forgive them, because they do not

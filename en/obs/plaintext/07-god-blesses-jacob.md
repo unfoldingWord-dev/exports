@@ -18,8 +18,8 @@ Isaac could not see well. Jacob came to Isaac and said, “I am Esau, I
 have come to receive your blessing.” When Isaac felt the goat hair and
 smelled the clothes, he thought it was Esau and blessed him.
 
-Esau hated Jacob because Jacob stole his rights as oldest son and also
-his blessing. So he planned to kill Jacob after their father died.
+Esau hated Jacob because Jacob had stolen his rights as oldest son and
+also his blessing. So he planned to kill Jacob after their father died.
 
 But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
 far away to live with her relatives.

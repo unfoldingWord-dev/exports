@@ -30,8 +30,8 @@ They went to the king and told him everything.”
 
 “The king called the servant and said, ‘You wicked servant! I forgave
 your debt because you begged me. You should have done the same.’ In his
-anger the king threw the wicked servant into prison until he paid back
-all of his debt.”
+anger the king threw the wicked servant into prison until he could pay
+back all of his debt.”
 
 Then Jesus said, “This is what my heavenly Father will do to every one
 of you if you do not forgive your brother from your heart.”

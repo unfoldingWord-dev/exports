@@ -17,7 +17,7 @@ foreign countries and brought their gods with them and worshiped them.
 When Solomon was old, he worshiped their gods.
 
 God was angry with Solomon and, as a punishment for Solomon’s
-unfaithfulness, said He would divide the kingdom of Israel in two after
+unfaithfulness, He promised to divide the kingdom of Israel in two after
 Solomon’s death.
 
 After Solomon died, his son, Rehoboam, became king. Rehoboam was a

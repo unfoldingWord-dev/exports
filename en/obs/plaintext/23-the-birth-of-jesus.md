@@ -16,7 +16,7 @@ sleep with her until she had given birth.
 About the time Mary was to give birth, the Roman government told
 everyone to go to the town of their ancestors for a census. Mary and
 Joseph had to make a long journey from where they lived in Nazareth to
-Bethlehem.
+Bethlehem because their ancestor was David whose hometown was Bethlehem.
 
 When they arrived in Bethlehem, there was no place to stay. The only
 room they could find was a place where animals stayed. The baby was born

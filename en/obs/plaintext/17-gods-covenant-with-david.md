@@ -6,9 +6,10 @@ the people wanted. Saul did well at first, but he became a wicked man
 who did not obey God, so God chose a different man to be king in his
 place.
 
-This man’s name was David. He was a shepherd. While watching the sheep,
-David had killed both a lion and a bear which had attacked the sheep.
-David was also a humble and righteous man who trusted and obeyed God.
+This man’s name was David. He was a shepherd from the town of Bethlehem.
+While watching the sheep, David had killed both a lion and a bear which
+had attacked the sheep. David was a humble and righteous man who trusted
+and obeyed God.
 
 David was also a great soldier and leader. When David was still a young
 man, he fought against a giant named Goliath. Goliath was a trained
@@ -62,9 +63,9 @@ David sent Uriah back to the battle and had him placed where the enemy
 was strongest so that he would be killed.
 
 After Uriah was killed, David married Bathsheba. Later, she gave birth
-to a son. God was not pleased with what David had done, so He sent the
-prophet Nathan to show David his sin. David repented of his sin and God
-forgave him. For the rest of his life, David trusted God, even in
+to David's son. God was not pleased with what David had done, so He sent
+the prophet Nathan to show David his sin. David repented of his sin and
+God forgave him. For the rest of his life, David trusted God, even in
 difficult times.
 
 But as punishment for his sin, David’s baby boy died. There was also

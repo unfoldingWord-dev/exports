@@ -12,7 +12,8 @@ the darkness, which He called “night.” God created the light on the
 first day of creation.
 
 On the second day of creation, God spoke and created the sky above the
-earth.
+earth. He made the sky by separating the water above from the water
+below.
 
 On the third day, God spoke and separated the water from the dry land.
 He called the dry land “earth,” and He called the water “seas.”
@@ -130,7 +131,7 @@ to keep anyone from eating the fruit of the tree of life.
 3. The Flood
 ============
 
-Many years later, many people were living in the world. They had become
+After a long time, many people were living in the world. They had become
 very wicked and violent. It became so bad that God decided to destroy
 the whole world with a huge flood.
 
@@ -219,67 +220,76 @@ the people out all over the world. The city they had begun to build was
 called Babel, which means “confused.”
 
 Hundreds of years later, God spoke to a man named Abram. God told him,
-“Leave your country and family and go to the land I will show you.”
+“Leave your country and family and go to the land I will show you. I
+will bless you and make you a great nation. I will make your name great.
+I will bless those who bless you and curse those who curse you. All
+families on earth will be blessed because of you.”
 
 So Abram obeyed. He took his wife, Sarai, and all his servants and herds
 of animals and went to the land God showed him, the land of Canaan.
-Abram lived there for many years. There God made a covenant with Abram.
-A covenant is an agreement between two parties.
 
-God said, “Look all around you. All the land that you can see I will
-give to you and your descendants as an inheritance. I will bless you and
-make your name great.”
-
-“I will make your descendants into a large nation, and I will be your
-God. I will bless those who bless you and curse those who curse you. All
-the people groups of the world will be blessed through you.” God also
-told Abram to circumcise all the men in his household as a sign of the
-covenant. Abram obeyed.
-
-Abram believed God. God said that Abram was righteous through believing
-in God’s promise. But there was a problem. Abram and his wife were not
-able to have any children. So it seemed impossible that Abram could
-become the father of a large nation, but they waited in faith, believing
-what God had promised.
+When Abram arrived in Canaan God said, “Look all around you. All the
+land that you can see I will give to you and your descendants as an
+inheritance. I will bless you and make your name great.” Then Abram
+settled in the land.
 
 One day, Abram met Melchizedek, the priest of God Most High. Melchizedek
 blessed Abram and said, “May God Most High who owns heaven and earth
 bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
+
+Abram and Sarai waited over twenty years, but they still had no son. God
+spoke to Abram and promised again that he would have a son and as many
+descendants as the stars in the sky. Abram believed God’s promise. God
+said that Abram was righteous through believing in God's promise.
+
+Then God made a covenant with Abram. A covenant is an agreement between
+two parties. God said, “I will give you a son from your own body. To
+your descendants I give the land of Canaan.” But Abram still had no son.
 
 *A Bible story from: Genesis 11-15*
 
 5. The Son of Promise
 =====================
 
-Abram and Sarai waited over twenty years, but they still had no son. God
-spoke to Abram and promised again that he would have a son and as many
-descendants as the stars in the sky. Abram believed God’s promise.
-
-Then Abram’s wife said to him, “Since the LORD has not allowed me to
-have children and now I am too old to have children, here is my servant,
-Hagar. Marry her also so she can have a child for me.”
+Ten years after they arrived in Canaan, Abram and Sarai still did not
+have a child. So Abram's wife, Sarai, said to him, “Since the LORD has
+not allowed me to have children and now I am too old to have children,
+here is my servant, Hagar. Marry her also so she can have a child for
+me.”
 
 So Abram married Hagar. Hagar had a baby boy, and Abram named him
-Ishmael. Abram wanted God to bless Ishmael. God said, “I will bless him,
-but Ishmael is not the son of promise. I will not make my covenant with
-him.”
+Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen
+years old, God again spoke to Abram and said,
+
+“I am God Almighty. I will make a covenant with you.” Then Abraham bowed
+to the ground. God said, “You will be the father of many nations. I will
+give you and your descendants the land of Canaan as their possession and
+I will be their God forever. Every male in your family must be
+circumcised.”
 
 “Your wife, Sarai, will have a son—he will be the son of promise. Name
 him Isaac. My covenant will be with him, and he will become a great
-nation.” Then God changed Abram’s name to Abraham, which means “father
-of many.” God also changed Sarai’s name to Sarah, which means
+nation. I will make Ishmael a great nation, too, but my covenant will be
+with Isaac.” Then God changed Abram's name to Abraham, which means
+“father of many.” God also changed Sarai's name to Sarah, which means
 “princess.”
 
-Finally, when Abraham was 100 years old and Sarah was 90, Sarah gave
-birth to Abraham’s son. They named him Isaac as God had told them to do.
+That day Abraham circumcised all the males in his household. About a
+year later, when Abraham was 100 years old and Sarah was 90, Sarah gave
+birth to Abraham's son. They named him Isaac as God had told them to do.
 
 When Isaac was a young man, God tested Abraham’s faith by saying, “Take
 Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham
 obeyed what God told him to do.
 
-He tied up his son Isaac and laid him on an altar. He was about to kill
-his son when God said, “Stop! Do not hurt the boy! Now I know that you
-fear me because you did not keep your only son from me.”
+As they walked to the place of the sacrifice Isaac asked, “Father, we
+have wood for the sacrifice, but where is the lamb?” Abraham replied,
+“God will provide the lamb.”
+
+When they reached the place of sacrifice, Abraham tied up his son Isaac
+and laid him on an altar. He was about to kill his son when God said,
+“Stop! Do not hurt the boy! Now I know that you fear me because you did
+not keep your only son from me.”
 
 Nearby Abraham saw a ram which was stuck in a bush. God had provided the
 ram to be the sacrifice instead of Isaac. Abraham happily offered the
@@ -306,15 +316,16 @@ She agreed to leave her family and go back with the servant. Isaac
 married her as soon as she arrived.
 
 After a long time, Abraham died and all of the promises that God had
-made to him in the covenant were passed on to Isaac. But Isaac’s wife,
-Rebekah, could not have children. Isaac could not be the father of many
-nations if he did not even have a son.
+made to him in the covenant were passed on to Isaac. God had promised
+that Isaac would have countless descendants, but Isaac’s wife, Rebekah,
+could not have children.
 
 Isaac prayed for Rebekah, and God allowed her to get pregnant with
-twins.
+twins. The two children struggled with each other, so Rebekah asked God
+what was happening.
 
-Before they were born, God told Rebekah that the older son would serve
-the younger one.
+God told Rebekah, “There are two nations inside of you. They will
+struggle with each other and the older son will serve the younger one.”
 
 When they were born, the older son came out red and hairy—they named him
 Esau. The younger son had smooth skin, and they named him Jacob.
@@ -341,8 +352,8 @@ Isaac could not see well. Jacob came to Isaac and said, “I am Esau, I
 have come to receive your blessing.” When Isaac felt the goat hair and
 smelled the clothes, he thought it was Esau and blessed him.
 
-Esau hated Jacob because Jacob stole his rights as oldest son and also
-his blessing. So he planned to kill Jacob after their father died.
+Esau hated Jacob because Jacob had stolen his rights as oldest son and
+also his blessing. So he planned to kill Jacob after their father died.
 
 But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
 far away to live with her relatives.
@@ -457,7 +468,8 @@ sister watched to see what would happen to him.
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
 baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child grew up, Pharaoh’s daughter named him Moses.
+nurse him. When the child was old enough, his mother returned him to
+Pharaoh’s daughter. She named him Moses.
 
 One day, when Moses had grown up, he saw an Egyptian beating an
 Israelite slave. Moses tried to save his fellow Israelite.
@@ -585,7 +597,8 @@ leave right away.
 The Israelites were very happy to leave Egypt. They were no longer
 slaves, and they were going to the Promised Land! The Egyptians gave the
 Israelites gifts of gold and silver and other valuable things. Some
-Egyptians believed in God and joined the Israelites as they left Egypt.
+people from other nations believed in God and joined the Israelites as
+they left Egypt.
 
 God led them by going ahead of them as a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them
@@ -648,8 +661,9 @@ Egyptians.
 ==============================
 
 After God led the Israelites through the Red Sea, He led them through
-the wilderness to a mountain called Sinai. The people set up their tents
-at the base of the mountain.
+the wilderness to a mountain called Sinai. This was the same mountain
+where Moses saw the burning bush. The people set up their tents at the
+base of the mountain.
 
 God said to Moses and the people of Israel, “If you will obey My voice
 and keep My covenant, you will be My prized possession, a kingdom of
@@ -766,9 +780,9 @@ many of them were killed. Then the rest of the Israelites turned back
 from Canaan and wandered through the wilderness for forty years.
 
 During that time of wandering, God provided for them. He gave them bread
-from heaven, called “manna.” He also sent quail (a kind of bird) into
-their camp so they could have meat to eat. During those forty years, God
-kept their clothes and shoes from wearing out.
+from heaven, called “manna.” He also sent quail (which is a kind of
+bird) into their camp so they could have meat to eat. During those forty
+years, God kept their clothes and shoes from wearing out.
 
 God even miraculously gave them water from a rock. But despite all this,
 the people of Israel complained and grumbled against God and against
@@ -958,9 +972,10 @@ the people wanted. Saul did well at first, but he became a wicked man
 who did not obey God, so God chose a different man to be king in his
 place.
 
-This man’s name was David. He was a shepherd. While watching the sheep,
-David had killed both a lion and a bear which had attacked the sheep.
-David was also a humble and righteous man who trusted and obeyed God.
+This man’s name was David. He was a shepherd from the town of Bethlehem.
+While watching the sheep, David had killed both a lion and a bear which
+had attacked the sheep. David was a humble and righteous man who trusted
+and obeyed God.
 
 David was also a great soldier and leader. When David was still a young
 man, he fought against a giant named Goliath. Goliath was a trained
@@ -1014,9 +1029,9 @@ David sent Uriah back to the battle and had him placed where the enemy
 was strongest so that he would be killed.
 
 After Uriah was killed, David married Bathsheba. Later, she gave birth
-to a son. God was not pleased with what David had done, so He sent the
-prophet Nathan to show David his sin. David repented of his sin and God
-forgave him. For the rest of his life, David trusted God, even in
+to David's son. God was not pleased with what David had done, so He sent
+the prophet Nathan to show David his sin. David repented of his sin and
+God forgave him. For the rest of his life, David trusted God, even in
 difficult times.
 
 But as punishment for his sin, David’s baby boy died. There was also
@@ -1046,7 +1061,7 @@ foreign countries and brought their gods with them and worshiped them.
 When Solomon was old, he worshiped their gods.
 
 God was angry with Solomon and, as a punishment for Solomon’s
-unfaithfulness, said He would divide the kingdom of Israel in two after
+unfaithfulness, He promised to divide the kingdom of Israel in two after
 Solomon’s death.
 
 After Solomon died, his son, Rehoboam, became king. Rehoboam was a
@@ -1109,11 +1124,11 @@ God provided so that neither their flour jar nor their bottle of oil
 ever ran out. They had food through the whole famine. Elijah stayed
 there a long time.
 
-After three years, God told Elijah to return to Israel and speak with
-Ahab because He was going to send rain again. When Ahab saw Elijah he
-said, “There you are, you troublemaker!” Elijah said, “You are the
-troublemaker! You have abandoned the true God and worshiped Baal. Bring
-all of Israel to Mount Carmel.”
+After three and a half years, God told Elijah to return to Israel and
+speak with Ahab because He was going to send rain again. When Ahab saw
+Elijah he said, “There you are, you troublemaker!” Elijah said, “You are
+the troublemaker! You have abandoned the true God and worshiped Baal.
+Bring all of Israel to Mount Carmel.”
 
 All of Israel, including the 400 prophets of Baal, came to Mount Carmel.
 Elijah said, “How long will you keep changing your mind? If the LORD is
@@ -1181,9 +1196,8 @@ They also reminded people of the promise that God’s Messiah would come.
 ========================
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Mount Sinai. God sent His prophets
-to warn them to repent and worship Him again, but they refused to
-listen.
+Covenant that God made with them at Sinai. God sent His prophets to warn
+them to repent and worship Him again, but they refused to listen.
 
 So God punished both nations by allowing them to be destroyed. Israel
 was destroyed by the Assyrian Empire, a powerful, cruel nation. The
@@ -1246,10 +1260,11 @@ Nehemiah 1-13*
 21. God Promises the Messiah
 ============================
 
-The first promise of the coming Messiah came to Adam and Eve. God
-promised that a descendant of Eve would be born who would crush the
-snake’s head. The snake who deceived Eve is Satan. The promise means the
-coming Messiah would defeat Satan completely.
+From the very beginning, God had a plan to send the Messiah. The first
+promise of the coming Messiah came to Adam and Eve. God promised that a
+descendant of Eve would be born who would crush the snake’s head. The
+snake who deceived Eve is Satan. The promise means the coming Messiah
+would defeat Satan completely.
 
 God promised Abraham that through him all people groups of the world
 would be blessed. This blessing was the coming Messiah who would one day
@@ -1324,9 +1339,9 @@ Zechariah 11:12-13; Isaiah 50:6; Psalm 16:10-11*
 22. The Birth of John
 =====================
 
-More than 400 years after the last prophet spoke to the Jews, an angel
-appeared to an old priest named Zechariah. He was a godly man, but his
-wife, Elizabeth, could not have any children.
+More than 400 years had passed since God had spoken to His people. Then
+an angel appeared to an old priest named Zechariah. He was a godly man,
+but his wife, Elizabeth, could not have any children.
 
 The angel said to Zechariah, “Your wife will have a son. You will name
 him John. He will be the great prophet that comes before the Messiah!”
@@ -1379,7 +1394,7 @@ sleep with her until she had given birth.
 About the time Mary was to give birth, the Roman government told
 everyone to go to the town of their ancestors for a census. Mary and
 Joseph had to make a long journey from where they lived in Nazareth to
-Bethlehem.
+Bethlehem because their ancestor was David whose hometown was Bethlehem.
 
 When they arrived in Bethlehem, there was no place to stay. The only
 room they could find was a place where animals stayed. The baby was born
@@ -1662,8 +1677,8 @@ They went to the king and told him everything.”
 
 “The king called the servant and said, ‘You wicked servant! I forgave
 your debt because you begged me. You should have done the same.’ In his
-anger the king threw the wicked servant into prison until he paid back
-all of his debt.”
+anger the king threw the wicked servant into prison until he could pay
+back all of his debt.”
 
 Then Jesus said, “This is what my heavenly Father will do to every one
 of you if you do not forgive your brother from your heart.”
@@ -1840,9 +1855,10 @@ the thorns and did not produce any grain.”
 60, or even 100 times as much grain as had been planted. He who has
 ears, let him hear!”
 
-This story confused the disciples. Jesus explained, “The seed represents
-the Word of God. The seeds on the path are like people who hear God’s
-Word, do not understand it, and the devil takes the word from them.”
+This story confused the disciples. So Jesus explained, “The seed
+represents the Word of God. The seeds on the path are like people who
+hear God’s Word, do not understand it, and the devil takes the word from
+them.”
 
 “The seeds on the rocky soil are like people who hear God’s Word and
 accept it with joy. But in times of hardship or persecution, they fall
@@ -2122,15 +2138,15 @@ away.
 39. Jesus Is Put on Trial
 =========================
 
-It was the middle of the night. The soldiers led Jesus to the house of
-the high priest to be questioned. Peter followed far behind. When Jesus
-was taken into the house, Peter stayed outside and warmed himself by a
-fire.
+It was now the middle of the night. The soldiers led Jesus to the house
+of the high priest to be questioned. Peter followed far behind. When
+Jesus was taken into the house, Peter stayed outside and warmed himself
+by a fire.
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought
 many witnesses who lied about him. However, their statements did not
-agree with each other, so they could not prove he was guilty. Jesus did
-not say anything.
+agree with each other, so they could not prove he was guilty of
+anything. Jesus did not say anything.
 
 Finally, the high priest looked directly at Jesus and said, “Tell us,
 are you the Messiah, the Son of the living God?”
@@ -2180,8 +2196,8 @@ robe and a crown made of thorns on him, and they mocked him, saying,
 40. Jesus Is Crucified
 ======================
 
-Then they led Jesus away to be crucified, making him carry his own
-cross.
+After mocking Jesus, the soldiers led him away to be crucified. They
+made him carry his own cross.
 
 They came to a place called “The Skull” and nailed his arms and feet to
 the cross. But Jesus said, “Father, forgive them, because they do not
@@ -2420,7 +2436,34 @@ them go.
 45. Philip and the Ethiopian Official
 =====================================
 
-One day, an angel of the Lord told Philip, one of Jesus’ disciples, to
+Stephen was a leader in the early Church. He had a good reputation and
+was full of the Holy Spirit and of wisdom. Stephen did many miracles and
+argued strongly that people should believe in Jesus.
+
+One day, Stephen was arguing with some Jews about Jesus. They became
+very angry and lied about Stephen, saying, “We heard him speak evil
+things about Moses and God!” So they arrested Stephen and brought him
+before the high priest and leaders of the Jews.
+
+The high priest asked Stephen, “Are these things true?” Stephen replied,
+“You stubborn and rebellious people always reject the Holy Spirit, just
+as your ancestors always rejected God and killed His prophets. You have
+even killed the Messiah whom God sent!”
+
+When the people heard this, they covered their ears and yelled loudly.
+They threw Stephen out of the city and stoned him to death.
+
+As he was dying Stephen cried out, “Lord Jesus, receive my spirit.” Then
+he fell to his knees and cried out again, “Lord, do not count this sin
+against them.” Then he died.
+
+A man named Saul approved of Stephen’s execution and guarded the
+belongings of those who stoned Stephen. That day many people attacked
+the Christians, and they were scattered through that region. But
+everywhere they went they preached about Jesus.
+
+Philip, one of Jesus' disciples, went to Samaria where he preached about
+Jesus and many were saved. Then one day an angel from God told Philip to
 go to the desert on the road to Gaza. As he walked along the road,
 Philip saw an important official from Ethiopia sitting in his chariot.
 The Holy Spirit told Philip to go up and talk to this man.
@@ -2450,48 +2493,28 @@ The Ethiopian went on his way, happy to know Jesus.
 46. Paul Becomes a Christian
 ============================
 
-Stephen was a leader in the early Church. He had a good reputation and
-was full of the Holy Spirit and of wisdom. Stephen did many miracles and
-argued strongly that people should believe in Jesus.
-
-One day, Stephen was arguing with some Jews about Jesus. They became
-very angry and lied about Stephen, saying, “We heard him speak evil
-things about Moses and God!” So they arrested Stephen and brought him
-before the high priest and leaders of the Jews.
-
-The high priest asked Stephen, “Are these things true?” Stephen replied,
-“You stubborn and rebellious people always reject the Holy Spirit, just
-as your ancestors always rejected God and killed His prophets. You have
-even killed the Messiah whom God sent!”
-
-When the people heard this, they covered their ears and yelled loudly.
-They threw Stephen out of the city and stoned him to death.
-
-As he was dying Stephen cried out, “Lord Jesus, receive my spirit.” Then
-he fell to his knees and cried out again, “Lord, do not count this sin
-against them.” Then he died.
-
-A man named Saul approved of Stephen’s execution and guarded the
-belongings of those who stoned Stephen. That day many people attacked
-the Christians, and they were scattered through that region.
-
 Saul continued to attack the Christians going from house to house,
 arresting men and women, and putting them in prison. Saul received
 permission from the high priest to go to the city of Damascus to arrest
 Christians there and bring them back to Jerusalem.
 
 As Saul was on his way to Damascus, Jesus appeared to him in a bright
-light and said, “Saul! Why do you persecute me?” He said, “Who are you,
-Master?” Jesus replied, “I am Jesus whom you are persecuting.”
+light and said, “Saul! Saul! Why do you persecute me?” He said, “Who are
+you, Master?” Jesus replied, “I am Jesus whom you are persecuting.”
 
 When Saul got up, he could not see and had to be led into Damascus. Saul
 ate and drank nothing for three days.
 
 Then God appeared to a Christian named Ananias and said, “Go to the
 house where Saul is staying. Lay your hands on him so that he can see
-again. I have chosen him to declare My name to the unsaved. I will show
-him how much he must suffer for My sake.” So Ananias prayed for Saul,
-and he regained his sight.
+again.” But Ananias said, “Lord, I have heard how he has attacked the
+Christians.” God said, “I have chosen him to declare My name to the
+unsaved. I will show him how much he must suffer for My sake.”
+
+So Ananias said to Saul, “Jesus who appeared to you on the road sent me
+to you so that you can regain your sight and be filled with the Holy
+Spirit.” Paul immediately regained his sight. Then Paul was baptized. He
+ate some food and his strength returned.
 
 Immediately, Saul was baptized and began preaching to the Jews, saying,
 “Jesus is the Son of God!” The Jews were amazed that the man who had
@@ -2503,7 +2526,22 @@ at the city gates to kill him. But Paul heard about the plan, and his
 friends helped him escape. One night they lowered him over the city wall
 in a basket. Paul ran away and continued preaching about Jesus.
 
-*A Bible story from: Acts 6:8-8:3; 9:1-25*
+Paul went to Jerusalem to meet with the disciples, but at first the
+Christians were afraid of Paul. Finally, a Christian named Barnabas took
+Paul to the disciples and told them how Paul had preached boldly in
+Jerusalem. Then they accepted Paul.
+
+Later, Paul and Barnabas went to the city of Antioch where they taught
+many people about Jesus and strengthened the church. One day, the
+Christians at Antioch were fasting and praying and the Holy Spirit said,
+“I have chosen Paul and Barnabas to do the work I have called them to
+do.”
+
+So the church prayed for them, laid their hands on them and sent them
+off to preach the Good News of Jesus. They preached about Jesus in many
+places and many people believed in Jesus.
+
+*A Bible story from: Acts 6:8-8:3; 9:1-25; 11:25-26*
 
 47. Paul and Silas in Philippi
 ==============================
@@ -2528,8 +2566,8 @@ annoyed.
 One day, Paul turned to her and said to the demon, “In the name of
 Jesus, come out of her.” Right away the demon left her.
 
-The men who owned the slave girl became very angry when they found out
-what had happened, because she could no longer make money for them.
+The men who owned the slave girl became very angry when they realized
+the slave girl could no longer make money for them.
 
 So they had Paul and Silas arrested, beaten, and thrown into jail.
 
@@ -2580,7 +2618,7 @@ Even worse, their relationship with God was broken. Now, everyone is
 born an enemy of God because of sin. But God had a plan to fix
 everything that had been broken by sin.
 
-God promised that one of Eve’s descendant would crush Satan’s head, and
+God promised that one of Eve’s descendants would crush Satan’s head, and
 Satan would wound his heel. This meant that Satan would kill Jesus, but
 God would raise him to life after three days. Jesus would crush the
 power of Satan forever.
@@ -2601,15 +2639,16 @@ the earth are blessed through Jesus, because everyone who believes in
 him becomes one of God’s chosen people, a spiritual descendant of
 Abraham.
 
-God provided a ram for Abraham to sacrifice instead of Isaac. Jesus is
-like that ram because he died instead of us. Everyone deserves to die
-for their sins, including you! But God provided Jesus as a sacrifice to
-die instead of you.
+God provided a lamb for Abraham to sacrifice instead of Isaac. But God
+also provided another lamb to sacrifice instead of the whole world. God
+provided Jesus, the Lamb of God. Everyone deserves to die for their
+sins, including you! But God provided Jesus as a sacrifice to die
+instead of you.
 
 When God sent the last plague on Egypt, each Israelite family needed to
 kill a perfect lamb and spread the blood around their doors. When the
 angel of God saw the blood, he passed over their houses and did not kill
-their firstborn sons.
+their firstborn sons. This is called the Passover.
 
 Jesus is our Passover Lamb. He was perfect and sinless and was killed at
 the time of the Passover Feast. When anyone believes in Jesus, the blood

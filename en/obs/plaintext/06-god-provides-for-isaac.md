@@ -12,15 +12,16 @@ She agreed to leave her family and go back with the servant. Isaac
 married her as soon as she arrived.
 
 After a long time, Abraham died and all of the promises that God had
-made to him in the covenant were passed on to Isaac. But Isaac’s wife,
-Rebekah, could not have children. Isaac could not be the father of many
-nations if he did not even have a son.
+made to him in the covenant were passed on to Isaac. God had promised
+that Isaac would have countless descendants, but Isaac’s wife, Rebekah,
+could not have children.
 
 Isaac prayed for Rebekah, and God allowed her to get pregnant with
-twins.
+twins. The two children struggled with each other, so Rebekah asked God
+what was happening.
 
-Before they were born, God told Rebekah that the older son would serve
-the younger one.
+God told Rebekah, “There are two nations inside of you. They will
+struggle with each other and the older son will serve the younger one.”
 
 When they were born, the older son came out red and hairy—they named him
 Esau. The younger son had smooth skin, and they named him Jacob.

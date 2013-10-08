@@ -21,8 +21,8 @@ annoyed.
 One day, Paul turned to her and said to the demon, “In the name of
 Jesus, come out of her.” Right away the demon left her.
 
-The men who owned the slave girl became very angry when they found out
-what had happened, because she could no longer make money for them.
+The men who owned the slave girl became very angry when they realized
+the slave girl could no longer make money for them.
 
 So they had Paul and Silas arrested, beaten, and thrown into jail.
 

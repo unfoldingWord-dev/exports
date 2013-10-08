@@ -13,7 +13,7 @@ Even worse, their relationship with God was broken. Now, everyone is
 born an enemy of God because of sin. But God had a plan to fix
 everything that had been broken by sin.
 
-God promised that one of Eve’s descendant would crush Satan’s head, and
+God promised that one of Eve’s descendants would crush Satan’s head, and
 Satan would wound his heel. This meant that Satan would kill Jesus, but
 God would raise him to life after three days. Jesus would crush the
 power of Satan forever.
@@ -34,15 +34,16 @@ the earth are blessed through Jesus, because everyone who believes in
 him becomes one of God’s chosen people, a spiritual descendant of
 Abraham.
 
-God provided a ram for Abraham to sacrifice instead of Isaac. Jesus is
-like that ram because he died instead of us. Everyone deserves to die
-for their sins, including you! But God provided Jesus as a sacrifice to
-die instead of you.
+God provided a lamb for Abraham to sacrifice instead of Isaac. But God
+also provided another lamb to sacrifice instead of the whole world. God
+provided Jesus, the Lamb of God. Everyone deserves to die for their
+sins, including you! But God provided Jesus as a sacrifice to die
+instead of you.
 
 When God sent the last plague on Egypt, each Israelite family needed to
 kill a perfect lamb and spread the blood around their doors. When the
 angel of God saw the blood, he passed over their houses and did not kill
-their firstborn sons.
+their firstborn sons. This is called the Passover.
 
 Jesus is our Passover Lamb. He was perfect and sinless and was killed at
 the time of the Passover Feast. When anyone believes in Jesus, the blood

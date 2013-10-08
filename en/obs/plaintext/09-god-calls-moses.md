@@ -26,7 +26,8 @@ sister watched to see what would happen to him.
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
 baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child grew up, Pharaoh’s daughter named him Moses.
+nurse him. When the child was old enough, his mother returned him to
+Pharaoh’s daughter. She named him Moses.
 
 One day, when Moses had grown up, he saw an Egyptian beating an
 Israelite slave. Moses tried to save his fellow Israelite.

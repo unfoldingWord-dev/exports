@@ -2,8 +2,9 @@
 ==============================
 
 After God led the Israelites through the Red Sea, He led them through
-the wilderness to a mountain called Sinai. The people set up their tents
-at the base of the mountain.
+the wilderness to a mountain called Sinai. This was the same mountain
+where Moses saw the burning bush. The people set up their tents at the
+base of the mountain.
 
 God said to Moses and the people of Israel, “If you will obey My voice
 and keep My covenant, you will be My prized possession, a kingdom of

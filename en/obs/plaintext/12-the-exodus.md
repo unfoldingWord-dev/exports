@@ -4,7 +4,8 @@
 The Israelites were very happy to leave Egypt. They were no longer
 slaves, and they were going to the Promised Land! The Egyptians gave the
 Israelites gifts of gold and silver and other valuable things. Some
-Egyptians believed in God and joined the Israelites as they left Egypt.
+people from other nations believed in God and joined the Israelites as
+they left Egypt.
 
 God led them by going ahead of them as a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them

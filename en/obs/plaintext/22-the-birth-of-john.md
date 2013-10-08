@@ -1,9 +1,9 @@
 22. The Birth of John
 =====================
 
-More than 400 years after the last prophet spoke to the Jews, an angel
-appeared to an old priest named Zechariah. He was a godly man, but his
-wife, Elizabeth, could not have any children.
+More than 400 years had passed since God had spoken to His people. Then
+an angel appeared to an old priest named Zechariah. He was a godly man,
+but his wife, Elizabeth, could not have any children.
 
 The angel said to Zechariah, “Your wife will have a son. You will name
 him John. He will be the great prophet that comes before the Messiah!”

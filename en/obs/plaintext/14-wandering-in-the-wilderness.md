@@ -49,9 +49,9 @@ many of them were killed. Then the rest of the Israelites turned back
 from Canaan and wandered through the wilderness for forty years.
 
 During that time of wandering, God provided for them. He gave them bread
-from heaven, called “manna.” He also sent quail (a kind of bird) into
-their camp so they could have meat to eat. During those forty years, God
-kept their clothes and shoes from wearing out.
+from heaven, called “manna.” He also sent quail (which is a kind of
+bird) into their camp so they could have meat to eat. During those forty
+years, God kept their clothes and shoes from wearing out.
 
 God even miraculously gave them water from a rock. But despite all this,
 the people of Israel complained and grumbled against God and against
