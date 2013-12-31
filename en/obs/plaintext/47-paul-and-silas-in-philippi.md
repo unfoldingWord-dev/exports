@@ -42,9 +42,9 @@ The jailer was terrified! He took Paul and Silas home, gave them some
 food, and washed their wounds. Then he said, “What must I do to be
 saved?”
 
-Paul answered, “Believe in the Lord Jesus Christ, and you and your
-family will be saved.” Then Paul baptized the jailer and his whole
-family, and they celebrated together.
+Paul answered, “Believe in Jesus, the Master, and you and your family
+will be saved.” Then Paul baptized the jailer and his whole family, and
+they celebrated together.
 
 The next day the leaders of the city freed Paul and Silas and asked them
 to leave Philippi. Paul and Silas visited Lydia and some other friends
@@ -53,7 +53,6 @@ Church kept growing.
 
 Paul and other Christian leaders traveled to many cities, preaching and
 teaching about Jesus. They also wrote many letters to the churches to
-encourage and teach them about God’s New Covenant. These writings are
-called the New Testament.
+encourage and teach them about God’s New Covenant.
 
 *A Bible story from: Acts 16:11-40*

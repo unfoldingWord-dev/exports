@@ -12,10 +12,10 @@ the disciples answered, “Just a short time ago the people there wanted
 to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I
 must wake him.”
 
-His disciples replied, “Lord, if Lazarus is sleeping, he will get better
-on his own.” Then Jesus told them plainly, “Lazarus is dead. I am glad
-we were not there when he died, for now you will see amazing things so
-that you may believe.”
+His disciples replied, “Master, if Lazarus is sleeping, he will get
+better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am
+glad we were not there when he died, for now you will see amazing things
+so that you may believe.”
 
 When Jesus got there, Lazarus had already been dead for four days.
 Martha went out to meet Jesus and said, “Master, if only you had been
@@ -27,7 +27,7 @@ me will live, even though he dies. Everyone who believes in me will
 never die. Do you believe this?” “Yes, Master!” Martha answered. “I
 believe you are the Messiah, the Son of God.”
 
-Then Mary arrived. She fell at the feet of Jesus and said, “Lord, if
+Then Mary arrived. She fell at the feet of Jesus and said, “Master, if
 only you had been here, my brother would not have died.” “Where have you
 put Lazarus?” he asked them. They told him, “In the tomb. Come and see.”
 Then Jesus wept.

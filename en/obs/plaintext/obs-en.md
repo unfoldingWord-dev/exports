@@ -2,9 +2,9 @@
 ===============
 
 This is how the beginning of everything happened. God created the
-universe and everything in it in six days. At first, the earth was dark
-and empty, and nothing had been formed in it. But God's Spirit was there
-over the water.
+universe and everything in it in six days. After God created the earth
+it was dark and empty, and nothing had been formed in it. But God's
+Spirit was there over the water.
 
 Then God spoke and said, “Let there be light!” And there was light. God
 saw that the light was good and called it “day.” He separated it from
@@ -16,18 +16,18 @@ earth. He made the sky by separating the water above from the water
 below.
 
 On the third day, God spoke and separated the water from the dry land.
-He called the dry land “earth,” and He called the water “seas.”
+He called the dry land “earth,” and He called the water “seas.” God saw
+that what He had created was good.
 
 Then God said, “Let the earth produce all kinds of trees and plants.”
-And that is what happened. God saw that what He had created was good,
-and He was pleased with it all.
+And that is what happened. God saw that what He had created was good.
 
 On the fourth day of creation, God spoke and made the sun, the moon, and
 the stars. God made them to give light to the earth and to mark day and
-night, seasons and years.
+night, seasons and years. God saw that what He had created was good.
 
-On the fifth day, God created everything that swims in the water and all
-the birds. God saw that it was good, and He blessed them.
+On the fifth day, God spoke and made everything that swims in the water
+and all the birds. God saw that it was good, and He blessed them.
 
 On the sixth day of creation, God said, “Let there be all kinds of land
 animals!” And it happened just like God said. Some were farm animals,
@@ -56,15 +56,15 @@ When Adam saw her, he said, “At last! This one is like me! Let her be
 called 'Woman,' for she was made from Man.” This is why a man leaves his
 father and mother and becomes one with his wife.
 
-God made man and woman in His own image, and He saw that it was very
-good. He blessed them and told them, “Have many children and
-grandchildren and fill the earth!” This all happened on the sixth day of
-creation.
+God made man and woman in His own image. He blessed them and told them,
+“Have many children and grandchildren and fill the earth!” And God saw
+that everything He had made was very good, and He was very pleased with
+all of it. This all happened on the sixth day of creation.
 
-When the seventh day came, God had already finished His work. So God
-rested from all He had been doing. He blessed the seventh day and made
-it holy, because on this day He rested from His work. This is how God
-created the universe and everything in it.
+When the seventh day came, God had finished His work. So God rested from
+all He had been doing. He blessed the seventh day and made it holy,
+because on this day He rested from His work. This is how God created the
+universe and everything in it.
 
 *A Bible story from: Genesis 1-2*
 
@@ -72,9 +72,9 @@ created the universe and everything in it.
 =======================
 
 Adam and his wife were very happy living in the beautiful garden God had
-made for them. Neither of them wore clothes, but they did not feel any
-shame, because there was no sin in the world. They often walked in the
-garden and talked with God.
+made for them. Neither of them wore clothes, but this did not cause them
+to feel any shame, because there was no sin in the world. They often
+walked in the garden and talked with God.
 
 But there was a crafty snake in the garden. He asked the woman, “Did God
 really tell you not to eat the fruit from the trees in the garden?”
@@ -83,9 +83,9 @@ The woman answered, “God told us we could eat the fruit of any tree
 except from the tree of the knowledge of good and evil. God told us, ‘If
 you eat that fruit or even touch it, you will die.’”
 
-The snake responded, “That is not true! You won’t die. God just knows
-that as soon as you eat it, you will understand things like He does. You
-will be like God, knowing good and evil.”
+The snake responded, “That is not true! You will not die. God knows that
+as soon as you eat it, you will be like God and will understand good and
+evil like He does.”
 
 The woman saw that the fruit was beautiful and looked delicious. She
 also wanted to be wise, so she picked some of the fruit and ate it. Then
@@ -93,7 +93,7 @@ she turned and gave some to her husband, who was with her, and he ate
 it, too.
 
 Suddenly, their eyes were opened, and they realized they were naked.
-They tried to cover their nakedness by sewing leaves together to make
+They tried to cover their bodies by sewing leaves together to make
 clothes.
 
 Then the man and his wife heard the sound of God walking through the
@@ -117,8 +117,8 @@ you. You will desire your husband, and he will rule over you.”
 God said to the man, “You listened to your wife and disobeyed me. Now
 the ground is cursed, and you will need to work hard to grow food. Then
 you will die, and your body will return to dirt.” The man named his wife
-Eve, which means “life,” because she would become the mother of all
-people. And God clothed Adam and Eve with animal skins.
+Eve, which means “life-giver,” because she would become the mother of
+all people. And God clothed Adam and Eve with animal skins.
 
 Then God said, “Now that the human beings have become like us by knowing
 good and evil, they must not be allowed to eat the fruit of the tree of
@@ -135,24 +135,24 @@ After a long time, many people were living in the world. They had become
 very wicked and violent. It became so bad that God decided to destroy
 the whole world with a huge flood.
 
-But Noah found grace in God’s eyes. He was the only righteous man among
-all the wicked people. God told Noah about the flood He was planning to
-send. He told Noah to build a huge boat called an ark.
+But Noah found favor with God. He was a righteous man, living among
+wicked people. God told Noah about the flood He was planning to send. He
+told Noah to build a huge boat.
 
 God told Noah to make the boat about 140 meters long, 23 meters wide,
 and 13.5 meters high. It was to be made of wood and have three levels,
 many rooms, a roof, and a window. The boat would keep Noah, his family,
-and two of every kind of animal safe during the flood.
+and every kind of land animal safe during the flood.
 
 Noah obeyed God. He and his three sons built the boat just the way God
 had told them. It took many years to build the boat, because it was so
 big. Noah warned the people about the coming flood and told them to turn
-to God, but they just laughed at him.
+to God, but they did not believe him.
 
-Noah and his family also gathered enough food for themselves and the
-animals. When everything was ready, God told Noah it was time for him,
-his wife, his three sons, and their wives to get into the boat—eight
-people in all.
+God also commanded Noah and his family to gather enough food for
+themselves and the animals. When everything was ready, God told Noah it
+was time for him, his wife, his three sons, and their wives to get into
+the boat—eight people in all.
 
 God sent a male and a female of every animal and bird to Noah so they
 could go into the boat and be kept safe during the flood. God sent seven
@@ -182,20 +182,20 @@ dry land, so it came back to Noah. A week later he sent the dove out
 again, and it came back with an olive branch in its beak! The water was
 going down, and the plants were growing again!
 
-Noah waited another week and sent out the dove a third time. This time,
-it did not come back. The water had dried up!
+Noah waited another week and sent out the dove a third time. This time
+it found a place to rest and did not come back. The water was drying up!
 
 Two months later God said to Noah, “You and your family and all the
 animals may leave the boat now. Have many children and grandchildren and
-fill the earth.” So they obeyed and left the boat.
+fill the earth.” So Noah and his family left the boat.
 
 After he got off the boat, Noah built an altar and sacrificed some of
 each kind of animal which could be used for a sacrifice. God was happy
 with the sacrifice and blessed Noah and his family.
 
-God said, “I will never again curse the ground because of humans or
-destroy the world with a flood, even though humans are sinful from their
-youth.”
+God said, “I promise I will never again curse the ground because of
+humans or destroy the world with a flood, even though humans are sinful
+from their youth.”
 
 God then made the first rainbow as a sign of His promise. Every time the
 rainbow appeared in the sky, God would remember what He promised and so
@@ -207,9 +207,8 @@ would His people.
 ==============================
 
 Many years after the flood, there were again many people in the world,
-and they all spoke the same language. But the people did not obey God.
-Instead of having children and filling the earth, they gathered together
-and built a city.
+and they all spoke the same language. But instead of filling the earth
+as God had commanded, they gathered together and built a city.
 
 They were very proud, and they did not care about what God said. They
 even began building a tall tower to reach heaven. God saw that if they
@@ -237,10 +236,10 @@ One day, Abram met Melchizedek, the priest of God Most High. Melchizedek
 blessed Abram and said, “May God Most High who owns heaven and earth
 bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
 
-Abram and Sarai waited over twenty years, but they still had no son. God
-spoke to Abram and promised again that he would have a son and as many
+Twenty years went by, but Abram and Sarai still had no son. God spoke to
+Abram and promised again that he would have a son and as many
 descendants as the stars in the sky. Abram believed God’s promise. God
-said that Abram was righteous through believing in God's promise.
+declared that Abram was righteous because he believed in God's promise.
 
 Then God made a covenant with Abram. A covenant is an agreement between
 two parties. God said, “I will give you a son from your own body. To
@@ -261,7 +260,7 @@ So Abram married Hagar. Hagar had a baby boy, and Abram named him
 Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen
 years old, God again spoke to Abram and said,
 
-“I am God Almighty. I will make a covenant with you.” Then Abraham bowed
+“I am God Almighty. I will make a covenant with you.” Then Abram bowed
 to the ground. God said, “You will be the father of many nations. I will
 give you and your descendants the land of Canaan as their possession and
 I will be their God forever. Every male in your family must be
@@ -280,11 +279,11 @@ birth to Abraham's son. They named him Isaac as God had told them to do.
 
 When Isaac was a young man, God tested Abraham’s faith by saying, “Take
 Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham
-obeyed what God told him to do.
+obeyed God and prepared to sacrifice his son.
 
 As they walked to the place of the sacrifice Isaac asked, “Father, we
 have wood for the sacrifice, but where is the lamb?” Abraham replied,
-“God will provide the lamb.”
+“God will provide the lamb for the sacrifice.”
 
 When they reached the place of sacrifice, Abraham tied up his son Isaac
 and laid him on an altar. He was about to kill his son when God said,
@@ -355,11 +354,15 @@ smelled the clothes, he thought it was Esau and blessed him.
 Esau hated Jacob because Jacob had stolen his rights as oldest son and
 also his blessing. So he planned to kill Jacob after their father died.
 
-But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
-far away to live with her relatives.
+But Rebekah heard of Esau’s plan. So she and Isaac sent Jacob far away
+to live with her relatives.
 
-While Jacob was there, he married four women who gave birth to a total
-of twelve sons and a daughter. God made him very wealthy.
+Jacob lived there for many years, and during that time he married four
+women who gave birth to a total of twelve sons and a daughter. God made
+him very wealthy.
+
+After twenty years away from his home in Canaan, Jacob returned there
+with his family, his servants, and all his herds of animals.
 
 He was very afraid because he thought Esau still wanted to kill him. So
 he sent Esau many herds of animals as a gift. The servants who brought
@@ -394,9 +397,9 @@ a slave to a wealthy government official. Joseph served his master well,
 and God blessed Joseph.
 
 His master’s wife tried to sleep with Joseph, but Joseph refused to sin
-against God in this way. She became angry and had Joseph arrested and
-sent to prison. Even in prison, Joseph remained faithful to God, and God
-blessed him.
+against God in this way. She became angry and falsely accused Joseph so
+that he was arrested and sent to prison. Even in prison, Joseph remained
+faithful to God, and God blessed him.
 
 Years later, Joseph was still in prison, even though he had done nothing
 wrong. The king of Egypt, who was called the Pharaoh, had two dreams
@@ -463,13 +466,15 @@ River.
 A certain Israelite woman gave birth to a baby boy. She and her husband
 hid the baby for as long as they could.
 
-Then they put him in a floating basket in the Nile River. His older
-sister watched to see what would happen to him.
+When they could no longer hide him, they put him in a floating basket in
+the Nile River. His older sister watched to see what would happen to
+him.
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
-baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child was old enough, his mother returned him to
-Pharaoh’s daughter. She named him Moses.
+baby, she took him as her own son. She hired an Israelite woman to nurse
+him, without realizing the woman was the baby's own mother. When the
+child was old enough, his mother returned him to Pharaoh’s daughter. She
+named him Moses.
 
 One day, when Moses had grown up, he saw an Egyptian beating an
 Israelite slave. Moses tried to save his fellow Israelite.
@@ -498,8 +503,9 @@ Moses said, “What if the people ask me who sent me, what should I say?”
 God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is
 My name forever.”
 
-Moses did not want to go, so God sent Moses’ brother, Aaron, to help
-him. God warned Moses and Aaron that Pharaoh would be stubborn.
+Moses did not want to go because he thought he could not speak well, so
+God sent Moses’ brother, Aaron, to help him. God warned Moses and Aaron
+that Pharaoh would be stubborn.
 
 *A Bible story from: Exodus 1-4*
 
@@ -507,13 +513,13 @@ him. God warned Moses and Aaron that Pharaoh would be stubborn.
 ===================
 
 Moses and Aaron went to Pharaoh. They said, “This is what the God of
-Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of
-letting the Israelites go free, he made their work even harder!
+Israel says, ‘Let my people go!’” Pharaoh did not listen to them.
+Instead of letting the Israelites go free, he made their work even
+harder!
 
-Pharaoh kept refusing to let the people go, so God sent ten plagues on
-Egypt. (A plague is a terrible disaster.) Through these plagues, God
-showed Pharaoh that He is more powerful than Pharaoh and all of Egypt’s
-gods.
+Pharaoh kept refusing to let the people go, so God sent ten terrible
+disaster, called plagues, on Egypt. Through these plagues, God showed
+Pharaoh that He is more powerful than Pharaoh and all of Egypt’s gods.
 
 God turned the Nile River into blood, but Pharaoh still would not let
 the Israelites go.
@@ -522,9 +528,9 @@ God sent frogs all over Egypt. Pharaoh begged Moses to take away the
 frogs. But after all the frogs died, Pharaoh hardened his heart and
 would not let the Israelites go.
 
-So God sent a plague of gnats and then a plague of flies. Pharaoh called
-Moses and Aaron and told them they could leave if they stopped the
-plague. Moses prayed, and God removed all the flies from Egypt, but
+So God sent a plague of gnats. Then He sent a plague of flies. Pharaoh
+called Moses and Aaron and told them they could leave if they stopped
+the plague. Moses prayed, and God removed all the flies from Egypt, but
 Pharaoh hardened his heart and would not let the people go.
 
 Next God sent a sickness to kill all the farm animals that belonged to
@@ -544,15 +550,15 @@ But Pharaoh sinned again and hardened his heart and would not let the
 Israelites go.
 
 So God caused swarms of locusts to come over Egypt. These locusts ate
-what remained of the crops that the hail had not destroyed.
+all the crops that the hail had not destroyed.
 
 Then God sent darkness that lasted for three days. It was so dark that
-the Egyptians could not leave their houses. But where the Israelites
-lived, there was light.
+the Egyptians could not leave their houses. But there was light where
+the Israelites lived.
 
 Even after these nine plagues, Pharaoh still refused to let the
-Israelites go free. Since Pharaoh would not listen, there was one last
-plague that God planned to send. This would change Pharaoh’s mind.
+Israelites go free. Since Pharaoh would not listen, God planned to send
+one last plague. This would change Pharaoh’s mind.
 
 *A Bible story from: Exodus 5-10*
 
@@ -579,11 +585,11 @@ angel of God passed over those houses and everybody inside was safe.
 They were saved because of the lamb’s blood.
 
 But the Egyptians did not believe God or obey His commands. So the angel
-of God did not pass over their houses. The angel of God killed every
-firstborn son in Egypt.
+of God did not pass over their houses. The angel of God killed every one
+of the Egyptians' firstborn sons.
 
 From the firstborn of the prisoner in jail, to the firstborn of Pharaoh,
-every firstborn died. There was much weeping in Egypt.
+every Egyptian firstborn died. There was much weeping in Egypt.
 
 Pharaoh called for Moses and Aaron and said, “Take the Israelites and
 leave Egypt immediately!” The Egyptians encouraged the Israelites to
@@ -622,7 +628,7 @@ Red Sea.”
 The cloud pillar then moved between the Israelites and the Egyptians so
 the Egyptians could not see the Israelites.
 
-Moses lifted his hand over the sea, and God caused the wind to blow. The
+God told Moses to raise his hand over the sea and divide the waters. The
 wind made the water in the sea separate to the left and the right,
 making a path through the sea.
 
@@ -669,9 +675,9 @@ God said to Moses and the people of Israel, “If you will obey My voice
 and keep My covenant, you will be My prized possession, a kingdom of
 priests, and a holy nation.”
 
-Three days later, after the people had prepared themselves, God came
-down on top of Mount Sinai with thunder, lightning, smoke, and a loud
-trumpet blast. Only Moses was allowed to go up the mountain.
+Three days later, after the people had prepared themselves spiritually,
+God came down on top of Mount Sinai with thunder, lightning, smoke, and
+a loud trumpet blast. Only Moses was allowed to go up the mountain.
 
 Then God gave them the covenant and said, “I am the LORD your God, who
 saved you from slavery in Egypt. Do not worship other gods.”
@@ -691,13 +697,13 @@ people obeyed these laws, God promised that He would bless and protect
 them. If they disobeyed them, God would punish them.
 
 God gave the Israelites a detailed description of a tent He wanted them
-to make. It was called the Tent of Meeting. The Tent of Meeting had two
-rooms, separated by a large curtain. No one could enter the room behind
-the curtain except the high priest, because God lived there.
+to make. It was called the Tent of Meeting, and it had two rooms,
+separated by a large curtain. No one could enter the room behind the
+curtain except the high priest, because God lived there.
 
 Anyone who disobeyed God’s law could bring an animal to the Tent of
-Meeting to sacrifice to God. A priest would kill the animal and burn it
-on the altar. The blood of the sacrifice covered the person’s sin and
+Meeting as a sacrifice to God. A priest would kill the animal and burn
+it on the altar. The blood of the sacrifice covered the person’s sin and
 made them clean in God’s sight. God chose Aaron, Moses’ brother, and his
 descendants to be His priests.
 
@@ -709,10 +715,10 @@ For many days, Moses was on top of Mount Sinai talking with God. The
 people became tired of waiting for him to return. So they brought gold
 to Aaron and asked him to make an idol for them!
 
-Aaron made a golden idol in the shape of a calf. The people began to
-wildly worship and sacrifice to the idol! God was very angry with their
-sin and planned to destroy them. But Moses prayed for them, and God
-listened to his prayer and did not destroy them.
+So Aaron made a golden idol in the shape of a calf. The people began to
+wildly worship the idol and make sacrifices to it! God was very angry
+with their sin and planned to destroy them. But Moses prayed for them,
+and God listened to his prayer and did not destroy them.
 
 When Moses came down the mountain and saw the idol, he was so angry that
 he smashed the stones on which God had written the Ten Commandments.
@@ -743,8 +749,8 @@ believe in God. They worshiped false gods and did many evil things.
 
 God told the Israelites, “You must get rid of all the Canaanites in the
 Promised Land. Do not make peace with them and do not marry them. You
-must completely destroy all of their idols. If you do not do these
-things, you will worship their idols instead of Me.”
+must completely destroy all of their idols. If you do not obey me, you
+will worship their idols instead of Me.”
 
 When the Israelites reached the edge of Canaan, Moses chose twelve men,
 one from each tribe of Israel. He gave the men instructions to go and
@@ -812,14 +818,14 @@ leader. Joshua was a good leader because he trusted and obeyed God.
 15. The Promised Land
 =====================
 
-At last it was time for the Israelites to enter the Promised Land.
-Joshua sent two spies to the Canaanite city of Jericho. It was protected
-by strong walls. A prostitute named Rahab protected the spies and helped
-them escape because she believed God. They promised to protect Rahab and
-her family when Jericho was destroyed.
+At last it was time for the Israelites to enter Canaan, the Promised
+Land. Joshua sent two spies to the Canaanite city of Jericho. It was
+protected by strong walls. A prostitute named Rahab protected the spies
+and helped them escape because she believed God. They promised to
+protect Rahab and her family when Jericho was destroyed.
 
-To enter into the Promised Land, the Israelites had to cross the Jordan
-River. God told Joshua, “Have the priests go first.” When the priests’
+The Israelites had to cross the Jordan River to enter into the Promised
+Land. God told Joshua, “Have the priests go first.” When the priests’
 feet touched the Jordan River, the water stopped flowing so the
 Israelites could cross over on dry ground.
 
@@ -937,11 +943,11 @@ Then, at the same time, they all broke the pots that were hiding the
 torches. They blew their horns and shouted, “A sword for God and for
 Gideon!”
 
-God confused the Midianites, so that they attacked each other and
-started killing each other. Immediately, the rest of the Israelites were
-called from their homes to come help chase the Midianites. They killed
-many of them and chased the rest of them out of their land. 120,000
-Midianites died that day. God had saved Israel.
+God confused the Midianites, so that they started attacking and killing
+each other. Immediately, the rest of the Israelites were called from
+their homes to come help chase the Midianites. They killed many of them
+and chased the rest of them out of their land. 120,000 Midianites died
+that day. God had saved Israel.
 
 The people wanted to make Gideon their king. Gideon wisely refused their
 offer, but he asked them for some of the money that each of them had
@@ -969,8 +975,8 @@ wanted.
 
 Saul was the first king of Israel. He was tall and handsome, just like
 the people wanted. Saul did well at first, but he became a wicked man
-who did not obey God, so God chose a different man to be king in his
-place.
+who did not obey God, so God chose a different man who would one day be
+king in his place.
 
 This man’s name was David. He was a shepherd from the town of Bethlehem.
 While watching the sheep, David had killed both a lion and a bear which
@@ -984,9 +990,9 @@ kill Goliath and save Israel.
 
 Saul became jealous of David and tried many times to kill him. One day
 Saul was looking for David so he could kill him. Saul went into the same
-cave where David was hiding. Instead of killing Saul, David cut off a
-piece of his clothes to prove to Saul that he would not kill him to
-become king.
+cave where David was hiding but did not see him. Instead of killing
+Saul, David cut off a piece of his clothes to prove to Saul that he
+would not kill him to become king.
 
 Eventually, Saul died in battle, and David became king of Israel. He was
 a good king, and the people loved him. God blessed David and made him
@@ -1167,8 +1173,8 @@ God had ended the drought and proved that He is the only God.
 After Elijah, God chose Elisha to be His prophet. God did many miracles
 through Elisha. One time, Naaman, an enemy commander, found out he had a
 horrible skin disease called leprosy. He had heard of Elisha so he went
-and asked Elisha to be healed. Elisha told him to dip himself seven
-times in the Jordan River.
+and asked Elisha to heal him. Elisha told him to dip himself seven times
+in the Jordan River.
 
 At first Naaman was angry and would not do it. But later he changed his
 mind and dipped himself seven times in the Jordan River. When he came up
@@ -1196,8 +1202,8 @@ They also reminded people of the promise that God’s Messiah would come.
 ========================
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Sinai. God sent His prophets to warn
-them to repent and worship Him again, but they refused to listen.
+Covenant that God had made with them at Sinai. God sent His prophets to
+warn them to repent and worship Him again, but they refused to listen.
 
 So God punished both nations by allowing them to be destroyed. Israel
 was destroyed by the Assyrian Empire, a powerful, cruel nation. The
@@ -1220,7 +1226,7 @@ but they refused to listen.
 About 100 years after the Assyrians destroyed Israel, God sent
 Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a
 powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant
-and pay him lots of money every year.
+and pay him a lot of money every year.
 
 But soon the people of Judah rebelled against the Babylonians. So, the
 Babylonians came back and attacked them. They captured the city of
@@ -1271,7 +1277,7 @@ would be blessed. This blessing was the coming Messiah who would one day
 provide the way of salvation for all people groups.
 
 God promised Moses that He would raise up another prophet like Moses.
-This was another reference to the coming Messiah.
+This was another promise about the coming Messiah.
 
 God promised David that the Messiah would be one of David’s own
 descendants.
@@ -1296,22 +1302,21 @@ coming Messiah would be the perfect king who would sit on the throne of
 his ancestor David, who would reign over the whole world forever, and
 who would judge honestly and make the right decision every time.
 
-The prophets predicted the birth of the coming Messiah. Malachi foretold
-that a great prophet would come before the Messiah came. Isaiah
+God's prophets predicted many things about the coming Messiah. Malachi
+foretold that a great prophet would come before the Messiah came. Isaiah
 prophesied that the Messiah would be born from a virgin. Micah said that
 he would be born in the town of Bethlehem.
 
-The prophets also prophesied about the Messiah’s ministry. Isaiah said
-he would live in Galilee, comfort the broken-hearted, proclaim freedom
-to captives, and release to prisoners. He also predicted that the
-Messiah would heal sick people, including those who could not hear, see,
-speak, or walk.
+Isaiah said he would live in Galilee, comfort the broken-hearted, and
+proclaim freedom to captives and release to prisoners. He also predicted
+that the Messiah would heal sick people, including those who could not
+hear, see, speak, or walk.
 
 Isaiah prophesied that the Messiah would be hated without reason and
-rejected. The Psalms foretold that the Messiah’s people would gamble for
-his clothes and he would be betrayed by a friend. (Psalms are Jewish
-worship songs in the Scriptures.) Zechariah foretold that the friend
-would be paid thirty pieces of silver for betraying him.
+rejected. Other prophets foretold that the those who killed the Messiah
+would gamble for his clothes and he would be betrayed by a friend.
+Zechariah foretold that the friend would be paid thirty pieces of silver
+for betraying him.
 
 The prophets also told about how the Messiah would die. Isaiah
 prophesied that the Messiah would be spit on, mocked, and beaten. Then
@@ -1379,14 +1384,14 @@ the Messiah!”
 23. The Birth of Jesus
 ======================
 
-When Joseph heard that Mary was pregnant, he knew it was not his baby,
-so he planned to quietly divorce her. Before he could do that, an angel
-appeared to him in a dream.
+Joseph was a righteous man. When he heard that Mary was pregnant, he
+knew it was not his baby. He did not want to shame her, so he planned to
+quietly divorce her. Before he could do that, an angel appeared to him
+in a dream.
 
 The angel said, “Joseph, do not be afraid to take Mary as your wife.
-What is in her has been conceived by the Holy Spirit. She will give
-birth to a son. Name him Jesus, because he will save the people from
-their sins.”
+What is in her is from the Holy Spirit. She will give birth to a son.
+Name him Jesus, because he will save the people from their sins.”
 
 So Joseph married her and took her home as his wife, but he did not
 sleep with her until she had given birth.
@@ -1421,7 +1426,7 @@ star in the sky. They realized it meant a new king of the Jews was born.
 So, they traveled a great distance to see this king. They came to
 Bethlehem and found the place where Jesus was living.
 
-When they saw Jesus with his mother, they fell down and worshiped him.
+When they saw Jesus with his mother, they bowed down and worshiped him.
 They gave Jesus expensive gifts. Then they returned home.
 
 *A Bible story from: Matthew 1; Luke 2*
@@ -1485,18 +1490,18 @@ Then Satan took Jesus to the highest point on the Temple and said, “If
 you are the Son of God, throw yourself down, for it is written, ‘He will
 command His angels to catch you so your foot does not hit the ground.’”
 
-But Jesus replied, “It is also written in God’s Word, ‘Do not test
-God.’”
+But Jesus replied, “It is also written in God’s Word, ‘Do not test the
+Lord, your God.’”
 
 Then Satan showed Jesus all the kingdoms of the world and all their
 glory and said, “I will give you all this if you bow down and worship
 me.”
 
 Jesus replied, “Get away from me, Satan! It is written in God’s Word,
-‘Worship only the Lord your God.’”
+‘Worship only the Lord your God and only serve Him.’”
 
-Then Satan left him to wait for a better time. Angels came and took care
-of Jesus.
+Jesus did not give in to Satan's temptations, so Satan left him. Then
+angels came and took care of Jesus.
 
 *A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13*
 
@@ -1539,9 +1544,9 @@ Then Jesus went through that area, and great crowds came to him. They
 brought all the sick people, including those who could not see, walk,
 hear, or speak, and Jesus healed them.
 
-Many people with demons were brought to Jesus. The demons came out,
-often shouting, “You are the Son of God!” The crowds were amazed and
-worshiped God.
+Many people with demons were brought to Jesus. At Jesus' command, the
+demons came out, often shouting, “You are the Son of God!” The crowds
+were amazed and worshiped God.
 
 Then Jesus chose twelve men who were called his disciples. The disciples
 were Jesus’ students. They traveled with him and learned from him.
@@ -1603,10 +1608,10 @@ do the same thing.”
 28. The Rich Young Ruler
 ========================
 
-One day a rich young ruler came up to Jesus and asked him, “Good
-teacher, what good thing must I do to have eternal life?” Jesus said to
-him, “Why do you call me good? There is only One who is good, and that
-is God. But if you want to have eternal life, obey God’s laws.”
+One day a rich young ruler came up to Jesus and asked him, “Teacher,
+what good thing must I do to have eternal life?” Jesus said to him, “Why
+do you ask me about what is good? There is only One who is good, and
+that is God. But if you want to have eternal life, obey God’s laws.”
 
 “Which ones?” he asked. Jesus replied, “Do not murder. Do not commit
 adultery. Do not steal. Do not lie. Honor your father and mother, and
@@ -1648,7 +1653,7 @@ first will be last, and those who are last will be first.”
 29. The Story of the Unmerciful Servant
 =======================================
 
-One day Peter said to Jesus, “Lord, how many times should I forgive my
+One day Peter said to Jesus, “Master, how many times should I forgive my
 brother when he sins against me? Up to seven times?” Jesus said, “Not
 seven times, but seventy times seven!” By this, Jesus meant that we
 should always forgive. Jesus told this story.
@@ -1747,14 +1752,14 @@ The disciples were very afraid when they saw Jesus, because they thought
 they were seeing a ghost. Jesus knew that they were afraid, so he called
 out to them and said, “Do not be afraid. It is I!”
 
-Then Peter said to Jesus, “Lord, if it is you, command me to come to you
-on the water.” Jesus told Peter, “Come!”
+Then Peter said to Jesus, “Master, if it is you, command me to come to
+you on the water.” Jesus told Peter, “Come!”
 
 So, Peter got out of the boat and started walking to Jesus on the
 surface of the water. But after a short distance, he turned his eyes
 away from Jesus and began to look at the strong wind and waves.
 
-Then Peter became afraid and began to sink. He cried out, “Lord, save
+Then Peter became afraid and began to sink. He cried out, “Master, save
 me!” Jesus reached out right away and grabbed him. Then he said to
 Peter, “O you of little faith, why did you doubt?”
 
@@ -1770,8 +1775,8 @@ you are the Son of God.”
 One day, Jesus and his disciples crossed the Sea of Galilee to the
 country of the Gerasenes.
 
-When they reached the other side, a man with an evil spirit came running
-up to Jesus.
+When they reached the other side, a demon-possessed man came running up
+to Jesus.
 
 This man was so strong that nobody could hold him down. People had even
 used chains to lock him up, but he kept breaking them.
@@ -1780,26 +1785,26 @@ He lived among the tombs in the area. Day and night this man would
 scream. He wore no clothes and cut himself repeatedly with stones.
 
 When the man came to Jesus, he fell on his knees in front of him. Jesus
-said, “Come out of the man, you evil spirit!”
+said, “Come out of the man, demon!”
 
-The man with the evil spirit cried out in a loud voice and said, “What
-do you want with me, Jesus, Son of the Most High God? Please do not
-torture me!” Then Jesus asked the man, “What is your name?” He replied,
-“My name is Legion, for we are many.” (A legion was a group of up to
-6,000 soldiers.)
+The man with the demon cried out in a loud voice and said, “What do you
+want with me, Jesus, Son of the Most High God? Please do not torture
+me!” Then Jesus asked the man, “What is your name?” He replied, “My name
+is Legion, for we are many.” (A legion was a group of up to 6,000
+soldiers.)
 
-The evil spirits begged Jesus, “Please do not send us out of this area!”
-There was a herd of pigs feeding on a nearby hill. So, the evil spirits
-begged Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
+The demons begged Jesus, “Please do not send us out of this area!” There
+was a herd of pigs feeding on a nearby hill. So, the demons begged
+Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
 
-The evil spirits came out of the man and entered the pigs. The pigs ran
-down a steep bank into the sea and drowned. There were about 2,000 pigs
-in the herd.
+The demons came out of the man and entered the pigs. The pigs ran down a
+steep bank into the sea and drowned. There were about 2,000 pigs in the
+herd.
 
 When the people taking care of the pigs saw what happened, they ran and
 told everyone what Jesus had done. All the people came from the town and
-saw the man who used to have the evil spirits. He was sitting down,
-wearing clothes, and acting like a normal person.
+saw the man who used to have the demons. He was sitting down, wearing
+clothes, and acting like a normal person.
 
 The people were very afraid and asked Jesus to leave. So Jesus got into
 the boat and prepared to leave. The man who had been healed begged to go
@@ -1828,7 +1833,7 @@ How can you ask, ‘Who touched me?’”
 
 The woman fell on her knees before Jesus, shaking and very afraid. Then
 she told the whole truth. Jesus said to her, “Your faith has healed you.
-Go in peace and be healed of your sickness.”
+Go in peace.”
 
 *A Bible story from: Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39*
 
@@ -1870,7 +1875,7 @@ riches, and pleasures of life. The teaching they heard does not produce
 fruit.”
 
 “But the seeds that fall on good soil represent people who hear the Word
-of God, believe it, and produce spiritual fruit.”
+of God, believe it, and produce fruit.”
 
 *A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke
 8:4-15*
@@ -1946,7 +1951,7 @@ go back to my father and ask to be one of his servants.’”
 compassion for him. He ran to his son and hugged him and kissed him.”
 
 “The son said, ‘Father, I have sinned against God and against you. I am
-not worthy to be your son. Let me be your servant instead.’”
+not worthy to be your son.’”
 
 “But his father told one of his servants, ‘Go quickly! Bring the best
 clothes and put them on my son! Put a ring on his finger and put sandals
@@ -1963,8 +1968,9 @@ out and begged him to join the party, but he refused.”
 
 “He said, ‘All these years I’ve worked so faithfully for you! I never
 disobeyed you, and still you did not even give me one small goat so I
-could celebrate with my friends. But when this son of yours wastes your
-money on sinful behavior, you kill the best calf for him!’”
+could celebrate with my friends. But when this son of yours who wasted
+your money on sinful behavior came home, you killed the best calf for
+him!’”
 
 “The father answered, ‘My son, you are always with me, and everything I
 have is yours. But it is right for us to celebrate, because your brother
@@ -2017,10 +2023,10 @@ the disciples answered, “Just a short time ago the people there wanted
 to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I
 must wake him.”
 
-His disciples replied, “Lord, if Lazarus is sleeping, he will get better
-on his own.” Then Jesus told them plainly, “Lazarus is dead. I am glad
-we were not there when he died, for now you will see amazing things so
-that you may believe.”
+His disciples replied, “Master, if Lazarus is sleeping, he will get
+better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am
+glad we were not there when he died, for now you will see amazing things
+so that you may believe.”
 
 When Jesus got there, Lazarus had already been dead for four days.
 Martha went out to meet Jesus and said, “Master, if only you had been
@@ -2032,7 +2038,7 @@ me will live, even though he dies. Everyone who believes in me will
 never die. Do you believe this?” “Yes, Master!” Martha answered. “I
 believe you are the Messiah, the Son of God.”
 
-Then Mary arrived. She fell at the feet of Jesus and said, “Lord, if
+Then Mary arrived. She fell at the feet of Jesus and said, “Master, if
 only you had been here, my brother would not have died.” “Where have you
 put Lazarus?” he asked them. They told him, “In the tomb. Come and see.”
 Then Jesus wept.
@@ -2228,7 +2234,7 @@ top to the bottom.
 
 Through his death, Jesus opened a way for people to come to God. When
 the soldier guarding Jesus saw everything that happened, he said,
-“Certainly, this man was innocent. He must have been the Son of God.”
+“Certainly, this man was innocent. He was the Son of God.”
 
 Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the
 Messiah, asked Pilate for Jesus’ body. They wrapped his body in cloth
@@ -2254,10 +2260,10 @@ The day after Jesus was buried was a Sabbath, a day of rest. Very early
 on the morning after the Sabbath, several women went to Jesus’ tomb to
 put more burial spices on his body.
 
-There was a great earthquake. An angel of the Lord appeared from heaven,
-as bright as lightning. He rolled away the stone that was covering the
-entrance to the tomb and sat on it. The soldiers guarding the tomb were
-terrified and fell to the ground like dead men.
+There was a great earthquake. An angel appeared from heaven, as bright
+as lightning. He rolled away the stone that was covering the entrance to
+the tomb and sat on it. The soldiers guarding the tomb were terrified
+and fell to the ground like dead men.
 
 The angel told the women, “Do not be afraid. Jesus is not here. He has
 risen from the dead, just like he said he would! Look in the tomb and
@@ -2343,9 +2349,9 @@ After Jesus returned to heaven, the disciples stayed in Jerusalem as
 Jesus had commanded. The followers of Jesus gathered together and were
 praying constantly.
 
-At that time a Jewish feast called Pentecost was happening. Pentecost
-was a celebration of thanksgiving. Jews from all over the world would
-come to Jerusalem to celebrate together.
+Fifty days after Jesus rose from the dead, a Jewish feast called
+Pentecost took place. Pentecost was a celebration of thanksgiving. Jews
+from all over the world would come to Jerusalem to celebrate together.
 
 While the believers were all together, suddenly, they heard a sound like
 a strong wind that filled the house. Then something like flames of fire
@@ -2359,8 +2365,8 @@ wonderful works of God.
 
 Some accused the disciples of being drunk, but Peter stood up and said,
 “Listen to me! These people are not drunk! This is a fulfillment of the
-prophecy made by Joel which says, ‘In the last days, I will pour out My
-Spirit.’”
+prophecy made by the prophet Joel which says, ‘In the last days, I will
+pour out My Spirit.’”
 
 “Men of Israel, Jesus was a man who did many mighty signs and wonders by
 the power of God, as you have seen and already know. You crucified him!”
@@ -2400,7 +2406,7 @@ One day Peter and John went to the Temple. On their way, they saw a
 crippled man begging for money.
 
 Peter looked at him and said, “I do not have any money to give you. But
-what I have I will give you. In the name of Jesus, get up and walk!”
+what I do have I will give you. In the name of Jesus, get up and walk!”
 
 The man was immediately healed, and he began walking and jumping around,
 praising God. The people in the Temple were amazed.
@@ -2409,10 +2415,10 @@ A crowd quickly formed. Peter said to them, “Why are you amazed that
 this man is healed? It was not through our own power or goodness that he
 was healed, but by faith in the name of Jesus.”
 
-“You asked that Jesus be killed. You killed the author of life, but God
-raised him from the dead. This is how God fulfilled the prophecies that
-the Messiah would suffer and die. But now, repent and turn to God so
-that your sins will be washed away.”
+“You demanded that Jesus be killed. You killed the author of life, but
+God raised him from the dead. This is how God fulfilled the prophecies
+that the Messiah would suffer and die. But now, repent and turn to God
+so that your sins will be washed away.”
 
 The leaders of the Temple were greatly annoyed at what Peter and John
 were saying. So they arrested them and threw them into prison. But many
@@ -2422,14 +2428,15 @@ to 5,000 men, plus women and children.
 The next day, the Jewish leaders brought Peter and John before the high
 priest and his family. They asked them, “By what power did you do this?”
 
-Peter responded, “It is by the name of Jesus the Messiah. You crucified
-him, but God raised him to life again! You rejected him, but there is no
-other way to be saved except through the name of Jesus!”
+Peter responded, “It is by the name of Jesus the Messiah that we healed
+this man. You crucified him, but God raised him to life again! You
+rejected him, but there is no other way to be saved except through the
+name of Jesus!”
 
 The leaders were shocked because they could see that these men were
-common men who were not well-educated. They also realized that these men
-had been with Jesus. After they had threatened Peter and John, they let
-them go.
+common men who were uneducated. They also realized that these men had
+been with Jesus. After they had threatened Peter and John, they let them
+go.
 
 *A Bible story from: Acts 3:1-4:22*
 
@@ -2440,10 +2447,10 @@ Stephen was a leader in the early Church. He had a good reputation and
 was full of the Holy Spirit and of wisdom. Stephen did many miracles and
 argued strongly that people should believe in Jesus.
 
-One day, Stephen was arguing with some Jews about Jesus. They became
-very angry and lied about Stephen, saying, “We heard him speak evil
-things about Moses and God!” So they arrested Stephen and brought him
-before the high priest and leaders of the Jews.
+One day, Stephen was arguing with some unbelieving Jews about Jesus.
+They became very angry and lied about Stephen, saying, “We heard him
+speak evil things about Moses and God!” So they arrested Stephen and
+brought him before the high priest and leaders of the Jews.
 
 The high priest asked Stephen, “Are these things true?” Stephen replied,
 “You stubborn and rebellious people always reject the Holy Spirit, just
@@ -2453,14 +2460,14 @@ even killed the Messiah whom God sent!”
 When the people heard this, they covered their ears and yelled loudly.
 They threw Stephen out of the city and stoned him to death.
 
-As he was dying Stephen cried out, “Lord Jesus, receive my spirit.” Then
-he fell to his knees and cried out again, “Lord, do not count this sin
+As he was dying Stephen cried out, “Jesus, receive my spirit.” Then he
+fell to his knees and cried out again, “Master, do not count this sin
 against them.” Then he died.
 
 A man named Saul approved of Stephen’s execution and guarded the
-belongings of those who stoned Stephen. That day many people attacked
-the Christians, and they were scattered through that region. But
-everywhere they went they preached about Jesus.
+belongings of those who stoned Stephen. That day many people started
+persecuting the Christians, and they were scattered through that region.
+But everywhere they went they preached about Jesus.
 
 Philip, one of Jesus' disciples, went to Samaria where he preached about
 Jesus and many were saved. Then one day an angel from God told Philip to
@@ -2474,13 +2481,14 @@ was treated unfairly and without respect. His life was taken away from
 him.”
 
 Philip asked the Ethiopian, “Do you understand what you are reading?” He
-said, “No. Is Isaiah talking about himself or someone else?”
+said, “No. I cannot understand it unless someone explains it to me. Is
+Isaiah talking about himself or someone else?”
 
 Philip showed him that Isaiah was talking about Jesus. Philip also used
 many other Scriptures to tell him the Good News of Jesus.
 
 As they passed by some water, the Ethiopian said, “Look! There is some
-water! Why can’t I be baptized?” And he ordered the chariot to stop.
+water! May I be baptized?” And he ordered the chariot to stop.
 
 So they went down into the water, and Philip baptized him. After Philip
 baptized the Ethiopian, the Holy Spirit carried Philip away to another
@@ -2507,8 +2515,8 @@ ate and drank nothing for three days.
 
 Then God appeared to a Christian named Ananias and said, “Go to the
 house where Saul is staying. Lay your hands on him so that he can see
-again.” But Ananias said, “Lord, I have heard how he has attacked the
-Christians.” God said, “I have chosen him to declare My name to the
+again.” But Ananias said, “Master, I have heard how he has persecuted
+the Christians.” God said, “I have chosen him to declare My name to the
 unsaved. I will show him how much he must suffer for My sake.”
 
 So Ananias said to Saul, “Jesus who appeared to you on the road sent me
@@ -2529,7 +2537,7 @@ in a basket. Paul ran away and continued preaching about Jesus.
 Paul went to Jerusalem to meet with the disciples, but at first the
 Christians were afraid of Paul. Finally, a Christian named Barnabas took
 Paul to the disciples and told them how Paul had preached boldly in
-Jerusalem. Then they accepted Paul.
+Damascus. Then they accepted Paul.
 
 Later, Paul and Barnabas went to the city of Antioch where they taught
 many people about Jesus and strengthened the church. One day, the
@@ -2587,9 +2595,9 @@ The jailer was terrified! He took Paul and Silas home, gave them some
 food, and washed their wounds. Then he said, “What must I do to be
 saved?”
 
-Paul answered, “Believe in the Lord Jesus Christ, and you and your
-family will be saved.” Then Paul baptized the jailer and his whole
-family, and they celebrated together.
+Paul answered, “Believe in Jesus, the Master, and you and your family
+will be saved.” Then Paul baptized the jailer and his whole family, and
+they celebrated together.
 
 The next day the leaders of the city freed Paul and Silas and asked them
 to leave Philippi. Paul and Silas visited Lydia and some other friends
@@ -2598,8 +2606,7 @@ Church kept growing.
 
 Paul and other Christian leaders traveled to many cities, preaching and
 teaching about Jesus. They also wrote many letters to the churches to
-encourage and teach them about God’s New Covenant. These writings are
-called the New Testament.
+encourage and teach them about God’s New Covenant.
 
 *A Bible story from: Acts 16:11-40*
 
@@ -2631,7 +2638,8 @@ provided a way of salvation for everyone who believes in Jesus.
 Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is
 a priest, but Jesus is the Great High Priest. Jesus offered only one
 sacrifice, himself. This was the only sacrifice needed to take away the
-sin of the whole world.
+sin of the whole world. Jesus took the punishment for every sin that
+anyone has ever committed.
 
 God told Abraham, “Through you, all the people groups of the earth will
 be blessed.” Jesus was a descendant of Abraham. All the people groups of
@@ -2707,8 +2715,8 @@ that whoever believes in Him will not go to hell but will live with Him
 forever.
 
 Because of your sin, you are guilty. You deserve death and God’s anger,
-but God poured out His anger on Jesus instead. When Jesus died on the
-cross, he received your punishment.
+but God poured out His anger on Jesus instead of you. When Jesus died on
+the cross, he received your punishment.
 
 Jesus chose to die as a perfect, sinless sacrifice to take away your
 sins and the sins of the whole world. Because of Jesus, any sin can be
@@ -2716,14 +2724,14 @@ forgiven, no matter what it is.
 
 No one can be saved by doing good things. Nothing you do can fix your
 relationship with God. Your sins can only be washed away if you believe
-that Jesus is the Son of God, and that he died and rose again to take
-away your sins.
+that Jesus is the Son of God, that he died on the cross in your place,
+and that God raised him to life again.
 
-Anyone who believes in Jesus and is baptized will be saved, but whoever
-does not believe will be rejected. It does not matter if you are rich or
-poor, man or woman, old or young, or where you are from. God loves you
-and wants you to believe in Jesus so He can have a relationship with
-you.
+Anyone who believes in Jesus and receives him as their Master will be
+saved, but whoever does not believe will be rejected. It does not matter
+if you are rich or poor, man or woman, old or young, or where you are
+from. God loves you and wants you to believe in Jesus so He can have a
+relationship with you.
 
 Do you believe that Jesus is the Messiah, the only Son of God? Do you
 believe that you are a sinner and deserve God’s punishment? Do you
@@ -2738,10 +2746,10 @@ If you are a Christian, your sins are forgiven because of what Jesus
 did. Now, when God looks at you, He does not see you as an enemy, but He
 sees you as a close friend.
 
-As a friend of God, you will want to follow Jesus’ teachings. Even
-though you are a Christian, you will still struggle with sin. But God
-says if you confess your sins, He is faithful and will forgive you and
-will give you strength to fight against sin.
+As a friend of God and a servant of Jesus the Master, you will want to
+obey Jesus’ teachings. Even though you are a Christian, you will still
+struggle with sin. But God says if you confess your sins, He is faithful
+and will forgive you and will give you strength to fight against sin.
 
 God tells you to pray, study His Word, worship Him with other
 Christians, and tell others what He has done for you. All of these
@@ -2755,7 +2763,8 @@ Colossians 1:13-14; 2 Thessalonians 5:17-21; 1 John 1:5-10*
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been
 spreading, and the Church has been growing. Jesus said he would return
-at the end of the world, but he still has not come back.
+at the end of the world. Though he has not yet come back, he will keep
+his promise.
 
 As we wait for Jesus’ return, Christians are to live holy and godly
 lives. When Jesus was on earth he also said, “This Good News of the
@@ -2781,10 +2790,10 @@ with the wheat, and then he went away.”
 planted good seed in that field. Why are there weeds in it?’ The master
 answered, ‘An enemy has planted them.’”
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘If
-you do that, you will pull out some of the wheat as well. Wait until the
-harvest and then gather the weeds into piles to be burned, but bring the
-wheat into my barn.’”
+“They responded, ‘Should we pull out the weeds?’ The master said, ‘No.
+If you do that, you will pull out some of the wheat as well. Wait until
+the harvest and then gather the weeds into piles to be burned, but bring
+the wheat into my barn.’”
 
 The disciples did not understand and said to Jesus, “Please explain this
 story to us.” Jesus said, “The man who planted the good seed is the

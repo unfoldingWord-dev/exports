@@ -26,7 +26,8 @@ provided a way of salvation for everyone who believes in Jesus.
 Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is
 a priest, but Jesus is the Great High Priest. Jesus offered only one
 sacrifice, himself. This was the only sacrifice needed to take away the
-sin of the whole world.
+sin of the whole world. Jesus took the punishment for every sin that
+anyone has ever committed.
 
 God told Abraham, “Through you, all the people groups of the earth will
 be blessed.” Jesus was a descendant of Abraham. All the people groups of

@@ -33,7 +33,7 @@ top to the bottom.
 
 Through his death, Jesus opened a way for people to come to God. When
 the soldier guarding Jesus saw everything that happened, he said,
-“Certainly, this man was innocent. He must have been the Son of God.”
+“Certainly, this man was innocent. He was the Son of God.”
 
 Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the
 Messiah, asked Pilate for Jesus’ body. They wrapped his body in cloth

@@ -36,7 +36,7 @@ riches, and pleasures of life. The teaching they heard does not produce
 fruit.”
 
 “But the seeds that fall on good soil represent people who hear the Word
-of God, believe it, and produce spiritual fruit.”
+of God, believe it, and produce fruit.”
 
 *A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke
 8:4-15*

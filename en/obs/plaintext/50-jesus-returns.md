@@ -3,7 +3,8 @@
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been
 spreading, and the Church has been growing. Jesus said he would return
-at the end of the world, but he still has not come back.
+at the end of the world. Though he has not yet come back, he will keep
+his promise.
 
 As we wait for Jesus’ return, Christians are to live holy and godly
 lives. When Jesus was on earth he also said, “This Good News of the
@@ -29,10 +30,10 @@ with the wheat, and then he went away.”
 planted good seed in that field. Why are there weeds in it?’ The master
 answered, ‘An enemy has planted them.’”
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘If
-you do that, you will pull out some of the wheat as well. Wait until the
-harvest and then gather the weeds into piles to be burned, but bring the
-wheat into my barn.’”
+“They responded, ‘Should we pull out the weeds?’ The master said, ‘No.
+If you do that, you will pull out some of the wheat as well. Wait until
+the harvest and then gather the weeds into piles to be burned, but bring
+the wheat into my barn.’”
 
 The disciples did not understand and said to Jesus, “Please explain this
 story to us.” Jesus said, “The man who planted the good seed is the

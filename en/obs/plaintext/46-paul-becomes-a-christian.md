@@ -15,8 +15,8 @@ ate and drank nothing for three days.
 
 Then God appeared to a Christian named Ananias and said, “Go to the
 house where Saul is staying. Lay your hands on him so that he can see
-again.” But Ananias said, “Lord, I have heard how he has attacked the
-Christians.” God said, “I have chosen him to declare My name to the
+again.” But Ananias said, “Master, I have heard how he has persecuted
+the Christians.” God said, “I have chosen him to declare My name to the
 unsaved. I will show him how much he must suffer for My sake.”
 
 So Ananias said to Saul, “Jesus who appeared to you on the road sent me
@@ -37,7 +37,7 @@ in a basket. Paul ran away and continued preaching about Jesus.
 Paul went to Jerusalem to meet with the disciples, but at first the
 Christians were afraid of Paul. Finally, a Christian named Barnabas took
 Paul to the disciples and told them how Paul had preached boldly in
-Jerusalem. Then they accepted Paul.
+Damascus. Then they accepted Paul.
 
 Later, Paul and Barnabas went to the city of Antioch where they taught
 many people about Jesus and strengthened the church. One day, the

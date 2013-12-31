@@ -33,8 +33,8 @@ that whoever believes in Him will not go to hell but will live with Him
 forever.
 
 Because of your sin, you are guilty. You deserve death and God’s anger,
-but God poured out His anger on Jesus instead. When Jesus died on the
-cross, he received your punishment.
+but God poured out His anger on Jesus instead of you. When Jesus died on
+the cross, he received your punishment.
 
 Jesus chose to die as a perfect, sinless sacrifice to take away your
 sins and the sins of the whole world. Because of Jesus, any sin can be
@@ -42,14 +42,14 @@ forgiven, no matter what it is.
 
 No one can be saved by doing good things. Nothing you do can fix your
 relationship with God. Your sins can only be washed away if you believe
-that Jesus is the Son of God, and that he died and rose again to take
-away your sins.
+that Jesus is the Son of God, that he died on the cross in your place,
+and that God raised him to life again.
 
-Anyone who believes in Jesus and is baptized will be saved, but whoever
-does not believe will be rejected. It does not matter if you are rich or
-poor, man or woman, old or young, or where you are from. God loves you
-and wants you to believe in Jesus so He can have a relationship with
-you.
+Anyone who believes in Jesus and receives him as their Master will be
+saved, but whoever does not believe will be rejected. It does not matter
+if you are rich or poor, man or woman, old or young, or where you are
+from. God loves you and wants you to believe in Jesus so He can have a
+relationship with you.
 
 Do you believe that Jesus is the Messiah, the only Son of God? Do you
 believe that you are a sinner and deserve God’s punishment? Do you
@@ -64,10 +64,10 @@ If you are a Christian, your sins are forgiven because of what Jesus
 did. Now, when God looks at you, He does not see you as an enemy, but He
 sees you as a close friend.
 
-As a friend of God, you will want to follow Jesus’ teachings. Even
-though you are a Christian, you will still struggle with sin. But God
-says if you confess your sins, He is faithful and will forgive you and
-will give you strength to fight against sin.
+As a friend of God and a servant of Jesus the Master, you will want to
+obey Jesus’ teachings. Even though you are a Christian, you will still
+struggle with sin. But God says if you confess your sins, He is faithful
+and will forgive you and will give you strength to fight against sin.
 
 God tells you to pray, study His Word, worship Him with other
 Christians, and tell others what He has done for you. All of these

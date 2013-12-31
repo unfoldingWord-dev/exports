@@ -4,8 +4,8 @@
 One day, Jesus and his disciples crossed the Sea of Galilee to the
 country of the Gerasenes.
 
-When they reached the other side, a man with an evil spirit came running
-up to Jesus.
+When they reached the other side, a demon-possessed man came running up
+to Jesus.
 
 This man was so strong that nobody could hold him down. People had even
 used chains to lock him up, but he kept breaking them.
@@ -14,26 +14,26 @@ He lived among the tombs in the area. Day and night this man would
 scream. He wore no clothes and cut himself repeatedly with stones.
 
 When the man came to Jesus, he fell on his knees in front of him. Jesus
-said, “Come out of the man, you evil spirit!”
+said, “Come out of the man, demon!”
 
-The man with the evil spirit cried out in a loud voice and said, “What
-do you want with me, Jesus, Son of the Most High God? Please do not
-torture me!” Then Jesus asked the man, “What is your name?” He replied,
-“My name is Legion, for we are many.” (A legion was a group of up to
-6,000 soldiers.)
+The man with the demon cried out in a loud voice and said, “What do you
+want with me, Jesus, Son of the Most High God? Please do not torture
+me!” Then Jesus asked the man, “What is your name?” He replied, “My name
+is Legion, for we are many.” (A legion was a group of up to 6,000
+soldiers.)
 
-The evil spirits begged Jesus, “Please do not send us out of this area!”
-There was a herd of pigs feeding on a nearby hill. So, the evil spirits
-begged Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
+The demons begged Jesus, “Please do not send us out of this area!” There
+was a herd of pigs feeding on a nearby hill. So, the demons begged
+Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
 
-The evil spirits came out of the man and entered the pigs. The pigs ran
-down a steep bank into the sea and drowned. There were about 2,000 pigs
-in the herd.
+The demons came out of the man and entered the pigs. The pigs ran down a
+steep bank into the sea and drowned. There were about 2,000 pigs in the
+herd.
 
 When the people taking care of the pigs saw what happened, they ran and
 told everyone what Jesus had done. All the people came from the town and
-saw the man who used to have the evil spirits. He was sitting down,
-wearing clothes, and acting like a normal person.
+saw the man who used to have the demons. He was sitting down, wearing
+clothes, and acting like a normal person.
 
 The people were very afraid and asked Jesus to leave. So Jesus got into
 the boat and prepared to leave. The man who had been healed begged to go
@@ -62,6 +62,6 @@ How can you ask, ‘Who touched me?’”
 
 The woman fell on her knees before Jesus, shaking and very afraid. Then
 she told the whole truth. Jesus said to her, “Your faith has healed you.
-Go in peace and be healed of your sickness.”
+Go in peace.”
 
 *A Bible story from: Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39*

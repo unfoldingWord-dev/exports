@@ -5,9 +5,9 @@ After Jesus returned to heaven, the disciples stayed in Jerusalem as
 Jesus had commanded. The followers of Jesus gathered together and were
 praying constantly.
 
-At that time a Jewish feast called Pentecost was happening. Pentecost
-was a celebration of thanksgiving. Jews from all over the world would
-come to Jerusalem to celebrate together.
+Fifty days after Jesus rose from the dead, a Jewish feast called
+Pentecost took place. Pentecost was a celebration of thanksgiving. Jews
+from all over the world would come to Jerusalem to celebrate together.
 
 While the believers were all together, suddenly, they heard a sound like
 a strong wind that filled the house. Then something like flames of fire
@@ -21,8 +21,8 @@ wonderful works of God.
 
 Some accused the disciples of being drunk, but Peter stood up and said,
 “Listen to me! These people are not drunk! This is a fulfillment of the
-prophecy made by Joel which says, ‘In the last days, I will pour out My
-Spirit.’”
+prophecy made by the prophet Joel which says, ‘In the last days, I will
+pour out My Spirit.’”
 
 “Men of Israel, Jesus was a man who did many mighty signs and wonders by
 the power of God, as you have seen and already know. You crucified him!”

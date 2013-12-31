@@ -26,7 +26,7 @@ go back to my father and ask to be one of his servants.’”
 compassion for him. He ran to his son and hugged him and kissed him.”
 
 “The son said, ‘Father, I have sinned against God and against you. I am
-not worthy to be your son. Let me be your servant instead.’”
+not worthy to be your son.’”
 
 “But his father told one of his servants, ‘Go quickly! Bring the best
 clothes and put them on my son! Put a ring on his finger and put sandals
@@ -43,8 +43,9 @@ out and begged him to join the party, but he refused.”
 
 “He said, ‘All these years I’ve worked so faithfully for you! I never
 disobeyed you, and still you did not even give me one small goat so I
-could celebrate with my friends. But when this son of yours wastes your
-money on sinful behavior, you kill the best calf for him!’”
+could celebrate with my friends. But when this son of yours who wasted
+your money on sinful behavior came home, you killed the best calf for
+him!’”
 
 “The father answered, ‘My son, you are always with me, and everything I
 have is yours. But it is right for us to celebrate, because your brother

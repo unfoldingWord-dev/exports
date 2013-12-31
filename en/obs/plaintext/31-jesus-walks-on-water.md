@@ -17,14 +17,14 @@ The disciples were very afraid when they saw Jesus, because they thought
 they were seeing a ghost. Jesus knew that they were afraid, so he called
 out to them and said, “Do not be afraid. It is I!”
 
-Then Peter said to Jesus, “Lord, if it is you, command me to come to you
-on the water.” Jesus told Peter, “Come!”
+Then Peter said to Jesus, “Master, if it is you, command me to come to
+you on the water.” Jesus told Peter, “Come!”
 
 So, Peter got out of the boat and started walking to Jesus on the
 surface of the water. But after a short distance, he turned his eyes
 away from Jesus and began to look at the strong wind and waves.
 
-Then Peter became afraid and began to sink. He cried out, “Lord, save
+Then Peter became afraid and began to sink. He cried out, “Master, save
 me!” Jesus reached out right away and grabbed him. Then he said to
 Peter, “O you of little faith, why did you doubt?”
 
