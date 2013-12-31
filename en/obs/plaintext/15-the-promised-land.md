@@ -1,14 +1,14 @@
 15. The Promised Land
 =====================
 
-At last it was time for the Israelites to enter the Promised Land.
-Joshua sent two spies to the Canaanite city of Jericho. It was protected
-by strong walls. A prostitute named Rahab protected the spies and helped
-them escape because she believed God. They promised to protect Rahab and
-her family when Jericho was destroyed.
+At last it was time for the Israelites to enter Canaan, the Promised
+Land. Joshua sent two spies to the Canaanite city of Jericho. It was
+protected by strong walls. A prostitute named Rahab protected the spies
+and helped them escape because she believed God. They promised to
+protect Rahab and her family when Jericho was destroyed.
 
-To enter into the Promised Land, the Israelites had to cross the Jordan
-River. God told Joshua, “Have the priests go first.” When the priests’
+The Israelites had to cross the Jordan River to enter into the Promised
+Land. God told Joshua, “Have the priests go first.” When the priests’
 feet touched the Jordan River, the water stopped flowing so the
 Israelites could cross over on dry ground.
 

@@ -63,8 +63,8 @@ God had ended the drought and proved that He is the only God.
 After Elijah, God chose Elisha to be His prophet. God did many miracles
 through Elisha. One time, Naaman, an enemy commander, found out he had a
 horrible skin disease called leprosy. He had heard of Elisha so he went
-and asked Elisha to be healed. Elisha told him to dip himself seven
-times in the Jordan River.
+and asked Elisha to heal him. Elisha told him to dip himself seven times
+in the Jordan River.
 
 At first Naaman was angry and would not do it. But later he changed his
 mind and dipped himself seven times in the Jordan River. When he came up

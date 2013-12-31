@@ -1,7 +1,7 @@
 29. The Story of the Unmerciful Servant
 =======================================
 
-One day Peter said to Jesus, “Lord, how many times should I forgive my
+One day Peter said to Jesus, “Master, how many times should I forgive my
 brother when he sins against me? Up to seven times?” Jesus said, “Not
 seven times, but seventy times seven!” By this, Jesus meant that we
 should always forgive. Jesus told this story.

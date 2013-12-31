@@ -5,24 +5,24 @@ After a long time, many people were living in the world. They had become
 very wicked and violent. It became so bad that God decided to destroy
 the whole world with a huge flood.
 
-But Noah found grace in God’s eyes. He was the only righteous man among
-all the wicked people. God told Noah about the flood He was planning to
-send. He told Noah to build a huge boat called an ark.
+But Noah found favor with God. He was a righteous man, living among
+wicked people. God told Noah about the flood He was planning to send. He
+told Noah to build a huge boat.
 
 God told Noah to make the boat about 140 meters long, 23 meters wide,
 and 13.5 meters high. It was to be made of wood and have three levels,
 many rooms, a roof, and a window. The boat would keep Noah, his family,
-and two of every kind of animal safe during the flood.
+and every kind of land animal safe during the flood.
 
 Noah obeyed God. He and his three sons built the boat just the way God
 had told them. It took many years to build the boat, because it was so
 big. Noah warned the people about the coming flood and told them to turn
-to God, but they just laughed at him.
+to God, but they did not believe him.
 
-Noah and his family also gathered enough food for themselves and the
-animals. When everything was ready, God told Noah it was time for him,
-his wife, his three sons, and their wives to get into the boat—eight
-people in all.
+God also commanded Noah and his family to gather enough food for
+themselves and the animals. When everything was ready, God told Noah it
+was time for him, his wife, his three sons, and their wives to get into
+the boat—eight people in all.
 
 God sent a male and a female of every animal and bird to Noah so they
 could go into the boat and be kept safe during the flood. God sent seven
@@ -52,20 +52,20 @@ dry land, so it came back to Noah. A week later he sent the dove out
 again, and it came back with an olive branch in its beak! The water was
 going down, and the plants were growing again!
 
-Noah waited another week and sent out the dove a third time. This time,
-it did not come back. The water had dried up!
+Noah waited another week and sent out the dove a third time. This time
+it found a place to rest and did not come back. The water was drying up!
 
 Two months later God said to Noah, “You and your family and all the
 animals may leave the boat now. Have many children and grandchildren and
-fill the earth.” So they obeyed and left the boat.
+fill the earth.” So Noah and his family left the boat.
 
 After he got off the boat, Noah built an altar and sacrificed some of
 each kind of animal which could be used for a sacrifice. God was happy
 with the sacrifice and blessed Noah and his family.
 
-God said, “I will never again curse the ground because of humans or
-destroy the world with a flood, even though humans are sinful from their
-youth.”
+God said, “I promise I will never again curse the ground because of
+humans or destroy the world with a flood, even though humans are sinful
+from their youth.”
 
 God then made the first rainbow as a sign of His promise. Every time the
 rainbow appeared in the sky, God would remember what He promised and so

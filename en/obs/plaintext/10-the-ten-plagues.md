@@ -2,13 +2,13 @@
 ===================
 
 Moses and Aaron went to Pharaoh. They said, “This is what the God of
-Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of
-letting the Israelites go free, he made their work even harder!
+Israel says, ‘Let my people go!’” Pharaoh did not listen to them.
+Instead of letting the Israelites go free, he made their work even
+harder!
 
-Pharaoh kept refusing to let the people go, so God sent ten plagues on
-Egypt. (A plague is a terrible disaster.) Through these plagues, God
-showed Pharaoh that He is more powerful than Pharaoh and all of Egypt’s
-gods.
+Pharaoh kept refusing to let the people go, so God sent ten terrible
+disaster, called plagues, on Egypt. Through these plagues, God showed
+Pharaoh that He is more powerful than Pharaoh and all of Egypt’s gods.
 
 God turned the Nile River into blood, but Pharaoh still would not let
 the Israelites go.
@@ -17,9 +17,9 @@ God sent frogs all over Egypt. Pharaoh begged Moses to take away the
 frogs. But after all the frogs died, Pharaoh hardened his heart and
 would not let the Israelites go.
 
-So God sent a plague of gnats and then a plague of flies. Pharaoh called
-Moses and Aaron and told them they could leave if they stopped the
-plague. Moses prayed, and God removed all the flies from Egypt, but
+So God sent a plague of gnats. Then He sent a plague of flies. Pharaoh
+called Moses and Aaron and told them they could leave if they stopped
+the plague. Moses prayed, and God removed all the flies from Egypt, but
 Pharaoh hardened his heart and would not let the people go.
 
 Next God sent a sickness to kill all the farm animals that belonged to
@@ -39,14 +39,14 @@ But Pharaoh sinned again and hardened his heart and would not let the
 Israelites go.
 
 So God caused swarms of locusts to come over Egypt. These locusts ate
-what remained of the crops that the hail had not destroyed.
+all the crops that the hail had not destroyed.
 
 Then God sent darkness that lasted for three days. It was so dark that
-the Egyptians could not leave their houses. But where the Israelites
-lived, there was light.
+the Egyptians could not leave their houses. But there was light where
+the Israelites lived.
 
 Even after these nine plagues, Pharaoh still refused to let the
-Israelites go free. Since Pharaoh would not listen, there was one last
-plague that God planned to send. This would change Pharaoh’s mind.
+Israelites go free. Since Pharaoh would not listen, God planned to send
+one last plague. This would change Pharaoh’s mind.
 
 *A Bible story from: Exodus 5-10*

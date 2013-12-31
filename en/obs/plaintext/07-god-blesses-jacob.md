@@ -21,11 +21,15 @@ smelled the clothes, he thought it was Esau and blessed him.
 Esau hated Jacob because Jacob had stolen his rights as oldest son and
 also his blessing. So he planned to kill Jacob after their father died.
 
-But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
-far away to live with her relatives.
+But Rebekah heard of Esau’s plan. So she and Isaac sent Jacob far away
+to live with her relatives.
 
-While Jacob was there, he married four women who gave birth to a total
-of twelve sons and a daughter. God made him very wealthy.
+Jacob lived there for many years, and during that time he married four
+women who gave birth to a total of twelve sons and a daughter. God made
+him very wealthy.
+
+After twenty years away from his home in Canaan, Jacob returned there
+with his family, his servants, and all his herds of animals.
 
 He was very afraid because he thought Esau still wanted to kill him. So
 he sent Esau many herds of animals as a gift. The servants who brought

@@ -1,14 +1,14 @@
 23. The Birth of Jesus
 ======================
 
-When Joseph heard that Mary was pregnant, he knew it was not his baby,
-so he planned to quietly divorce her. Before he could do that, an angel
-appeared to him in a dream.
+Joseph was a righteous man. When he heard that Mary was pregnant, he
+knew it was not his baby. He did not want to shame her, so he planned to
+quietly divorce her. Before he could do that, an angel appeared to him
+in a dream.
 
 The angel said, “Joseph, do not be afraid to take Mary as your wife.
-What is in her has been conceived by the Holy Spirit. She will give
-birth to a son. Name him Jesus, because he will save the people from
-their sins.”
+What is in her is from the Holy Spirit. She will give birth to a son.
+Name him Jesus, because he will save the people from their sins.”
 
 So Joseph married her and took her home as his wife, but he did not
 sleep with her until she had given birth.
@@ -43,7 +43,7 @@ star in the sky. They realized it meant a new king of the Jews was born.
 So, they traveled a great distance to see this king. They came to
 Bethlehem and found the place where Jesus was living.
 
-When they saw Jesus with his mother, they fell down and worshiped him.
+When they saw Jesus with his mother, they bowed down and worshiped him.
 They gave Jesus expensive gifts. Then they returned home.
 
 *A Bible story from: Matthew 1; Luke 2*

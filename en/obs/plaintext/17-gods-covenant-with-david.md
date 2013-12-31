@@ -3,8 +3,8 @@
 
 Saul was the first king of Israel. He was tall and handsome, just like
 the people wanted. Saul did well at first, but he became a wicked man
-who did not obey God, so God chose a different man to be king in his
-place.
+who did not obey God, so God chose a different man who would one day be
+king in his place.
 
 This man’s name was David. He was a shepherd from the town of Bethlehem.
 While watching the sheep, David had killed both a lion and a bear which
@@ -18,9 +18,9 @@ kill Goliath and save Israel.
 
 Saul became jealous of David and tried many times to kill him. One day
 Saul was looking for David so he could kill him. Saul went into the same
-cave where David was hiding. Instead of killing Saul, David cut off a
-piece of his clothes to prove to Saul that he would not kill him to
-become king.
+cave where David was hiding but did not see him. Instead of killing
+Saul, David cut off a piece of his clothes to prove to Saul that he
+would not kill him to become king.
 
 Eventually, Saul died in battle, and David became king of Israel. He was
 a good king, and the people loved him. God blessed David and made him

@@ -12,7 +12,7 @@ would be blessed. This blessing was the coming Messiah who would one day
 provide the way of salvation for all people groups.
 
 God promised Moses that He would raise up another prophet like Moses.
-This was another reference to the coming Messiah.
+This was another promise about the coming Messiah.
 
 God promised David that the Messiah would be one of David’s own
 descendants.
@@ -37,22 +37,21 @@ coming Messiah would be the perfect king who would sit on the throne of
 his ancestor David, who would reign over the whole world forever, and
 who would judge honestly and make the right decision every time.
 
-The prophets predicted the birth of the coming Messiah. Malachi foretold
-that a great prophet would come before the Messiah came. Isaiah
+God's prophets predicted many things about the coming Messiah. Malachi
+foretold that a great prophet would come before the Messiah came. Isaiah
 prophesied that the Messiah would be born from a virgin. Micah said that
 he would be born in the town of Bethlehem.
 
-The prophets also prophesied about the Messiah’s ministry. Isaiah said
-he would live in Galilee, comfort the broken-hearted, proclaim freedom
-to captives, and release to prisoners. He also predicted that the
-Messiah would heal sick people, including those who could not hear, see,
-speak, or walk.
+Isaiah said he would live in Galilee, comfort the broken-hearted, and
+proclaim freedom to captives and release to prisoners. He also predicted
+that the Messiah would heal sick people, including those who could not
+hear, see, speak, or walk.
 
 Isaiah prophesied that the Messiah would be hated without reason and
-rejected. The Psalms foretold that the Messiah’s people would gamble for
-his clothes and he would be betrayed by a friend. (Psalms are Jewish
-worship songs in the Scriptures.) Zechariah foretold that the friend
-would be paid thirty pieces of silver for betraying him.
+rejected. Other prophets foretold that the those who killed the Messiah
+would gamble for his clothes and he would be betrayed by a friend.
+Zechariah foretold that the friend would be paid thirty pieces of silver
+for betraying him.
 
 The prophets also told about how the Messiah would die. Isaiah
 prophesied that the Messiah would be spit on, mocked, and beaten. Then

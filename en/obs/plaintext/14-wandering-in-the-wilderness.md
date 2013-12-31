@@ -12,8 +12,8 @@ believe in God. They worshiped false gods and did many evil things.
 
 God told the Israelites, “You must get rid of all the Canaanites in the
 Promised Land. Do not make peace with them and do not marry them. You
-must completely destroy all of their idols. If you do not do these
-things, you will worship their idols instead of Me.”
+must completely destroy all of their idols. If you do not obey me, you
+will worship their idols instead of Me.”
 
 When the Israelites reached the edge of Canaan, Moses chose twelve men,
 one from each tribe of Israel. He gave the men instructions to go and

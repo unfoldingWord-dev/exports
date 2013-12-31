@@ -29,7 +29,7 @@ Red Sea.”
 The cloud pillar then moved between the Israelites and the Egyptians so
 the Egyptians could not see the Israelites.
 
-Moses lifted his hand over the sea, and God caused the wind to blow. The
+God told Moses to raise his hand over the sea and divide the waters. The
 wind made the water in the sea separate to the left and the right,
 making a path through the sea.
 

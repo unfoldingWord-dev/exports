@@ -2,8 +2,8 @@
 ========================
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Sinai. God sent His prophets to warn
-them to repent and worship Him again, but they refused to listen.
+Covenant that God had made with them at Sinai. God sent His prophets to
+warn them to repent and worship Him again, but they refused to listen.
 
 So God punished both nations by allowing them to be destroyed. Israel
 was destroyed by the Assyrian Empire, a powerful, cruel nation. The
@@ -26,7 +26,7 @@ but they refused to listen.
 About 100 years after the Assyrians destroyed Israel, God sent
 Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a
 powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant
-and pay him lots of money every year.
+and pay him a lot of money every year.
 
 But soon the people of Judah rebelled against the Babylonians. So, the
 Babylonians came back and attacked them. They captured the city of

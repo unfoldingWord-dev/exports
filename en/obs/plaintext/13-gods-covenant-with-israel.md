@@ -10,9 +10,9 @@ God said to Moses and the people of Israel, “If you will obey My voice
 and keep My covenant, you will be My prized possession, a kingdom of
 priests, and a holy nation.”
 
-Three days later, after the people had prepared themselves, God came
-down on top of Mount Sinai with thunder, lightning, smoke, and a loud
-trumpet blast. Only Moses was allowed to go up the mountain.
+Three days later, after the people had prepared themselves spiritually,
+God came down on top of Mount Sinai with thunder, lightning, smoke, and
+a loud trumpet blast. Only Moses was allowed to go up the mountain.
 
 Then God gave them the covenant and said, “I am the LORD your God, who
 saved you from slavery in Egypt. Do not worship other gods.”
@@ -32,13 +32,13 @@ people obeyed these laws, God promised that He would bless and protect
 them. If they disobeyed them, God would punish them.
 
 God gave the Israelites a detailed description of a tent He wanted them
-to make. It was called the Tent of Meeting. The Tent of Meeting had two
-rooms, separated by a large curtain. No one could enter the room behind
-the curtain except the high priest, because God lived there.
+to make. It was called the Tent of Meeting, and it had two rooms,
+separated by a large curtain. No one could enter the room behind the
+curtain except the high priest, because God lived there.
 
 Anyone who disobeyed God’s law could bring an animal to the Tent of
-Meeting to sacrifice to God. A priest would kill the animal and burn it
-on the altar. The blood of the sacrifice covered the person’s sin and
+Meeting as a sacrifice to God. A priest would kill the animal and burn
+it on the altar. The blood of the sacrifice covered the person’s sin and
 made them clean in God’s sight. God chose Aaron, Moses’ brother, and his
 descendants to be His priests.
 
@@ -50,10 +50,10 @@ For many days, Moses was on top of Mount Sinai talking with God. The
 people became tired of waiting for him to return. So they brought gold
 to Aaron and asked him to make an idol for them!
 
-Aaron made a golden idol in the shape of a calf. The people began to
-wildly worship and sacrifice to the idol! God was very angry with their
-sin and planned to destroy them. But Moses prayed for them, and God
-listened to his prayer and did not destroy them.
+So Aaron made a golden idol in the shape of a calf. The people began to
+wildly worship the idol and make sacrifices to it! God was very angry
+with their sin and planned to destroy them. But Moses prayed for them,
+and God listened to his prayer and did not destroy them.
 
 When Moses came down the mountain and saw the idol, he was so angry that
 he smashed the stones on which God had written the Ten Commandments.

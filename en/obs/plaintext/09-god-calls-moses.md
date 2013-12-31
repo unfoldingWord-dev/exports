@@ -21,13 +21,15 @@ River.
 A certain Israelite woman gave birth to a baby boy. She and her husband
 hid the baby for as long as they could.
 
-Then they put him in a floating basket in the Nile River. His older
-sister watched to see what would happen to him.
+When they could no longer hide him, they put him in a floating basket in
+the Nile River. His older sister watched to see what would happen to
+him.
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
-baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child was old enough, his mother returned him to
-Pharaoh’s daughter. She named him Moses.
+baby, she took him as her own son. She hired an Israelite woman to nurse
+him, without realizing the woman was the baby's own mother. When the
+child was old enough, his mother returned him to Pharaoh’s daughter. She
+named him Moses.
 
 One day, when Moses had grown up, he saw an Egyptian beating an
 Israelite slave. Moses tried to save his fellow Israelite.
@@ -56,7 +58,8 @@ Moses said, “What if the people ask me who sent me, what should I say?”
 God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is
 My name forever.”
 
-Moses did not want to go, so God sent Moses’ brother, Aaron, to help
-him. God warned Moses and Aaron that Pharaoh would be stubborn.
+Moses did not want to go because he thought he could not speak well, so
+God sent Moses’ brother, Aaron, to help him. God warned Moses and Aaron
+that Pharaoh would be stubborn.
 
 *A Bible story from: Exodus 1-4*

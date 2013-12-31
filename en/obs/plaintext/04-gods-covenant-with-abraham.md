@@ -2,9 +2,8 @@
 ==============================
 
 Many years after the flood, there were again many people in the world,
-and they all spoke the same language. But the people did not obey God.
-Instead of having children and filling the earth, they gathered together
-and built a city.
+and they all spoke the same language. But instead of filling the earth
+as God had commanded, they gathered together and built a city.
 
 They were very proud, and they did not care about what God said. They
 even began building a tall tower to reach heaven. God saw that if they
@@ -32,10 +31,10 @@ One day, Abram met Melchizedek, the priest of God Most High. Melchizedek
 blessed Abram and said, “May God Most High who owns heaven and earth
 bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
 
-Abram and Sarai waited over twenty years, but they still had no son. God
-spoke to Abram and promised again that he would have a son and as many
+Twenty years went by, but Abram and Sarai still had no son. God spoke to
+Abram and promised again that he would have a son and as many
 descendants as the stars in the sky. Abram believed God’s promise. God
-said that Abram was righteous through believing in God's promise.
+declared that Abram was righteous because he believed in God's promise.
 
 Then God made a covenant with Abram. A covenant is an agreement between
 two parties. God said, “I will give you a son from your own body. To

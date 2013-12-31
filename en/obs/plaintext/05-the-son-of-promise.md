@@ -11,7 +11,7 @@ So Abram married Hagar. Hagar had a baby boy, and Abram named him
 Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen
 years old, God again spoke to Abram and said,
 
-“I am God Almighty. I will make a covenant with you.” Then Abraham bowed
+“I am God Almighty. I will make a covenant with you.” Then Abram bowed
 to the ground. God said, “You will be the father of many nations. I will
 give you and your descendants the land of Canaan as their possession and
 I will be their God forever. Every male in your family must be
@@ -30,11 +30,11 @@ birth to Abraham's son. They named him Isaac as God had told them to do.
 
 When Isaac was a young man, God tested Abraham’s faith by saying, “Take
 Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham
-obeyed what God told him to do.
+obeyed God and prepared to sacrifice his son.
 
 As they walked to the place of the sacrifice Isaac asked, “Father, we
 have wood for the sacrifice, but where is the lamb?” Abraham replied,
-“God will provide the lamb.”
+“God will provide the lamb for the sacrifice.”
 
 When they reached the place of sacrifice, Abraham tied up his son Isaac
 and laid him on an altar. He was about to kill his son when God said,

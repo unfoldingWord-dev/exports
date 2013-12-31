@@ -1,10 +1,10 @@
 28. The Rich Young Ruler
 ========================
 
-One day a rich young ruler came up to Jesus and asked him, “Good
-teacher, what good thing must I do to have eternal life?” Jesus said to
-him, “Why do you call me good? There is only One who is good, and that
-is God. But if you want to have eternal life, obey God’s laws.”
+One day a rich young ruler came up to Jesus and asked him, “Teacher,
+what good thing must I do to have eternal life?” Jesus said to him, “Why
+do you ask me about what is good? There is only One who is good, and
+that is God. But if you want to have eternal life, obey God’s laws.”
 
 “Which ones?” he asked. Jesus replied, “Do not murder. Do not commit
 adultery. Do not steal. Do not lie. Honor your father and mother, and

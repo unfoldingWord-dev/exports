@@ -37,9 +37,9 @@ Then Jesus went through that area, and great crowds came to him. They
 brought all the sick people, including those who could not see, walk,
 hear, or speak, and Jesus healed them.
 
-Many people with demons were brought to Jesus. The demons came out,
-often shouting, “You are the Son of God!” The crowds were amazed and
-worshiped God.
+Many people with demons were brought to Jesus. At Jesus' command, the
+demons came out, often shouting, “You are the Son of God!” The crowds
+were amazed and worshiped God.
 
 Then Jesus chose twelve men who were called his disciples. The disciples
 were Jesus’ students. They traveled with him and learned from him.

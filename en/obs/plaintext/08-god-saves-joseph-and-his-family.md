@@ -19,9 +19,9 @@ a slave to a wealthy government official. Joseph served his master well,
 and God blessed Joseph.
 
 His master’s wife tried to sleep with Joseph, but Joseph refused to sin
-against God in this way. She became angry and had Joseph arrested and
-sent to prison. Even in prison, Joseph remained faithful to God, and God
-blessed him.
+against God in this way. She became angry and falsely accused Joseph so
+that he was arrested and sent to prison. Even in prison, Joseph remained
+faithful to God, and God blessed him.
 
 Years later, Joseph was still in prison, even though he had done nothing
 wrong. The king of Egypt, who was called the Pharaoh, had two dreams

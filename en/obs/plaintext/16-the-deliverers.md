@@ -65,11 +65,11 @@ Then, at the same time, they all broke the pots that were hiding the
 torches. They blew their horns and shouted, “A sword for God and for
 Gideon!”
 
-God confused the Midianites, so that they attacked each other and
-started killing each other. Immediately, the rest of the Israelites were
-called from their homes to come help chase the Midianites. They killed
-many of them and chased the rest of them out of their land. 120,000
-Midianites died that day. God had saved Israel.
+God confused the Midianites, so that they started attacking and killing
+each other. Immediately, the rest of the Israelites were called from
+their homes to come help chase the Midianites. They killed many of them
+and chased the rest of them out of their land. 120,000 Midianites died
+that day. God had saved Israel.
 
 The people wanted to make Gideon their king. Gideon wisely refused their
 offer, but he asked them for some of the money that each of them had

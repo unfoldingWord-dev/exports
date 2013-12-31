@@ -21,11 +21,11 @@ angel of God passed over those houses and everybody inside was safe.
 They were saved because of the lamb’s blood.
 
 But the Egyptians did not believe God or obey His commands. So the angel
-of God did not pass over their houses. The angel of God killed every
-firstborn son in Egypt.
+of God did not pass over their houses. The angel of God killed every one
+of the Egyptians' firstborn sons.
 
 From the firstborn of the prisoner in jail, to the firstborn of Pharaoh,
-every firstborn died. There was much weeping in Egypt.
+every Egyptian firstborn died. There was much weeping in Egypt.
 
 Pharaoh called for Moses and Aaron and said, “Take the Israelites and
 leave Egypt immediately!” The Egyptians encouraged the Israelites to
