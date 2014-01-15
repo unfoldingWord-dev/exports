@@ -1,54 +1,58 @@
-**OPEN BIBLE STORIES**
-
-an **unrestricted** visual mini-Bible in any language
+داستان‌های آزاد از کتاب مقدّس یک کتاب مقدّس کوچک تصویری به هر زبان دنیا
+و بدون هیچ‌گونه محدودیّت
 
 [http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com")
 
-Open Bible Stories, v. 2.0
+داستان‌های آزاد از کتاب مقدّس، نسخه‌ی 2.0، تهیّه شده توسّط:
 
-Created by Distant Shores Media
-([http://distantshores.org](http://distantshores.org "http://distantshores.org"))
-and the Door43 world missions community
-([http://door43.org](http://door43.org "http://door43.org")).
+Distant Shores Media
+[http://distantshores.org](http://distantshores.org "http://distantshores.org")
 
-**License:**
+و نیز توسّط:
 
-This work is made available under a Creative Commons
-Attribution-ShareAlike 3.0 Unported License
-([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")).
+Door43 world missions community
+[http://door43.org](http://door43.org "http://door43.org")
 
-You are free:
+این کار دست‌آورد تلاش Creative Commons Attribution است Share Alike
+نسخه‌ی 3.0 مجوّز بدون محدودیّت:
+[http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")
 
--   **to Share**— to copy, distribute and transmit the work
--   **to Remix** — to adapt the work
--   to make commercial use of the work
+شما آزادانه و طبق شرائط درپی آمده، می‌توانید برای بازخوانی، تطبیق و
+استفاده‌ی تجاری از این اثر؛ آن‌را درمیان بگذارید، نسخه‌برداری، پخش و
+ارسال نمایید.
 
-Under the following conditions:
+نقل‌قول
 
--   **Attribution** — You must attribute the work as follows: “Original
-    work available at
-    [www.openbiblestories.com](http://www.openbiblestories.com "http://www.openbiblestories.com").”
-    Attribution statements in derivative works should not in any way
-    suggest that we endorse you or your use of this work.
--   **ShareAlike** — If you alter, transform, or build upon this work,
-    you may distribute the resulting work only under the same or similar
-    license to this one.
+نقل‌قول شما از این اثر باید به‌قرار درپی آمده باشد: نسخه‌ی اصلی و اوّلیه
+در نشانی اینترنتی
+[www.openbiblestories.com](http://www.openbiblestories.com "http://www.openbiblestories.com")
+در دسترس قرار دارد. نقل‌قول‌های بیان شده در نسخه‌های جدید، به‌هیچ صورتی
+نباید تصوّر پشتیبانی و تأیید ما را از شما و یا استفاده‌ی شما از این
+کتاب، ایجاد نمایند.
 
-Use of trademarks: **unfoldingWord** is a trademark of Distant Shores
-Media and may not be included on any derivative works created from this
-content. Unaltered content from
+Share Alike
+
+اگر شما برروی این کتاب، اصلاح، تغییر و کاری جدید انجام می‌دهید، شایسته
+است تا کار حاصله را تنها با مجوّزی یکسان یا شبیه به آن‌چه برای این کتاب،
+به‌کار رفته است، پخش و منتشر نمایید. استفاده از علائم تجاری ثبت شده.
+Unfolding Word علامت تجاری ثبت شده برای مؤسّسه‌ی Distant Shores Media
+است و نباید به هیچ‌یک از نسخه‌‌هایی که از این کتاب تهیّه می‌شود، افزوده
+گردد. متن بدون تغییر از
 [http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com")
-must include the **unfoldingWord** logo when distributed to others. But
-if you alter the content in any way, you must remove the
-**unfoldingWord** logo before distributing your work.
+به‌هنگام دادن این نسخه به دیگران، باید آرم و نشان Unfolding Word را در
+خود داشته باشد. امّا اگر شما هرگونه تغییر و اصلاحی را در محتوای این نسخه
+اِعمال می‌کنید، بایستی پیش‌از پخش نسخه‌ی خود، نشانه و آرم Unfolding Word
+را حذف کنید.
 
-Attribution of artwork: All images used in these stories are © Sweet
-Publishing
-([www.sweetpublishing.com](http://www.sweetpublishing.com "http://www.sweetpublishing.com"))
-and are made available under a Creative Commons Attribution-Share Alike
-License
-([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")).
+نقل‌قول‌های هنری
 
-To our brothers and sisters in Christ all over the world—the global
-church. It is our prayer that God would use this visual overview of His
-Word to bless, strengthen, and encourage you.
+همه‌ی تصویر‌های به‌کار برده شده در این داستان‌ها، کار Sweet Publishing و
+با نشانی اینترنتی:
+[www.sweetpublishing.com](http://www.sweetpublishing.com "http://www.sweetpublishing.com")
+بوده و با همکاری Creative Commons Attribution در دسترس قرار گرفته‌اند.
+مجوّز Share Alike:
+[http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")
+
+پیشکش به برادران و خواهران در مسیح، به کلیسای جهانی در سراسر جهان. دعای
+ما این است که خدا از این اثر کوچک تصویری از کلام خویش برای برکت، تقویت و
+تشویق شما استفاده فرماید.
