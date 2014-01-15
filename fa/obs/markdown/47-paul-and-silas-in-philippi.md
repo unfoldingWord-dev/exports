@@ -1,87 +1,85 @@
-47. Paul and Silas in Philippi
-==============================
+۴۷.پولس و سیلاس در شهر فیلیپی
+=============================
 
 ![obs-47-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-01.jpg "obs-47-01.jpg")
 
-Some years later, Paul and his friend Silas went to the town of
-Philippi, proclaiming the Good News about Jesus. They met a woman named
-Lydia who sold purple cloth. She loved and worshiped God.
+چند‌سال بعد، پولس و دوستش سیلاس به شهر فیلیپی رفتند تا خبر خوش درباره‌ی
+عیسی را به مردمان آن‌جا بدهند. آن‌ها با زنی به‌نام لیدیه آشنا شدند که
+پارچه‌های ارغوانی می‌فروخت. او خدا را دوست داشت.
 
 ![obs-47-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-02.jpg "obs-47-02.jpg")
 
-God opened her heart to understand the message of Jesus, and she and her
-family were baptized. She invited Paul and Silas to stay at her house,
-so they did.
+خدا دل لیدیه را باز کرد تا پیغام مسیح را بفهمد، لیدیه و خانواده‌اش غسل
+تعمید گرفتند. او پولس و سیلاس را دعوت کرد تا در خانه‌اش بمانند و آن‌ها
+نیز قبول کردند.
 
 ![obs-47-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-03.jpg "obs-47-03.jpg")
 
-Paul and Silas often went to pray while they were in Philippi. Every day
-as they walked to the place of prayer, a slave girl possessed by a demon
-followed them. She was a fortune teller, and she made a lot of money for
-her masters.
+پولس و سیلاس گاهی برای دعا به فیلیپی می‌رفتند. هرروز درحالی ‌ه برای دعا
+به آن‌جا می‌رفتند، دختری را می‌دیدند که اسیر روح ناپاک بود و فال‌گیری
+می‌کرد و از این راه، سود کلانی عاید اربابانش می‌نمود.
 
 ![obs-47-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-04.jpg "obs-47-04.jpg")
 
-She kept yelling, “These men are servants of the Most High God. They are
-telling you the way to be saved!” She did this so often that Paul became
-annoyed.
+او با صدای بلند می‌گفت: «این آقایان خدمت‌گزاران خدا هستند و آمده‌اند تا
+راه نجات را به شما نشان دهند.». چند‌روز کار او همین بود تااین‌که پولس
+آزرده خاطر شد.
 
 ![obs-47-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-05.jpg "obs-47-05.jpg")
 
-One day, Paul turned to her and said to the demon, “In the name of
-Jesus, come out of her.” Right away the demon left her.
+یک‌روز پولس به‌طرف دختر برگشت و به روح ناپاکی که در او بود گفت: «به‌نام
+عیسی از وجود این دختر بیرون بیا.». در همان لحظه روح ناپاک او را رها کرد.
 
 ![obs-47-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-06.jpg "obs-47-06.jpg")
 
-The men who owned the slave girl became very angry when they found out
-what had happened, because she could no longer make money for them.
+وقتی اربابان او دیدند که چه اتّفاقی افتاده است، بسیار عصبانی شدند، زیرا
+آن دختر دیگر نمی‌توانست برای آن‌ها درآمدی کسب کند.
 
 ![obs-47-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-07.jpg "obs-47-07.jpg")
 
-So they had Paul and Silas arrested, beaten, and thrown into jail.
+بنابراین آن‌ها پولس و سیلاس را دستگیر و کتک زدند و به زندان انداختند.
 
 ![obs-47-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-08.jpg "obs-47-08.jpg")
 
-Paul and Silas were put in the most secure part of the prison with their
-feet locked up. In the middle of the night, they were singing songs of
-praise to God.
+پولس و سیلاس را به زندانی که از ایمنی زیادی برخوردار بود بردند و پاهای
+آنان را بستند. در نیمه‌های شب آن‌ها سرودهایی در ستایش و پرستش خدا
+می‌خواندند.
 
 ![obs-47-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-09.jpg "obs-47-09.jpg")
 
-Suddenly, the earth shook and the prison doors flew open. All the
-prisoners’ chains fell off.
+ناگهان، زمین‌لرزه‌ای رخ داد و درهای زندان باز شد و زنجیرها از دست‌وپای
+زندانیان فرو ریخت.
 
 ![obs-47-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-10.jpg "obs-47-10.jpg")
 
-When the jailer saw that the doors were open, he planned to kill
-himself, thinking that all the prisoners had escaped. (He knew he would
-be killed for letting the prisoners escape.) Paul saw him and yelled,
-“Stop! Do not hurt yourself. We are all here.”
+وقتی رئیس زندان دید که درهای زندان باز شده‌اند، تصمیم گرفت که خود را
+بکشد، زیرا فکر می‌کرد که تمام زندانیان فرار کرده‌اند. (او می‌دانست که
+اگر زندانیان فرار کنند، او کشته خواهد شد.). پولس او را دید و فریاد زد:
+«به خود صدمه نزن، همه‌ی ما این‌جا هستیم.».
 
 ![obs-47-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-11.jpg "obs-47-11.jpg")
 
-The jailer was terrified! He took Paul and Silas home, gave them some
-food, and washed their wounds. Then he said, “What must I do to be
-saved?”
+زندان‌بان وحشت‌زده شد! او پولس و سیلاس را به خانه‌اش برد و به آن‌ها غذا
+داد و هم‌چنین زخم‌هایشان را شست. سپس گفت: «چه کنم که نجات یابم؟».
 
 ![obs-47-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-12.jpg "obs-47-12.jpg")
 
-Paul answered, “Believe in the Lord Jesus Christ, and you and your
-family will be saved.” Then Paul baptized the jailer and his whole
-family, and they celebrated together.
+پولس جواب داد: «به عیسی خداوند ایمان بیاور تا تو و تمام افراد خانواده‌ات
+نجات یابید.». سپس پولس، آن زندان‌بان و تمام اعضاء خانواده‌ی او را غسل
+تعمید داد و آن‌ها باهم جشن گرفتند.
 
 ![obs-47-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-13.jpg "obs-47-13.jpg")
 
-The next day the leaders of the city freed Paul and Silas and asked them
-to leave Philippi. Paul and Silas visited Lydia and some other friends
-and then left the city. The Good News of Jesus kept spreading, and the
-Church kept growing.
+روز بعد، رهبران شهر به‌سراغ پولس و سیلاس آمدند و آزادشان کردند و از
+آن‌ها خواستند تا شهر را ترک کنند. پولس و سیلاس به دیدار لیدیه و تنی چند
+از دوستانشان رفتند و سپس شهر را ترک کرند. خبر خوش انجیل عیسی مسیح
+هم‌چنان گسترش می‌یافت و کلیسا درحال رشد بود.
 
 ![obs-47-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-14.jpg "obs-47-14.jpg")
 
-Paul and other Christian leaders traveled to many cities, preaching and
-teaching about Jesus. They also wrote many letters to the churches to
-encourage and teach them about God’s New Covenant. These writings are
-called the New Testament.
+پولس و رهبران مسیحی به شهرهای زیادی رفتند و به تعلیم و موعظه درباره‌ی
+عیسی پرداختند. هم‌چنین آن‌ها نامه‌های زیادی به کلیساها می‌نوشتند و به
+آن‌ها درباره‌ی پیمان جدید خداوند تعلیم می‌دادند. این نوشته‌ها را عهد
+جدید نامیدند.
 
-*A Bible story from: Acts 16:11-40*
+داستانی برگرفته از کتاب مقدّس: کتاب اعمال رسولان، فصل ۱۶، آیات ۱۱تا۴۰

@@ -1,113 +1,109 @@
-49. God’s New Covenant
-======================
+۴۹.پیمان تازه‌ی خدا
+===================
 
 ![obs-49-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-01.jpg "obs-49-01.jpg")
 
-Jesus’ mother, Mary, was a virgin when he was born because Jesus is
-God’s Son. Jesus is both God and man at the same time.
+زمانی که عیسی به دنیا آمد، مادرش مریم، یک باکره بود چون عیسی پسر خداست.
+عیسی هم خدا و هم انسان است.
 
 ![obs-49-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-02.jpg "obs-49-02.jpg")
 
-Jesus did many miracles proving he is God. He walked on water, calmed
-storms, healed many sick people, drove out demons, raised the dead to
-life, and fed 5,000 people with five loaves of bread and two fish.
+عیسی برای ثابت کردن خداوندی خود، معجزات بسیاری انجام داد. او بر‌روی آب
+راه رفت، توفان را آرام کرد، بیماران را شفا داد، ارواح پلید را اخراج کرد،
+مرده را زنده کرد، پنج هزار نفر را با پنج نان و دو ماهی غذا داد.
 
 ![obs-49-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-03.jpg "obs-49-03.jpg")
 
-Jesus was also a great teacher. He taught that you need to love your
-neighbor the same way you love yourself.
+عیسی معلّم خوبی نیز بود. او تعلیم داد که باید همسایه‌ی خود را مانند خود
+دوست بداریم.
 
 ![obs-49-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-04.jpg "obs-49-04.jpg")
 
-He also taught that you need to love God more than anything else,
-including your wealth.
+او به ما آموخت که خداوند را باید بیش‌از هر‌چیز، ازجمله ثروت دوست داشت.
 
 ![obs-49-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-05.jpg "obs-49-05.jpg")
 
-Jesus taught that salvation is worth more than anything else in the
-world.
+عیسی به ما آموخت که ارزش نجات و رستگاری بالا‌تر از هرچیز در این دنیاست.
 
 ![obs-49-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-06.jpg "obs-49-06.jpg")
 
-He taught that not all people will receive him and be saved. Those who
-are not saved will be gathered at the end of the world and will burn
-forever in the fires of hell.
+او به ما آموخت که همه‌ی مردم او را قبول نمی‌کنند و نجات نمی‌یابند. و
+کسانی که نجات نمی‌یابند، سرانجام در آتش ابدی خواهند سوخت.
 
 ![obs-49-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-07.jpg "obs-49-07.jpg")
 
-Jesus taught that God loves sinners very much. He is ready to forgive
-them and make them His children.
+عیسی به ما آموخت که خدا گناه‌کاران را بسیار دوست دارد. او آماده است که
+همه‌ی آن‌ها را ببخشد و جزو فرزندان خود گرداند.
 
 ![obs-49-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-08.jpg "obs-49-08.jpg")
 
-Jesus also taught that everyone in the world has sinned and is separated
-from God. Because of sin, everyone has become an enemy of God. God hates
-sin.
+عیسی به ما آموخت که همه گناه کرده و از خدا دور شده‌اند. به‌خاطر گناه،
+همه‌ی انسان‌ها دشمنان خدا هستند. خدا از گناه متنفّر است.
 
 ![obs-49-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-09.jpg "obs-49-09.jpg")
 
-But God loved the world so much that He gave His only son, Jesus, so
-that whoever believes in Him will not go to hell but will live with Him
-forever.
+ولی خدا جهان را آن‌قدر محبّت نمود که تنها فرزند خود عیسی را داد، تا هرکه
+به او ایمان آورد هلاک نشود و تا ابد با او زندگی کند.
 
 ![obs-49-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-10.jpg "obs-49-10.jpg")
 
-Because of your sin, you are guilty. You deserve death and God’s anger,
-but God poured out His anger on Jesus instead. When Jesus died on the
-cross, he received your punishment.
+به‌خاطر گناه، شما محکوم و سزاوار مرگ و غضب خدا هستید. ولی خدا غضب خود را
+برروی عیسی مسیح قرار داد. زمانی‌که عیسی برروی صلیب مرد، مجازات ما را به
+خود گرفت.
 
 ![obs-49-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-11.jpg "obs-49-11.jpg")
 
-Jesus chose to die as a perfect, sinless sacrifice to take away your
-sins and the sins of the whole world. Because of Jesus, any sin can be
-forgiven, no matter what it is.
+عیسی تصمیم گرفت که به‌عنوان یک قربانی کامل و بی‌گناه جان خود را بدهد تا
+گناهان شما و تمام جهان پاک گردد. به‌خاطر عیسی است که گناهان ما بخشیده
+می‌شود، مهمّ نیست که گناهان ما چه باشند.
 
 ![obs-49-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-12.jpg "obs-49-12.jpg")
 
-No one can be saved by doing good things. Nothing you do can fix your
-relationship with God. Your sins can only be washed away if you believe
-that Jesus is the Son of God, and that he died and rose again to take
-away your sins.
+هیچ‌کس نمی‌تواند به‌وسیله‌ی کارهای خوب خود نجات یابد. هیچ عملی نمی‌تواند
+رابطه‌ی ما را با خدا درست کند. گناهان شما درصورتی پاک می‌گردند که ایمان
+آورید عیسی، پسر خدا مرد و برخاست تا گناهان شما را پاک سازد.
 
 ![obs-49-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-13.jpg "obs-49-13.jpg")
 
-Anyone who believes in Jesus and is baptized will be saved, but whoever
-does not believe will be rejected. It does not matter if you are rich or
-poor, man or woman, old or young, or where you are from. God loves you
-and wants you to believe in Jesus so He can have a relationship with
-you.
+هرکس به مسیح ایمان آورد و تعمید گیرد، نجات را دریافت خواهد کرد. امّا،
+کسانی که ایمان نیاورند، طرد خواهند شد. مهمّ نیست اگر فقیر یا غنی هستید،
+مرد یا زن، پیر یا جوان و یا اهل کجا هستید. خدا شما را دوست دارد. او
+می‌خواهد شما به مسیح ایمان آورید تا با شما رابطه برقرار کند.
 
 ![obs-49-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-14.jpg "obs-49-14.jpg")
 
-Do you believe that Jesus is the Messiah, the only Son of God? Do you
-believe that you are a sinner and deserve God’s punishment? Do you
-believe that Jesus died on the cross to take away your sins? Jesus
-invites you to come to him, believe in him, and be baptized.
+آیا شما ایمان دارید که مسیحای موعود، تنها فرزند روحانی خداست؟ آیا ایمان
+دارید که گناه‌کار و سزاوار مجازات خدا هستید؟ آیا ایمان دارید که مسیح
+برروی صلیب مرد تا گناهان شما را پاک کند؟ عیسی از شما دعوت می‌کند که نزد
+او آیید، به او ایمان آورید و تعمید گیرید.
 
 ![obs-49-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-15.jpg "obs-49-15.jpg")
 
-If you believe this, you are a Christian! God has taken you out of
-Satan’s kingdom of darkness and put you into God’s Kingdom of light. All
-the old things are gone, because God makes all things new.
+اگر این‌را باور دارید، شما مسیحی هستید! خداوند شما را از قلمرو ملکوت
+شیطان و تاریکی بلند کرده و به ملکوت خدا و نور برده است. هر‌چیز کهنه رفته
+است. چون خدا همه‌چیز را نو ساخته است.
 
 ![obs-49-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-16.jpg "obs-49-16.jpg")
 
-If you are a Christian, your sins are forgiven because of what Jesus
-did. Now, when God looks at you, He does not see you as an enemy, but He
-sees you as a close friend.
+اگر شما مسیحی هستید، گناهان شما به‌خاطر کار مسیح بر‌روی صلیب بخشیده
+شده‌اند. خدا دیگر به شما مانند یک دشمن نگاه نمی‌کند، بلکه شما را هم‌چون
+دوست صمیمی خود می‌بیند.
 
 ![obs-49-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-17.jpg "obs-49-17.jpg")
 
-As a friend of God, you will want to follow Jesus’ teachings. Even
-though you are a Christian, you will still struggle with sin. But God
-says if you confess your sins, He is faithful and will forgive you and
-will give you strength to fight against sin.
+به‌عنوان دوست خدا، شما اشتیاق دارید تا تعالیم او را دنبال کنید. حتّی اگر
+مسیحی باشید، هرروزه با گناه چالش خواهید داشت. خداوند امّا می‌فرماید، گر
+گناهان خود را اعتراف کنید، خداوند امین است. او شما را خواهد بخشید و به
+شما قوّت می‌دهد تا درمقابل گناه به‌ایستید.
 
 ![obs-49-18.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-18.jpg "obs-49-18.jpg")
 
-God tells you to pray, study His Word, worship Him with other
-Christians, and tell others what He has done for you. All of these
-things help you to grow in your relationship with Him.
+خداوند از شما می‌خواهد دعا کنید، کلام او را بخوانید، با مسیحیان دیگر او
+را پرستش کنید، به دیگران از کار مسیح در زندگی خود شهادت دهید. تمام
+این‌ها به شما کمک خواهند کرد تا در رابطه‌ی خود با خدا رشد کنید.
 
-*A Bible story from: Romans 3:21-26, 5:1-11; John 3:16; Mark 16:16;
-Colossians 1:13-14; 2 Thessalonians 5:17-21; 1 John 1:5-10*
+داستانی برگرفته از کتاب مقدّس: رساله‌ی پولس به رومیان، فصل ٣، آیات
+٢١-٢٦؛ فصل ٥، آیات ١-١١؛ انجیل یوحنّا، فصل ٣، آیه‌ی ١٦؛ انجیل متّی، فصل
+16، آیه‌ی١٦؛ رساله‌ی پولس به کولسیان، فصل ١، آیات ١٣-١٤؛ رساله‌ی دوّم
+پولس به تسالونیکیان، فصل ٥، آیات ١٧-٢١؛ رساله‌ی اوّل یوحنّا، فصل ١، آیات
+٥-١٠

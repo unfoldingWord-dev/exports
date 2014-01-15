@@ -1,117 +1,116 @@
-50. Jesus Returns
-=================
+۵۰.بازگشت عیسی
+==============
 
 ![obs-50-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-01.jpg "obs-50-01.jpg")
 
-For almost 2,000 years, the Good News of Jesus the Messiah has been
-spreading, and the Church has been growing. Jesus said he would return
-at the end of the world, but he still has not come back.
+نزدیک به دوهزار سال است که خبر خوش انجیل مسیحای موعود پخش شده و کلیسا
+درحال رشد است. مسیح گفت که در آخر زمان برمی‌گردد، امّا هنوز زمان بازگشت
+عیسی نیامده است.
 
 ![obs-50-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-02.jpg "obs-50-02.jpg")
 
-As we wait for Jesus’ return, Christians are to live holy and godly
-lives. When Jesus was on earth he also said, “This Good News of the
-Kingdom will be preached in the whole world for a testimony to all the
-people groups, and then the end will come.”
+ما مسیحیان هم‌چنان‌که منتظر بازگشت مسیح هستیم، باید زندگی پاک و
+خداپسندانه‌ای داشته باشیم. زمانی‌که مسیح بر‌روی زمین بود، چنین فرمود:
+«سرانجام وقتی مژده‌ی انجیل به گوش همه‌ی مردم جهان رسید و همه از آن باخبر
+شدند، آن‌گاه دنیا به آخر خواهد رسید.».
 
 ![obs-50-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-03.jpg "obs-50-03.jpg")
 
-Many people groups still have not heard about Jesus. Before he returned
-to heaven, Jesus gave Christians the job of bringing the Good News to
-those who have never heard. He said, “Go and make disciples of all
-people groups! The fields are ripe for harvest!”
+بسیاری هنوز از مسیح چیزی نمی‌دانند. پیش‌از این‌که مسیح به آسمان صعود
+کند، عیسی به مسیحیان مأموریتّی داد تا خبر خوش انجیل را به گوش همه
+برسانند. عیسی فرمود: «بروید و امّت‌ها را شاگرد من سازید. محصول برای درو
+فراوان است.».
 
 ![obs-50-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-04.jpg "obs-50-04.jpg")
 
-Jesus also said, “A servant is not greater than his master. You will be
-tortured and killed because of me. In this world you will have trouble,
-but be encouraged. I have defeated Satan! Remain faithful to the end,
-and you will be saved.”
+عیسی مسیح این را نیز گفت: «شاگرد از معلّم خود بالا‌تر نیست. شما به‌خاطر
+من شکنجه خواهید دید و کشته خواهید شد. در این جهان عذاب خواهید کشید، ولی
+دل‌گرم باشید. من شیطان را شکست داده‌ام! تا به آخر امین بمانید، آن‌گاه
+نجات خواهید یافت.».
 
 ![obs-50-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-05.jpg "obs-50-05.jpg")
 
-Jesus told his disciples a story which helped explain what the end would
-be like. “The Kingdom of God is like a man who planted good seed in his
-field. But while he was sleeping, his enemy came and planted weeds along
-with the wheat, and then he went away.”
+عیسی برای شاگردان خود داستانی را تعریف کرد تا درمورد روز آخر توضیح دهد:
+«پادشاهی خدا، مانند مردی است كه در مزرعه‌ی خود بذر خوب می‌پاشد. زمانی‌که
+خوابیده است، دشمن او می‌آید و لابه‌لای بذر گندم، تخم علف هرز می‌پاشد و
+سپس به راه خود می‌رود.
 
 ![obs-50-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-06.jpg "obs-50-06.jpg")
 
-“When the plants sprouted, the workers asked their master, ‘Sir, you
-planted good seed in that field. Why are there weeds in it?’ The master
-answered, ‘An enemy has planted them.’”
+زمانی‌که بذرها جوانه می‌زنند، کارگران از ارباب خود می‌پرسند: «آقا، شما
+بذر خوب در این زمین کاشتید. چرا درمیان آن‌ها علف هرز روییده است؟». ارباب
+جواب می‌دهد، دشمن بذر آنها را پاشیده است.
 
 ![obs-50-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-07.jpg "obs-50-07.jpg")
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘If
-you do that, you will pull out some of the wheat as well. Wait until the
-harvest and then gather the weeds into piles to be burned, but bring the
-wheat into my barn.’”
+آن‌ها در جواب می‌گویند: «علف‌ها را بچینیم؟». ارباب پاسخ می‌دهد: «اگر این
+کار را انجام دهید، بعضی از گندم‌ها را با آن‌ها بیرون خواهید کشید. تا
+موقع درو صبر کنید تا علف‌ها را جمع‌آوری کرده باهم بسوزانیم، امّا گندم‌ها
+را به انبار بیاورید.»
 
 ![obs-50-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-08.jpg "obs-50-08.jpg")
 
-The disciples did not understand and said to Jesus, “Please explain this
-story to us.” Jesus said, “The man who planted the good seed is the
-Messiah. The field is the world. The good seed represents the people of
-God’s Kingdom.”
+شاگردان متوجّه نشدند و به مسیح گفتند: «خواهش می‌کنیم این داستان را برای
+ما توضیح بده.». عیسی گفت: «مردی که بذر خوب را کاشت همان مسیحای موعود
+بود. زمین نشانه‌ی جهان است. بذر خوب نماینده‌ی مردم در پادشاهی خداست.”
 
 ![obs-50-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-09.jpg "obs-50-09.jpg")
 
-“The weeds represent the people who belong to the evil one. The enemy
-who planted them is the devil. The harvest is the end of the world, and
-the harvesters are the angels.”
+علف نشان‌گر افرادی است که متعلّق به شیطان هستند. کسی که آن‌ها را کاشت
+شیطان است. فصل درو نشانه‌ی زمان‌های آخر است، و دروگرها فرشتگان هستند.
 
 ![obs-50-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-10.jpg "obs-50-10.jpg")
 
-“At the end of the world, all the people who belong to the devil will be
-gathered together and thrown into a fiery furnace, where there is
-weeping and grinding of teeth. Then the righteous ones will shine like
-the sun in the Kingdom of their Father.”
+در زمان‌های آخر، تمام کسانی که متعلّق به شیطان هستند به شعله‌های آتش
+انداخته خواهند شد. جایی‌که گریه و عذاب فراوان است. سپس عادلان و
+پارسایان، مانند خورشید در پادشاهی پدر آسمانی خواهند درخشید.».
 
 ![obs-50-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-11.jpg "obs-50-11.jpg")
 
-When Jesus returned to heaven, he said that he would return to earth the
-same way that he left—with a physical body in the clouds. Jesus also
-promised that when he returns, all Christians who have died will rise
-from the dead and meet him in the air.
+زمانی‌که مسیح به آسمان بازگشت، گفت که به زمین خواهد بازگشت، درست
+همان‌طور که به‌صورت فیزیکی درمیان ابرها به آسمان رفت. مسیح هم‌چنین وعده
+داد زمانی‌که برگردد، مسیحیانی که مرده‌اند، برخیزانده خواهند شد و همراه
+وی به این جهان خواهند بازگشت.
 
 ![obs-50-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-12.jpg "obs-50-12.jpg")
 
-The Christians who are still alive will then be caught up together with
-them in the air and all Christians will be with Jesus forever. Jesus
-will be with his people in perfect unity forever.
+سپس مسیحیانی که هنوز زنده هستند به‌همراه آن‌ها در آسمان جمع می‌شوند و
+خداوند را در هوا ملاقات می‌کنند و تا ابد با او خواهند بود. مسیح در
+پیوندی بی‌همتا برای همیشه با آن‌ها خواهد بود.
 
 ![obs-50-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-13.jpg "obs-50-13.jpg")
 
-Christians will be given the crown of life. They will never experience
-the second death, which is hell. Instead, they will live forever with
-God in perfect peace.
+مسیحیان، تاج حیات را دریافت خواهند کرد. مرگ دوّمی که همانا آتش جهنّم
+است، برای آن‌ها وجود ندارد. آنان تا ابد در آرامش با خدا خواهند زیست.
 
 ![obs-50-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-14.jpg "obs-50-14.jpg")
 
-But those who do not believe in Jesus will be judged by God and thrown
-into hell forever. In hell, people constantly weep and grind their teeth
-in anguish. They are burned by fire that never goes out and eaten by
-worms that never die.
+امّا کسانی که به مسیح ایمان نیاورده‌اند، داوری و محکوم خواهند شد و تا به
+ابد در جهنّم خواهند بود. در آتش جهنّم، خواهند گریست و فشار دندان و
+اضطراب با ایشان خواهد بود. آن‌ها با آتشی که هرگز خاموش نمی‌شود و
+کرم‌هایی که هرگز نمی‌میرند، خواهند بود.
 
 ![obs-50-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-15.jpg "obs-50-15.jpg")
 
-Jesus will also completely destroy Satan and his kingdom and will throw
-him into the lake of fire where he will burn forever. Death also will be
-thrown into the lake of fire in hell.
+مسیح، شیطان و سلطنت او را منهدم خواهد ساخت و او را به دریاچه‌ی گوگرد و
+آتش خواهد افکند. مرگ نیز به دریاچه‌ی آتشین گوگرد و جهنّم انداخته خواهد
+شد.
 
 ![obs-50-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-16.jpg "obs-50-16.jpg")
 
-Jesus will create a New Heaven and a New Earth. The universe will once
-again be perfect, as it was before Adam and Eve sinned.
+عیسی بهشت و زمینی جدید را خلق خواهد کرد. جهان دوباره کامل خواهد بود،
+مانند زمان پیش‌از گناه آدم و حوّا.
 
 ![obs-50-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-17.jpg "obs-50-17.jpg")
 
-And Jesus will reign forever and ever. He will wipe away every tear and
-there will be no more death, suffering, sadness, crying, evil, or pain.
-He will rule his Kingdom with peace and justice, and he will be with his
-people forever.
+عیسی مسیح تا به ابد سلطنت خواهد کرد. او هر اشكی را از چشمان ایمان‌دارانش
+پاک خواهد كرد. دیگر از مرگ و غم و گریه و درد و رنج خبری نخواهد بود. او
+پادشاهی خود را با صلح و عدالت رهبری خواهد کرد و تا به ابد با پیروان خود
+خواهد بود.
 
-*A Bible story from: Matthew 24:14; 28:18; John 15:20, 16:33; Revelation
-2:10; Matthew 13:24-30, 36-42; 1 Thessalonians 4:13-5:11; James 1:12;
-Matthew 22:13; Revelation 20:10, 21:1-22:21*
+داستانی برگرفته از کتاب مقدّس: انجیل متّی، فصل ٢٤، آیه‌ی ١٤ فصل ٢٨،
+آیه‌ی ١٨؛ انجیل یوحنّا، فصل ١٥، آیه‌ی٢٠ فصل ١٦، آیه‌ی ٣٣؛ کتاب مکاشفه،
+فصل ٢، آیه‌ی ١٠؛ انجیل متّی، فصل ١٣، آیات ٢٤-٣٠، ٣٦-٤٢؛ رساله‌ی اوّل
+پولس به تسالونیکیان، فصل ٤، آیه‌ی ١٣ تا فصل ٥، آیه‌ی ١١، رساله‌ی یعقوب،
+فصل ١، آیه‌ی ١٢؛ انجیل متّی، فصل ٢٢، آیه‌ی ١٣؛ کتاب مکاشفه، فصل ٢٠،
+آیه‌ی ١٠ فصل ٢١، آیات ١-٢٢

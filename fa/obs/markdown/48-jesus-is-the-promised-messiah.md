@@ -1,95 +1,92 @@
-48. Jesus Is the Promised Messiah
-=================================
+۴۸.عیسی، مسیحای موعود است
+=========================
 
 ![obs-48-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-01.jpg "obs-48-01.jpg")
 
-When God created the world, everything was perfect. There was no sin.
-Adam and Eve loved each other, and they loved God. There was no death or
-sickness or pain. This was the way God wanted things to be.
+وقتی خدا جهان را آفرید، همه‌چیز کامل بود. گناهی در آن نبود. آدم و حوّا
+هم‌دیگر را دوست داشتند، آن‌ها عاشق خدا بودند. خبری از مردن یا مریضی یا
+درد نبود. این همان چیزی بود که خدا می‌خواست.
 
 ![obs-48-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-02.jpg "obs-48-02.jpg")
 
-Satan, who was the snake in the garden, deceived Eve, and she and Adam
-sinned against God. Because they sinned, death, sickness, and pain all
-became part of life for everyone on earth.
+شیطان، همان ماری که در باغ بود، حوّا را فریب داد و آن‌ها را ضدّ خدا
+نمود. به‌خاطر گناه آنان، مرگ، درد و بیماری، بخشی از زندگی همه‌ی
+انسان‌هایی شد که به این دنیا می‌آمدند.
 
 ![obs-48-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-03.jpg "obs-48-03.jpg")
 
-Even worse, their relationship with God was broken. Now, everyone is
-born an enemy of God because of sin. But God had a plan to fix
-everything that had been broken by sin.
+حتّی بدتر از آن، شکسته شدن رابطه‌ی آن‌ها با خدا بود. الآن هرکس که
+به‌دنیا می‌آید، دشمن خدا محسوب می‌شود؛ زیرا گناه‌کار است. امّا خدا برای
+همه‌ی چیزهایی که به‌خاطر گناه از‌بین رفته بودند، نقشه‌ای داشت.
 
 ![obs-48-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-04.jpg "obs-48-04.jpg")
 
-God promised that one of Eve’s descendant would crush Satan’s head, and
-Satan would wound his heel. This meant that Satan would kill Jesus, but
-God would raise him to life after three days. Jesus would crush the
-power of Satan forever.
+خدا وعده داد که شخصی از نسل حوّا سر شیطان را خواهد کوبید و شیطان پاشنه‌ی
+وی را خواهد زد. بدین معنا که شیطان او را خواهد کشت. امّا خدا او را بعد
+سه روز زنده خواهد کرد. عیسی برای همیشه بر قدرت شیطان پیروز گشت.
 
 ![obs-48-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-05.jpg "obs-48-05.jpg")
 
-When God destroyed the whole earth in the flood, He provided the boat as
-a way of salvation for those who believed in Him. In the same way,
-though everyone deserves to be destroyed for their sins, God has
-provided a way of salvation for everyone who believes in Jesus.
+وقتی خدا همه‌ی زمین را به‌وسیله‌ی توفان ازبین برد، برای کسانی که به او
+ایمان داشتند، یک کشتی فراهم نمود تا بتوانند نجات پیدا کنند. درست هما‌طور
+که همه‌ی انسان‌ها برای گناهانشان سزاوار مرگ هستند، خدا راه نجاتی را
+فراهم نمود تا هرکس که به عیسی ایمان می‌آورد، زندگی جاوید یابد.
 
 ![obs-48-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-06.jpg "obs-48-06.jpg")
 
-Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is
-a priest, but Jesus is the Great High Priest. Jesus offered only one
-sacrifice, himself. This was the only sacrifice needed to take away the
-sin of the whole world.
+مَلک صادق کاهنی بود که ابراهیم را برکت داد. عیسی نیز مانند مَلک صادق
+کاهن بود، امّا عیسی کاهن اعظم بود. عیسی یک‌بار خود را قربانی کرد. این
+تنها قربانی بود که می‌توانست تمام گناهان جهان را بردارد.
 
 ![obs-48-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-07.jpg "obs-48-07.jpg")
 
-God told Abraham, “Through you, all the people groups of the earth will
-be blessed.” Jesus was a descendant of Abraham. All the people groups of
-the earth are blessed through Jesus, because everyone who believes in
-him becomes one of God’s chosen people, a spiritual descendant of
-Abraham.
+خدا به ابراهیم فرمود: «به‌وسیله‌ی تو تمام قوم‌های جهان برکت خواهند
+یافت.». عیسی از نسل ابراهیم بود. همه‌ی قوم‌های جهان به‌وسیله‌ی عیسی برکت
+یافتند، زیرا هرکس به عیسی ایمان بیاورد، از برگزیدگان خدای متعال و
+هم‌چنین از نوادگان معنوی ابراهیم می‌شود.
 
 ![obs-48-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-08.jpg "obs-48-08.jpg")
 
-God provided a ram for Abraham to sacrifice instead of Isaac. Jesus is
-like that ram because he died instead of us. Everyone deserves to die
-for their sins, including you! But God provided Jesus as a sacrifice to
-die instead of you.
+خدا قوچی را برای ابراهیم فراهم نمود تا به‌جای اسحاق قربانی کند. عیسی مثل
+آن قوچ است، زیرا او به‌جای گناهان ما مرد. هرکس برای گناهانش سزاوار مرگ
+است، ازجمله شما! امّا خدا عیسی را برگزید تا به‌جای شما قربانی شود.
 
 ![obs-48-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-09.jpg "obs-48-09.jpg")
 
-When God sent the last plague on Egypt, each Israelite family needed to
-kill a perfect lamb and spread the blood around their doors. When the
-angel of God saw the blood, he passed over their houses and did not kill
-their firstborn sons.
+وقتی خدا آخرین بلا را بر مصر نازل نمود، بر هر خانواده‌ی اسرائیلی واجب شد
+یک برّه را بکشند و خون آن‌را دور درهای خانه‌هایشان بپاشند. وقتی‌که
+فرشته‌ی خدا آن خون را دید، از آن خانه ردّ می‌شد و پسر نخست‌زاده‌ی آن
+خانه را نمی‌کشت.
 
 ![obs-48-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-10.jpg "obs-48-10.jpg")
 
-Jesus is our Passover Lamb. He was perfect and sinless and was killed at
-the time of the Passover Feast. When anyone believes in Jesus, the blood
-of Jesus washes away that person’s sin, and God’s punishment passes over
-him.
+عیسی همان برّه‌ی عید پسح است. او از هرجهت کامل و بدون گناه بود و در همان
+زمان جشن عید پسح کشته شد. زمانی‌که کسی به عیسی ایمان می‌آورد، خون عیسی،
+گناهان آن شخص را ازبین می‌برد و خدا مجازات را از او برمی‌دارد.
 
 ![obs-48-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-11.jpg "obs-48-11.jpg")
 
-God made a covenant with the Israelites who were His chosen people. In
-God’s New Covenant, anyone from any people group can become part of
-God’s chosen people by believing in Jesus.
+خدا با قومش بنی‌اسرائیل پیمان بست. امّا در عهد جدید خداوند، هرکس از هر
+قوم و ملّیتی که به عیسی ایمان آورد، می‌تواند جزو برگزیدگان خدا محسوب
+شود.
 
 ![obs-48-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-12.jpg "obs-48-12.jpg")
 
-Moses was a great prophet who proclaimed the Word of God. Like Moses,
-Jesus is a prophet, but Jesus is the greatest prophet. He is the Word of
-God.
+موسی یکی از پیامبران بزرگ خدا بود که کلام خدا را اعلام می نمود. عیسی نیز
+مانند موسی پیامبر است، امّا عیسی بزرگ‌ترین پیامبر است. او کلام و کلمه‌ی
+خداست.
 
 ![obs-48-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-13.jpg "obs-48-13.jpg")
 
-God promised David that the Messiah would be one of his descendants.
-Jesus, the Messiah, was that special descendant of David.
+خدا به داود وعده داد که مسیحای موعود از نسل او می‌باشد. عیسی، همان
+مسیحای موعود از نسل داود بود.
 
 ![obs-48-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-14.jpg "obs-48-14.jpg")
 
-Like David, Jesus is a king, but Jesus is the king of the universe! He
-will come again and rule his Kingdom with justice and peace.
+عیسی نیز مانند داود پادشاه است، امّا عیسی پادشاه جهان است. او دوباره
+می‌آید و با عدالت و صلح بر قلمرو خود، پادشاهی می‌کند.
 
-*A Bible story from: Genesis 1-3, 6, 14, 22; Exodus 12, 20; 2 Samuel 7;
-Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21*
+داستانی برگرفته از کتاب مقدّس: کتاب پیدایش، فصل‌های ۱و۳و۶و۱۴و۲۲; کتاب
+خروج، فصل‌های ۱۲و۲۰; کتاب دوّم سموئیل، فصل ۷; رساله‌ی به عبرانیان، فصل
+۳، آیات ۱تا۶؛ فصل ۴، آیه‌ی۱۴؛ فصل ۵، آیه‌ی۱۰؛ فصل ۷، آیه‌ی ۱؛ فصل ۸،
+آیه‌ی۱۳؛ فصل ۹، آیه‌ی۱۱؛ فصل۱۰، آیه‌ی ۱۸؛ کتاب مکاشفه، فصل ۲۱
