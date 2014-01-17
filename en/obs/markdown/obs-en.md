@@ -1,46 +1,102 @@
+**OPEN BIBLE STORIES**
+
+an **unrestricted** visual mini-Bible in any language
+
+[http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com")
+
+Open Bible Stories, v. 2.0
+
+Created by Distant Shores Media
+([http://distantshores.org](http://distantshores.org "http://distantshores.org"))
+and the Door43 world missions community
+([http://door43.org](http://door43.org "http://door43.org")).
+
+**License:**
+
+This work is made available under a Creative Commons
+Attribution-ShareAlike 3.0 Unported License
+([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")).
+
+You are free:
+
+-   **to Share**— to copy, distribute and transmit the work
+-   **to Remix** — to adapt the work
+-   to make commercial use of the work
+
+Under the following conditions:
+
+-   **Attribution** — You must attribute the work as follows: “Original
+    work available at
+    [www.openbiblestories.com](http://www.openbiblestories.com "http://www.openbiblestories.com").”
+    Attribution statements in derivative works should not in any way
+    suggest that we endorse you or your use of this work.
+-   **ShareAlike** — If you alter, transform, or build upon this work,
+    you may distribute the resulting work only under the same or similar
+    license to this one.
+
+Use of trademarks: **unfoldingWord** is a trademark of Distant Shores
+Media and may not be included on any derivative works created from this
+content. Unaltered content from
+[http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com")
+must include the **unfoldingWord** logo when distributed to others. But
+if you alter the content in any way, you must remove the
+**unfoldingWord** logo before distributing your work.
+
+Attribution of artwork: All images used in these stories are © Sweet
+Publishing
+([www.sweetpublishing.com](http://www.sweetpublishing.com "http://www.sweetpublishing.com"))
+and are made available under a Creative Commons Attribution-Share Alike
+License
+([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0 "http://creativecommons.org/licenses/by-sa/3.0")).
+
+To our brothers and sisters in Christ all over the world—the global
+church. It is our prayer that God would use this visual overview of His
+Word to bless, strengthen, and encourage you.
+
 1. The Creation
 ===============
 
 ![obs-01-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-01.jpg "obs-01-01.jpg")
 
 This is how the beginning of everything happened. God created the
-universe and everything in it in six days. At first, the earth was dark
-and empty, and nothing had been formed in it. But God's Spirit was there
-over the water.
+universe and everything in it in six days. After God created the earth
+it was dark and empty, and nothing had been formed in it. But God's
+Spirit was there over the water.
 
 ![obs-01-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-02.jpg "obs-01-02.jpg")
 
 Then God spoke and said, “Let there be light!” And there was light. God
 saw that the light was good and called it “day.” He separated it from
-the darkness, which He called “night.” God created the light on the
+the darkness, which he called “night.” God created the light on the
 first day of creation.
 
 ![obs-01-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-03.jpg "obs-01-03.jpg")
 
 On the second day of creation, God spoke and created the sky above the
-earth.
+earth. He made the sky by separating the water above from the water
+below.
 
 ![obs-01-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-04.jpg "obs-01-04.jpg")
 
 On the third day, God spoke and separated the water from the dry land.
-He called the dry land “earth,” and He called the water “seas.”
+He called the dry land “earth,” and he called the water “seas.” God saw
+that what he had created was good.
 
 ![obs-01-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-05.jpg "obs-01-05.jpg")
 
 Then God said, “Let the earth produce all kinds of trees and plants.”
-And that is what happened. God saw that what He had created was good,
-and He was pleased with it all.
+And that is what happened. God saw that what he had created was good.
 
 ![obs-01-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-06.jpg "obs-01-06.jpg")
 
 On the fourth day of creation, God spoke and made the sun, the moon, and
 the stars. God made them to give light to the earth and to mark day and
-night, seasons and years.
+night, seasons and years. God saw that what he had created was good.
 
 ![obs-01-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-07.jpg "obs-01-07.jpg")
 
-On the fifth day, God created everything that swims in the water and all
-the birds. God saw that it was good, and He blessed them.
+On the fifth day, God spoke and made everything that swims in the water
+and all the birds. God saw that it was good, and he blessed them.
 
 ![obs-01-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-08.jpg "obs-01-08.jpg")
 
@@ -85,17 +141,17 @@ father and mother and becomes one with his wife.
 
 ![obs-01-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-15.jpg "obs-01-15.jpg")
 
-God made man and woman in His own image, and He saw that it was very
-good. He blessed them and told them, “Have many children and
-grandchildren and fill the earth!” This all happened on the sixth day of
-creation.
+God made man and woman in his own image. He blessed them and told them,
+“Have many children and grandchildren and fill the earth!” And God saw
+that everything he had made was very good, and he was very pleased with
+all of it. This all happened on the sixth day of creation.
 
 ![obs-01-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-16.jpg "obs-01-16.jpg")
 
-When the seventh day came, God had already finished His work. So God
-rested from all He had been doing. He blessed the seventh day and made
-it holy, because on this day He rested from His work. This is how God
-created the universe and everything in it.
+When the seventh day came, God had finished his work. So God rested from
+all he had been doing. He blessed the seventh day and made it holy,
+because on this day he rested from his work. This is how God created the
+universe and everything in it.
 
 *A Bible story from: Genesis 1-2*
 
@@ -105,14 +161,15 @@ created the universe and everything in it.
 ![obs-02-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-01.jpg "obs-02-01.jpg")
 
 Adam and his wife were very happy living in the beautiful garden God had
-made for them. Neither of them wore clothes, but they did not feel any
-shame, because there was no sin in the world. They often walked in the
-garden and talked with God.
+made for them. Neither of them wore clothes, but this did not cause them
+to feel any shame, because there was no sin in the world. They often
+walked in the garden and talked with God.
 
 ![obs-02-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-02.jpg "obs-02-02.jpg")
 
 But there was a crafty snake in the garden. He asked the woman, “Did God
-really tell you not to eat the fruit from the trees in the garden?”
+really tell you not to eat the fruit from any of the trees in the
+garden?”
 
 ![obs-02-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-03.jpg "obs-02-03.jpg")
 
@@ -122,21 +179,20 @@ you eat that fruit or even touch it, you will die.’”
 
 ![obs-02-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-04.jpg "obs-02-04.jpg")
 
-The snake responded, “That is not true! You won’t die. God just knows
-that as soon as you eat it, you will understand things like He does. You
-will be like God, knowing good and evil.”
+The snake responded, “That is not true! You will not die. God knows that
+as soon as you eat it, you will be like God and will understand good and
+evil like he does.”
 
 ![obs-02-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-05.jpg "obs-02-05.jpg")
 
 The woman saw that the fruit was beautiful and looked delicious. She
 also wanted to be wise, so she picked some of the fruit and ate it. Then
-she turned and gave some to her husband, who was with her, and he ate
-it, too.
+she gave some to her husband, who was with her, and he ate it, too.
 
 ![obs-02-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-06.jpg "obs-02-06.jpg")
 
 Suddenly, their eyes were opened, and they realized they were naked.
-They tried to cover their nakedness by sewing leaves together to make
+They tried to cover their bodies by sewing leaves together to make
 clothes.
 
 ![obs-02-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-07.jpg "obs-02-07.jpg")
@@ -170,8 +226,8 @@ you. You will desire your husband, and he will rule over you.”
 God said to the man, “You listened to your wife and disobeyed me. Now
 the ground is cursed, and you will need to work hard to grow food. Then
 you will die, and your body will return to dirt.” The man named his wife
-Eve, which means “life,” because she would become the mother of all
-people. And God clothed Adam and Eve with animal skins.
+Eve, which means “life-giver,” because she would become the mother of
+all people. And God clothed Adam and Eve with animal skins.
 
 ![obs-02-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-12.jpg "obs-02-12.jpg")
 
@@ -188,43 +244,43 @@ to keep anyone from eating the fruit of the tree of life.
 
 ![obs-03-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-01.jpg "obs-03-01.jpg")
 
-Many years later, many people were living in the world. They had become
+After a long time, many people were living in the world. They had become
 very wicked and violent. It became so bad that God decided to destroy
 the whole world with a huge flood.
 
 ![obs-03-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-02.jpg "obs-03-02.jpg")
 
-But Noah found grace in God’s eyes. He was the only righteous man among
-all the wicked people. God told Noah about the flood He was planning to
-send. He told Noah to build a huge boat called an ark.
+But Noah found favor with God. He was a righteous man, living among
+wicked people. God told Noah about the flood He was planning to send. He
+told Noah to build a huge boat.
 
 ![obs-03-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-03.jpg "obs-03-03.jpg")
 
 God told Noah to make the boat about 140 meters long, 23 meters wide,
 and 13.5 meters high. It was to be made of wood and have three levels,
 many rooms, a roof, and a window. The boat would keep Noah, his family,
-and two of every kind of animal safe during the flood.
+and every kind of land animal safe during the flood.
 
 ![obs-03-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-04.jpg "obs-03-04.jpg")
 
 Noah obeyed God. He and his three sons built the boat just the way God
 had told them. It took many years to build the boat, because it was so
 big. Noah warned the people about the coming flood and told them to turn
-to God, but they just laughed at him.
+to God, but they did not believe him.
 
 ![obs-03-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-05.jpg "obs-03-05.jpg")
 
-Noah and his family also gathered enough food for themselves and the
-animals. When everything was ready, God told Noah it was time for him,
-his wife, his three sons, and their wives to get into the boat—eight
-people in all.
+God also commanded Noah and his family to gather enough food for
+themselves and the animals. When everything was ready, God told Noah it
+was time for him, his wife, his three sons, and their wives to get into
+the boat—eight people in all.
 
 ![obs-03-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-06.jpg "obs-03-06.jpg")
 
 God sent a male and a female of every animal and bird to Noah so they
 could go into the boat and be kept safe during the flood. God sent seven
 males and seven females of every type of animal which could be used for
-sacrifices. When they were all in the boat, God Himself closed the door.
+sacrifices. When they were all in the boat, God himself closed the door.
 
 ![obs-03-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-07.jpg "obs-03-07.jpg")
 
@@ -236,7 +292,7 @@ highest mountains.
 ![obs-03-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-08.jpg "obs-03-08.jpg")
 
 Everything that lived on the dry land died, except the people and
-animals who were in the boat. The boat floated on the water and
+animals that were in the boat. The boat floated on the water and
 everything inside the boat was kept safe.
 
 ![obs-03-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-09.jpg "obs-03-09.jpg")
@@ -261,32 +317,32 @@ going down, and the plants were growing again!
 
 ![obs-03-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-12.jpg "obs-03-12.jpg")
 
-Noah waited another week and sent out the dove a third time. This time,
-it did not come back. The water had dried up!
+Noah waited another week and sent out the dove a third time. This time
+it found a place to rest and did not come back. The water was drying up!
 
 ![obs-03-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-13.jpg "obs-03-13.jpg")
 
 Two months later God said to Noah, “You and your family and all the
 animals may leave the boat now. Have many children and grandchildren and
-fill the earth.” So they obeyed and left the boat.
+fill the earth.” So Noah and his family left the boat.
 
 ![obs-03-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-14.jpg "obs-03-14.jpg")
 
-After he got off the boat, Noah built an altar and sacrificed some of
+After Noah got off the boat, he built an altar and sacrificed some of
 each kind of animal which could be used for a sacrifice. God was happy
 with the sacrifice and blessed Noah and his family.
 
 ![obs-03-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-15.jpg "obs-03-15.jpg")
 
-God said, “I will never again curse the ground because of humans or
-destroy the world with a flood, even though humans are sinful from their
-youth.”
+God said, “I promise I will never again curse the ground because of
+humans or destroy the world with a flood, even though humans are sinful
+from their youth.”
 
 ![obs-03-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-03-16.jpg "obs-03-16.jpg")
 
-God then made the first rainbow as a sign of His promise. Every time the
-rainbow appeared in the sky, God would remember what He promised and so
-would His people.
+God then made the first rainbow as a sign of his promise. Every time the
+rainbow appeared in the sky, God would remember what he promised and so
+would his people.
 
 *A Bible story from: Genesis 6-8*
 
@@ -296,61 +352,59 @@ would His people.
 ![obs-04-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-01.jpg "obs-04-01.jpg")
 
 Many years after the flood, there were again many people in the world,
-and they all spoke the same language. But the people did not obey God.
-Instead of having children and filling the earth, they gathered together
-and built a city.
+and they all spoke the same language. But instead of filling the earth
+as God had commanded, they gathered together and built a city.
 
 ![obs-04-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-02.jpg "obs-04-02.jpg")
 
-They were very proud, and they did not care about what God said. They
-even began building a tall tower to reach heaven. God saw that if they
-all kept working together, they could do many evil things.
+The people were very proud, and they did not care about what God said.
+They even began building a tall tower to reach heaven. God saw that if
+they all kept working together, they could do many more evil things.
 
 ![obs-04-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-03.jpg "obs-04-03.jpg")
 
-So He changed their language into many different languages and spread
+So God changed their language into many different languages and spread
 the people out all over the world. The city they had begun to build was
 called Babel, which means “confused.”
 
 ![obs-04-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-04.jpg "obs-04-04.jpg")
 
 Hundreds of years later, God spoke to a man named Abram. God told him,
-“Leave your country and family and go to the land I will show you.”
+“Leave your country and family and go to the land I will show you. I
+will bless you and make you a great nation. I will make your name great.
+I will bless those who bless you and curse those who curse you. All
+families on earth will be blessed because of you.”
 
 ![obs-04-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-05.jpg "obs-04-05.jpg")
 
-So Abram obeyed. He took his wife, Sarai, and all his servants and herds
-of animals and went to the land God showed him, the land of Canaan.
-Abram lived there for many years. There God made a covenant with Abram.
-A covenant is an agreement between two parties.
+So Abram obeyed God. He took his wife, Sarai, together with all his
+servants and everything he owned and went to the land God showed him,
+the land of Canaan.
 
 ![obs-04-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-06.jpg "obs-04-06.jpg")
 
-God said, “Look all around you. All the land that you can see I will
-give to you and your descendants as an inheritance. I will bless you and
-make your name great.”
+When Abram arrived in Canaan God said, “Look all around you. I will give
+to you and your descendants all the land that you can see as an
+inheritance.” Then Abram settled in the land.
 
 ![obs-04-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-07.jpg "obs-04-07.jpg")
-
-“I will make your descendants into a large nation, and I will be your
-God. I will bless those who bless you and curse those who curse you. All
-the people groups of the world will be blessed through you.” God also
-told Abram to circumcise all the men in his household as a sign of the
-covenant. Abram obeyed.
-
-![obs-04-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-08.jpg "obs-04-08.jpg")
-
-Abram believed God. God said that Abram was righteous through believing
-in God’s promise. But there was a problem. Abram and his wife were not
-able to have any children. So it seemed impossible that Abram could
-become the father of a large nation, but they waited in faith, believing
-what God had promised.
-
-![obs-04-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-09.jpg "obs-04-09.jpg")
 
 One day, Abram met Melchizedek, the priest of God Most High. Melchizedek
 blessed Abram and said, “May God Most High who owns heaven and earth
 bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
+
+![obs-04-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-08.jpg "obs-04-08.jpg")
+
+Many years went by, but Abram and Sarai still had no son. God spoke to
+Abram and promised again that he would have a son and as many
+descendants as the stars in the sky. Abram believed God’s promise. God
+declared that Abram was righteous because he believed in God's promise.
+
+![obs-04-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-04-09.jpg "obs-04-09.jpg")
+
+Then God made a covenant with Abram. A covenant is an agreement between
+two parties. God said, “I will give you a son from your own body. I give
+the land of Canaan to your descendants.” But Abram still had no son.
 
 *A Bible story from: Genesis 11-15*
 
@@ -359,55 +413,66 @@ bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
 
 ![obs-05-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-01.jpg "obs-05-01.jpg")
 
-Abram and Sarai waited over twenty years, but they still had no son. God
-spoke to Abram and promised again that he would have a son and as many
-descendants as the stars in the sky. Abram believed God’s promise.
+Ten years after Abram and Sarai arrived in Canaan, they still did not
+have a child. So Abram's wife, Sarai, said to him, “Since God has not
+allowed me to have children and now I am too old to have children, here
+is my servant, Hagar. Marry her also so she can have a child for me.”
 
 ![obs-05-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-02.jpg "obs-05-02.jpg")
 
-Then Abram’s wife said to him, “Since the LORD has not allowed me to
-have children and now I am too old to have children, here is my servant,
-Hagar. Marry her also so she can have a child for me.”
+So Abram married Hagar. Hagar had a baby boy, and Abram named him
+Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen
+years old, God again spoke to Abram and said,
 
 ![obs-05-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-03.jpg "obs-05-03.jpg")
 
-So Abram married Hagar. Hagar had a baby boy, and Abram named him
-Ishmael. Abram wanted God to bless Ishmael. God said, “I will bless him,
-but Ishmael is not the son of promise. I will not make my covenant with
-him.”
+“I am God Almighty. I will make a covenant with you.” Then Abram bowed
+to the ground. God said, “You will be the father of many nations. I will
+give you and your descendants the land of Canaan as their possession and
+I will be their God forever. Every male in your family must be
+circumcised.”
 
 ![obs-05-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-04.jpg "obs-05-04.jpg")
 
 “Your wife, Sarai, will have a son—he will be the son of promise. Name
 him Isaac. My covenant will be with him, and he will become a great
-nation.” Then God changed Abram’s name to Abraham, which means “father
-of many.” God also changed Sarai’s name to Sarah, which means
+nation. I will make Ishmael a great nation, too, but my covenant will be
+with Isaac.” Then God changed Abram's name to Abraham, which means
+“father of many.” God also changed Sarai's name to Sarah, which means
 “princess.”
 
 ![obs-05-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-05.jpg "obs-05-05.jpg")
 
-Finally, when Abraham was 100 years old and Sarah was 90, Sarah gave
-birth to Abraham’s son. They named him Isaac as God had told them to do.
+That day Abraham circumcised all the males in his household. About a
+year later, when Abraham was 100 years old and Sarah was 90, Sarah gave
+birth to Abraham's son. They named him Isaac as God had told them to do.
 
 ![obs-05-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-06.jpg "obs-05-06.jpg")
 
 When Isaac was a young man, God tested Abraham’s faith by saying, “Take
 Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham
-obeyed what God told him to do.
+obeyed God and prepared to sacrifice his son.
 
 ![obs-05-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-07.jpg "obs-05-07.jpg")
 
-He tied up his son Isaac and laid him on an altar. He was about to kill
-his son when God said, “Stop! Do not hurt the boy! Now I know that you
-fear me because you did not keep your only son from me.”
+As Abraham and Isaac walked to the place of the sacrifice Isaac asked,
+“Father, we have wood for the sacrifice, but where is the lamb?” Abraham
+replied, “God will provide the lamb for the sacrifice, my son.”
 
 ![obs-05-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-08.jpg "obs-05-08.jpg")
+
+When they reached the place of sacrifice, Abraham tied up his son Isaac
+and laid him on an altar. He was about to kill his son when God said,
+“Stop! Do not hurt the boy! Now I know that you fear me because you did
+not keep your only son from me.”
+
+![obs-05-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-09.jpg "obs-05-09.jpg")
 
 Nearby Abraham saw a ram which was stuck in a bush. God had provided the
 ram to be the sacrifice instead of Isaac. Abraham happily offered the
 ram as a sacrifice.
 
-![obs-05-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-09.jpg "obs-05-09.jpg")
+![obs-05-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-05-10.jpg "obs-05-10.jpg")
 
 Then God said to Abraham, “Because you were willing to give me
 everything, even your only son, I promise to bless you. Your descendants
@@ -421,9 +486,9 @@ the families of the world will be blessed through your family.”
 
 ![obs-06-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-01.jpg "obs-06-01.jpg")
 
-When Abraham had grown to be very old and Isaac was a man, Abraham sent
-one of his servants back to the land where his relatives lived to find a
-wife for his son, Isaac.
+When Abraham was very old and his son, Isaac, had grown to be a man,
+Abraham sent one of his servants back to the land where his relatives
+lived to find a wife for his son, Isaac.
 
 ![obs-06-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-02.jpg "obs-06-02.jpg")
 
@@ -432,30 +497,32 @@ granddaughter of Abraham’s brother.
 
 ![obs-06-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-03.jpg "obs-06-03.jpg")
 
-She agreed to leave her family and go back with the servant. Isaac
+Rebekah agreed to leave her family and go back with the servant. Isaac
 married her as soon as she arrived.
 
 ![obs-06-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-04.jpg "obs-06-04.jpg")
 
 After a long time, Abraham died and all of the promises that God had
-made to him in the covenant were passed on to Isaac. But Isaac’s wife,
-Rebekah, could not have children. Isaac could not be the father of many
-nations if he did not even have a son.
+made to him in the covenant were passed on to Isaac. God had promised
+that Isaac would have countless descendants, but Isaac’s wife, Rebekah,
+could not have children.
 
 ![obs-06-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-05.jpg "obs-06-05.jpg")
 
 Isaac prayed for Rebekah, and God allowed her to get pregnant with
-twins.
+twins. While they were still inside her, the two children struggled with
+each other, so Rebekah asked God what was happening.
 
 ![obs-06-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-06.jpg "obs-06-06.jpg")
 
-Before they were born, God told Rebekah that the older son would serve
-the younger one.
+God told Rebekah, “There are two nations inside of you. They will
+struggle with each other and the older son will serve the younger one.”
 
 ![obs-06-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-06-07.jpg "obs-06-07.jpg")
 
-When they were born, the older son came out red and hairy—they named him
-Esau. The younger son had smooth skin, and they named him Jacob.
+When Rebekah's babies were born, the older son came out red and hairy,
+and they named him Esau. Then the younger son came out holding on to
+Esau's heel, and they named him Jacob.
 
 *A Bible story from: Genesis 24:1-25:26*
 
@@ -476,42 +543,43 @@ Jacob his rights as the oldest son. Then Jacob gave him some food.
 
 ![obs-07-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-03.jpg "obs-07-03.jpg")
 
-When Isaac was old, he wanted to give his blessing to Esau. But before
-he did, Rebekah and Jacob tricked him by having Jacob pretend to be
-Esau. Jacob put on Esau’s clothes and put goat skins on his neck and
-hands.
+Isaac wanted to give his blessing to Esau. But before he did, Rebekah
+and Jacob tricked him by having Jacob pretend to be Esau. Isaac was old
+and could no longer see. So Jacob put on Esau’s clothes and put goat
+skins on his neck and hands.
 
 ![obs-07-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-04.jpg "obs-07-04.jpg")
 
-Isaac could not see well. Jacob came to Isaac and said, “I am Esau, I
-have come to receive your blessing.” When Isaac felt the goat hair and
-smelled the clothes, he thought it was Esau and blessed him.
+Jacob came to Isaac and said, “I am Esau, I have come to receive your
+blessing.” When Isaac felt the goat hair and smelled the clothes, he
+thought it was Esau and blessed him.
 
 ![obs-07-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-05.jpg "obs-07-05.jpg")
 
-Esau hated Jacob because Jacob stole his rights as oldest son and also
-his blessing. So he planned to kill Jacob after their father died.
+Esau hated Jacob because Jacob had taken his rights as oldest son and
+also his blessing. So he planned to kill Jacob after their father died.
 
 ![obs-07-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-06.jpg "obs-07-06.jpg")
 
-But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
-far away to live with her relatives.
+But Rebekah heard of Esau’s plan. So she and Isaac sent Jacob far away
+to live with her relatives.
 
 ![obs-07-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-07.jpg "obs-07-07.jpg")
 
-While Jacob was there, he married four women who gave birth to a total
-of twelve sons and a daughter. God made him very wealthy.
+Jacob lived there for many years, and during that time he married and
+had twelve sons and a daughter. God made him very wealthy.
 
 ![obs-07-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-08.jpg "obs-07-08.jpg")
 
 After twenty years away from his home in Canaan, Jacob returned there
-with his family, his servants, and all his herds of
-animals.![obs-07-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-09.jpg "obs-07-09.jpg")
+with his family, his servants, and all his herds of animals.
 
-He was very afraid because he thought Esau still wanted to kill him. So
-he sent Esau many herds of animals as a gift. The servants who brought
-the animals said to Esau, “These animals are a gift from your servant,
-Jacob. He is coming soon.”
+![obs-07-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-09.jpg "obs-07-09.jpg")
+
+Jacob was very afraid because he thought Esau still wanted to kill him.
+So he sent Esau many herds of animals as a gift. The servants who
+brought the animals said to Esau, “These animals are a gift from your
+servant, Jacob. He is coming soon.”
 
 ![obs-07-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-10.jpg "obs-07-10.jpg")
 
@@ -525,12 +593,12 @@ then to Isaac now passed on to Jacob.
 8. God Saves Joseph and His Family
 ==================================
 
-![obs-08-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-01.jpg "obs-08-01.jpg")
+![obs-08-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-02.jpg "obs-08-02.jpg")
 
 Many years later, when Jacob was an old man, he sent his favorite son,
 Joseph, to check on his brothers who were taking care of the herds.
 
-![obs-08-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-02.jpg "obs-08-02.jpg")
+![obs-08-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-01.jpg "obs-08-01.jpg")
 
 Joseph’s brothers hated him because their father loved him most and
 because Joseph had dreamed that he would be their ruler. When Joseph
@@ -539,30 +607,30 @@ traders.
 
 ![obs-08-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-03.jpg "obs-08-03.jpg")
 
-Before they returned home, the brothers tore Joseph’s clothes and dipped
-them in blood. Then they showed the clothes to their father and lied to
-him saying a wild animal had killed Joseph. Jacob was very sad.
+Before Joseph's brothers returned home, they tore Joseph’s robe and
+dipped it in goat's blood. Then they showed the robe to their father so
+that he would think a wild animal had killed Joseph. Jacob was very sad.
 
 ![obs-08-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-04.jpg "obs-08-04.jpg")
 
 The slave traders took Joseph to Egypt. Egypt was a large, powerful
-country located beside the Nile River. The slave traders sold Joseph as
-a slave to a wealthy government official. Joseph served his master well,
+country located along the Nile River. The slave traders sold Joseph as a
+slave to a wealthy government official. Joseph served his master well,
 and God blessed Joseph.
 
 ![obs-08-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-05.jpg "obs-08-05.jpg")
 
 His master’s wife tried to sleep with Joseph, but Joseph refused to sin
-against God in this way. She became angry and had Joseph arrested and
-sent to prison. Even in prison, Joseph remained faithful to God, and God
-blessed him.
+against God in this way. She became angry and falsely accused Joseph so
+that he was arrested and sent to prison. Even in prison, Joseph remained
+faithful to God, and God blessed him.
 
 ![obs-08-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-06.jpg "obs-08-06.jpg")
 
-Years later, Joseph was still in prison, even though he had done nothing
-wrong. The king of Egypt, who was called the Pharaoh, had two dreams
-that disturbed him greatly. None of his advisors could tell him the
-meaning of the dreams.
+After two years, Joseph was still in prison, even though he was
+innocent. One night, the king of Egypt, who was called the Pharaoh, had
+two dreams that disturbed him greatly. None of his advisors could tell
+him the meaning of the dreams.
 
 ![obs-08-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-07.jpg "obs-08-07.jpg")
 
@@ -578,9 +646,9 @@ powerful man in all of Egypt!
 
 ![obs-08-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-09.jpg "obs-08-09.jpg")
 
-During the seven years of good harvests, Joseph told the people to store
-up large amounts of food. Then when the seven years of famine came,
-Joseph sold the food to the people so they would have enough to eat.
+Joseph told the people to store up large amounts of food during the
+seven years of good harvests. Then Joseph sold the food to the people
+when the seven years of famine came so they would have enough to eat.
 
 ![obs-08-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-10.jpg "obs-08-10.jpg")
 
@@ -589,21 +657,21 @@ and his family lived.
 
 ![obs-08-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-11.jpg "obs-08-11.jpg")
 
-So Jacob sent his sons to Egypt to buy food. When the brothers stood
-before Joseph to buy food, they did not recognize him. But Joseph
+So Jacob sent his sons to Egypt to buy food. The brothers did not
+recognize Joseph when they stood before him to buy food. But Joseph
 recognized them.
 
 ![obs-08-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-12.jpg "obs-08-12.jpg")
 
-After testing them to see if they had changed, Joseph said to them, “I
-am your brother, Joseph! Do not be afraid. You tried to do evil when you
-sold me as a slave, but God used the evil for good! Come and live in
-Egypt so I can provide for you and your families.”
+After testing hist brothers to see if they had changed, Joseph said to
+them, “I am your brother, Joseph! Do not be afraid. You tried to do evil
+when you sold me as a slave, but God used the evil for good! Come and
+live in Egypt so I can provide for you and your families.”
 
 ![obs-08-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-13.jpg "obs-08-13.jpg")
 
-When the brothers returned home and told Jacob that Joseph was still
-alive, he was very happy.
+When Joseph's brothers returned home and told their father, Jacob, that
+Joseph was still alive, he was very happy.
 
 ![obs-08-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-14.jpg "obs-08-14.jpg")
 
@@ -630,10 +698,10 @@ children. They were called the Israelites.
 
 ![obs-09-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-02.jpg "obs-09-02.jpg")
 
-Many years later, a new Pharaoh came to power in Egypt. The Egyptians
-forgot about Joseph and all he had done to help them. They became afraid
-of the Israelites because there were so many of them. So the Egyptians
-made the Israelites their slaves.
+Hundreds of years later, a new Pharaoh came to power in Egypt. The
+Egyptians no longer remembered Joseph and all he had done to help them.
+They became afraid of the Israelites because there were so many of them.
+So the Egyptians made the Israelites their slaves.
 
 ![obs-09-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-03.jpg "obs-09-03.jpg")
 
@@ -644,8 +712,8 @@ them, and they had even more children.
 ![obs-09-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-04.jpg "obs-09-04.jpg")
 
 Pharaoh saw that the Israelites were having many babies, so he ordered
-all Israelite baby boys to be killed by throwing them into the Nile
-River.
+his people to kill all Israelite baby boys by throwing them into the
+Nile River.
 
 ![obs-09-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-05.jpg "obs-09-05.jpg")
 
@@ -654,14 +722,17 @@ hid the baby for as long as they could.
 
 ![obs-09-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-06.jpg "obs-09-06.jpg")
 
-Then they put him in a floating basket in the Nile River. His older
-sister watched to see what would happen to him.
+When the boy's parents could no longer hide him, they put him in a
+floating basket among the reeds along the edge of the Nile River. His
+older sister watched to see what would happen to him.
 
 ![obs-09-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-07.jpg "obs-09-07.jpg")
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
-baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child grew up, Pharaoh’s daughter named him Moses.
+baby, she took him as her own son. She hired an Israelite woman to nurse
+him, without realizing the woman was the baby's own mother. When the
+child was old enough, his mother returned him to Pharaoh’s daughter, who
+named him Moses.
 
 ![obs-09-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-08.jpg "obs-09-08.jpg")
 
@@ -670,14 +741,14 @@ Israelite slave. Moses tried to save his fellow Israelite.
 
 ![obs-09-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-09.jpg "obs-09-09.jpg")
 
-When he thought nobody was looking, he killed the Egyptian and buried
-his body. But someone saw what had happened.
+When Moses thought nobody was looking, he killed the Egyptian and buried
+the body. But someone saw what had happened.
 
 ![obs-09-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-10.jpg "obs-09-10.jpg")
 
 When Pharaoh found out about it, he tried to kill Moses because of what
 he had done. Moses ran away from Egypt to the wilderness where he would
-be safe.
+be safe from Pharaoh's soldiers.
 
 ![obs-09-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-11.jpg "obs-09-11.jpg")
 
@@ -693,21 +764,23 @@ off your shoes. You are standing on holy ground.”
 
 ![obs-09-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-13.jpg "obs-09-13.jpg")
 
-God said, “I have seen the suffering of My people. I will send you to
+God said, “I have seen the suffering of my people. I will send you to
 Pharaoh so that you can bring the Israelites out of their slavery in
 Egypt. I will give them the land of Canaan, the land I promised to
 Abraham, Isaac, and Jacob.”
 
 ![obs-09-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-14.jpg "obs-09-14.jpg")
 
-Moses said, “What if the people ask me who sent me, what should I say?”
-God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is
-My name forever.”
+Moses said, “What if the people want to know who sent me, what should I
+say?” God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’
+Also tell them, ‘I am Yahweh, the God of your ancestors Abraham, Isaac,
+and Jacob. This is my name forever.’”
 
 ![obs-09-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-15.jpg "obs-09-15.jpg")
 
-Moses did not want to go, so God sent Moses’ brother, Aaron, to help
-him. God warned Moses and Aaron that Pharaoh would be stubborn.
+Moses did not want to go to Pharaoh because he thought he could not
+speak well, so God sent Moses’ brother, Aaron, to help him. God warned
+Moses and Aaron that Pharaoh would be stubborn.
 
 *A Bible story from: Exodus 1-4*
 
@@ -717,15 +790,15 @@ him. God warned Moses and Aaron that Pharaoh would be stubborn.
 ![obs-10-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-01.jpg "obs-10-01.jpg")
 
 Moses and Aaron went to Pharaoh. They said, “This is what the God of
-Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of
-letting the Israelites go free, he made their work even harder!
+Israel says, ‘Let my people go!’” Pharaoh did not listen to them.
+Instead of letting the Israelites go free, he made their work even
+harder!
 
 ![obs-10-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-02.jpg "obs-10-02.jpg")
 
-Pharaoh kept refusing to let the people go, so God sent ten plagues on
-Egypt. (A plague is a terrible disaster.) Through these plagues, God
-showed Pharaoh that He is more powerful than Pharaoh and all of Egypt’s
-gods.
+Pharaoh kept refusing to let the people go, so God sent ten terrible
+plagues, on Egypt. Through these plagues, God showed Pharaoh that he is
+more powerful than Pharaoh and all of Egypt’s gods.
 
 ![obs-10-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-03.jpg "obs-10-03.jpg")
 
@@ -740,16 +813,16 @@ would not let the Israelites go.
 
 ![obs-10-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-05.jpg "obs-10-05.jpg")
 
-So God sent a plague of gnats and then a plague of flies. Pharaoh called
-Moses and Aaron and told them they could leave if they stopped the
-plague. Moses prayed, and God removed all the flies from Egypt, but
+So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh
+called Moses and Aaron and told them they could leave if they stopped
+the plague. Moses prayed, and God removed all the flies from Egypt, but
 Pharaoh hardened his heart and would not let the people go.
 
 ![obs-10-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-06.jpg "obs-10-06.jpg")
 
 Next God sent a sickness to kill all the farm animals that belonged to
-the Egyptians. Pharaoh’s heart was hardened, and he would not let the
-Israelites go.
+the Egyptians. But Pharaoh’s heart was hardened, and he would not let
+the Israelites go.
 
 ![obs-10-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-07.jpg "obs-10-07.jpg")
 
@@ -760,9 +833,10 @@ the Israelites go free.
 
 ![obs-10-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-08.jpg "obs-10-08.jpg")
 
-After that, God sent hail that destroyed the crops in Egypt and killed
-anybody who went outside. Pharaoh called Moses and Aaron and told them,
-“I have sinned. You may go.” So Moses prayed, and the hail stopped.
+After that, God sent hail that destroyed much of the crops in Egypt and
+killed anybody who went outside. Pharaoh called Moses and Aaron and told
+them, “I have sinned. You may go.” So Moses prayed, and the hail
+stopped.
 
 ![obs-10-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-09.jpg "obs-10-09.jpg")
 
@@ -772,19 +846,19 @@ Israelites go.
 ![obs-10-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-10.jpg "obs-10-10.jpg")
 
 So God caused swarms of locusts to come over Egypt. These locusts ate
-what remained of the crops that the hail had not destroyed.
+all the crops that the hail had not destroyed.
 
 ![obs-10-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-11.jpg "obs-10-11.jpg")
 
 Then God sent darkness that lasted for three days. It was so dark that
-the Egyptians could not leave their houses. But where the Israelites
-lived, there was light.
+the Egyptians could not leave their houses. But there was light where
+the Israelites lived.
 
 ![obs-10-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-12.jpg "obs-10-12.jpg")
 
 Even after these nine plagues, Pharaoh still refused to let the
-Israelites go free. Since Pharaoh would not listen, there was one last
-plague that God planned to send. This would change Pharaoh’s mind.
+Israelites go free. Since Pharaoh would not listen, God planned to send
+one last plague. This would change Pharaoh’s mind.
 
 *A Bible story from: Exodus 5-10*
 
@@ -793,49 +867,50 @@ plague that God planned to send. This would change Pharaoh’s mind.
 
 ![obs-11-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-01.jpg "obs-11-01.jpg")
 
-God warned Pharaoh that if he did not let the Israelites go, then He
+God warned Pharaoh that if he did not let the Israelites go, then he
 would kill all the firstborn males of both people and animals. When
 Pharaoh heard this he still refused to believe God.
 
 ![obs-11-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-02.jpg "obs-11-02.jpg")
 
-God provided a way to save the firstborn of anyone who believed in Him.
+God provided a way to save the firstborn of anyone who believed in him.
 Each family had to choose a perfect lamb or goat and kill it.
 
 ![obs-11-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-03.jpg "obs-11-03.jpg")
 
-Then they needed to put some of its blood around the door of their
-house. They were to roast the meat and eat it as a feast, along with
+Then the Israelites needed to put some of its blood around the door of
+their house. They were to roast the meat and eat it quickly, along with
 bread that was made without yeast. They were to be ready to leave Egypt
 when they ate.
 
 ![obs-11-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-04.jpg "obs-11-04.jpg")
 
-The Israelites did everything just as God had commanded them. That night
-the angel of God went throughout Egypt killing every firstborn son.
+The Israelites did everything just as God had commanded them. In the
+middle of the night, God went throughout Egypt killing every firstborn
+son.
 
 ![obs-11-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-05.jpg "obs-11-05.jpg")
 
-All the houses of the Israelites had blood around the doors, so the
-angel of God passed over those houses and everybody inside was safe.
-They were saved because of the lamb’s blood.
+All the houses of the Israelites had blood around the doors, so God
+passed over those houses and everyone inside was safe. They were saved
+because of the lamb’s blood.
 
 ![obs-11-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-06.jpg "obs-11-06.jpg")
 
-But the Egyptians did not believe God or obey His commands. So the angel
-of God did not pass over their houses. The angel of God killed every
-firstborn son in Egypt.
+But the Egyptians did not believe God or obey his commands. So God did
+not pass over their houses. God killed every one of the Egyptians'
+firstborn sons.
 
 ![obs-11-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-07.jpg "obs-11-07.jpg")
 
-From the firstborn of the prisoner in jail, to the firstborn of Pharaoh,
-every firstborn died. There was much weeping in Egypt.
+Every Egyptian firstborn male died, from the firstborn of the prisoner
+in jail, to the firstborn of Pharaoh. There was much weeping in Egypt.
 
 ![obs-11-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-08.jpg "obs-11-08.jpg")
 
-Pharaoh called for Moses and Aaron and said, “Take the Israelites and
-leave Egypt immediately!” The Egyptians encouraged the Israelites to
-leave right away.
+That same night, Pharaoh called for Moses and Aaron and said, “Take the
+Israelites and leave Egypt immediately!” The Egyptian people also urged
+the Israelites to leave right away.
 
 *A Bible story from: Exodus 11:1-12:32*
 
@@ -846,20 +921,21 @@ leave right away.
 
 The Israelites were very happy to leave Egypt. They were no longer
 slaves, and they were going to the Promised Land! The Egyptians gave the
-Israelites gifts of gold and silver and other valuable things. Some
-Egyptians believed in God and joined the Israelites as they left Egypt.
+Israelites whatever they asked for, even gold and silver and other
+valuable things. Some people from other nations believed in God and
+joined the Israelites as they left Egypt.
 
 ![obs-12-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-02.jpg "obs-12-02.jpg")
 
 God led them by going ahead of them as a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them
-and guided them as they traveled. All they had to do was follow.
+and guided them as they traveled. All they had to do was follow him.
 
 ![obs-12-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-03.jpg "obs-12-03.jpg")
 
 After a short time, Pharaoh and his people changed their minds and
 wanted the Israelites to be their slaves again. God did this to get
-glory for Himself by showing that He is more powerful than Pharaoh and
+glory for himself by showing that he is more powerful than Pharaoh and
 his gods.
 
 ![obs-12-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-04.jpg "obs-12-04.jpg")
@@ -883,7 +959,7 @@ the Egyptians could not see the Israelites.
 
 ![obs-12-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-07.jpg "obs-12-07.jpg")
 
-Moses lifted his hand over the sea, and God caused the wind to blow. The
+God told Moses to raise his hand over the sea and divide the waters. The
 wind made the water in the sea separate to the left and the right,
 making a path through the sea.
 
@@ -899,9 +975,9 @@ They decided to chase after them.
 
 ![obs-12-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-10.jpg "obs-12-10.jpg")
 
-So they followed the Israelites onto the path through the sea, but God
-threw the Egyptians into a panic and caused their chariots to get stuck.
-They shouted, “Run away! God is fighting for the Israelites!”
+So the Egyptians followed the Israelites onto the path through the sea,
+but God threw the Egyptians into a panic and caused their chariots to
+get stuck. They shouted, “Run away! God is fighting for the Israelites!”
 
 ![obs-12-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-11.jpg "obs-12-11.jpg")
 
@@ -917,17 +993,17 @@ God and trusted that Moses was a prophet of God.
 
 ![obs-12-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-13.jpg "obs-12-13.jpg")
 
-They also rejoiced with much excitement because God had saved them from
-death and slavery! Now they were free to serve God. The Israelites sang
-many songs to celebrate their new freedom and to praise God for saving
-them.
+The Israelites also rejoiced with much excitement because God had saved
+them from death and slavery! Now they were free to serve God. The
+Israelites sang many songs to celebrate their new freedom and to praise
+God for saving them.
 
 ![obs-12-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-14.jpg "obs-12-14.jpg")
 
-God commanded the Israelites to remember His victory over the Egyptians
-and their deliverance from slavery by celebrating the Passover Feast
-every year. They celebrated by killing a perfect lamb, having a big
-feast, and telling the story of how God had saved them from the
+God commanded the Israelites to remember his victory over the Egyptians
+and their deliverance from slavery by celebrating the Passover every
+year. They celebrated by killing a perfect lamb, eating it with
+unleavened bread, and celebrating how God had saved them from the
 Egyptians.
 
 *A Bible story from: Exodus 12:33-15:21*
@@ -937,33 +1013,34 @@ Egyptians.
 
 ![obs-13-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-01.jpg "obs-13-01.jpg")
 
-After God led the Israelites through the Red Sea, He led them through
-the wilderness to a mountain called Sinai. The people set up their tents
-at the base of the mountain.
+After God led the Israelites through the Red Sea, he led them through
+the wilderness to a mountain called Sinai. This was the same mountain
+where Moses had seen the burning bush. The people set up their tents at
+the base of the mountain.
 
 ![obs-13-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-02.jpg "obs-13-02.jpg")
 
-God said to Moses and the people of Israel, “If you will obey My voice
-and keep My covenant, you will be My prized possession, a kingdom of
+God said to Moses and the people of Israel, “If you will obey me and
+keep my covenant, you will be my prized possession, a kingdom of
 priests, and a holy nation.”
 
 ![obs-13-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-03.jpg "obs-13-03.jpg")
 
-Three days later, after the people had prepared themselves, God came
-down on top of Mount Sinai with thunder, lightning, smoke, and a loud
-trumpet blast. Only Moses was allowed to go up the mountain.
+Three days later, after the people had prepared themselves spiritually,
+God came down on top of Mount Sinai with thunder, lightning, smoke, and
+a loud trumpet blast. Only Moses was allowed to go up the mountain.
 
 ![obs-13-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-04.jpg "obs-13-04.jpg")
 
-Then God gave them the covenant and said, “I am the LORD your God, who
+Then God gave them the covenant and said, “I am Yahweh, your God, who
 saved you from slavery in Egypt. Do not worship other gods.”
 
 ![obs-13-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-05.jpg "obs-13-05.jpg")
 
-“Do not make idols or worship them, for I, the LORD your God, am a
-jealous God. Do not use God’s name in a disrespectful way. Remember to
-keep the Sabbath day holy. Do all your work in six days, for the seventh
-day is a day of rest to remember the LORD.”
+“Do not make idols or worship them, for I, Yahweh, am a jealous God. Do
+not use my name in a disrespectful way. Remember to keep the Sabbath day
+holy. Do all your work in six days, for the seventh day is a day of rest
+to remember me.”
 
 ![obs-13-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-06.jpg "obs-13-06.jpg")
 
@@ -975,28 +1052,28 @@ wife, his house, or anything that belongs to him.”
 
 Then God wrote these Ten Commandments on two stone tablets and gave them
 to Moses. God also gave many other laws and rules to follow. If the
-people obeyed these laws, God promised that He would bless and protect
+people obeyed these laws, God promised that he would bless and protect
 them. If they disobeyed them, God would punish them.
 
 ![obs-13-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-08.jpg "obs-13-08.jpg")
 
-God gave the Israelites a detailed description of a tent He wanted them
-to make. It was called the Tent of Meeting. The Tent of Meeting had two
-rooms, separated by a large curtain. No one could enter the room behind
-the curtain except the high priest, because God lived there.
+God gave the Israelites a detailed description of a tent he wanted them
+to make. It was called the Tent of Meeting, and it had two rooms,
+separated by a large curtain. No one could enter the room behind the
+curtain except the high priest, because God lived there.
 
 ![obs-13-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-09.jpg "obs-13-09.jpg")
 
 Anyone who disobeyed God’s law could bring an animal to the Tent of
-Meeting to sacrifice to God. A priest would kill the animal and burn it
-on the altar. The blood of the sacrifice covered the person’s sin and
-made them clean in God’s sight. God chose Aaron, Moses’ brother, and his
-descendants to be His priests.
+Meeting as a sacrifice to God. A priest would kill the animal and burn
+it on the altar. The blood of the sacrifice covered the person’s sin and
+made that person clean in God’s sight. God chose Moses' brother, Aaron,
+and his descendants to be his priests.
 
 ![obs-13-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-10.jpg "obs-13-10.jpg")
 
 The people all agreed to obey the laws that God had given them, to
-worship only God, and to be His special people. But a short time after
+worship only God, and to be his special people. But a short time after
 they promised to obey God, they sinned terribly.
 
 ![obs-13-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-11.jpg "obs-13-11.jpg")
@@ -1007,10 +1084,10 @@ to Aaron and asked him to make an idol for them!
 
 ![obs-13-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-12.jpg "obs-13-12.jpg")
 
-Aaron made a golden idol in the shape of a calf. The people began to
-wildly worship and sacrifice to the idol! God was very angry with their
-sin and planned to destroy them. But Moses prayed for them, and God
-listened to his prayer and did not destroy them.
+So Aaron made a golden idol in the shape of a calf. The people began to
+wildly worship the idol and make sacrifices to it! God was very angry
+with their sin and planned to destroy them. But Moses prayed for them,
+and God listened to his prayer and did not destroy them.
 
 ![obs-13-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-13.jpg "obs-13-13.jpg")
 
@@ -1019,14 +1096,14 @@ he smashed the stones on which God had written the Ten Commandments.
 
 ![obs-13-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-14.jpg "obs-13-14.jpg")
 
-Then he beat the idol into powder, threw the powder into some water and
-made the people drink the water. God sent a plague on the people and
+Then Moses beat the idol into powder, threw the powder into some water
+and made the people drink the water. God sent a plague on the people and
 many of them died.
 
 ![obs-13-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-13-15.jpg "obs-13-15.jpg")
 
-Then Moses climbed the mountain again and prayed that God would forgive
-the people. God listened to Moses and forgave them. Moses wrote the Ten
+Moses climbed the mountain again and prayed that God would forgive the
+people. God listened to Moses and forgave them. Moses wrote the Ten
 Commandments on new stone tablets to replace the ones he had broken.
 Then God led the Israelites away from Mount Sinai toward the Promised
 Land.
@@ -1044,17 +1121,17 @@ cloud pillar showed them the way.
 
 ![obs-14-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-02.jpg "obs-14-02.jpg")
 
-God had promised Abraham, Isaac, and Jacob that He would give the
-Promised Land to their descendants, but now there were many tribes of
-people living there. They were called Canaanites. The Canaanites did not
+God had promised Abraham, Isaac, and Jacob that he would give the
+Promised Land to their descendants, but now there were many people
+groups living there. They were called Canaanites. The Canaanites did not
 believe in God. They worshiped false gods and did many evil things.
 
 ![obs-14-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-03.jpg "obs-14-03.jpg")
 
 God told the Israelites, “You must get rid of all the Canaanites in the
 Promised Land. Do not make peace with them and do not marry them. You
-must completely destroy all of their idols. If you do not do these
-things, you will worship their idols instead of Me.”
+must completely destroy all of their idols. If you do not obey me, you
+will worship their idols instead of me.”
 
 ![obs-14-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-04.jpg "obs-14-04.jpg")
 
@@ -1065,10 +1142,10 @@ Canaanites to see if they were strong or weak.
 
 ![obs-14-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-05.jpg "obs-14-05.jpg")
 
-The men spied on Canaan for forty days, then they came back. Ten of the
-spies gave a bad report, saying, “The land is very good, and the crops
-are great! But the cities are very strong, and the people are giants! If
-we attack them, we will surely die!”
+The twelve men spied on Canaan for forty days and then they came back.
+Ten of the spies gave a bad report, saying, “The land is very good, and
+the crops are great! But the cities are very strong, and the people are
+giants! If we attack them, we will surely die!”
 
 ![obs-14-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-06.jpg "obs-14-06.jpg")
 
@@ -1086,7 +1163,7 @@ Egypt.
 
 ![obs-14-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-08.jpg "obs-14-08.jpg")
 
-God was very angry, and His presence appeared at the Tent of Meeting.
+God was very angry, and his presence appeared at the Tent of Meeting.
 God said, “Except for Joshua and Caleb, all of the people who are twenty
 years old or older will wander in the wilderness until they die. They
 will never enter the Promised Land.”
@@ -1100,21 +1177,21 @@ because God was not with them, but they did not listen to him.
 ![obs-14-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-10.jpg "obs-14-10.jpg")
 
 God did not go with them into this battle, so they were defeated and
-many of them were killed. Then the rest of the Israelites turned back
-from Canaan and wandered through the wilderness for forty years.
+many of them were killed. Then the Israelites turned back from Canaan
+and wandered through the wilderness for forty years.
 
 ![obs-14-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-11.jpg "obs-14-11.jpg")
 
 During that time of wandering, God provided for them. He gave them bread
-from heaven, called “manna.” He also sent quail (a kind of bird) into
-their camp so they could have meat to eat. During those forty years, God
-kept their clothes and shoes from wearing out.
+from heaven, called “manna.” He also sent quail (which is a kind of
+bird) into their camp so they could have meat to eat. During those forty
+years, God kept their clothes and shoes from wearing out.
 
 ![obs-14-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-12.jpg "obs-14-12.jpg")
 
 God even miraculously gave them water from a rock. But despite all this,
 the people of Israel complained and grumbled against God and against
-Moses. God was still faithful to His promises to Abraham, Isaac, and
+Moses. God was still faithful to his promises to Abraham, Isaac, and
 Jacob.
 
 ![obs-14-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-13.jpg "obs-14-13.jpg")
@@ -1127,11 +1204,11 @@ with Moses and said, “You will not enter the Promised Land.”
 
 ![obs-14-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-14.jpg "obs-14-14.jpg")
 
-After they had wandered in the wilderness for forty years, all the
-people who had rebelled against God were dead. God led the Israelites to
-the edge of the Promised Land again. Moses was now very old, so he chose
-Joshua to help him lead the people. God promised Moses that one day He
-would raise up another prophet like Moses.
+After the Israelites had wandered in the wilderness for forty years, all
+the people who had rebelled against God were dead. Then God led the
+people to the edge of the Promised Land again. Moses was now very old,
+so he chose Joshua to help him lead the people. God promised Moses that
+one day he would raise up another prophet like Moses.
 
 ![obs-14-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-15.jpg "obs-14-15.jpg")
 
@@ -1148,16 +1225,16 @@ leader. Joshua was a good leader because he trusted and obeyed God.
 
 ![obs-15-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-01.jpg "obs-15-01.jpg")
 
-At last it was time for the Israelites to enter the Promised Land.
-Joshua sent two spies to the Canaanite city of Jericho. It was protected
-by strong walls. A prostitute named Rahab protected the spies and helped
-them escape because she believed God. They promised to protect Rahab and
-her family when Jericho was destroyed.
+At last it was time for the Israelites to enter Canaan, the Promised
+Land. Joshua sent two spies to the Canaanite city of Jericho. It was
+protected by strong walls. A prostitute named Rahab protected the spies
+and helped them escape because she believed God. They promised to
+protect Rahab and her family when Jericho was destroyed.
 
 ![obs-15-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-02.jpg "obs-15-02.jpg")
 
-To enter into the Promised Land, the Israelites had to cross the Jordan
-River. God told Joshua, “Have the priests go first.” When the priests’
+The Israelites had to cross the Jordan River to enter into the Promised
+Land. God told Joshua, “Have the priests go first.” When the priests’
 feet touched the Jordan River, the water stopped flowing so the
 Israelites could cross over on dry ground.
 
@@ -1169,30 +1246,30 @@ priests marched around the city of Jericho once a day for six days.
 
 ![obs-15-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-04.jpg "obs-15-04.jpg")
 
-On the seventh day, they marched around the city seven times. On the
-last time around the city, the soldiers shouted while the priests blew
-on their trumpets.
+On the seventh day, the Israelites marched around the city seven times.
+On the last time around the city, the soldiers shouted while the priests
+blew on their trumpets.
 
 ![obs-15-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-05.jpg "obs-15-05.jpg")
 
-And the walls around the city fell down! The Israelites destroyed
-everything in the city as God had commanded. Only Rahab and her family
-were saved. They became part of the Israelites. When the rest of the
+Then the walls around Jericho fell down! The Israelites destroyed
+everything in the city as God had commanded. They only saved Rahab and
+her family, who became part of the Israelites. When the rest of the
 Canaanites heard about what had happened to Jericho they were terrified.
 
 ![obs-15-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-06.jpg "obs-15-06.jpg")
 
-The Canaanite tribe of Gibeon lied to Joshua and said they were from far
-away. They asked Joshua to make peace with them. God had commanded the
-Israelites not to make peace with any Canaanites, but Joshua and the
-Israelites did not ask God where the Gibeonites were from. So Joshua
-made peace with them.
+God had commanded the Israelites not to make peace with any of the
+people groups in Canaan. But the Canaanite people group of Gibeon lied
+to Joshua and said they were from far away. They asked Joshua to make
+peace with them. Joshua and the Israelites did not ask God where the
+Gibeonites were from. So Joshua made peace with them.
 
 ![obs-15-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-07.jpg "obs-15-07.jpg")
 
-When the other Canaanites heard that the Gibeonites had made peace with
-the Israelites, they joined their armies and attacked Gibeon. The
-Gibeonites sent a message to Joshua asking for help.
+When the other people groups in Canaan heard that the Gibeonites had
+made peace with the Israelites, they joined their armies and attacked
+Gibeon. The Gibeonites sent a message to Joshua asking for help.
 
 ![obs-15-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-08.jpg "obs-15-08.jpg")
 
@@ -1212,14 +1289,13 @@ defeating the Canaanites. God won a great victory for Israel that day.
 
 ![obs-15-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-11.jpg "obs-15-11.jpg")
 
-After this defeat, the rest of the Canaanites who were left gathered
-together to attack Israel. Joshua and the Israelites attacked and
-destroyed them.
+After this defeat, the Canaanites who were left gathered together to
+attack Israel. Joshua and the Israelites attacked and destroyed them.
 
 ![obs-15-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-12.jpg "obs-15-12.jpg")
 
-After this battle, God gave each tribe of Israel their own section of
-the Promised Land. Then God gave Israel peace along all its borders.
+After this battle, God gave each tribe of Israel its own section of the
+Promised Land. Then God gave Israel peace along all its borders.
 
 ![obs-15-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-15-13.jpg "obs-15-13.jpg")
 
@@ -1237,8 +1313,9 @@ laws.
 
 After Joshua died, the Israelites disobeyed God and did not drive out
 the rest of the Canaanites or obey God’s laws. The Israelites began to
-worship the Canaanite gods instead of the One True God. The Israelites
-had no king, so everyone did what they thought was right for them.
+worship the Canaanite gods instead of Yahweh, the true God. The
+Israelites had no king to lead them, so everyone did what they thought
+was right for them.
 
 ![obs-16-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-02.jpg "obs-16-02.jpg")
 
@@ -1252,19 +1329,19 @@ many years, the Israelites repented and asked God to rescue them.
 Then God provided a deliverer who rescued them from their enemies and
 brought peace to the land. But then the people forgot about God and
 started worshiping idols again. So God allowed the Midianites, a nearby
-enemy tribe, to defeat them.
+enemy people group, to defeat them.
 
 ![obs-16-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-04.jpg "obs-16-04.jpg")
 
-They took all of the Israelites’ crops for seven years. The Israelites
-were so scared, they hid in caves so the Midianites would not find them.
-Finally, they cried out to God to save them.
+The Midianites took all of the Israelites’ crops for seven years. The
+Israelites were so scared that they hid in caves so the Midianites would
+not find them. Finally, they cried out to God to save them.
 
 ![obs-16-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-05.jpg "obs-16-05.jpg")
 
 One day, a man named Gideon was secretly harvesting grain so the
-Midianites would not steal it. The angel of God came to Gideon and said,
-“God is with you, mighty warrior. Go and save Israel from the
+Midianites would not steal it. The angel of Yahweh came to Gideon and
+said, “God is with you, mighty warrior. Go and save Israel from the
 Midianites.”
 
 ![obs-16-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-06.jpg "obs-16-06.jpg")
@@ -1279,7 +1356,7 @@ and made a sacrifice to God.
 The next morning the people saw that the idol had been torn down, and
 they were very angry. They went to Gideon’s house to kill him, but
 Gideon’s father said, “Why are you trying to help your gods? If they are
-gods, let them protect themselves!” So Gideon was saved.
+gods, let them protect themselves!” So he saved Gideon.
 
 ![obs-16-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-08.jpg "obs-16-08.jpg")
 
@@ -1290,10 +1367,10 @@ could be sure that God would use him to save Israel.
 
 ![obs-16-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-09.jpg "obs-16-09.jpg")
 
-First, he laid a cloth on the ground and asked God to let the morning
-dew fall only on the cloth and not on the ground. God did that. The next
-night, he asked that the ground be wet but the cloth dry. God did that
-too.
+First, Gideon laid a cloth on the ground and asked God to let the
+morning dew fall only on the cloth and not on the ground. God did that.
+The next night, he asked that the ground be wet but the cloth dry. God
+did that too.
 
 ![obs-16-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-10.jpg "obs-16-10.jpg")
 
@@ -1314,22 +1391,22 @@ defeat Midian!” Gideon worshiped God.
 
 Then Gideon returned to his soldiers and gave each of them a horn, a
 clay pot, and a torch. They surrounded the place where the Midianites
-were sleeping. The 300 men had the torches in the pots so they could not
-be seen.
+were sleeping. The 300 men had the torches in the pots so the Midianites
+could not see them.
 
 ![obs-16-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-13.jpg "obs-16-13.jpg")
 
-Then, at the same time, they all broke the pots that were hiding the
-torches. They blew their horns and shouted, “A sword for God and for
-Gideon!”
+Then, at the same time, Gideon's soldiers all broke the pots that were
+hiding the torches. They blew their horns and shouted, “A sword for God
+and for Gideon!”
 
 ![obs-16-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-14.jpg "obs-16-14.jpg")
 
-God confused the Midianites, so that they attacked each other and
-started killing each other. Immediately, the rest of the Israelites were
-called from their homes to come help chase the Midianites. They killed
-many of them and chased the rest of them out of their land. 120,000
-Midianites died that day. God had saved Israel.
+God confused the Midianites, so that they started attacking and killing
+each other. Immediately, the rest of the Israelites were called from
+their homes to come help chase the Midianites. They killed many of them
+and chased the rest of them out of their land. 120,000 Midianites died
+that day. God had saved Israel.
 
 ![obs-16-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-15.jpg "obs-16-15.jpg")
 
@@ -1341,21 +1418,22 @@ taken from the enemy. Gideon received a lot of money.
 
 Then Gideon did a foolish thing. He made an idol with the money, and the
 people turned away from God again. They started worshiping Gideon’s
-idol.
+idol. God punished Israel again for worshiping idols. Their enemies
+defeated them. They finally asked God for help, and God sent them
+another deliverer.
 
 ![obs-16-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-17.jpg "obs-16-17.jpg")
 
-God punished Israel again for worshiping idols. Their enemies defeated
-them. They finally asked God for help, and God sent them another
-deliverer. This pattern of sin, punishment, repentance, and deliverance
-was repeated many times. God sent many deliverers who saved Israel from
-their enemies.
+This pattern repeated many times: the Israelites would sin, God would
+punish them, they would repent, and God would save them. Over many
+years, God sent many deliverers who saved the Israelites from their
+enemies.
 
 ![obs-16-18.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-16-18.jpg "obs-16-18.jpg")
 
 Finally, the people asked God for a king like all the other nations had.
 They wanted a king who was tall, strong, and could lead them into
-battle. God did not like this request, but He gave them what they
+battle. God did not like this request, but he gave them what they
 wanted.
 
 *A Bible story from: Judges 1-3; 6-8*
@@ -1367,14 +1445,15 @@ wanted.
 
 Saul was the first king of Israel. He was tall and handsome, just like
 the people wanted. Saul did well at first, but he became a wicked man
-who did not obey God, so God chose a different man to be king in his
-place.
+who did not obey God, so God chose a different man who would one day be
+king in his place.
 
 ![obs-17-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-02.jpg "obs-17-02.jpg")
 
-This man’s name was David. He was a shepherd. While watching the sheep,
-David had killed both a lion and a bear which had attacked the sheep.
-David was also a humble and righteous man who trusted and obeyed God.
+This man’s name was David. He was a shepherd from the town of Bethlehem.
+While watching the sheep, David had killed both a lion and a bear which
+had attacked the sheep. David was a humble and righteous man who trusted
+and obeyed God.
 
 ![obs-17-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-03.jpg "obs-17-03.jpg")
 
@@ -1387,9 +1466,9 @@ kill Goliath and save Israel.
 
 Saul became jealous of David and tried many times to kill him. One day
 Saul was looking for David so he could kill him. Saul went into the same
-cave where David was hiding. Instead of killing Saul, David cut off a
-piece of his clothes to prove to Saul that he would not kill him to
-become king.
+cave where David was hiding but did not see him. Instead of killing
+Saul, David cut off a piece of his clothes to prove to Saul that he
+would not kill him to become king.
 
 ![obs-17-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-05.jpg "obs-17-05.jpg")
 
@@ -1402,22 +1481,23 @@ Israel became powerful and wealthy.
 ![obs-17-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-06.jpg "obs-17-06.jpg")
 
 David wanted to build a temple where everybody could worship God and
-offer Him sacrifices. For about 400 years, the people had been
-worshiping God and offering sacrifices to Him at the Tent of Meeting
+offer him sacrifices. For about 400 years, the people had been
+worshiping God and offering sacrifices to him at the Tent of Meeting
 that Moses had built.
 
 ![obs-17-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-07.jpg "obs-17-07.jpg")
 
 God sent the prophet Nathan to David with this message, “Because you are
-a man of war, you will not build Me this house; your son will. But, I
-will bless you greatly. Someone from your family will always sit on the
-throne of Israel. And the Messiah will be one of your descendants!” The
-Messiah is God’s Chosen One who would save the world from sin.
+a man of war, you will not build this house for me. Your son will build
+it. But, I will bless you greatly. Someone from your family will always
+sit on the throne of Israel, and the Messiah will be one of your
+descendants!” The Messiah is God’s Chosen One who would save the world
+from sin.
 
 ![obs-17-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-08.jpg "obs-17-08.jpg")
 
 When David heard these words, he immediately thanked and praised God
-because He had promised David great honor and many blessings. The
+because he had promised David this great honor and many blessings. The
 Israelites would have to wait a long time before the Messiah came,
 almost 1,000 years.
 
@@ -1429,7 +1509,7 @@ before God.
 
 ![obs-17-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-10.jpg "obs-17-10.jpg")
 
-One day, when all of his soldiers were out fighting, David got up from
+One day, when all of David's soldiers were out fighting, he got up from
 an afternoon nap and saw a beautiful woman bathing. Her name was
 Bathsheba.
 
@@ -1441,26 +1521,26 @@ a message to David saying that she was pregnant.
 
 ![obs-17-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-12.jpg "obs-17-12.jpg")
 
-Her husband, Uriah, was one of David’s best soldiers. David called Uriah
-back from the battle and told him to go be with his wife. But Uriah
-refused to go home while the rest of the soldiers were in battle. So
-David sent Uriah back to the battle and had him placed where the enemy
-was strongest so that he would be killed.
+Bathsheba's husband, Uriah, was one of David’s best soldiers. David
+called Uriah back from the battle and told him to go be with his wife.
+But Uriah refused to go home while the rest of the soldiers were in
+battle. So David sent Uriah back to the battle and told the general to
+place him where the enemy was strongest so that he would be killed.
 
 ![obs-17-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-13.jpg "obs-17-13.jpg")
 
 After Uriah was killed, David married Bathsheba. Later, she gave birth
-to a son. God was not pleased with what David had done, so He sent the
-prophet Nathan to show David his sin. David repented of his sin and God
-forgave him. For the rest of his life, David trusted God, even in
+to David's son. God was not pleased with what David had done, so he sent
+the prophet Nathan to show David his sin. David repented of his sin and
+God forgave him. For the rest of his life, David trusted God, even in
 difficult times.
 
 ![obs-17-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-17-14.jpg "obs-17-14.jpg")
 
-But as punishment for his sin, David’s baby boy died. There was also
+But as punishment for David's sin, his baby boy died. There was also
 fighting in David’s family for the rest of his life, and David’s power
 was greatly weakened. Though David had been unfaithful to God, God was
-still faithful to His promises. Bathsheba gave birth to another son
+still faithful to his promises. Bathsheba gave birth to another son
 named Solomon.
 
 *A Bible story from: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12*
@@ -1479,20 +1559,20 @@ very wealthy.
 
 In Jerusalem, Solomon built the Temple for which his father David had
 planned and gathered materials. Instead of the Tent of Meeting, people
-now worshiped God and offered sacrifices to Him in the Temple. God came
-and was present in the Temple, and He lived there with His people.
+now worshiped God and offered sacrifices to him in the Temple. God came
+and was present in the Temple, and he lived there with his people.
 
 ![obs-18-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-03.jpg "obs-18-03.jpg")
 
 But Solomon loved women from other countries. He disobeyed God by
 marrying many women, almost 1,000 of them! Many of these women came from
 foreign countries and brought their gods with them and worshiped them.
-When Solomon was old, he worshiped their gods.
+When Solomon was old, he also worshiped their gods.
 
 ![obs-18-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-04.jpg "obs-18-04.jpg")
 
 God was angry with Solomon and, as a punishment for Solomon’s
-unfaithfulness, said He would divide the kingdom of Israel in two after
+unfaithfulness, he promised to divide the kingdom of Israel in two after
 Solomon’s death.
 
 ![obs-18-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-05.jpg "obs-18-05.jpg")
@@ -1511,13 +1591,13 @@ and I will punish you worse than he did.”
 ![obs-18-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-07.jpg "obs-18-07.jpg")
 
 Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes
-remained faithful to him. These two tribes were called the kingdom of
-Judah.
+remained faithful to him. These two tribes became the kingdom of Judah.
 
 ![obs-18-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-08.jpg "obs-18-08.jpg")
 
 The other ten tribes that rebelled against Rehoboam made a man named
-Jeroboam their king. They were called the kingdom of Israel.
+Jeroboam their king. They set up their kingdom in the northern part of
+the land and were called the kingdom of Israel.
 
 ![obs-18-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-18-09.jpg "obs-18-09.jpg")
 
@@ -1564,68 +1644,68 @@ messages.
 
 Elijah was a prophet when Ahab was king over Israel. Ahab was an evil
 man who encouraged people to worship a false god named Baal. Elijah said
-to Ahab, “There will be no rain or dew in Israel until I say so.”
+to Ahab, “There will be no rain or dew in Israel until I say so.” This
+made Ahab very angry.
 
 ![obs-19-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-03.jpg "obs-19-03.jpg")
 
-Then God told Elijah to hide in the wilderness near a stream. Every
-morning and every evening, birds would bring him bread and meat. Ahab
-and his army looked for Elijah, but they could not find him. The drought
-was so severe that the stream eventually dried up.
+God told Elijah to hide in the wilderness near a stream. Every morning
+and every evening, birds would bring him bread and meat. Ahab and his
+army looked for Elijah, but they could not find him. The drought was so
+severe that the stream eventually dried up.
 
 ![obs-19-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-04.jpg "obs-19-04.jpg")
 
 So Elijah went to a neighboring country. A widow and her son had almost
 run out of food because of the famine. But they took care of Elijah, and
-God provided so that neither their flour jar nor their bottle of oil
-ever ran out. They had food through the whole famine. Elijah stayed
-there a long time.
+God provided for them so that their flour jar and their bottle of oil
+never became empty. They had food through the whole famine. Elijah
+stayed there a long time.
 
 ![obs-19-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-05.jpg "obs-19-05.jpg")
 
-After three years, God told Elijah to return to Israel and speak with
-Ahab because He was going to send rain again. When Ahab saw Elijah he
-said, “There you are, you troublemaker!” Elijah said, “You are the
-troublemaker! You have abandoned the true God and worshiped Baal. Bring
-all of Israel to Mount Carmel.”
+After three and a half years, God told Elijah to return to Israel and
+speak with Ahab because he was going to send rain again. When Ahab saw
+Elijah he said, “There you are, you troublemaker!” Elijah said, “You are
+the troublemaker! You have abandoned Yahweh, the true God, and worshiped
+Baal. Bring all of Israel to Mount Carmel.”
 
 ![obs-19-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-06.jpg "obs-19-06.jpg")
 
-All of Israel, including the 400 prophets of Baal, came to Mount Carmel.
-Elijah said, “How long will you keep changing your mind? If the LORD is
-God, serve Him! If Baal is God, serve him!”
+All of Israel, including the 450 prophets of Baal, came to Mount Carmel.
+Elijah said to the people, “How long will you keep changing your mind?
+If Yahweh is God, serve him! If Baal is God, serve him!”
 
 ![obs-19-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-07.jpg "obs-19-07.jpg")
 
-Then he said to the prophets of Baal, “Kill a bull and prepare a
+Then Elijah said to the prophets of Baal, “Kill a bull and prepare a
 sacrifice, but do not light the fire. I will do the same. The God who
 answers with fire is the real God.” So the priests of Baal prepared a
 sacrifice but did not light the fire.
 
 ![obs-19-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-08.jpg "obs-19-08.jpg")
 
-Then they prayed to Baal, “Hear us, O Baal!” All day long they prayed
-and shouted and even cut themselves with knives, but Baal did not
-answer.
+Then the prophets of Baal prayed to Baal, “Hear us, O Baal!” All day
+long they prayed and shouted and even cut themselves with knives, but
+Baal did not answer.
 
 ![obs-19-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-09.jpg "obs-19-09.jpg")
 
 At the end of the day, Elijah prepared a sacrifice to God. Then he had
 twelve huge pots of water poured on top of the sacrifice until the meat,
-the wood, and even the ground around the altar was completely wet.
+the wood, and even the ground around the altar were completely wet.
 
 ![obs-19-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-10.jpg "obs-19-10.jpg")
 
-Then Elijah prayed, “O LORD, God of Abraham, Isaac, and Jacob, show us
-today that You are the God of Israel and that I am Your servant. Answer
-me so that these people will know that You are God.”
+Then Elijah prayed, “O Yahweh, God of Abraham, Isaac, and Jacob, show us
+today that you are the God of Israel and that I am your servant. Answer
+me so that these people will know that you are the true God.”
 
 ![obs-19-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-11.jpg "obs-19-11.jpg")
 
 Immediately, fire fell from the sky and burned up the meat, the wood,
 the rocks, and even the wet ground around the altar. When the people saw
-this, they fell on the ground and said, “The LORD is God! The LORD is
-God!”
+this, they fell on the ground and said, “Yahweh is God! Yahweh is God!”
 
 ![obs-19-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-12.jpg "obs-19-12.jpg")
 
@@ -1637,43 +1717,45 @@ killed them.
 
 Then Elijah said to King Ahab, “Return immediately to the city, for the
 rain is coming.” Soon the sky grew black, and a large rain storm came.
-God had ended the drought and proved that He is the only God.
+God had ended the drought and proved that he is the true God.
 
 ![obs-19-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-14.jpg "obs-19-14.jpg")
 
-After Elijah, God chose Elisha to be His prophet. God did many miracles
-through Elisha. One time, Naaman, an enemy commander, found out he had a
-horrible skin disease called leprosy. He had heard of Elisha so he went
-and asked Elisha to be healed. Elisha told him to dip himself seven
+After Elijah, God chose Elisha to be his prophet. God did many miracles
+through Elisha. One of the miracles happened to Naaman, an enemy
+commander, who had a horrible skin disease. He had heard of Elisha so he
+went and asked Elisha to heal him. Elisha told him to dip himself seven
 times in the Jordan River.
 
 ![obs-19-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-15.jpg "obs-19-15.jpg")
 
-At first Naaman was angry and would not do it. But later he changed his
-mind and dipped himself seven times in the Jordan River. When he came up
-the last time, his skin was completely healed! God had healed him.
+At first Naaman was angry and would not do it because it seemed foolish.
+But later he changed his mind and dipped himself seven times in the
+Jordan River. When he came up the last time, his skin was completely
+healed! God had healed him.
 
 ![obs-19-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-16.jpg "obs-19-16.jpg")
 
 There were many other prophets. They all told the people to stop
-worshiping idols and to start showing justice and mercy. The prophets
-warned the people that if they did not turn from their sins and start
-living obedient lives, then God’s judgment would come, and He would
-punish them.
+worshiping idols and to start showing justice and mercy to others. The
+prophets warned the people that if they did not turn from their sins and
+start living obedient lives, then God’s judgment would come, and he
+would punish them.
 
 ![obs-19-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-17.jpg "obs-19-17.jpg")
 
-Most of the time, the people did not listen. They often mistreated the
-prophets and sometimes even killed them. Once, the prophet Jeremiah was
-put into a dry well and left there to die. He sank down into the mud
-that was in the bottom of the well, but then the king had mercy on him
-and pulled him out before he died.
+Most of the time, the people did not listen to God. They often
+mistreated the prophets and sometimes even killed them. Once, the
+prophet Jeremiah was put into a dry well and left there to die. He sank
+down into the mud that was in the bottom of the well, but then the king
+had mercy on him and pulled him out before he died.
 
 ![obs-19-18.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-19-18.jpg "obs-19-18.jpg")
 
-Even though the prophets were hated, they continued to speak for God.
-They warned people that they would be destroyed if they did not repent.
-They also reminded people of the promise that God’s Messiah would come.
+The prophets continued to speak for God even though the people hated
+them. They warned people that God would destroy them if they did not
+repent. They also reminded people of the promise that God’s Messiah
+would come.
 
 *A Bible story from: 1 Kings 16-18; 2 Kings 5; Jeremiah 38*
 
@@ -1683,15 +1765,14 @@ They also reminded people of the promise that God’s Messiah would come.
 ![obs-20-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-01.jpg "obs-20-01.jpg")
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Mount Sinai. God sent His prophets
-to warn them to repent and worship Him again, but they refused to
-listen.
+Covenant that God had made with them at Sinai. God sent his prophets to
+warn them to repent and worship him again, but they refused to listen.
 
 ![obs-20-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-02.jpg "obs-20-02.jpg")
 
-So God punished both nations by allowing them to be destroyed. Israel
-was destroyed by the Assyrian Empire, a powerful, cruel nation. The
-Assyrians killed many Israelites, took away everything of value, and
+So God punished both nations by allowing their enemies to destroy them.
+Israel was destroyed by the Assyrian Empire, a powerful, cruel nation.
+The Assyrians killed many Israelites, took away everything of value, and
 burned much of the country.
 
 ![obs-20-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-03.jpg "obs-20-03.jpg")
@@ -1709,7 +1790,7 @@ there. Their descendants were called Samaritans.
 ![obs-20-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-05.jpg "obs-20-05.jpg")
 
 The people in the kingdom of Judah saw how God had punished the kingdom
-of Israel for not believing and obeying Him. But they still worshiped
+of Israel for not believing and obeying him. But they still worshiped
 idols and the gods of the Canaanites. God sent prophets to warn them,
 but they refused to listen.
 
@@ -1718,7 +1799,7 @@ but they refused to listen.
 About 100 years after the Assyrians destroyed Israel, God sent
 Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a
 powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant
-and pay him lots of money every year.
+and pay him a lot of money every year.
 
 ![obs-20-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-07.jpg "obs-20-07.jpg")
 
@@ -1735,15 +1816,16 @@ they took the king away to die in prison in Babylon.
 ![obs-20-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-09.jpg "obs-20-09.jpg")
 
 Nebuchadnezzar and his army took all the people of Judah to Babylon,
-leaving only the poorest people behind to plant the fields. This is
-called the Exile.
+leaving only the poorest people behind to plant the fields. This period
+of time when God's people could not live in the Promised Land is called
+the Exile.
 
 ![obs-20-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-10.jpg "obs-20-10.jpg")
 
 Even though the Exile was punishment for their sin, God did not forget
-His people or His promises. God watched over His people and spoke to
-them through His prophets. He promised that, after seventy years, they
-would return to the Promised Land again.
+his people or his promises. God continued to watch over his people and
+speak to them through his prophets. He promised that, after seventy
+years, they would return to the Promised Land again.
 
 ![obs-20-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-11.jpg "obs-20-11.jpg")
 
@@ -1762,9 +1844,9 @@ Jerusalem.
 
 ![obs-20-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-13.jpg "obs-20-13.jpg")
 
-When they arrived, they rebuilt the Temple and the wall around the city
-of Jerusalem. Although they were still ruled by other people, they lived
-in the Promised Land again and worshiped at the Temple.
+When the people arrived in Jerusalem, they rebuilt the Temple and the
+wall around the city. Although they were still ruled by other people,
+they lived in the Promised Land again and worshiped at the Temple.
 
 *A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10;
 Nehemiah 1-13*
@@ -1774,10 +1856,11 @@ Nehemiah 1-13*
 
 ![obs-21-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-01.jpg "obs-21-01.jpg")
 
-The first promise of the coming Messiah came to Adam and Eve. God
-promised that a descendant of Eve would be born who would crush the
-snake’s head. The snake who deceived Eve is Satan. The promise means the
-coming Messiah would defeat Satan completely.
+From the very beginning, God had a plan to send the Messiah. The first
+promise of the coming Messiah came to Adam and Eve. God promised that a
+descendant of Eve would be born who would crush the snake’s head. The
+snake who deceived Eve is Satan. The promise means the coming Messiah
+would defeat Satan completely.
 
 ![obs-21-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-02.jpg "obs-21-02.jpg")
 
@@ -1787,8 +1870,8 @@ provide the way of salvation for all people groups.
 
 ![obs-21-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-03.jpg "obs-21-03.jpg")
 
-God promised Moses that He would raise up another prophet like Moses.
-This was another reference to the coming Messiah.
+God promised Moses that he would raise up another prophet like Moses.
+This was another promise about the coming Messiah.
 
 ![obs-21-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-04.jpg "obs-21-04.jpg")
 
@@ -1797,17 +1880,18 @@ descendants.
 
 ![obs-21-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-05.jpg "obs-21-05.jpg")
 
-Through the prophet Jeremiah, God promised that He would make a New
+Through the prophet Jeremiah, God promised that he would make a New
 Covenant, but not like God’s Covenant with Israel. In the New Covenant,
-God would write His law on the people’s hearts, the people would know
-God, they would be His people, and God would forgive their sins. The
+God would write his law on the people’s hearts, the people would know
+God, they would be his people, and God would forgive their sins. The
 Messiah would start the New Covenant.
 
 ![obs-21-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-06.jpg "obs-21-06.jpg")
 
-The coming Messiah would be a prophet, a priest, and a king. A prophet
-is a person who hears the words of God and then proclaims God’s words to
-the people. The coming Messiah would be the perfect prophet.
+God's prophets also said that the coming Messiah would be a prophet, a
+priest, and a king. A prophet is a person who hears the words of God and
+then proclaims God’s words to the people. The coming Messiah would be
+the perfect prophet.
 
 ![obs-21-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-07.jpg "obs-21-07.jpg")
 
@@ -1825,26 +1909,25 @@ who would judge honestly and make the right decision every time.
 
 ![obs-21-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-09.jpg "obs-21-09.jpg")
 
-The prophets predicted the birth of the coming Messiah. Malachi foretold
-that a great prophet would come before the Messiah came. Isaiah
-prophesied that the Messiah would be born from a virgin. Micah said that
-he would be born in the town of Bethlehem.
+God's prophets predicted many other things about the coming Messiah.
+Malachi foretold that a great prophet would come before the Messiah
+came. Isaiah prophesied that the Messiah would be born from a virgin.
+Micah said that he would be born in the town of Bethlehem.
 
 ![obs-21-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-10.jpg "obs-21-10.jpg")
 
-The prophets also prophesied about the Messiah’s ministry. Isaiah said
-he would live in Galilee, comfort the broken-hearted, proclaim freedom
-to captives, and release to prisoners. He also predicted that the
-Messiah would heal sick people, including those who could not hear, see,
-speak, or walk.
+Isaiah said he would live in Galilee, comfort the broken-hearted, and
+proclaim freedom to captives and release to prisoners. He also predicted
+that the Messiah would heal sick people, including those who could not
+hear, see, speak, or walk.
 
 ![obs-21-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-11.jpg "obs-21-11.jpg")
 
 Isaiah prophesied that the Messiah would be hated without reason and
-rejected. The Psalms foretold that the Messiah’s people would gamble for
-his clothes and he would be betrayed by a friend. (Psalms are Jewish
-worship songs in the Scriptures.) Zechariah foretold that the friend
-would be paid thirty pieces of silver for betraying him.
+rejected. Other prophets foretold that those who killed the Messiah
+would gamble for his clothes and he would be betrayed by a friend.
+Zechariah foretold that the friend would be paid thirty pieces of silver
+for betraying him.
 
 ![obs-21-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-12.jpg "obs-21-12.jpg")
 
@@ -1863,7 +1946,7 @@ Messiah.
 
 Not only would the Messiah die, but the prophets foretold that God would
 raise him from the dead. Through the Messiah’s death and resurrection,
-God would complete His plan of salvation and start the New Covenant.
+God would complete his plan of salvation and start the New Covenant.
 
 ![obs-21-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-21-15.jpg "obs-21-15.jpg")
 
@@ -1882,9 +1965,10 @@ Zechariah 11:12-13; Isaiah 50:6; Psalm 16:10-11*
 
 ![obs-22-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-22-01.jpg "obs-22-01.jpg")
 
-More than 400 years after the last prophet spoke to the Jews, an angel
-appeared to an old priest named Zechariah. He was a godly man, but his
-wife, Elizabeth, could not have any children.
+More than 400 years had passed since God had spoken to his people. Then
+an angel appeared to an old priest named Zechariah. He and his wife,
+Elizabeth, were godly people, but she was never able to have any
+children.
 
 ![obs-22-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-22-02.jpg "obs-22-02.jpg")
 
@@ -1905,14 +1989,15 @@ angel left. Zechariah returned home, and his wife became pregnant.
 When Elizabeth was six months pregnant, the same angel appeared to
 Elizabeth’s relative, whose name was Mary. She was a virgin and was
 engaged to a man named Joseph. The angel said, “You will become pregnant
-and give birth to a son.”
+and give birth to a son. You are to name him Jesus and he will be the
+Messiah.”
 
 ![obs-22-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-22-05.jpg "obs-22-05.jpg")
 
-The angel continued, “You are to name him Jesus. He will be the
-Messiah!” Mary replied, “How can this be, since I am a virgin?” The
-angel explained, “The Holy Spirit will come over you, and you will
-conceive. So your son will be called the Son of the Most High God.”
+Mary replied, “How can this be, since I am a virgin?” The angel
+explained, “The Holy Spirit will come upon you, and the power of God
+will cover you. So the baby will be holy, the Son of God.” Mary believed
+and accepted what the angel said.
 
 ![obs-22-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-22-06.jpg "obs-22-06.jpg")
 
@@ -1925,7 +2010,7 @@ for three months, Mary returned home.
 
 After Elizabeth gave birth to her baby boy, they named him John as the
 angel commanded. Then God allowed Zechariah to speak again. He said,
-“Praise God, because He has remembered His people! You, my son, will be
+“Praise God, because he has remembered his people! You, my son, will be
 called the prophet of the Most High God! You will prepare the way for
 the Messiah!”
 
@@ -1936,17 +2021,17 @@ the Messiah!”
 
 ![obs-23-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-01.jpg "obs-23-01.jpg")
 
-When Joseph heard that Mary was pregnant, he knew it was not his baby,
-so he planned to quietly divorce her. Before he could do that, an angel
-appeared to him in a dream.
+Joseph was a righteous man. When he heard that Mary was pregnant, he
+knew it was not his baby. He did not want to shame her, so he planned to
+quietly divorce her. Before he could do that, an angel appeared to him
+in a dream.
 
 ![Joseph sleeping, angel appearing in
 dream](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-02.jpg "Joseph sleeping, angel appearing in dream")
 
 The angel said, “Joseph, do not be afraid to take Mary as your wife.
-What is in her has been conceived by the Holy Spirit. She will give
-birth to a son. Name him Jesus, because he will save the people from
-their sins.”
+What is in her is from the Holy Spirit. She will give birth to a son.
+Name him Jesus, because he will save the people from their sins.”
 
 ![obs-23-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-03.jpg "obs-23-03.jpg")
 
@@ -1956,9 +2041,9 @@ sleep with her until she had given birth.
 ![obs-23-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-04.jpg "obs-23-04.jpg")
 
 About the time Mary was to give birth, the Roman government told
-everyone to go to the town of their ancestors for a census. Mary and
-Joseph had to make a long journey from where they lived in Nazareth to
-Bethlehem.
+everyone to go to the town of their ancestors for a census. Joseph and
+Mary had to make a long journey from where they lived in Nazareth to
+Bethlehem because their ancestor was David whose hometown was Bethlehem.
 
 ![obs-23-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-05.jpg "obs-23-05.jpg")
 
@@ -1969,24 +2054,24 @@ have a bed for him. They named him Jesus.
 
 ![obs-23-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-06.jpg "obs-23-06.jpg")
 
-That night, there were some shepherds in a nearby field watching their
+That night, there were some shepherds in a nearby field guarding their
 flocks. Suddenly, a shining angel appeared to them, and they were
 terrified. The angel said, “Do not be afraid, because I have some good
-news for you. The Messiah has been born!”
+news for you. The Messiah, the Master, has been born in Bethlehem!”
 
 ![obs-23-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-07.jpg "obs-23-07.jpg")
 
 “Go search for the baby, and you will find him wrapped in pieces of
-cloth and lying in a manger.” Suddenly, the skies were filled with
-angels singing and praising God, saying, “Glory to God in heaven and
-peace on earth to the people He favors!”
+cloth and lying in a feeding trough.” Suddenly, the skies were filled
+with angels praising God, saying, “Glory to God in heaven and peace on
+earth to the people he favors!”
 
 ![obs-23-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-08.jpg "obs-23-08.jpg")
 
 When the shepherds arrived at the place where Jesus was, they found him
-lying in a manger, just as the angel had told them. They were very
-excited. Mary was very happy, too. The shepherds returned to the fields,
-praising God for all they had heard and seen.
+lying in a feeding trough, just as the angel had told them. They were
+very excited. Mary was very happy, too. The shepherds returned to the
+fields, praising God for all they had heard and seen.
 
 ![obs-23-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-09.jpg "obs-23-09.jpg")
 
@@ -1997,7 +2082,7 @@ Bethlehem and found the place where Jesus was living.
 
 ![obs-23-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-23-10.jpg "obs-23-10.jpg")
 
-When they saw Jesus with his mother, they fell down and worshiped him.
+When they saw Jesus with his mother, they bowed down and worshiped him.
 They gave Jesus expensive gifts. Then they returned home.
 
 *A Bible story from: Matthew 1; Luke 2*
@@ -2025,7 +2110,7 @@ repenting and confessing their sins.
 
 John said to the religious leaders, “You bunch of snakes! Repent and
 change your behavior. Every tree that does not bear good fruit will be
-cut down and thrown into the fire.” This fulfilled what the prophet
+cut down and thrown into the fire.” John fulfilled what the prophet
 Isaiah said, “Behold, I send my messenger ahead of you, who will prepare
 your way.”
 
@@ -2045,14 +2130,14 @@ world.”
 
 John said to Jesus, “I am not worthy to baptize you. You should baptize
 me instead.” But Jesus said, “You should baptize me, because it is the
-right thing to do.” So John baptized him, but not because Jesus had
+right thing to do.” So John baptized him, but not not because Jesus had
 sinned—he never sinned.
 
 ![obs-24-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-24-08.jpg "obs-24-08.jpg")
 
 When Jesus came out of the water, the Spirit of God took the appearance
 of a dove and landed on him. At the same time a voice from heaven said,
-“You are My beloved Son, and with you I am well pleased.”
+“You are my beloved Son, and with you I am well pleased.”
 
 ![obs-24-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-24-09.jpg "obs-24-09.jpg")
 
@@ -2068,8 +2153,8 @@ Father, Jesus the Son, and the Holy Spirit.
 ![obs-25-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-01.jpg "obs-25-01.jpg")
 
 Immediately after Jesus was baptized, the Holy Spirit led him out into
-the desert, where he fasted for forty days and forty nights. During that
-time he was tempted by Satan.
+the desert, where he fasted for forty days and forty nights. Then Satan
+appeared and tempted him.
 
 ![obs-25-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-02.jpg "obs-25-02.jpg")
 
@@ -2085,12 +2170,12 @@ bread, but on every word that God speaks!’”
 
 Then Satan took Jesus to the highest point on the Temple and said, “If
 you are the Son of God, throw yourself down, for it is written, ‘He will
-command His angels to catch you so your foot does not hit the ground.’”
+command his angels to catch you so your foot does not hit the ground.’”
 
 ![obs-25-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-05.jpg "obs-25-05.jpg")
 
-But Jesus replied, “It is also written in God’s Word, ‘Do not test
-God.’”
+But Jesus replied, “It is also written in God’s Word, ‘Do not test the
+Lord, your God.’”
 
 ![obs-25-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-06.jpg "obs-25-06.jpg")
 
@@ -2101,12 +2186,12 @@ me.”
 ![obs-25-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-07.jpg "obs-25-07.jpg")
 
 Jesus replied, “Get away from me, Satan! It is written in God’s Word,
-‘Worship only the Lord your God.’”
+‘Worship only the Lord your God and only serve him.’”
 
 ![obs-25-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-25-08.jpg "obs-25-08.jpg")
 
-Then Satan left him to wait for a better time. Angels came and took care
-of Jesus.
+Jesus did not give in to Satan's temptations, so Satan left him. Then
+angels came and took care of Jesus.
 
 *A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13*
 
@@ -2122,12 +2207,12 @@ place to place teaching. Everyone spoke well of him.
 ![obs-26-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-02.jpg "obs-26-02.jpg")
 
 Jesus went to the town of Nazareth where he had grown up. On the
-Sabbath, he went to the place of worship. He was given the scroll of the
-prophet Isaiah. Jesus opened up the scroll and read from it.
+Sabbath, he went to the place of worship. They gave him the scroll of
+the prophet Isaiah. Jesus opened up the scroll and read from it.
 
 ![obs-26-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-03.jpg "obs-26-03.jpg")
 
-“God has poured His Spirit on me to proclaim good news to the poor,
+“God has poured his Spirit on me to proclaim good news to the poor,
 freedom to captives, recovery of sight for the blind, and release to
 prisoners. This is the year of the Lord’s favor.”
 
@@ -2149,15 +2234,15 @@ nation.”
 ![obs-26-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-06.jpg "obs-26-06.jpg")
 
 “And when the prophet Elisha was alive, there were many people in Israel
-with skin diseases. But Elisha did not heal any of them, he only healed
+with skin diseases. But Elisha did not heal any of them. He only healed
 Naaman, a commander of Israel’s enemies.” When the people heard this,
 they were furious.
 
 ![obs-26-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-07.jpg "obs-26-07.jpg")
 
-They dragged Jesus out of the place of worship and brought him to the
-edge of a cliff to throw him off. But Jesus walked through the crowd and
-left the town of Nazareth.
+The people of Nazareth dragged Jesus out of the place of worship and
+brought him to the edge of a cliff to throw him off. But Jesus walked
+through the crowd and left the town of Nazareth.
 
 ![obs-26-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-08.jpg "obs-26-08.jpg")
 
@@ -2167,9 +2252,9 @@ hear, or speak, and Jesus healed them.
 
 ![obs-26-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-09.jpg "obs-26-09.jpg")
 
-Many people with demons were brought to Jesus. The demons came out,
-often shouting, “You are the Son of God!” The crowds were amazed and
-worshiped God.
+Many people with demons were brought to Jesus. At Jesus' command, the
+demons came out, often shouting, “You are the Son of God!” The crowds
+were amazed and worshiped God.
 
 ![obs-26-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-26-10.jpg "obs-26-10.jpg")
 
@@ -2206,9 +2291,9 @@ along the road from Jerusalem to Jericho.”
 
 ![obs-27-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-27-05.jpg "obs-27-05.jpg")
 
-“While he was traveling, he was attacked by a group of robbers. They
-took everything he had and beat him until he was almost dead. Then they
-went away.”
+“While the man was traveling, he was attacked by a group of robbers.
+They took everything he had and beat him until he was almost dead. Then
+they went away.”
 
 ![obs-27-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-27-06.jpg "obs-27-06.jpg")
 
@@ -2240,8 +2325,8 @@ hotel where he took care of him.”
 
 “The next day, the Samaritan needed to continue his journey. He gave the
 person in charge of the hotel some money and said, ‘Take care of him,
-and if any extra money is spent, I will repay those expenses when I
-return.’”
+and if you spend any more money than this, I will repay those expenses
+when I return.’”
 
 ![obs-27-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-27-11.jpg "obs-27-11.jpg")
 
@@ -2257,10 +2342,10 @@ do the same thing.”
 
 ![obs-28-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-28-01.jpg "obs-28-01.jpg")
 
-One day a rich young ruler came up to Jesus and asked him, “Good
-teacher, what good thing must I do to have eternal life?” Jesus said to
-him, “Why do you call me good? There is only One who is good, and that
-is God. But if you want to have eternal life, obey God’s laws.”
+One day a rich young ruler came up to Jesus and asked him, “Teacher,
+what good thing must I do to have eternal life?” Jesus said to him, “Why
+do you ask me about what is good? There is only One who is good, and
+that is God. But if you want to have eternal life, obey God’s laws.”
 
 ![obs-28-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-28-02.jpg "obs-28-02.jpg")
 
@@ -2322,7 +2407,7 @@ first will be last, and those who are last will be first.”
 
 ![obs-29-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-29-01.jpg "obs-29-01.jpg")
 
-One day Peter said to Jesus, “Lord, how many times should I forgive my
+One day Peter said to Jesus, “Master, how many times should I forgive my
 brother when he sins against me? Up to seven times?” Jesus said, “Not
 seven times, but seventy times seven!” By this, Jesus meant that we
 should always forgive. Jesus told this story.
@@ -2365,8 +2450,8 @@ They went to the king and told him everything.”
 
 “The king called the servant and said, ‘You wicked servant! I forgave
 your debt because you begged me. You should have done the same.’ In his
-anger the king threw the wicked servant into prison until he paid back
-all of his debt.”
+anger the king threw the wicked servant into prison until he could pay
+back all of his debt.”
 
 ![obs-29-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-29-09.jpg "obs-29-09.jpg")
 
@@ -2413,12 +2498,12 @@ two fish.”
 
 ![obs-30-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-06.jpg "obs-30-06.jpg")
 
-Jesus called the crowd to him and told them to sit down in groups on the
-grass.
+Jesus called the crowd to him and told his disciples to have them sit
+down on the grass, in groups of fifty people each.
 
 ![obs-30-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-07.jpg "obs-30-07.jpg")
 
-Then he took the five loaves of bread and the two fish, looked up to
+Then Jesus took the five loaves of bread and the two fish, looked up to
 heaven, and blessed the food.
 
 ![obs-30-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-08.jpg "obs-30-08.jpg")
@@ -2465,8 +2550,8 @@ out to them and said, “Do not be afraid. It is I!”
 
 ![obs-31-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-31-05.jpg "obs-31-05.jpg")
 
-Then Peter said to Jesus, “Lord, if it is you, command me to come to you
-on the water.” Jesus told Peter, “Come!”
+Then Peter said to Jesus, “Master, if it is you, command me to come to
+you on the water.” Jesus told Peter, “Come!”
 
 ![obs-31-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-31-06.jpg "obs-31-06.jpg")
 
@@ -2476,7 +2561,7 @@ away from Jesus and began to look at the strong wind and waves.
 
 ![obs-31-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-31-07.jpg "obs-31-07.jpg")
 
-Then Peter became afraid and began to sink. He cried out, “Lord, save
+Then Peter became afraid and began to sink. He cried out, “Master, save
 me!” Jesus reached out right away and grabbed him. Then he said to
 Peter, “O you of little faith, why did you doubt?”
 
@@ -2488,7 +2573,7 @@ you are the Son of God.”
 
 *A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21*
 
-32. Jesus Heals a Demon-Possessed Man & A Sick Woman
+32. Jesus Heals a Demon-Possessed Man & a Sick Woman
 ====================================================
 
 ![obs-32-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-01.jpg "obs-32-01.jpg")
@@ -2498,8 +2583,8 @@ country of the Gerasenes.
 
 ![obs-32-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-02.jpg "obs-32-02.jpg")
 
-When they reached the other side, a man with an evil spirit came running
-up to Jesus.
+When they reached the other side, a demon-possessed man came running up
+to Jesus.
 
 ![obs-32-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-03.jpg "obs-32-03.jpg")
 
@@ -2508,40 +2593,40 @@ used chains to lock him up, but he kept breaking them.
 
 ![obs-32-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-04.jpg "obs-32-04.jpg")
 
-He lived among the tombs in the area. Day and night this man would
+The man lived among the tombs in the area. Day and night this man would
 scream. He wore no clothes and cut himself repeatedly with stones.
 
 ![obs-32-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-05.jpg "obs-32-05.jpg")
 
 When the man came to Jesus, he fell on his knees in front of him. Jesus
-said, “Come out of the man, you evil spirit!”
+said, “Come out of the man, demon!”
 
 ![obs-32-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-06.jpg "obs-32-06.jpg")
 
-The man with the evil spirit cried out in a loud voice and said, “What
-do you want with me, Jesus, Son of the Most High God? Please do not
-torture me!” Then Jesus asked the man, “What is your name?” He replied,
-“My name is Legion, for we are many.” (A legion was a group of up to
-6,000 soldiers.)
+The man with the demon cried out in a loud voice and said, “What do you
+want with me, Jesus, Son of the Most High God? Please do not torture
+me!” Then Jesus asked the man, “What is your name?” He replied, “My name
+is Legion, for we are many.” (A legion was a group of up to 6,000
+soldiers.)
 
 ![obs-32-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-07.jpg "obs-32-07.jpg")
 
-The evil spirits begged Jesus, “Please do not send us out of this area!”
-There was a herd of pigs feeding on a nearby hill. So, the evil spirits
-begged Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
+The demons begged Jesus, “Please do not send us out of this area!” There
+was a herd of pigs feeding on a nearby hill. So, the demons begged
+Jesus, “Please send us into the pigs instead!” Jesus said, “Go!”
 
 ![obs-32-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-08.jpg "obs-32-08.jpg")
 
-The evil spirits came out of the man and entered the pigs. The pigs ran
-down a steep bank into the sea and drowned. There were about 2,000 pigs
-in the herd.
+The demons came out of the man and entered the pigs. The pigs ran down a
+steep bank into the sea and drowned. There were about 2,000 pigs in the
+herd.
 
 ![obs-32-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-09.jpg "obs-32-09.jpg")
 
 When the people taking care of the pigs saw what happened, they ran and
 told everyone what Jesus had done. All the people came from the town and
-saw the man who used to have the evil spirits. He was sitting down,
-wearing clothes, and acting like a normal person.
+saw the man who used to have the demons. He was sitting down, wearing
+clothes, and acting like a normal person.
 
 ![obs-32-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-10.jpg "obs-32-10.jpg")
 
@@ -2552,7 +2637,7 @@ along with Jesus.
 ![obs-32-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-11.jpg "obs-32-11.jpg")
 
 But Jesus said to him, “Go home and tell your friends and family how
-much God has done for you and how He has had mercy on you.”
+much God has done for you and how he has had mercy on you.”
 
 ![obs-32-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-32-12.jpg "obs-32-12.jpg")
 
@@ -2584,7 +2669,7 @@ How can you ask, ‘Who touched me?’”
 
 The woman fell on her knees before Jesus, shaking and very afraid. Then
 she told the whole truth. Jesus said to her, “Your faith has healed you.
-Go in peace and be healed of your sickness.”
+Go in peace.”
 
 *A Bible story from: Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39*
 
@@ -2623,9 +2708,10 @@ ears, let him hear!”
 
 ![obs-33-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-06.jpg "obs-33-06.jpg")
 
-This story confused the disciples. Jesus explained, “The seed represents
-the Word of God. The seeds on the path are like people who hear God’s
-Word, do not understand it, and the devil takes the word from them.”
+This story confused the disciples. So Jesus explained, “The seed
+represents the Word of God. The seeds on the path are like people who
+hear God’s Word, do not understand it, and the devil takes the word from
+them.”
 
 ![obs-33-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-07.jpg "obs-33-07.jpg")
 
@@ -2643,7 +2729,7 @@ fruit.”
 ![obs-33-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-09.jpg "obs-33-09.jpg")
 
 “But the seeds that fall on good soil represent people who hear the Word
-of God, believe it, and produce spiritual fruit.”
+of God, believe it, and produce fruit.”
 
 *A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke
 8:4-15*
@@ -2659,8 +2745,9 @@ When it is a seed, it is the smallest seed of all.”
 
 ![obs-34-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-02.jpg "obs-34-02.jpg")
 
-“But when it has grown, it is the largest of all garden plants, big
-enough that even the birds come and make nests in its branches.”
+“But when the mustard seed has grown, it is the largest of all garden
+plants, big enough that even the birds come and make nests in its
+branches.”
 
 ![obs-34-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-03.jpg "obs-34-03.jpg")
 
@@ -2676,7 +2763,7 @@ had and bought that field.”
 ![obs-34-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-05.jpg "obs-34-05.jpg")
 
 “The Kingdom of God is also like a pearl merchant who was looking for
-perfect pearls. When he found one of great price, he sold all that he
+perfect pearls. When he found one of great value, he sold all that he
 had and bought it.”
 
 ![obs-34-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-06.jpg "obs-34-06.jpg")
@@ -2737,9 +2824,10 @@ wasted his money in sinful living.”
 
 ![obs-35-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-05.jpg "obs-35-05.jpg")
 
-“At that time a severe famine came on the land, and he had no money to
-buy food. So he took the only job he could find, feeding pigs. He was so
-miserable and hungry that he wanted to eat the pigs’ food.”
+“At that time a severe famine came on the land, and the younger son had
+no money to buy food. So he took the only job he could find, feeding
+pigs. He was so miserable and hungry that he wanted to eat the pigs’
+food.”
 
 ![obs-35-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-06.jpg "obs-35-06.jpg")
 
@@ -2755,7 +2843,7 @@ compassion for him. He ran to his son and hugged him and kissed him.”
 ![obs-35-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-08.jpg "obs-35-08.jpg")
 
 “The son said, ‘Father, I have sinned against God and against you. I am
-not worthy to be your son. Let me be your servant instead.’”
+not worthy to be your son.’”
 
 ![obs-35-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-09.jpg "obs-35-09.jpg")
 
@@ -2766,22 +2854,23 @@ son was dead, but now he is alive! He was lost, but now he is found!’”
 
 ![obs-35-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-10.jpg "obs-35-10.jpg")
 
-“And they began to celebrate. Before long, the older son came home from
-working in the field. He heard the music and dancing and wondered what
-was happening.”
+“And the people began to celebrate. Before long, the older son came home
+from working in the field. He heard the music and dancing and wondered
+what was happening.”
 
 ![obs-35-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-11.jpg "obs-35-11.jpg")
 
-“When he found out that there was a party because his brother had come
-home, he was very angry and would not go into the house. His father came
-out and begged him to join the party, but he refused.”
+“When the older son found out that there was a party because his brother
+had come home, he was very angry and would not go into the house. His
+father came out and begged him to join the party, but he refused.”
 
 ![obs-35-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-12.jpg "obs-35-12.jpg")
 
-“He said, ‘All these years I’ve worked so faithfully for you! I never
-disobeyed you, and still you did not even give me one small goat so I
-could celebrate with my friends. But when this son of yours wastes your
-money on sinful behavior, you kill the best calf for him!’”
+“The older son said to his father, ‘All these years I’ve worked so
+faithfully for you! I never disobeyed you, and still you did not even
+give me one small goat so I could celebrate with my friends. But when
+this son of yours who wasted your money on sinful behavior came home,
+you killed the best calf for him!’”
 
 ![obs-35-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-35-13.jpg "obs-35-13.jpg")
 
@@ -2820,7 +2909,7 @@ Moses, and one for Elijah.” Peter did not know what he was saying.
 ![obs-36-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-36-05.jpg "obs-36-05.jpg")
 
 As Peter was talking, a bright cloud came down on top of them and a
-voice from the cloud said, “This is My Son whom I love. I am pleased
+voice from the cloud said, “This is my Son whom I love. I am pleased
 with him. Listen to him.” The three disciples were terrified and fell on
 the ground.
 
@@ -2831,8 +2920,9 @@ looked around they saw no one but Jesus.
 
 ![obs-36-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-36-07.jpg "obs-36-07.jpg")
 
-As they went back down the mountain, Jesus said, “Do not tell anyone
-about what happened here until after I have been raised from the dead.”
+As Jesus and the three disciples went back down the mountain, Jesus said
+to them, “Do not tell anyone about what happened here until after I have
+been raised from the dead.”
 
 *A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36*
 
@@ -2849,24 +2939,24 @@ where he was for two days.
 
 ![obs-37-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-02.jpg "obs-37-02.jpg")
 
-Then he said to his disciples, “Let’s go back to Judea.” “But Teacher,”
-the disciples answered, “Just a short time ago the people there wanted
-to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I
-must wake him.”
+Then Jesus said to his disciples, “Let’s go back to Judea.” “But
+Teacher,” the disciples answered, “Just a short time ago the people
+there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen
+asleep, and I must wake him.”
 
 ![obs-37-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-03.jpg "obs-37-03.jpg")
 
-His disciples replied, “Lord, if Lazarus is sleeping, he will get better
-on his own.” Then Jesus told them plainly, “Lazarus is dead. I am glad
-we were not there when he died, for now you will see amazing things so
-that you may believe.”
+Jesus' disciples replied, “Master, if Lazarus is sleeping, he will get
+better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am
+glad we were not there when he died, for now you will see amazing things
+so that you may believe.”
 
 ![obs-37-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-04.jpg "obs-37-04.jpg")
 
 When Jesus got there, Lazarus had already been dead for four days.
 Martha went out to meet Jesus and said, “Master, if only you had been
 here, my brother would not have died. But I believe God will give you
-whatever you ask from Him.”
+whatever you ask from him.”
 
 ![obs-37-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-05.jpg "obs-37-05.jpg")
 
@@ -2877,7 +2967,7 @@ believe you are the Messiah, the Son of God.”
 
 ![obs-37-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-06.jpg "obs-37-06.jpg")
 
-Then Mary arrived. She fell at the feet of Jesus and said, “Lord, if
+Then Mary arrived. She fell at the feet of Jesus and said, “Master, if
 only you had been here, my brother would not have died.” “Where have you
 put Lazarus?” he asked them. They told him, “In the tomb. Come and see.”
 Then Jesus wept.
@@ -2895,16 +2985,16 @@ you believe?” So they rolled the stone away.
 
 ![obs-37-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-09.jpg "obs-37-09.jpg")
 
-Then Jesus looked up to heaven and said, “Father, thank You for hearing
-me. I know You always listen to me, but I say this for the sake of all
-these people standing here, so that they will believe You sent me.” Then
+Then Jesus looked up to heaven and said, “Father, thank you for hearing
+me. I know you always listen to me, but I say this for the sake of all
+these people standing here, so that they will believe you sent me.” Then
 Jesus shouted, “Lazarus, come out!”
 
 ![obs-37-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-10.jpg "obs-37-10.jpg")
 
-And Lazarus did! He was still wrapped up in grave clothes. Jesus told
-them, “Help him get out of those grave clothes and release him!” Many of
-the Jews believed in Jesus because of this miracle.
+And Lazarus came out! He was still wrapped up in grave clothes. Jesus
+told them, “Help him get out of those grave clothes and release him!”
+Many of the Jews believed in Jesus because of this miracle.
 
 ![obs-37-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-11.jpg "obs-37-11.jpg")
 
@@ -2920,17 +3010,17 @@ together to plan how they could kill Jesus and Lazarus.
 
 Jesus had been preaching for about three years. It was the time of the
 Passover Feast when the Jews remembered how God had saved them from
-slavery in Egypt many years earlier. Jesus knew what would happen to him
-and told his disciples he was going to Jerusalem where he would be
+slavery in Egypt many centuries earlier. Jesus knew what would happen to
+him and told his disciples he was going to Jerusalem where he would be
 killed.
 
 ![obs-38-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-38-02.jpg "obs-38-02.jpg")
 
-The Jewish leaders in Jerusalem had rejected Jesus as the Messiah and
-were plotting to kill him. Judas was one of Jesus’ disciples. He was in
-charge of the disciples’ money, but he was dishonest and often stole
-from it. Judas went to the Jewish leaders and offered to betray Jesus to
-them.
+The Jewish leaders in Jerusalem refused to believe that Jesus was the
+Messiah and were plotting to kill him. Judas was one of Jesus’
+disciples. He was in charge of the disciples’ money bag, but he loved
+money and often stole from it. Judas went to the Jewish leaders and
+offered to betray Jesus to them.
 
 ![obs-38-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-38-03.jpg "obs-38-03.jpg")
 
@@ -2948,7 +3038,7 @@ Jesus said that his body would be sacrificed for them.
 
 ![obs-38-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-38-05.jpg "obs-38-05.jpg")
 
-Then he took a cup and said, “Drink this. It is my blood of the New
+Then Jesus took a cup and said, “Drink this. It is my blood of the New
 Covenant shed for the forgiveness of sins. Do this to remember me as
 often as you drink it.” In this way, Jesus said that his blood would be
 poured out to forgive their sins.
@@ -2991,10 +3081,10 @@ Then Jesus went to pray by himself.
 
 ![obs-38-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-38-12.jpg "obs-38-12.jpg")
 
-Jesus prayed three times, “My Father, if there is no other way for
-people’s sins to be forgiven, Your will be done.” Jesus was very
-troubled and his sweat was like drops of blood. God sent an angel to
-strengthen him.
+Jesus prayed three times, “My Father, if it is possible, please let me
+escape this suffering. But if there is no other way for people’s sins to
+be forgiven, then let your will be done.” Jesus was very troubled and
+his sweat was like drops of blood. God sent an angel to strengthen him.
 
 ![obs-38-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-38-13.jpg "obs-38-13.jpg")
 
@@ -3025,17 +3115,17 @@ away.
 
 ![obs-39-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-01.jpg "obs-39-01.jpg")
 
-It was the middle of the night. The soldiers led Jesus to the house of
-the high priest to be questioned. Peter followed far behind. When Jesus
-was taken into the house, Peter stayed outside and warmed himself by a
-fire.
+It was now the middle of the night. The soldiers led Jesus to the house
+of the high priest to be questioned. Peter followed far behind. When
+Jesus was taken into the house, Peter stayed outside and warmed himself
+by a fire.
 
 ![obs-39-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-02.jpg "obs-39-02.jpg")
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought
 many witnesses who lied about him. However, their statements did not
-agree with each other, so they could not prove he was guilty. Jesus did
-not say anything.
+agree with each other, so they could not prove he was guilty of
+anything. Jesus did not say anything.
 
 ![obs-39-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-03.jpg "obs-39-03.jpg")
 
@@ -3051,8 +3141,8 @@ he is the Son of God. What is your judgment?”
 
 ![obs-39-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-05.jpg "obs-39-05.jpg")
 
-They all answered, “He deserves to die!” Then they blindfolded him, spit
-on him, hit him, and mocked him.
+The Jewish leaders all answered, “He deserves to die!” Then they
+blindfolded Jesus, spit on him, hit him, and mocked him.
 
 ![obs-39-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-06.jpg "obs-39-06.jpg")
 
@@ -3068,9 +3158,9 @@ a rooster crowed, and Jesus turned and looked at Peter.
 
 ![obs-39-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-08.jpg "obs-39-08.jpg")
 
-Peter went outside and cried bitterly. Meanwhile, when Judas, the
-betrayer, saw that Jesus had been condemned, he became full of sorrow
-and went away and killed himself.
+Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer,
+saw that Jesus had been condemned, he became full of sorrow and went
+away and killed himself.
 
 ![obs-39-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-09.jpg "obs-39-09.jpg")
 
@@ -3081,7 +3171,7 @@ you the King of the Jews?”
 ![obs-39-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-10.jpg "obs-39-10.jpg")
 
 Jesus answered, “You have said so, but my Kingdom is not an earthly
-kingdom. If it was, my servants would fight for me. But I have come to
+kingdom. If it were, my servants would fight for me. But I have come to
 earth to tell the truth about God. Everyone who loves the truth listens
 to me.” Pilate said, “What is truth?”
 
@@ -3107,15 +3197,15 @@ robe and a crown made of thorns on him, and they mocked him, saying,
 
 ![obs-40-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-01.jpg "obs-40-01.jpg")
 
-Then they led Jesus away to be crucified, making him carry his own
-cross.
+After mocking Jesus, the soldiers led him away to be crucified. They
+made him carry his own cross.
 
 ![obs-40-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-02.jpg "obs-40-02.jpg")
 
-They came to a place called “The Skull” and nailed his arms and feet to
-the cross. But Jesus said, “Father, forgive them, because they do not
-know what they are doing.” Pilate commanded that a sign be put above
-Jesus’ head that read, “King of the Jews.”
+The soldiers brought Jesus to a place called “The Skull” and nailed his
+arms and feet to the cross. But Jesus said, “Father, forgive them,
+because they do not know what they are doing.” Pilate commanded that a
+sign be put above Jesus’ head that read, “King of the Jews.”
 
 ![obs-40-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-03.jpg "obs-40-03.jpg")
 
@@ -3153,7 +3243,7 @@ top to the bottom.
 
 Through his death, Jesus opened a way for people to come to God. When
 the soldier guarding Jesus saw everything that happened, he said,
-“Certainly, this man was innocent. He must have been the Son of God.”
+“Certainly, this man was innocent. He was the Son of God.”
 
 ![obs-40-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-09.jpg "obs-40-09.jpg")
 
@@ -3189,10 +3279,10 @@ put more burial spices on his body.
 
 ![obs-41-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-41-04.jpg "obs-41-04.jpg")
 
-There was a great earthquake. An angel of the Lord appeared from heaven,
-as bright as lightning. He rolled away the stone that was covering the
-entrance to the tomb and sat on it. The soldiers guarding the tomb were
-terrified and fell to the ground like dead men.
+There was a great earthquake. An angel appeared from heaven, as bright
+as lightning. He rolled away the stone that was covering the entrance to
+the tomb and sat on it. The soldiers guarding the tomb were terrified
+and fell to the ground like dead men.
 
 ![obs-41-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-41-05.jpg "obs-41-05.jpg")
 
@@ -3246,15 +3336,16 @@ town where they were going, it was almost night.
 ![obs-42-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-04.jpg "obs-42-04.jpg")
 
 The two men invited Jesus to stay with them, so he did. Before they ate,
-Jesus picked up a loaf of bread, thanked God for it, then broke it.
-Suddenly, their eyes were opened, and they recognized that he was Jesus.
-At that moment, he disappeared.
+Jesus picked up a loaf of bread, thanked God for it, and then broke it.
+Suddenly, they recognized that he was Jesus. At that moment, he
+disappeared.
 
 ![obs-42-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-05.jpg "obs-42-05.jpg")
 
 The two men said to each other, “Our hearts were burning when he
-explained God’s Word to us!” Immediately, they returned to Jerusalem and
-told the disciples, “Jesus is alive! We have seen him!”
+explained God’s Word to us!” Immediately, they went back to Jerusalem.
+When they arrived, they told the disciples, “Jesus is alive! We have
+seen him!”
 
 ![obs-42-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-06.jpg "obs-42-06.jpg")
 
@@ -3312,9 +3403,9 @@ praying constantly.
 
 ![obs-43-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-02.jpg "obs-43-02.jpg")
 
-At that time a Jewish feast called Pentecost was happening. Pentecost
-was a celebration of thanksgiving. Jews from all over the world would
-come to Jerusalem to celebrate together.
+Fifty days after Jesus rose from the dead, a Jewish feast called
+Pentecost took place. Pentecost was a celebration of thanksgiving. Jews
+from all over the world would come to Jerusalem to celebrate together.
 
 ![obs-43-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-03.jpg "obs-43-03.jpg")
 
@@ -3334,8 +3425,8 @@ wonderful works of God.
 
 Some accused the disciples of being drunk, but Peter stood up and said,
 “Listen to me! These people are not drunk! This is a fulfillment of the
-prophecy made by Joel which says, ‘In the last days, I will pour out My
-Spirit.’”
+prophecy made by the prophet Joel which says, ‘In the last days, I will
+pour out my Spirit.’”
 
 ![obs-43-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-06.jpg "obs-43-06.jpg")
 
@@ -3345,7 +3436,7 @@ the power of God, as you have seen and already know. You crucified him!”
 ![obs-43-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-07.jpg "obs-43-07.jpg")
 
 “But God raised him to life again to fulfill the prophecy which says,
-‘You will not let Your Holy One rot in the grave.’ God raised this Jesus
+‘You will not let your Holy One rot in the grave.’ God raised this Jesus
 from the dead. We are witnesses.”
 
 ![obs-43-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-08.jpg "obs-43-08.jpg")
@@ -3357,7 +3448,7 @@ hearing.”
 ![obs-43-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-09.jpg "obs-43-09.jpg")
 
 “Know for certain that God has made this Jesus, the one you crucified,
-both Master and Messiah!”
+both Lord and Messiah!”
 
 ![obs-43-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-10.jpg "obs-43-10.jpg")
 
@@ -3373,14 +3464,15 @@ of the Holy Spirit.”
 ![obs-43-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-12.jpg "obs-43-12.jpg")
 
 About 3,000 people believed what Peter said. They were baptized and were
-added to the people of God, which is the Church.
+added to the people of God, which is the Church. The people who believed
+in Jesus became known as Christians.
 
 ![obs-43-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-13.jpg "obs-43-13.jpg")
 
 The believers devoted themselves to the disciples’ teaching, fellowship,
 eating together, and prayer. They all met together and shared everything
-they had. They praised God and were well received by those who were not
-Christians.
+they had. They praised God and even non-believers thought well of them.
+Every day, more people became Christians.
 
 *A Bible story from: Acts 2*
 
@@ -3395,7 +3487,7 @@ crippled man begging for money.
 ![obs-44-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-02.jpg "obs-44-02.jpg")
 
 Peter looked at him and said, “I do not have any money to give you. But
-what I have I will give you. In the name of Jesus, get up and walk!”
+what I do have I will give you. In the name of Jesus, get up and walk!”
 
 ![obs-44-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-03.jpg "obs-44-03.jpg")
 
@@ -3406,14 +3498,14 @@ praising God. The people in the Temple were amazed.
 
 A crowd quickly formed. Peter said to them, “Why are you amazed that
 this man is healed? It was not through our own power or goodness that he
-was healed, but by faith in the name of Jesus.”
+was healed, but by faith in Jesus.”
 
 ![obs-44-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-05.jpg "obs-44-05.jpg")
 
-“You asked that Jesus be killed. You killed the author of life, but God
-raised him from the dead. This is how God fulfilled the prophecies that
-the Messiah would suffer and die. But now, repent and turn to God so
-that your sins will be washed away.”
+“You demanded that Jesus be killed. You killed the author of life, but
+God raised him from the dead. This is how God fulfilled the prophecies
+that the Messiah would suffer and die. But now, repent and turn to God
+so that your sins will be washed away.”
 
 ![obs-44-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-06.jpg "obs-44-06.jpg")
 
@@ -3429,16 +3521,17 @@ priest and his family. They asked them, “By what power did you do this?”
 
 ![obs-44-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-08.jpg "obs-44-08.jpg")
 
-Peter responded, “It is by the name of Jesus the Messiah. You crucified
-him, but God raised him to life again! You rejected him, but there is no
-other way to be saved except through the name of Jesus!”
+Peter responded, “It is by the power of Jesus the Messiah that we healed
+this man. You crucified him, but God raised him to life again! You
+rejected him, but there is no other way to be saved except through the
+power of Jesus!”
 
 ![obs-44-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-09.jpg "obs-44-09.jpg")
 
 The leaders were shocked because they could see that these men were
-common men who were not well-educated. They also realized that these men
-had been with Jesus. After they had threatened Peter and John, they let
-them go.
+common men who were uneducated. They also realized that these men had
+been with Jesus. After they had threatened Peter and John, they let them
+go.
 
 *A Bible story from: Acts 3:1-4:22*
 
@@ -3447,40 +3540,82 @@ them go.
 
 ![obs-45-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-01.jpg "obs-45-01.jpg")
 
-One day, an angel of the Lord told Philip, one of Jesus’ disciples, to
-go to the desert on the road to Gaza. As he walked along the road,
-Philip saw an important official from Ethiopia sitting in his chariot.
-The Holy Spirit told Philip to go up and talk to this man.
+Stephen was a leader in the early Church. He had a good reputation and
+was full of the Holy Spirit and of wisdom. Stephen did many miracles and
+argued strongly that people should believe in Jesus.
 
 ![obs-45-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-02.jpg "obs-45-02.jpg")
 
-When he came near the chariot, he heard the man reading from the prophet
-Isaiah, “He was led like a lamb to be killed, and did not say a word. He
-was treated unfairly and without respect. His life was taken away from
-him.”
+One day, Stephen was arguing with some unbelieving Jews about Jesus.
+They became very angry and lied about Stephen, saying, “We heard him
+speak evil things about Moses and God!” So they arrested Stephen and
+brought him before the high priest and leaders of the Jews.
 
 ![obs-45-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-03.jpg "obs-45-03.jpg")
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” He
-said, “No. Is Isaiah talking about himself or someone else?”
+The high priest asked Stephen, “Are these things true?” Stephen reminded
+them of all the great things God had done from the time of Abraham to
+Jesus. Then he replied, “You stubborn and rebellious people always
+reject the Holy Spirit, just as your ancestors always rejected God and
+killed his prophets. You have even killed the Messiah whom God sent!”
 
 ![obs-45-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-04.jpg "obs-45-04.jpg")
+
+When the people heard this, they covered their ears and yelled loudly.
+They threw Stephen out of the city and stoned him to death.
+
+![obs-45-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-05.jpg "obs-45-05.jpg")
+
+As Stephen was dying, he cried out, “Jesus, receive my spirit.” Then he
+fell to his knees and cried out again, “Master, do not count this sin
+against them.” Then he died.
+
+![obs-45-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-06.jpg "obs-45-06.jpg")
+
+A man named Saul approved of Stephen’s execution and guarded the
+belongings of those who stoned Stephen. That day many people started
+persecuting the Christians, and they were scattered through that region.
+But everywhere they went they preached about Jesus.
+
+![obs-45-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-07.jpg "obs-45-07.jpg")
+
+Philip, one of Jesus' disciples, went to Samaria where he preached about
+Jesus and many were saved. Then one day an angel from God told Philip to
+go to the road to Gaza in the desert. As he walked along the road,
+Philip saw an important official from Ethiopia riding in his chariot.
+The Holy Spirit told Philip to go up and talk to this man.
+
+![obs-45-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-08.jpg "obs-45-08.jpg")
+
+When Philip came near the chariot, he heard the man reading from the
+prophet Isaiah, “He was led like a lamb to be killed, and did not say a
+word. He was treated unfairly and without respect. His life was taken
+away from him.”
+
+![obs-45-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-09.jpg "obs-45-09.jpg")
+
+Philip asked the Ethiopian, “Do you understand what you are reading?” He
+said, “No. I cannot understand it unless someone explains it to me.
+Please come and sit next to me. Is Isaiah talking about himself or
+someone else?”
+
+![obs-45-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-10.jpg "obs-45-10.jpg")
 
 Philip showed him that Isaiah was talking about Jesus. Philip also used
 many other Scriptures to tell him the Good News of Jesus.
 
-![obs-45-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-05.jpg "obs-45-05.jpg")
+![obs-45-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-11.jpg "obs-45-11.jpg")
 
 As they passed by some water, the Ethiopian said, “Look! There is some
-water! Why can’t I be baptized?” And he ordered the chariot to stop.
+water! May I be baptized?” And he ordered the chariot to stop.
 
-![obs-45-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-06.jpg "obs-45-06.jpg")
+![obs-45-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-12.jpg "obs-45-12.jpg")
 
 So they went down into the water, and Philip baptized him. After Philip
 baptized the Ethiopian, the Holy Spirit carried Philip away to another
 place where he continued telling people about Jesus.
 
-![obs-45-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-07.jpg "obs-45-07.jpg")
+![obs-45-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-45-13.jpg "obs-45-13.jpg")
 
 The Ethiopian went on his way, happy to know Jesus.
 
@@ -3491,82 +3626,73 @@ The Ethiopian went on his way, happy to know Jesus.
 
 ![obs-46-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-01.jpg "obs-46-01.jpg")
 
-Stephen was a leader in the early Church. He had a good reputation and
-was full of the Holy Spirit and of wisdom. Stephen did many miracles and
-argued strongly that people should believe in Jesus.
-
-![obs-46-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-02.jpg "obs-46-02.jpg")
-
-One day, Stephen was arguing with some Jews about Jesus. They became
-very angry and lied about Stephen, saying, “We heard him speak evil
-things about Moses and God!” So they arrested Stephen and brought him
-before the high priest and leaders of the Jews.
-
-![obs-46-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-03.jpg "obs-46-03.jpg")
-
-The high priest asked Stephen, “Are these things true?” Stephen replied,
-“You stubborn and rebellious people always reject the Holy Spirit, just
-as your ancestors always rejected God and killed His prophets. You have
-even killed the Messiah whom God sent!”
-
-![obs-46-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-04.jpg "obs-46-04.jpg")
-
-When the people heard this, they covered their ears and yelled loudly.
-They threw Stephen out of the city and stoned him to death.
-
-![obs-46-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-05.jpg "obs-46-05.jpg")
-
-As he was dying Stephen cried out, “Lord Jesus, receive my spirit.” Then
-he fell to his knees and cried out again, “Lord, do not count this sin
-against them.” Then he died.
-
-![obs-46-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-06.jpg "obs-46-06.jpg")
-
-A man named Saul approved of Stephen’s execution and guarded the
-belongings of those who stoned Stephen. That day many people attacked
-the Christians, and they were scattered through that region.
-
-![obs-46-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-07.jpg "obs-46-07.jpg")
-
 Saul continued to attack the Christians going from house to house,
 arresting men and women, and putting them in prison. Saul received
 permission from the high priest to go to the city of Damascus to arrest
 Christians there and bring them back to Jerusalem.
 
-![obs-46-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-08.jpg "obs-46-08.jpg")
+![obs-46-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-02.jpg "obs-46-02.jpg")
 
 As Saul was on his way to Damascus, Jesus appeared to him in a bright
-light and said, “Saul! Why do you persecute me?” He said, “Who are you,
-Master?” Jesus replied, “I am Jesus whom you are persecuting.”
+light and said, “Saul! Saul! Why do you persecute me?” He said, “Who are
+you, Master?” Jesus replied, “I am Jesus whom you are persecuting.”
 
-![obs-46-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-09.jpg "obs-46-09.jpg")
+![obs-46-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-03.jpg "obs-46-03.jpg")
 
 When Saul got up, he could not see and had to be led into Damascus. Saul
 ate and drank nothing for three days.
 
-![obs-46-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-10.jpg "obs-46-10.jpg")
+![obs-46-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-04.jpg "obs-46-04.jpg")
 
 Then God appeared to a Christian named Ananias and said, “Go to the
 house where Saul is staying. Lay your hands on him so that he can see
-again. I have chosen him to declare My name to the unsaved. I will show
-him how much he must suffer for My sake.” So Ananias prayed for Saul,
-and he regained his sight.
+again.” But Ananias said, “Master, I have heard how he has persecuted
+the Christians.” God said, “I have chosen him to declare my name to the
+unsaved. I will show him how much he must suffer for my sake.”
 
-![obs-46-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-11.jpg "obs-46-11.jpg")
+![obs-46-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-05.jpg "obs-46-05.jpg")
 
-Immediately, Saul was baptized and began preaching to the Jews, saying,
-“Jesus is the Son of God!” The Jews were amazed that the man who had
-tried to destroy the Christians was now a Christian. Saul argued with
-the Jews, proving that Jesus was the Messiah. Saul became known as Paul.
+So Ananias said to Saul, “Jesus who appeared to you on the road sent me
+to you so that you can regain your sight and be filled with the Holy
+Spirit.” Saul immediately regained his sight. Then Saul was baptized. He
+ate some food and his strength returned.
 
-![obs-46-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-12.jpg "obs-46-12.jpg")
+![obs-46-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-06.jpg "obs-46-06.jpg")
+
+Right away, Saul began preaching to the Jews, saying, “Jesus is the Son
+of God!” The Jews were amazed that the man who had tried to destroy the
+Christians was now a Christian. Saul argued with the Jews, proving that
+Jesus was the Messiah. Saul became known as Paul.
+
+![obs-46-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-07.jpg "obs-46-07.jpg")
 
 After many days, the Jews made a plan to kill Paul. They placed people
 at the city gates to kill him. But Paul heard about the plan, and his
 friends helped him escape. One night they lowered him over the city wall
 in a basket. Paul ran away and continued preaching about Jesus.
 
-*A Bible story from: Acts 6:8-8:3; 9:1-25*
+![obs-46-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-08.jpg "obs-46-08.jpg")
+
+Paul went to Jerusalem to meet with the disciples, but at first the
+Christians were afraid of Paul. Finally, a Christian named Barnabas took
+Paul to the disciples and told them how Paul had preached boldly in
+Damascus. Then they accepted Paul.
+
+![obs-46-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-09.jpg "obs-46-09.jpg")
+
+Later, Paul and Barnabas went to the city of Antioch where they taught
+many people about Jesus and strengthened the church. One day, the
+Christians at Antioch were fasting and praying and the Holy Spirit said,
+“Set apart for me Paul and Barnabas to do the work I have called them to
+do.”
+
+![obs-46-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-46-10.jpg "obs-46-10.jpg")
+
+So the church prayed for Paul and Barnabas, laid their hands on them and
+sent them off to preach the Good News of Jesus. They preached about
+Jesus in many places and many people believed in Jesus.
+
+*A Bible story from: Acts 6:8-8:3; 9:1-25; 11:25-26*
 
 47. Paul and Silas in Philippi
 ==============================
@@ -3579,9 +3705,9 @@ Lydia who sold purple cloth. She loved and worshiped God.
 
 ![obs-47-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-02.jpg "obs-47-02.jpg")
 
-God opened her heart to understand the message of Jesus, and she and her
-family were baptized. She invited Paul and Silas to stay at her house,
-so they did.
+God opened Lydia's heart to understand the message of Jesus, and she and
+her family were baptized. She invited Paul and Silas to stay at her
+house, so they did.
 
 ![obs-47-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-03.jpg "obs-47-03.jpg")
 
@@ -3592,9 +3718,9 @@ her masters.
 
 ![obs-47-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-04.jpg "obs-47-04.jpg")
 
-She kept yelling, “These men are servants of the Most High God. They are
-telling you the way to be saved!” She did this so often that Paul became
-annoyed.
+The slave girl kept yelling, “These men are servants of the Most High
+God. They are telling you the way to be saved!” She did this so often
+that Paul became annoyed.
 
 ![obs-47-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-05.jpg "obs-47-05.jpg")
 
@@ -3603,12 +3729,13 @@ Jesus, come out of her.” Right away the demon left her.
 
 ![obs-47-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-06.jpg "obs-47-06.jpg")
 
-The men who owned the slave girl became very angry when they found out
-what had happened, because she could no longer make money for them.
+The men who owned the slave girl became very angry when they realized
+the slave girl could no longer make money for them.
 
 ![obs-47-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-07.jpg "obs-47-07.jpg")
 
-So they had Paul and Silas arrested, beaten, and thrown into jail.
+So the owners of the slave girl had Paul and Silas arrested, beaten, and
+thrown into jail.
 
 ![obs-47-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-08.jpg "obs-47-08.jpg")
 
@@ -3636,9 +3763,9 @@ saved?”
 
 ![obs-47-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-12.jpg "obs-47-12.jpg")
 
-Paul answered, “Believe in the Lord Jesus Christ, and you and your
-family will be saved.” Then Paul baptized the jailer and his whole
-family, and they celebrated together.
+Paul answered, “Believe in Jesus, the Master, and you and your family
+will be saved.” Then Paul baptized the jailer and his whole family, and
+they celebrated together.
 
 ![obs-47-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-13.jpg "obs-47-13.jpg")
 
@@ -3651,8 +3778,7 @@ Church kept growing.
 
 Paul and other Christian leaders traveled to many cities, preaching and
 teaching about Jesus. They also wrote many letters to the churches to
-encourage and teach them about God’s New Covenant. These writings are
-called the New Testament.
+encourage and teach them about God’s New Covenant.
 
 *A Bible story from: Acts 16:11-40*
 
@@ -3673,21 +3799,21 @@ became part of life for everyone on earth.
 
 ![obs-48-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-03.jpg "obs-48-03.jpg")
 
-Even worse, their relationship with God was broken. Now, everyone is
-born an enemy of God because of sin. But God had a plan to fix
-everything that had been broken by sin.
+Even worse, Adam and Eve's relationship with God was broken. Now,
+everyone is born an enemy of God because of sin. But God had a plan to
+fix everything that had been broken by sin.
 
 ![obs-48-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-04.jpg "obs-48-04.jpg")
 
-God promised that one of Eve’s descendant would crush Satan’s head, and
+God promised that one of Eve’s descendants would crush Satan’s head, and
 Satan would wound his heel. This meant that Satan would kill Jesus, but
 God would raise him to life after three days. Jesus would crush the
 power of Satan forever.
 
 ![obs-48-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-05.jpg "obs-48-05.jpg")
 
-When God destroyed the whole earth in the flood, He provided the boat as
-a way of salvation for those who believed in Him. In the same way,
+When God destroyed the whole earth in the flood, he provided the boat as
+a way of salvation for those who believed in him. In the same way,
 though everyone deserves to be destroyed for their sins, God has
 provided a way of salvation for everyone who believes in Jesus.
 
@@ -3696,7 +3822,8 @@ provided a way of salvation for everyone who believes in Jesus.
 Melchizedek was a priest who blessed Abraham. Like Melchizedek, Jesus is
 a priest, but Jesus is the Great High Priest. Jesus offered only one
 sacrifice, himself. This was the only sacrifice needed to take away the
-sin of the whole world.
+sin of the whole world. Jesus took the punishment for every sin that
+anyone has ever committed.
 
 ![obs-48-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-07.jpg "obs-48-07.jpg")
 
@@ -3708,28 +3835,28 @@ Abraham.
 
 ![obs-48-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-08.jpg "obs-48-08.jpg")
 
-God provided a ram for Abraham to sacrifice instead of Isaac. Jesus is
-like that ram because he died instead of us. Everyone deserves to die
-for their sins, including you! But God provided Jesus as a sacrifice to
-die instead of you.
+God provided a lamb for Abraham to sacrifice instead of his son, Isaac.
+God also provided another lamb to sacrifice instead of the whole world.
+God provided Jesus, the Lamb of God. We all deserve to die for our sins!
+But God provided Jesus as a sacrifice to die in your place.
 
 ![obs-48-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-09.jpg "obs-48-09.jpg")
 
 When God sent the last plague on Egypt, each Israelite family needed to
-kill a perfect lamb and spread the blood around their doors. When the
-angel of God saw the blood, he passed over their houses and did not kill
-their firstborn sons.
+kill a perfect lamb and spread the blood around their doors. When God
+saw the blood, he passed over their houses and did not kill their
+firstborn sons. This is called the Passover.
 
 ![obs-48-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-10.jpg "obs-48-10.jpg")
 
 Jesus is our Passover Lamb. He was perfect and sinless and was killed at
 the time of the Passover Feast. When anyone believes in Jesus, the blood
-of Jesus washes away that person’s sin, and God’s punishment passes over
+of Jesus takes away that person’s sin, and God’s punishment passes over
 him.
 
 ![obs-48-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-11.jpg "obs-48-11.jpg")
 
-God made a covenant with the Israelites who were His chosen people. In
+God made a covenant with the Israelites who were his chosen people. In
 God’s New Covenant, anyone from any people group can become part of
 God’s chosen people by believing in Jesus.
 
@@ -3747,7 +3874,7 @@ Jesus, the Messiah, was that special descendant of David.
 ![obs-48-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-48-14.jpg "obs-48-14.jpg")
 
 Like David, Jesus is a king, but Jesus is the king of the universe! He
-will come again and rule his Kingdom with justice and peace.
+will come again and rule his Kingdom with justice and peace, forever.
 
 *A Bible story from: Genesis 1-3, 6, 14, 22; Exodus 12, 20; 2 Samuel 7;
 Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21*
@@ -3778,8 +3905,7 @@ including your wealth.
 
 ![obs-49-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-05.jpg "obs-49-05.jpg")
 
-Jesus taught that salvation is worth more than anything else in the
-world.
+Jesus said that salvation is worth more than anything else in the world.
 
 ![obs-49-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-06.jpg "obs-49-06.jpg")
 
@@ -3790,7 +3916,7 @@ forever in the fires of hell.
 ![obs-49-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-07.jpg "obs-49-07.jpg")
 
 Jesus taught that God loves sinners very much. He is ready to forgive
-them and make them His children.
+them and make them his children.
 
 ![obs-49-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-08.jpg "obs-49-08.jpg")
 
@@ -3800,15 +3926,15 @@ sin.
 
 ![obs-49-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-09.jpg "obs-49-09.jpg")
 
-But God loved the world so much that He gave His only son, Jesus, so
-that whoever believes in Him will not go to hell but will live with Him
+But God loved the world so much that he gave his only son, Jesus, so
+that whoever believes in him will not go to hell but will live with him
 forever.
 
 ![obs-49-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-10.jpg "obs-49-10.jpg")
 
 Because of your sin, you are guilty. You deserve death and God’s anger,
-but God poured out His anger on Jesus instead. When Jesus died on the
-cross, he received your punishment.
+but God poured out his anger on Jesus instead of you. When Jesus died on
+the cross, he received your punishment.
 
 ![obs-49-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-11.jpg "obs-49-11.jpg")
 
@@ -3820,16 +3946,16 @@ forgiven, no matter what it is.
 
 No one can be saved by doing good things. Nothing you do can fix your
 relationship with God. Your sins can only be washed away if you believe
-that Jesus is the Son of God, and that he died and rose again to take
-away your sins.
+that Jesus is the Son of God, that he died on the cross in your place,
+and that God raised him to life again.
 
 ![obs-49-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-13.jpg "obs-49-13.jpg")
 
-Anyone who believes in Jesus and is baptized will be saved, but whoever
-does not believe will be rejected. It does not matter if you are rich or
-poor, man or woman, old or young, or where you are from. God loves you
-and wants you to believe in Jesus so He can have a relationship with
-you.
+Anyone who believes in Jesus and receives him as their Master will be
+saved, but whoever does not believe will be rejected. It does not matter
+if you are rich or poor, man or woman, old or young, or where you are
+from. God loves you and wants you to believe in Jesus so he can have a
+relationship with you.
 
 ![obs-49-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-14.jpg "obs-49-14.jpg")
 
@@ -3847,21 +3973,21 @@ the old things are gone, because God makes all things new.
 ![obs-49-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-16.jpg "obs-49-16.jpg")
 
 If you are a Christian, your sins are forgiven because of what Jesus
-did. Now, when God looks at you, He does not see you as an enemy, but He
+did. Now, when God looks at you, he does not see you as an enemy, but he
 sees you as a close friend.
 
 ![obs-49-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-17.jpg "obs-49-17.jpg")
 
-As a friend of God, you will want to follow Jesus’ teachings. Even
-though you are a Christian, you will still struggle with sin. But God
-says if you confess your sins, He is faithful and will forgive you and
-will give you strength to fight against sin.
+As a friend of God and a servant of Jesus the Master, you will want to
+obey Jesus’ teachings. Even though you are a Christian, you will still
+struggle with sin. But God says if you confess your sins, he is faithful
+and will forgive you and will give you strength to fight against sin.
 
 ![obs-49-18.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-18.jpg "obs-49-18.jpg")
 
-God tells you to pray, study His Word, worship Him with other
-Christians, and tell others what He has done for you. All of these
-things help you to grow in your relationship with Him.
+God tells you to pray, study his Word, worship him with other
+Christians, and tell others what he has done for you. All of these
+things help you to grow in your relationship with him.
 
 *A Bible story from: Romans 3:21-26, 5:1-11; John 3:16; Mark 16:16;
 Colossians 1:13-14; 2 Thessalonians 5:17-21; 1 John 1:5-10*
@@ -3873,7 +3999,8 @@ Colossians 1:13-14; 2 Thessalonians 5:17-21; 1 John 1:5-10*
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been
 spreading, and the Church has been growing. Jesus said he would return
-at the end of the world, but he still has not come back.
+at the end of the world. Though he has not yet come back, he will keep
+his promise.
 
 ![obs-50-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-02.jpg "obs-50-02.jpg")
 
@@ -3911,10 +4038,10 @@ answered, ‘An enemy has planted them.’”
 
 ![obs-50-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-07.jpg "obs-50-07.jpg")
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘If
-you do that, you will pull out some of the wheat as well. Wait until the
-harvest and then gather the weeds into piles to be burned, but bring the
-wheat into my barn.’”
+“The workers responded, ‘Should we pull out the weeds?’ The master said,
+‘No. If you do that, you will pull out some of the wheat as well. Wait
+until the harvest and then gather the weeds into piles to be burned, but
+bring the wheat into my barn.’”
 
 ![obs-50-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-08.jpg "obs-50-08.jpg")
 
@@ -3945,9 +4072,9 @@ from the dead and meet him in the air.
 
 ![obs-50-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-12.jpg "obs-50-12.jpg")
 
-The Christians who are still alive will then be caught up together with
-them in the air and all Christians will be with Jesus forever. Jesus
-will be with his people in perfect unity forever.
+The Christians who are still alive will then rise up together with them
+in the air and all Christians will be with Jesus forever. Jesus will be
+with his people in perfect unity forever.
 
 ![obs-50-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-13.jpg "obs-50-13.jpg")
 
@@ -3966,16 +4093,17 @@ worms that never die.
 
 Jesus will also completely destroy Satan and his kingdom and will throw
 him into the lake of fire where he will burn forever. Death also will be
-thrown into the lake of fire in hell.
+thrown into the lake of fire.
 
 ![obs-50-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-16.jpg "obs-50-16.jpg")
 
-Jesus will create a New Heaven and a New Earth. The universe will once
-again be perfect, as it was before Adam and Eve sinned.
+God cursed the universe because of Adam and Eve's sin and he will
+destroy it. Jesus will create a New Heaven and a New Earth that will be
+perfect.
 
 ![obs-50-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-17.jpg "obs-50-17.jpg")
 
-And Jesus will reign forever and ever. He will wipe away every tear and
+Jesus will reign forever and ever. He will wipe away every tear and
 there will be no more death, suffering, sadness, crying, evil, or pain.
 He will rule his Kingdom with peace and justice, and he will be with his
 people forever.
@@ -3983,4 +4111,27 @@ people forever.
 *A Bible story from: Matthew 24:14; 28:18; John 15:20, 16:33; Revelation
 2:10; Matthew 13:24-30, 36-42; 1 Thessalonians 4:13-5:11; James 1:12;
 Matthew 22:13; Revelation 20:10, 21:1-22:21*
+
+### Get Involved!
+
+We want to make this visual mini-Bible available in *every language of
+the world* and you can help! This is not impossible—we think it can
+happen if the whole body of Christ works together to translate &
+distribute this resource.
+
+### Share Freely
+
+Give as many copies of this book away as you want, without restriction.
+All digital versions are free online, and because of the open license we
+are using, you can even republish Open Bible Stories commercially
+anywhere in the world without paying royalties! Find out more at
+[http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com").
+
+### Extend!
+
+Get Open Bible Stories as videos and mobile phone applications in other
+languages at
+[http://openbiblestories.com](http://openbiblestories.com "http://openbiblestories.com").
+On the website, you can also get help translating Open Bible Stories
+into *your* language.
 

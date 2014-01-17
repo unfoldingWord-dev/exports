@@ -5,20 +5,21 @@
 
 The Israelites were very happy to leave Egypt. They were no longer
 slaves, and they were going to the Promised Land! The Egyptians gave the
-Israelites gifts of gold and silver and other valuable things. Some
-Egyptians believed in God and joined the Israelites as they left Egypt.
+Israelites whatever they asked for, even gold and silver and other
+valuable things. Some people from other nations believed in God and
+joined the Israelites as they left Egypt.
 
 ![obs-12-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-02.jpg "obs-12-02.jpg")
 
 God led them by going ahead of them as a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them
-and guided them as they traveled. All they had to do was follow.
+and guided them as they traveled. All they had to do was follow him.
 
 ![obs-12-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-03.jpg "obs-12-03.jpg")
 
 After a short time, Pharaoh and his people changed their minds and
 wanted the Israelites to be their slaves again. God did this to get
-glory for Himself by showing that He is more powerful than Pharaoh and
+glory for himself by showing that he is more powerful than Pharaoh and
 his gods.
 
 ![obs-12-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-04.jpg "obs-12-04.jpg")
@@ -42,7 +43,7 @@ the Egyptians could not see the Israelites.
 
 ![obs-12-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-07.jpg "obs-12-07.jpg")
 
-Moses lifted his hand over the sea, and God caused the wind to blow. The
+God told Moses to raise his hand over the sea and divide the waters. The
 wind made the water in the sea separate to the left and the right,
 making a path through the sea.
 
@@ -58,9 +59,9 @@ They decided to chase after them.
 
 ![obs-12-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-10.jpg "obs-12-10.jpg")
 
-So they followed the Israelites onto the path through the sea, but God
-threw the Egyptians into a panic and caused their chariots to get stuck.
-They shouted, “Run away! God is fighting for the Israelites!”
+So the Egyptians followed the Israelites onto the path through the sea,
+but God threw the Egyptians into a panic and caused their chariots to
+get stuck. They shouted, “Run away! God is fighting for the Israelites!”
 
 ![obs-12-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-11.jpg "obs-12-11.jpg")
 
@@ -76,17 +77,17 @@ God and trusted that Moses was a prophet of God.
 
 ![obs-12-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-13.jpg "obs-12-13.jpg")
 
-They also rejoiced with much excitement because God had saved them from
-death and slavery! Now they were free to serve God. The Israelites sang
-many songs to celebrate their new freedom and to praise God for saving
-them.
+The Israelites also rejoiced with much excitement because God had saved
+them from death and slavery! Now they were free to serve God. The
+Israelites sang many songs to celebrate their new freedom and to praise
+God for saving them.
 
 ![obs-12-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-14.jpg "obs-12-14.jpg")
 
-God commanded the Israelites to remember His victory over the Egyptians
-and their deliverance from slavery by celebrating the Passover Feast
-every year. They celebrated by killing a perfect lamb, having a big
-feast, and telling the story of how God had saved them from the
+God commanded the Israelites to remember his victory over the Egyptians
+and their deliverance from slavery by celebrating the Passover every
+year. They celebrated by killing a perfect lamb, eating it with
+unleavened bread, and celebrating how God had saved them from the
 Egyptians.
 
 *A Bible story from: Exodus 12:33-15:21*

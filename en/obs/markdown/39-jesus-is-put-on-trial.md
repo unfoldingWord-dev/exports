@@ -3,17 +3,17 @@
 
 ![obs-39-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-01.jpg "obs-39-01.jpg")
 
-It was the middle of the night. The soldiers led Jesus to the house of
-the high priest to be questioned. Peter followed far behind. When Jesus
-was taken into the house, Peter stayed outside and warmed himself by a
-fire.
+It was now the middle of the night. The soldiers led Jesus to the house
+of the high priest to be questioned. Peter followed far behind. When
+Jesus was taken into the house, Peter stayed outside and warmed himself
+by a fire.
 
 ![obs-39-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-02.jpg "obs-39-02.jpg")
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought
 many witnesses who lied about him. However, their statements did not
-agree with each other, so they could not prove he was guilty. Jesus did
-not say anything.
+agree with each other, so they could not prove he was guilty of
+anything. Jesus did not say anything.
 
 ![obs-39-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-03.jpg "obs-39-03.jpg")
 
@@ -29,8 +29,8 @@ he is the Son of God. What is your judgment?”
 
 ![obs-39-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-05.jpg "obs-39-05.jpg")
 
-They all answered, “He deserves to die!” Then they blindfolded him, spit
-on him, hit him, and mocked him.
+The Jewish leaders all answered, “He deserves to die!” Then they
+blindfolded Jesus, spit on him, hit him, and mocked him.
 
 ![obs-39-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-06.jpg "obs-39-06.jpg")
 
@@ -46,9 +46,9 @@ a rooster crowed, and Jesus turned and looked at Peter.
 
 ![obs-39-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-08.jpg "obs-39-08.jpg")
 
-Peter went outside and cried bitterly. Meanwhile, when Judas, the
-betrayer, saw that Jesus had been condemned, he became full of sorrow
-and went away and killed himself.
+Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer,
+saw that Jesus had been condemned, he became full of sorrow and went
+away and killed himself.
 
 ![obs-39-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-09.jpg "obs-39-09.jpg")
 
@@ -59,7 +59,7 @@ you the King of the Jews?”
 ![obs-39-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-39-10.jpg "obs-39-10.jpg")
 
 Jesus answered, “You have said so, but my Kingdom is not an earthly
-kingdom. If it was, my servants would fight for me. But I have come to
+kingdom. If it were, my servants would fight for me. But I have come to
 earth to tell the truth about God. Everyone who loves the truth listens
 to me.” Pilate said, “What is truth?”
 

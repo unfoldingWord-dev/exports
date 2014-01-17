@@ -9,7 +9,7 @@ crippled man begging for money.
 ![obs-44-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-02.jpg "obs-44-02.jpg")
 
 Peter looked at him and said, “I do not have any money to give you. But
-what I have I will give you. In the name of Jesus, get up and walk!”
+what I do have I will give you. In the name of Jesus, get up and walk!”
 
 ![obs-44-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-03.jpg "obs-44-03.jpg")
 
@@ -20,14 +20,14 @@ praising God. The people in the Temple were amazed.
 
 A crowd quickly formed. Peter said to them, “Why are you amazed that
 this man is healed? It was not through our own power or goodness that he
-was healed, but by faith in the name of Jesus.”
+was healed, but by faith in Jesus.”
 
 ![obs-44-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-05.jpg "obs-44-05.jpg")
 
-“You asked that Jesus be killed. You killed the author of life, but God
-raised him from the dead. This is how God fulfilled the prophecies that
-the Messiah would suffer and die. But now, repent and turn to God so
-that your sins will be washed away.”
+“You demanded that Jesus be killed. You killed the author of life, but
+God raised him from the dead. This is how God fulfilled the prophecies
+that the Messiah would suffer and die. But now, repent and turn to God
+so that your sins will be washed away.”
 
 ![obs-44-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-06.jpg "obs-44-06.jpg")
 
@@ -43,15 +43,16 @@ priest and his family. They asked them, “By what power did you do this?”
 
 ![obs-44-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-08.jpg "obs-44-08.jpg")
 
-Peter responded, “It is by the name of Jesus the Messiah. You crucified
-him, but God raised him to life again! You rejected him, but there is no
-other way to be saved except through the name of Jesus!”
+Peter responded, “It is by the power of Jesus the Messiah that we healed
+this man. You crucified him, but God raised him to life again! You
+rejected him, but there is no other way to be saved except through the
+power of Jesus!”
 
 ![obs-44-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-44-09.jpg "obs-44-09.jpg")
 
 The leaders were shocked because they could see that these men were
-common men who were not well-educated. They also realized that these men
-had been with Jesus. After they had threatened Peter and John, they let
-them go.
+common men who were uneducated. They also realized that these men had
+been with Jesus. After they had threatened Peter and John, they let them
+go.
 
 *A Bible story from: Acts 3:1-4:22*

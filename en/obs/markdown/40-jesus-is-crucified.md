@@ -3,15 +3,15 @@
 
 ![obs-40-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-01.jpg "obs-40-01.jpg")
 
-Then they led Jesus away to be crucified, making him carry his own
-cross.
+After mocking Jesus, the soldiers led him away to be crucified. They
+made him carry his own cross.
 
 ![obs-40-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-02.jpg "obs-40-02.jpg")
 
-They came to a place called “The Skull” and nailed his arms and feet to
-the cross. But Jesus said, “Father, forgive them, because they do not
-know what they are doing.” Pilate commanded that a sign be put above
-Jesus’ head that read, “King of the Jews.”
+The soldiers brought Jesus to a place called “The Skull” and nailed his
+arms and feet to the cross. But Jesus said, “Father, forgive them,
+because they do not know what they are doing.” Pilate commanded that a
+sign be put above Jesus’ head that read, “King of the Jews.”
 
 ![obs-40-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-03.jpg "obs-40-03.jpg")
 
@@ -49,7 +49,7 @@ top to the bottom.
 
 Through his death, Jesus opened a way for people to come to God. When
 the soldier guarding Jesus saw everything that happened, he said,
-“Certainly, this man was innocent. He must have been the Son of God.”
+“Certainly, this man was innocent. He was the Son of God.”
 
 ![obs-40-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-40-09.jpg "obs-40-09.jpg")
 

@@ -24,15 +24,16 @@ town where they were going, it was almost night.
 ![obs-42-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-04.jpg "obs-42-04.jpg")
 
 The two men invited Jesus to stay with them, so he did. Before they ate,
-Jesus picked up a loaf of bread, thanked God for it, then broke it.
-Suddenly, their eyes were opened, and they recognized that he was Jesus.
-At that moment, he disappeared.
+Jesus picked up a loaf of bread, thanked God for it, and then broke it.
+Suddenly, they recognized that he was Jesus. At that moment, he
+disappeared.
 
 ![obs-42-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-05.jpg "obs-42-05.jpg")
 
 The two men said to each other, “Our hearts were burning when he
-explained God’s Word to us!” Immediately, they returned to Jerusalem and
-told the disciples, “Jesus is alive! We have seen him!”
+explained God’s Word to us!” Immediately, they went back to Jerusalem.
+When they arrived, they told the disciples, “Jesus is alive! We have
+seen him!”
 
 ![obs-42-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-42-06.jpg "obs-42-06.jpg")
 

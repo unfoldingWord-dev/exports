@@ -4,15 +4,15 @@
 ![obs-10-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-01.jpg "obs-10-01.jpg")
 
 Moses and Aaron went to Pharaoh. They said, “This is what the God of
-Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of
-letting the Israelites go free, he made their work even harder!
+Israel says, ‘Let my people go!’” Pharaoh did not listen to them.
+Instead of letting the Israelites go free, he made their work even
+harder!
 
 ![obs-10-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-02.jpg "obs-10-02.jpg")
 
-Pharaoh kept refusing to let the people go, so God sent ten plagues on
-Egypt. (A plague is a terrible disaster.) Through these plagues, God
-showed Pharaoh that He is more powerful than Pharaoh and all of Egypt’s
-gods.
+Pharaoh kept refusing to let the people go, so God sent ten terrible
+plagues, on Egypt. Through these plagues, God showed Pharaoh that he is
+more powerful than Pharaoh and all of Egypt’s gods.
 
 ![obs-10-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-03.jpg "obs-10-03.jpg")
 
@@ -27,16 +27,16 @@ would not let the Israelites go.
 
 ![obs-10-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-05.jpg "obs-10-05.jpg")
 
-So God sent a plague of gnats and then a plague of flies. Pharaoh called
-Moses and Aaron and told them they could leave if they stopped the
-plague. Moses prayed, and God removed all the flies from Egypt, but
+So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh
+called Moses and Aaron and told them they could leave if they stopped
+the plague. Moses prayed, and God removed all the flies from Egypt, but
 Pharaoh hardened his heart and would not let the people go.
 
 ![obs-10-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-06.jpg "obs-10-06.jpg")
 
 Next God sent a sickness to kill all the farm animals that belonged to
-the Egyptians. Pharaoh’s heart was hardened, and he would not let the
-Israelites go.
+the Egyptians. But Pharaoh’s heart was hardened, and he would not let
+the Israelites go.
 
 ![obs-10-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-07.jpg "obs-10-07.jpg")
 
@@ -47,9 +47,10 @@ the Israelites go free.
 
 ![obs-10-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-08.jpg "obs-10-08.jpg")
 
-After that, God sent hail that destroyed the crops in Egypt and killed
-anybody who went outside. Pharaoh called Moses and Aaron and told them,
-“I have sinned. You may go.” So Moses prayed, and the hail stopped.
+After that, God sent hail that destroyed much of the crops in Egypt and
+killed anybody who went outside. Pharaoh called Moses and Aaron and told
+them, “I have sinned. You may go.” So Moses prayed, and the hail
+stopped.
 
 ![obs-10-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-09.jpg "obs-10-09.jpg")
 
@@ -59,18 +60,18 @@ Israelites go.
 ![obs-10-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-10.jpg "obs-10-10.jpg")
 
 So God caused swarms of locusts to come over Egypt. These locusts ate
-what remained of the crops that the hail had not destroyed.
+all the crops that the hail had not destroyed.
 
 ![obs-10-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-11.jpg "obs-10-11.jpg")
 
 Then God sent darkness that lasted for three days. It was so dark that
-the Egyptians could not leave their houses. But where the Israelites
-lived, there was light.
+the Egyptians could not leave their houses. But there was light where
+the Israelites lived.
 
 ![obs-10-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-12.jpg "obs-10-12.jpg")
 
 Even after these nine plagues, Pharaoh still refused to let the
-Israelites go free. Since Pharaoh would not listen, there was one last
-plague that God planned to send. This would change Pharaoh’s mind.
+Israelites go free. Since Pharaoh would not listen, God planned to send
+one last plague. This would change Pharaoh’s mind.
 
 *A Bible story from: Exodus 5-10*

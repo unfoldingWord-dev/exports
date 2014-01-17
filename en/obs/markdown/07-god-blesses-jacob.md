@@ -15,42 +15,43 @@ Jacob his rights as the oldest son. Then Jacob gave him some food.
 
 ![obs-07-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-03.jpg "obs-07-03.jpg")
 
-When Isaac was old, he wanted to give his blessing to Esau. But before
-he did, Rebekah and Jacob tricked him by having Jacob pretend to be
-Esau. Jacob put on Esau’s clothes and put goat skins on his neck and
-hands.
+Isaac wanted to give his blessing to Esau. But before he did, Rebekah
+and Jacob tricked him by having Jacob pretend to be Esau. Isaac was old
+and could no longer see. So Jacob put on Esau’s clothes and put goat
+skins on his neck and hands.
 
 ![obs-07-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-04.jpg "obs-07-04.jpg")
 
-Isaac could not see well. Jacob came to Isaac and said, “I am Esau, I
-have come to receive your blessing.” When Isaac felt the goat hair and
-smelled the clothes, he thought it was Esau and blessed him.
+Jacob came to Isaac and said, “I am Esau, I have come to receive your
+blessing.” When Isaac felt the goat hair and smelled the clothes, he
+thought it was Esau and blessed him.
 
 ![obs-07-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-05.jpg "obs-07-05.jpg")
 
-Esau hated Jacob because Jacob stole his rights as oldest son and also
-his blessing. So he planned to kill Jacob after their father died.
+Esau hated Jacob because Jacob had taken his rights as oldest son and
+also his blessing. So he planned to kill Jacob after their father died.
 
 ![obs-07-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-06.jpg "obs-07-06.jpg")
 
-But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent
-far away to live with her relatives.
+But Rebekah heard of Esau’s plan. So she and Isaac sent Jacob far away
+to live with her relatives.
 
 ![obs-07-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-07.jpg "obs-07-07.jpg")
 
-While Jacob was there, he married four women who gave birth to a total
-of twelve sons and a daughter. God made him very wealthy.
+Jacob lived there for many years, and during that time he married and
+had twelve sons and a daughter. God made him very wealthy.
 
 ![obs-07-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-08.jpg "obs-07-08.jpg")
 
 After twenty years away from his home in Canaan, Jacob returned there
-with his family, his servants, and all his herds of
-animals.![obs-07-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-09.jpg "obs-07-09.jpg")
+with his family, his servants, and all his herds of animals.
 
-He was very afraid because he thought Esau still wanted to kill him. So
-he sent Esau many herds of animals as a gift. The servants who brought
-the animals said to Esau, “These animals are a gift from your servant,
-Jacob. He is coming soon.”
+![obs-07-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-09.jpg "obs-07-09.jpg")
+
+Jacob was very afraid because he thought Esau still wanted to kill him.
+So he sent Esau many herds of animals as a gift. The servants who
+brought the animals said to Esau, “These animals are a gift from your
+servant, Jacob. He is coming soon.”
 
 ![obs-07-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-07-10.jpg "obs-07-10.jpg")
 

@@ -36,12 +36,12 @@ two fish.”
 
 ![obs-30-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-06.jpg "obs-30-06.jpg")
 
-Jesus called the crowd to him and told them to sit down in groups on the
-grass.
+Jesus called the crowd to him and told his disciples to have them sit
+down on the grass, in groups of fifty people each.
 
 ![obs-30-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-07.jpg "obs-30-07.jpg")
 
-Then he took the five loaves of bread and the two fish, looked up to
+Then Jesus took the five loaves of bread and the two fish, looked up to
 heaven, and blessed the food.
 
 ![obs-30-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-30-08.jpg "obs-30-08.jpg")

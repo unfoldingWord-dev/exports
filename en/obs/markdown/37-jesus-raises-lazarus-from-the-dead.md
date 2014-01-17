@@ -11,24 +11,24 @@ where he was for two days.
 
 ![obs-37-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-02.jpg "obs-37-02.jpg")
 
-Then he said to his disciples, “Let’s go back to Judea.” “But Teacher,”
-the disciples answered, “Just a short time ago the people there wanted
-to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I
-must wake him.”
+Then Jesus said to his disciples, “Let’s go back to Judea.” “But
+Teacher,” the disciples answered, “Just a short time ago the people
+there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen
+asleep, and I must wake him.”
 
 ![obs-37-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-03.jpg "obs-37-03.jpg")
 
-His disciples replied, “Lord, if Lazarus is sleeping, he will get better
-on his own.” Then Jesus told them plainly, “Lazarus is dead. I am glad
-we were not there when he died, for now you will see amazing things so
-that you may believe.”
+Jesus' disciples replied, “Master, if Lazarus is sleeping, he will get
+better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am
+glad we were not there when he died, for now you will see amazing things
+so that you may believe.”
 
 ![obs-37-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-04.jpg "obs-37-04.jpg")
 
 When Jesus got there, Lazarus had already been dead for four days.
 Martha went out to meet Jesus and said, “Master, if only you had been
 here, my brother would not have died. But I believe God will give you
-whatever you ask from Him.”
+whatever you ask from him.”
 
 ![obs-37-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-05.jpg "obs-37-05.jpg")
 
@@ -39,7 +39,7 @@ believe you are the Messiah, the Son of God.”
 
 ![obs-37-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-06.jpg "obs-37-06.jpg")
 
-Then Mary arrived. She fell at the feet of Jesus and said, “Lord, if
+Then Mary arrived. She fell at the feet of Jesus and said, “Master, if
 only you had been here, my brother would not have died.” “Where have you
 put Lazarus?” he asked them. They told him, “In the tomb. Come and see.”
 Then Jesus wept.
@@ -57,16 +57,16 @@ you believe?” So they rolled the stone away.
 
 ![obs-37-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-09.jpg "obs-37-09.jpg")
 
-Then Jesus looked up to heaven and said, “Father, thank You for hearing
-me. I know You always listen to me, but I say this for the sake of all
-these people standing here, so that they will believe You sent me.” Then
+Then Jesus looked up to heaven and said, “Father, thank you for hearing
+me. I know you always listen to me, but I say this for the sake of all
+these people standing here, so that they will believe you sent me.” Then
 Jesus shouted, “Lazarus, come out!”
 
 ![obs-37-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-10.jpg "obs-37-10.jpg")
 
-And Lazarus did! He was still wrapped up in grave clothes. Jesus told
-them, “Help him get out of those grave clothes and release him!” Many of
-the Jews believed in Jesus because of this miracle.
+And Lazarus came out! He was still wrapped up in grave clothes. Jesus
+told them, “Help him get out of those grave clothes and release him!”
+Many of the Jews believed in Jesus because of this miracle.
 
 ![obs-37-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-37-11.jpg "obs-37-11.jpg")
 

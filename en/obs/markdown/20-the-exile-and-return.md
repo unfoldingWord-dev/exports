@@ -4,15 +4,14 @@
 ![obs-20-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-01.jpg "obs-20-01.jpg")
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God made with them at Mount Sinai. God sent His prophets
-to warn them to repent and worship Him again, but they refused to
-listen.
+Covenant that God had made with them at Sinai. God sent his prophets to
+warn them to repent and worship him again, but they refused to listen.
 
 ![obs-20-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-02.jpg "obs-20-02.jpg")
 
-So God punished both nations by allowing them to be destroyed. Israel
-was destroyed by the Assyrian Empire, a powerful, cruel nation. The
-Assyrians killed many Israelites, took away everything of value, and
+So God punished both nations by allowing their enemies to destroy them.
+Israel was destroyed by the Assyrian Empire, a powerful, cruel nation.
+The Assyrians killed many Israelites, took away everything of value, and
 burned much of the country.
 
 ![obs-20-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-03.jpg "obs-20-03.jpg")
@@ -30,7 +29,7 @@ there. Their descendants were called Samaritans.
 ![obs-20-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-05.jpg "obs-20-05.jpg")
 
 The people in the kingdom of Judah saw how God had punished the kingdom
-of Israel for not believing and obeying Him. But they still worshiped
+of Israel for not believing and obeying him. But they still worshiped
 idols and the gods of the Canaanites. God sent prophets to warn them,
 but they refused to listen.
 
@@ -39,7 +38,7 @@ but they refused to listen.
 About 100 years after the Assyrians destroyed Israel, God sent
 Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a
 powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant
-and pay him lots of money every year.
+and pay him a lot of money every year.
 
 ![obs-20-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-07.jpg "obs-20-07.jpg")
 
@@ -56,15 +55,16 @@ they took the king away to die in prison in Babylon.
 ![obs-20-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-09.jpg "obs-20-09.jpg")
 
 Nebuchadnezzar and his army took all the people of Judah to Babylon,
-leaving only the poorest people behind to plant the fields. This is
-called the Exile.
+leaving only the poorest people behind to plant the fields. This period
+of time when God's people could not live in the Promised Land is called
+the Exile.
 
 ![obs-20-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-10.jpg "obs-20-10.jpg")
 
 Even though the Exile was punishment for their sin, God did not forget
-His people or His promises. God watched over His people and spoke to
-them through His prophets. He promised that, after seventy years, they
-would return to the Promised Land again.
+his people or his promises. God continued to watch over his people and
+speak to them through his prophets. He promised that, after seventy
+years, they would return to the Promised Land again.
 
 ![obs-20-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-11.jpg "obs-20-11.jpg")
 
@@ -83,9 +83,9 @@ Jerusalem.
 
 ![obs-20-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-20-13.jpg "obs-20-13.jpg")
 
-When they arrived, they rebuilt the Temple and the wall around the city
-of Jerusalem. Although they were still ruled by other people, they lived
-in the Promised Land again and worshiped at the Temple.
+When the people arrived in Jerusalem, they rebuilt the Temple and the
+wall around the city. Although they were still ruled by other people,
+they lived in the Promised Land again and worshiped at the Temple.
 
 *A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10;
 Nehemiah 1-13*

@@ -5,7 +5,8 @@
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been
 spreading, and the Church has been growing. Jesus said he would return
-at the end of the world, but he still has not come back.
+at the end of the world. Though he has not yet come back, he will keep
+his promise.
 
 ![obs-50-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-02.jpg "obs-50-02.jpg")
 
@@ -43,10 +44,10 @@ answered, ‘An enemy has planted them.’”
 
 ![obs-50-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-07.jpg "obs-50-07.jpg")
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘If
-you do that, you will pull out some of the wheat as well. Wait until the
-harvest and then gather the weeds into piles to be burned, but bring the
-wheat into my barn.’”
+“The workers responded, ‘Should we pull out the weeds?’ The master said,
+‘No. If you do that, you will pull out some of the wheat as well. Wait
+until the harvest and then gather the weeds into piles to be burned, but
+bring the wheat into my barn.’”
 
 ![obs-50-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-08.jpg "obs-50-08.jpg")
 
@@ -77,9 +78,9 @@ from the dead and meet him in the air.
 
 ![obs-50-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-12.jpg "obs-50-12.jpg")
 
-The Christians who are still alive will then be caught up together with
-them in the air and all Christians will be with Jesus forever. Jesus
-will be with his people in perfect unity forever.
+The Christians who are still alive will then rise up together with them
+in the air and all Christians will be with Jesus forever. Jesus will be
+with his people in perfect unity forever.
 
 ![obs-50-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-13.jpg "obs-50-13.jpg")
 
@@ -98,16 +99,17 @@ worms that never die.
 
 Jesus will also completely destroy Satan and his kingdom and will throw
 him into the lake of fire where he will burn forever. Death also will be
-thrown into the lake of fire in hell.
+thrown into the lake of fire.
 
 ![obs-50-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-16.jpg "obs-50-16.jpg")
 
-Jesus will create a New Heaven and a New Earth. The universe will once
-again be perfect, as it was before Adam and Eve sinned.
+God cursed the universe because of Adam and Eve's sin and he will
+destroy it. Jesus will create a New Heaven and a New Earth that will be
+perfect.
 
 ![obs-50-17.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-50-17.jpg "obs-50-17.jpg")
 
-And Jesus will reign forever and ever. He will wipe away every tear and
+Jesus will reign forever and ever. He will wipe away every tear and
 there will be no more death, suffering, sadness, crying, evil, or pain.
 He will rule his Kingdom with peace and justice, and he will be with his
 people forever.

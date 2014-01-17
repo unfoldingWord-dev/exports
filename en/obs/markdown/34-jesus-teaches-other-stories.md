@@ -9,8 +9,9 @@ When it is a seed, it is the smallest seed of all.”
 
 ![obs-34-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-02.jpg "obs-34-02.jpg")
 
-“But when it has grown, it is the largest of all garden plants, big
-enough that even the birds come and make nests in its branches.”
+“But when the mustard seed has grown, it is the largest of all garden
+plants, big enough that even the birds come and make nests in its
+branches.”
 
 ![obs-34-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-03.jpg "obs-34-03.jpg")
 
@@ -26,7 +27,7 @@ had and bought that field.”
 ![obs-34-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-05.jpg "obs-34-05.jpg")
 
 “The Kingdom of God is also like a pearl merchant who was looking for
-perfect pearls. When he found one of great price, he sold all that he
+perfect pearls. When he found one of great value, he sold all that he
 had and bought it.”
 
 ![obs-34-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-34-06.jpg "obs-34-06.jpg")

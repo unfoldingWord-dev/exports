@@ -21,7 +21,7 @@ repenting and confessing their sins.
 
 John said to the religious leaders, “You bunch of snakes! Repent and
 change your behavior. Every tree that does not bear good fruit will be
-cut down and thrown into the fire.” This fulfilled what the prophet
+cut down and thrown into the fire.” John fulfilled what the prophet
 Isaiah said, “Behold, I send my messenger ahead of you, who will prepare
 your way.”
 
@@ -41,14 +41,14 @@ world.”
 
 John said to Jesus, “I am not worthy to baptize you. You should baptize
 me instead.” But Jesus said, “You should baptize me, because it is the
-right thing to do.” So John baptized him, but not because Jesus had
+right thing to do.” So John baptized him, but not not because Jesus had
 sinned—he never sinned.
 
 ![obs-24-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-24-08.jpg "obs-24-08.jpg")
 
 When Jesus came out of the water, the Spirit of God took the appearance
 of a dove and landed on him. At the same time a voice from heaven said,
-“You are My beloved Son, and with you I am well pleased.”
+“You are my beloved Son, and with you I am well pleased.”
 
 ![obs-24-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-24-09.jpg "obs-24-09.jpg")
 

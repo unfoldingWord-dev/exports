@@ -9,9 +9,9 @@ praying constantly.
 
 ![obs-43-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-02.jpg "obs-43-02.jpg")
 
-At that time a Jewish feast called Pentecost was happening. Pentecost
-was a celebration of thanksgiving. Jews from all over the world would
-come to Jerusalem to celebrate together.
+Fifty days after Jesus rose from the dead, a Jewish feast called
+Pentecost took place. Pentecost was a celebration of thanksgiving. Jews
+from all over the world would come to Jerusalem to celebrate together.
 
 ![obs-43-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-03.jpg "obs-43-03.jpg")
 
@@ -31,8 +31,8 @@ wonderful works of God.
 
 Some accused the disciples of being drunk, but Peter stood up and said,
 “Listen to me! These people are not drunk! This is a fulfillment of the
-prophecy made by Joel which says, ‘In the last days, I will pour out My
-Spirit.’”
+prophecy made by the prophet Joel which says, ‘In the last days, I will
+pour out my Spirit.’”
 
 ![obs-43-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-06.jpg "obs-43-06.jpg")
 
@@ -42,7 +42,7 @@ the power of God, as you have seen and already know. You crucified him!”
 ![obs-43-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-07.jpg "obs-43-07.jpg")
 
 “But God raised him to life again to fulfill the prophecy which says,
-‘You will not let Your Holy One rot in the grave.’ God raised this Jesus
+‘You will not let your Holy One rot in the grave.’ God raised this Jesus
 from the dead. We are witnesses.”
 
 ![obs-43-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-08.jpg "obs-43-08.jpg")
@@ -54,7 +54,7 @@ hearing.”
 ![obs-43-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-09.jpg "obs-43-09.jpg")
 
 “Know for certain that God has made this Jesus, the one you crucified,
-both Master and Messiah!”
+both Lord and Messiah!”
 
 ![obs-43-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-10.jpg "obs-43-10.jpg")
 
@@ -70,13 +70,14 @@ of the Holy Spirit.”
 ![obs-43-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-12.jpg "obs-43-12.jpg")
 
 About 3,000 people believed what Peter said. They were baptized and were
-added to the people of God, which is the Church.
+added to the people of God, which is the Church. The people who believed
+in Jesus became known as Christians.
 
 ![obs-43-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-43-13.jpg "obs-43-13.jpg")
 
 The believers devoted themselves to the disciples’ teaching, fellowship,
 eating together, and prayer. They all met together and shared everything
-they had. They praised God and were well received by those who were not
-Christians.
+they had. They praised God and even non-believers thought well of them.
+Every day, more people became Christians.
 
 *A Bible story from: Acts 2*

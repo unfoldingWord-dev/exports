@@ -9,17 +9,17 @@ cloud pillar showed them the way.
 
 ![obs-14-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-02.jpg "obs-14-02.jpg")
 
-God had promised Abraham, Isaac, and Jacob that He would give the
-Promised Land to their descendants, but now there were many tribes of
-people living there. They were called Canaanites. The Canaanites did not
+God had promised Abraham, Isaac, and Jacob that he would give the
+Promised Land to their descendants, but now there were many people
+groups living there. They were called Canaanites. The Canaanites did not
 believe in God. They worshiped false gods and did many evil things.
 
 ![obs-14-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-03.jpg "obs-14-03.jpg")
 
 God told the Israelites, “You must get rid of all the Canaanites in the
 Promised Land. Do not make peace with them and do not marry them. You
-must completely destroy all of their idols. If you do not do these
-things, you will worship their idols instead of Me.”
+must completely destroy all of their idols. If you do not obey me, you
+will worship their idols instead of me.”
 
 ![obs-14-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-04.jpg "obs-14-04.jpg")
 
@@ -30,10 +30,10 @@ Canaanites to see if they were strong or weak.
 
 ![obs-14-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-05.jpg "obs-14-05.jpg")
 
-The men spied on Canaan for forty days, then they came back. Ten of the
-spies gave a bad report, saying, “The land is very good, and the crops
-are great! But the cities are very strong, and the people are giants! If
-we attack them, we will surely die!”
+The twelve men spied on Canaan for forty days and then they came back.
+Ten of the spies gave a bad report, saying, “The land is very good, and
+the crops are great! But the cities are very strong, and the people are
+giants! If we attack them, we will surely die!”
 
 ![obs-14-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-06.jpg "obs-14-06.jpg")
 
@@ -51,7 +51,7 @@ Egypt.
 
 ![obs-14-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-08.jpg "obs-14-08.jpg")
 
-God was very angry, and His presence appeared at the Tent of Meeting.
+God was very angry, and his presence appeared at the Tent of Meeting.
 God said, “Except for Joshua and Caleb, all of the people who are twenty
 years old or older will wander in the wilderness until they die. They
 will never enter the Promised Land.”
@@ -65,21 +65,21 @@ because God was not with them, but they did not listen to him.
 ![obs-14-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-10.jpg "obs-14-10.jpg")
 
 God did not go with them into this battle, so they were defeated and
-many of them were killed. Then the rest of the Israelites turned back
-from Canaan and wandered through the wilderness for forty years.
+many of them were killed. Then the Israelites turned back from Canaan
+and wandered through the wilderness for forty years.
 
 ![obs-14-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-11.jpg "obs-14-11.jpg")
 
 During that time of wandering, God provided for them. He gave them bread
-from heaven, called “manna.” He also sent quail (a kind of bird) into
-their camp so they could have meat to eat. During those forty years, God
-kept their clothes and shoes from wearing out.
+from heaven, called “manna.” He also sent quail (which is a kind of
+bird) into their camp so they could have meat to eat. During those forty
+years, God kept their clothes and shoes from wearing out.
 
 ![obs-14-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-12.jpg "obs-14-12.jpg")
 
 God even miraculously gave them water from a rock. But despite all this,
 the people of Israel complained and grumbled against God and against
-Moses. God was still faithful to His promises to Abraham, Isaac, and
+Moses. God was still faithful to his promises to Abraham, Isaac, and
 Jacob.
 
 ![obs-14-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-13.jpg "obs-14-13.jpg")
@@ -92,11 +92,11 @@ with Moses and said, “You will not enter the Promised Land.”
 
 ![obs-14-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-14.jpg "obs-14-14.jpg")
 
-After they had wandered in the wilderness for forty years, all the
-people who had rebelled against God were dead. God led the Israelites to
-the edge of the Promised Land again. Moses was now very old, so he chose
-Joshua to help him lead the people. God promised Moses that one day He
-would raise up another prophet like Moses.
+After the Israelites had wandered in the wilderness for forty years, all
+the people who had rebelled against God were dead. Then God led the
+people to the edge of the Promised Land again. Moses was now very old,
+so he chose Joshua to help him lead the people. God promised Moses that
+one day he would raise up another prophet like Moses.
 
 ![obs-14-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-14-15.jpg "obs-14-15.jpg")
 

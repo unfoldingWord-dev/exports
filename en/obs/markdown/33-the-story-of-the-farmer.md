@@ -33,9 +33,10 @@ ears, let him hear!”
 
 ![obs-33-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-06.jpg "obs-33-06.jpg")
 
-This story confused the disciples. Jesus explained, “The seed represents
-the Word of God. The seeds on the path are like people who hear God’s
-Word, do not understand it, and the devil takes the word from them.”
+This story confused the disciples. So Jesus explained, “The seed
+represents the Word of God. The seeds on the path are like people who
+hear God’s Word, do not understand it, and the devil takes the word from
+them.”
 
 ![obs-33-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-07.jpg "obs-33-07.jpg")
 
@@ -53,7 +54,7 @@ fruit.”
 ![obs-33-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-33-09.jpg "obs-33-09.jpg")
 
 “But the seeds that fall on good soil represent people who hear the Word
-of God, believe it, and produce spiritual fruit.”
+of God, believe it, and produce fruit.”
 
 *A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke
 8:4-15*

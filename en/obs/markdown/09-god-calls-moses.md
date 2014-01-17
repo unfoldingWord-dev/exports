@@ -9,10 +9,10 @@ children. They were called the Israelites.
 
 ![obs-09-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-02.jpg "obs-09-02.jpg")
 
-Many years later, a new Pharaoh came to power in Egypt. The Egyptians
-forgot about Joseph and all he had done to help them. They became afraid
-of the Israelites because there were so many of them. So the Egyptians
-made the Israelites their slaves.
+Hundreds of years later, a new Pharaoh came to power in Egypt. The
+Egyptians no longer remembered Joseph and all he had done to help them.
+They became afraid of the Israelites because there were so many of them.
+So the Egyptians made the Israelites their slaves.
 
 ![obs-09-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-03.jpg "obs-09-03.jpg")
 
@@ -23,8 +23,8 @@ them, and they had even more children.
 ![obs-09-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-04.jpg "obs-09-04.jpg")
 
 Pharaoh saw that the Israelites were having many babies, so he ordered
-all Israelite baby boys to be killed by throwing them into the Nile
-River.
+his people to kill all Israelite baby boys by throwing them into the
+Nile River.
 
 ![obs-09-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-05.jpg "obs-09-05.jpg")
 
@@ -33,14 +33,17 @@ hid the baby for as long as they could.
 
 ![obs-09-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-06.jpg "obs-09-06.jpg")
 
-Then they put him in a floating basket in the Nile River. His older
-sister watched to see what would happen to him.
+When the boy's parents could no longer hide him, they put him in a
+floating basket among the reeds along the edge of the Nile River. His
+older sister watched to see what would happen to him.
 
 ![obs-09-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-07.jpg "obs-09-07.jpg")
 
 A daughter of Pharaoh saw the basket and looked inside. When she saw the
-baby, she took him as her own son. She hired the baby’s own mother to
-nurse him. When the child grew up, Pharaoh’s daughter named him Moses.
+baby, she took him as her own son. She hired an Israelite woman to nurse
+him, without realizing the woman was the baby's own mother. When the
+child was old enough, his mother returned him to Pharaoh’s daughter, who
+named him Moses.
 
 ![obs-09-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-08.jpg "obs-09-08.jpg")
 
@@ -49,14 +52,14 @@ Israelite slave. Moses tried to save his fellow Israelite.
 
 ![obs-09-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-09.jpg "obs-09-09.jpg")
 
-When he thought nobody was looking, he killed the Egyptian and buried
-his body. But someone saw what had happened.
+When Moses thought nobody was looking, he killed the Egyptian and buried
+the body. But someone saw what had happened.
 
 ![obs-09-10.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-10.jpg "obs-09-10.jpg")
 
 When Pharaoh found out about it, he tried to kill Moses because of what
 he had done. Moses ran away from Egypt to the wilderness where he would
-be safe.
+be safe from Pharaoh's soldiers.
 
 ![obs-09-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-11.jpg "obs-09-11.jpg")
 
@@ -72,20 +75,22 @@ off your shoes. You are standing on holy ground.”
 
 ![obs-09-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-13.jpg "obs-09-13.jpg")
 
-God said, “I have seen the suffering of My people. I will send you to
+God said, “I have seen the suffering of my people. I will send you to
 Pharaoh so that you can bring the Israelites out of their slavery in
 Egypt. I will give them the land of Canaan, the land I promised to
 Abraham, Isaac, and Jacob.”
 
 ![obs-09-14.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-14.jpg "obs-09-14.jpg")
 
-Moses said, “What if the people ask me who sent me, what should I say?”
-God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is
-My name forever.”
+Moses said, “What if the people want to know who sent me, what should I
+say?” God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’
+Also tell them, ‘I am Yahweh, the God of your ancestors Abraham, Isaac,
+and Jacob. This is my name forever.’”
 
 ![obs-09-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-09-15.jpg "obs-09-15.jpg")
 
-Moses did not want to go, so God sent Moses’ brother, Aaron, to help
-him. God warned Moses and Aaron that Pharaoh would be stubborn.
+Moses did not want to go to Pharaoh because he thought he could not
+speak well, so God sent Moses’ brother, Aaron, to help him. God warned
+Moses and Aaron that Pharaoh would be stubborn.
 
 *A Bible story from: Exodus 1-4*

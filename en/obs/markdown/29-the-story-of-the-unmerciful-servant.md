@@ -3,7 +3,7 @@
 
 ![obs-29-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-29-01.jpg "obs-29-01.jpg")
 
-One day Peter said to Jesus, “Lord, how many times should I forgive my
+One day Peter said to Jesus, “Master, how many times should I forgive my
 brother when he sins against me? Up to seven times?” Jesus said, “Not
 seven times, but seventy times seven!” By this, Jesus meant that we
 should always forgive. Jesus told this story.
@@ -46,8 +46,8 @@ They went to the king and told him everything.”
 
 “The king called the servant and said, ‘You wicked servant! I forgave
 your debt because you begged me. You should have done the same.’ In his
-anger the king threw the wicked servant into prison until he paid back
-all of his debt.”
+anger the king threw the wicked servant into prison until he could pay
+back all of his debt.”
 
 ![obs-29-09.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-29-09.jpg "obs-29-09.jpg")
 

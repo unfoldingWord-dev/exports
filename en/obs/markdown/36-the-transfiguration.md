@@ -27,7 +27,7 @@ Moses, and one for Elijah.” Peter did not know what he was saying.
 ![obs-36-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-36-05.jpg "obs-36-05.jpg")
 
 As Peter was talking, a bright cloud came down on top of them and a
-voice from the cloud said, “This is My Son whom I love. I am pleased
+voice from the cloud said, “This is my Son whom I love. I am pleased
 with him. Listen to him.” The three disciples were terrified and fell on
 the ground.
 
@@ -38,7 +38,8 @@ looked around they saw no one but Jesus.
 
 ![obs-36-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-36-07.jpg "obs-36-07.jpg")
 
-As they went back down the mountain, Jesus said, “Do not tell anyone
-about what happened here until after I have been raised from the dead.”
+As Jesus and the three disciples went back down the mountain, Jesus said
+to them, “Do not tell anyone about what happened here until after I have
+been raised from the dead.”
 
 *A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36*

@@ -4,43 +4,44 @@
 ![obs-01-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-01.jpg "obs-01-01.jpg")
 
 This is how the beginning of everything happened. God created the
-universe and everything in it in six days. At first, the earth was dark
-and empty, and nothing had been formed in it. But God's Spirit was there
-over the water.
+universe and everything in it in six days. After God created the earth
+it was dark and empty, and nothing had been formed in it. But God's
+Spirit was there over the water.
 
 ![obs-01-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-02.jpg "obs-01-02.jpg")
 
 Then God spoke and said, “Let there be light!” And there was light. God
 saw that the light was good and called it “day.” He separated it from
-the darkness, which He called “night.” God created the light on the
+the darkness, which he called “night.” God created the light on the
 first day of creation.
 
 ![obs-01-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-03.jpg "obs-01-03.jpg")
 
 On the second day of creation, God spoke and created the sky above the
-earth.
+earth. He made the sky by separating the water above from the water
+below.
 
 ![obs-01-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-04.jpg "obs-01-04.jpg")
 
 On the third day, God spoke and separated the water from the dry land.
-He called the dry land “earth,” and He called the water “seas.”
+He called the dry land “earth,” and he called the water “seas.” God saw
+that what he had created was good.
 
 ![obs-01-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-05.jpg "obs-01-05.jpg")
 
 Then God said, “Let the earth produce all kinds of trees and plants.”
-And that is what happened. God saw that what He had created was good,
-and He was pleased with it all.
+And that is what happened. God saw that what he had created was good.
 
 ![obs-01-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-06.jpg "obs-01-06.jpg")
 
 On the fourth day of creation, God spoke and made the sun, the moon, and
 the stars. God made them to give light to the earth and to mark day and
-night, seasons and years.
+night, seasons and years. God saw that what he had created was good.
 
 ![obs-01-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-07.jpg "obs-01-07.jpg")
 
-On the fifth day, God created everything that swims in the water and all
-the birds. God saw that it was good, and He blessed them.
+On the fifth day, God spoke and made everything that swims in the water
+and all the birds. God saw that it was good, and he blessed them.
 
 ![obs-01-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-08.jpg "obs-01-08.jpg")
 
@@ -85,16 +86,16 @@ father and mother and becomes one with his wife.
 
 ![obs-01-15.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-15.jpg "obs-01-15.jpg")
 
-God made man and woman in His own image, and He saw that it was very
-good. He blessed them and told them, “Have many children and
-grandchildren and fill the earth!” This all happened on the sixth day of
-creation.
+God made man and woman in his own image. He blessed them and told them,
+“Have many children and grandchildren and fill the earth!” And God saw
+that everything he had made was very good, and he was very pleased with
+all of it. This all happened on the sixth day of creation.
 
 ![obs-01-16.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-01-16.jpg "obs-01-16.jpg")
 
-When the seventh day came, God had already finished His work. So God
-rested from all He had been doing. He blessed the seventh day and made
-it holy, because on this day He rested from His work. This is how God
-created the universe and everything in it.
+When the seventh day came, God had finished his work. So God rested from
+all he had been doing. He blessed the seventh day and made it holy,
+because on this day he rested from his work. This is how God created the
+universe and everything in it.
 
 *A Bible story from: Genesis 1-2*

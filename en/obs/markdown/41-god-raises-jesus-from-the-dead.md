@@ -22,10 +22,10 @@ put more burial spices on his body.
 
 ![obs-41-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-41-04.jpg "obs-41-04.jpg")
 
-There was a great earthquake. An angel of the Lord appeared from heaven,
-as bright as lightning. He rolled away the stone that was covering the
-entrance to the tomb and sat on it. The soldiers guarding the tomb were
-terrified and fell to the ground like dead men.
+There was a great earthquake. An angel appeared from heaven, as bright
+as lightning. He rolled away the stone that was covering the entrance to
+the tomb and sat on it. The soldiers guarding the tomb were terrified
+and fell to the ground like dead men.
 
 ![obs-41-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-41-05.jpg "obs-41-05.jpg")
 

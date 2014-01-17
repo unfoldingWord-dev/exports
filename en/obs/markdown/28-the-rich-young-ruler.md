@@ -3,10 +3,10 @@
 
 ![obs-28-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-28-01.jpg "obs-28-01.jpg")
 
-One day a rich young ruler came up to Jesus and asked him, “Good
-teacher, what good thing must I do to have eternal life?” Jesus said to
-him, “Why do you call me good? There is only One who is good, and that
-is God. But if you want to have eternal life, obey God’s laws.”
+One day a rich young ruler came up to Jesus and asked him, “Teacher,
+what good thing must I do to have eternal life?” Jesus said to him, “Why
+do you ask me about what is good? There is only One who is good, and
+that is God. But if you want to have eternal life, obey God’s laws.”
 
 ![obs-28-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-28-02.jpg "obs-28-02.jpg")
 

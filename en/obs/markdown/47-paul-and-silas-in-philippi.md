@@ -9,9 +9,9 @@ Lydia who sold purple cloth. She loved and worshiped God.
 
 ![obs-47-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-02.jpg "obs-47-02.jpg")
 
-God opened her heart to understand the message of Jesus, and she and her
-family were baptized. She invited Paul and Silas to stay at her house,
-so they did.
+God opened Lydia's heart to understand the message of Jesus, and she and
+her family were baptized. She invited Paul and Silas to stay at her
+house, so they did.
 
 ![obs-47-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-03.jpg "obs-47-03.jpg")
 
@@ -22,9 +22,9 @@ her masters.
 
 ![obs-47-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-04.jpg "obs-47-04.jpg")
 
-She kept yelling, “These men are servants of the Most High God. They are
-telling you the way to be saved!” She did this so often that Paul became
-annoyed.
+The slave girl kept yelling, “These men are servants of the Most High
+God. They are telling you the way to be saved!” She did this so often
+that Paul became annoyed.
 
 ![obs-47-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-05.jpg "obs-47-05.jpg")
 
@@ -33,12 +33,13 @@ Jesus, come out of her.” Right away the demon left her.
 
 ![obs-47-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-06.jpg "obs-47-06.jpg")
 
-The men who owned the slave girl became very angry when they found out
-what had happened, because she could no longer make money for them.
+The men who owned the slave girl became very angry when they realized
+the slave girl could no longer make money for them.
 
 ![obs-47-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-07.jpg "obs-47-07.jpg")
 
-So they had Paul and Silas arrested, beaten, and thrown into jail.
+So the owners of the slave girl had Paul and Silas arrested, beaten, and
+thrown into jail.
 
 ![obs-47-08.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-08.jpg "obs-47-08.jpg")
 
@@ -66,9 +67,9 @@ saved?”
 
 ![obs-47-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-12.jpg "obs-47-12.jpg")
 
-Paul answered, “Believe in the Lord Jesus Christ, and you and your
-family will be saved.” Then Paul baptized the jailer and his whole
-family, and they celebrated together.
+Paul answered, “Believe in Jesus, the Master, and you and your family
+will be saved.” Then Paul baptized the jailer and his whole family, and
+they celebrated together.
 
 ![obs-47-13.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-47-13.jpg "obs-47-13.jpg")
 
@@ -81,7 +82,6 @@ Church kept growing.
 
 Paul and other Christian leaders traveled to many cities, preaching and
 teaching about Jesus. They also wrote many letters to the churches to
-encourage and teach them about God’s New Covenant. These writings are
-called the New Testament.
+encourage and teach them about God’s New Covenant.
 
 *A Bible story from: Acts 16:11-40*

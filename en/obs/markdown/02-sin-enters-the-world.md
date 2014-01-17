@@ -4,14 +4,15 @@
 ![obs-02-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-01.jpg "obs-02-01.jpg")
 
 Adam and his wife were very happy living in the beautiful garden God had
-made for them. Neither of them wore clothes, but they did not feel any
-shame, because there was no sin in the world. They often walked in the
-garden and talked with God.
+made for them. Neither of them wore clothes, but this did not cause them
+to feel any shame, because there was no sin in the world. They often
+walked in the garden and talked with God.
 
 ![obs-02-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-02.jpg "obs-02-02.jpg")
 
 But there was a crafty snake in the garden. He asked the woman, “Did God
-really tell you not to eat the fruit from the trees in the garden?”
+really tell you not to eat the fruit from any of the trees in the
+garden?”
 
 ![obs-02-03.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-03.jpg "obs-02-03.jpg")
 
@@ -21,21 +22,20 @@ you eat that fruit or even touch it, you will die.’”
 
 ![obs-02-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-04.jpg "obs-02-04.jpg")
 
-The snake responded, “That is not true! You won’t die. God just knows
-that as soon as you eat it, you will understand things like He does. You
-will be like God, knowing good and evil.”
+The snake responded, “That is not true! You will not die. God knows that
+as soon as you eat it, you will be like God and will understand good and
+evil like he does.”
 
 ![obs-02-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-05.jpg "obs-02-05.jpg")
 
 The woman saw that the fruit was beautiful and looked delicious. She
 also wanted to be wise, so she picked some of the fruit and ate it. Then
-she turned and gave some to her husband, who was with her, and he ate
-it, too.
+she gave some to her husband, who was with her, and he ate it, too.
 
 ![obs-02-06.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-06.jpg "obs-02-06.jpg")
 
 Suddenly, their eyes were opened, and they realized they were naked.
-They tried to cover their nakedness by sewing leaves together to make
+They tried to cover their bodies by sewing leaves together to make
 clothes.
 
 ![obs-02-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-07.jpg "obs-02-07.jpg")
@@ -69,8 +69,8 @@ you. You will desire your husband, and he will rule over you.”
 God said to the man, “You listened to your wife and disobeyed me. Now
 the ground is cursed, and you will need to work hard to grow food. Then
 you will die, and your body will return to dirt.” The man named his wife
-Eve, which means “life,” because she would become the mother of all
-people. And God clothed Adam and Eve with animal skins.
+Eve, which means “life-giver,” because she would become the mother of
+all people. And God clothed Adam and Eve with animal skins.
 
 ![obs-02-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-02-12.jpg "obs-02-12.jpg")
 
