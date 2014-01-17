@@ -5,7 +5,7 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "As\u00ed fue el comienzo de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Al principio, la tierra estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
+          "text": "As\u00ed fue el comienzo de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Despu\u00e9s de crear Dios la tierra, \u00e9sta estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
         }, 
         {
           "id": "01-02", 
@@ -15,27 +15,32 @@
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra."
+          "text": "Hizo el cielo separando las aguas de arriba de las de abajo."
+        }, 
+        {
+          "id": "01-03", 
+          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
+          "text": "Hizo el cielo separando las aguas de arriba de las de abajo."
         }, 
         {
           "id": "01-04", 
           "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
-          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\"."
+          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Dios vio que todo lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-05", 
           "img": "{{:en:obs:obs-01-05.jpg?nolink&640x360}}", 
-          "text": "Entonces dijo Dios: \"Produzca la tierra toda clase de \u00e1rboles y plantas.\" Y as\u00ed sucedi\u00f3. Vio Dios que todo lo que hab\u00eda creado era bueno, y estaba contento con todo."
+          "text": "Entonces dijo Dios: \"Produzca la tierra toda clase de \u00e1rboles y plantas.\" Y as\u00ed sucedi\u00f3. Vio Dios que todo lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-06", 
           "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
-          "text": "En el cuarto d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el sol, la luna y las estrellas. Dios los hizo para dar luz a la tierra y para diferenciar entre el d\u00eda y la noche, las estaciones y los a\u00f1os."
+          "text": "En el cuarto d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el sol, la luna y las estrellas. Dios los hizo para dar luz a la tierra y para diferenciar entre el d\u00eda y la noche, las estaciones y los a\u00f1os. Dios vio que lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-07", 
           "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
-          "text": "En el quinto d\u00eda, Dios cre\u00f3 todos los seres que nadan en el agua y todas las aves. Y vio Dios que era bueno, y los bendijo."
+          "text": "En el quinto d\u00eda, Dios habl\u00f3 e hizo todos los seres que nadan en el agua y todas las aves. Y vio Dios que era bueno, y los bendijo."
         }, 
         {
           "id": "01-09", 
@@ -45,12 +50,12 @@
         {
           "id": "01-10", 
           "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
-          "text": "As\u00ed que Dios tom\u00f3 un poco de tierra, la dio forma de hombre, y le dio vida. El nombre de este hombre era Ad\u00e1n. Dios plant\u00f3 un jard\u00edn donde Ad\u00e1n pod\u00eda vivir, y lo puso all\u00ed para que cuidara de \u00e9l."
+          "text": "As\u00ed que Dios tom\u00f3 un poco de tierra, la dio forma de hombre, y sopl\u00f3 vida en \u00e9l. El nombre de este hombre era Ad\u00e1n. Dios plant\u00f3 un jard\u00edn donde Ad\u00e1n pod\u00eda vivir, y lo puso all\u00ed para que cuidara de \u00e9l."
         }, 
         {
           "id": "01-11", 
           "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
-          "text": "En medio del jard\u00edn, Dios plant\u00f3 dos \u00e1rboles especiales-el \u00e1rbol de la vida y el \u00e1rbol del conocimiento del bien y del mal. Dios le dijo a Ad\u00e1n que pod\u00eda comer de todo \u00e1rbol del huerto, excepto del \u00e1rbol del conocimiento del bien y del mal. Si com\u00eda de ese \u00e1rbol, morir\u00eda."
+          "text": "En medio del jard\u00edn, Dios plant\u00f3 dos \u00e1rboles especiales: el \u00e1rbol de la vida y el \u00e1rbol del conocimiento del bien y del mal. Dios le dijo a Ad\u00e1n que pod\u00eda comer de todo \u00e1rbol del huerto, excepto del \u00e1rbol del conocimiento del bien y del mal. Si com\u00eda de ese \u00e1rbol, morir\u00eda."
         }, 
         {
           "id": "01-12", 
@@ -3260,6 +3265,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20131112", 
+  "date_modified": "20140117", 
   "language": "es"
 }

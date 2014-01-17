@@ -1,11 +1,11 @@
 [
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "zh", 
     "string": "\u4e2d\u6587"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "en", 
     "string": "English"
   }, 
@@ -35,7 +35,7 @@
     "string": "Portugu\u00eas"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "es", 
     "string": "Espa\u00f1ol"
   }, 
@@ -65,7 +65,7 @@
     "string": "Bahasa Indonesia"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "abp", 
     "string": "Ayta Abellen"
   }, 
@@ -140,7 +140,7 @@
     "string": "Latvie\u0161u Valoda"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "az", 
     "string": "Az\u0259rbaycan dili"
   }, 
@@ -165,7 +165,7 @@
     "string": "Krey\u00f2l Ayisyen"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140117", 
     "language": "vi", 
     "string": "Ti\u1ebfng Vi\u1ec7t"
   }, 
