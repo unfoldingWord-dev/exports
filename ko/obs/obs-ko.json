@@ -509,7 +509,7 @@
         {
           "id": "08-12", 
           "img": "{{:en:obs:obs-08-12.jpg?nolink&640x360}}", 
-          "text": "After testing hist brothers to see if they had changed, Joseph said to them, \u201cI am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.\u201d"
+          "text": "After testing his brothers to see if they had changed, Joseph said to them, \u201cI am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.\u201d"
         }, 
         {
           "id": "08-13", 
@@ -3341,6 +3341,6 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140125", 
+  "date_modified": "20140128", 
   "language": "ko"
 }
