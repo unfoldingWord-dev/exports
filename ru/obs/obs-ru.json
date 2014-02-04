@@ -459,7 +459,7 @@
         {
           "id": "08-02", 
           "img": "{{:en:obs:obs-08-02.jpg?nolink&640x360}}", 
-          "text": "Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds."
+          "text": "Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his older brothers who were far away, taking care of the herds."
         }, 
         {
           "id": "08-03", 
@@ -633,7 +633,7 @@
         {
           "id": "10-04", 
           "img": "{{:en:obs:obs-10-04.jpg?nolink&640x360}}", 
-          "text": "God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites go."
+          "text": "Then God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites go."
         }, 
         {
           "id": "10-05", 
@@ -710,7 +710,7 @@
         {
           "id": "11-06", 
           "img": "{{:en:obs:obs-11-06.jpg?nolink&640x360}}", 
-          "text": "But the Egyptians did not believe God or obey his commands. So God did not pass over their houses. God killed every one of the Egyptians' firstborn sons."
+          "text": "But the Egyptians did not believe God or obey his commands. So God did not pass over their houses. God killed every one of the Egyptians' firstborn sons and every firstborn of their animals as well."
         }, 
         {
           "id": "11-07", 
@@ -732,12 +732,12 @@
         {
           "id": "12-01", 
           "img": "{{:en:obs:obs-12-01.jpg?nolink&640x360}}", 
-          "text": "The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land! The Egyptians gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations believed in God and joined the Israelites as they left Egypt."
+          "text": "The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land, the land God had promised to give to Abraham's descendants! The Egyptians gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations believed in God and joined the Israelites as they left Egypt."
         }, 
         {
           "id": "12-02", 
           "img": "{{:en:obs:obs-12-02.jpg?nolink&640x360}}", 
-          "text": "God led them by going ahead of them as a tall cloud pillar during the day, which became a tall fire pillar at night. God was always with them and guided them as they traveled. All they had to do was follow him."
+          "text": "God led them by going ahead of them in a tall cloud pillar during the day, which became a tall fire pillar at night. God was always with them and guided them as they traveled. All they had to do was follow him."
         }, 
         {
           "id": "12-03", 
@@ -777,7 +777,7 @@
         {
           "id": "12-10", 
           "img": "{{:en:obs:obs-12-10.jpg?nolink&640x360}}", 
-          "text": "So the Egyptians followed the Israelites onto the path through the sea, but God threw the Egyptians into a panic and caused their chariots to get stuck. They shouted, \u201cRun away! God is fighting for the Israelites!\u201d"
+          "text": "So the Egyptians followed the Israelites onto the path through the sea, but God threw the Egyptians into a panic and caused their chariots to get stuck. They shouted, \u201cRun away! Yahweh is fighting for the Israelites!\u201d"
         }, 
         {
           "id": "12-11", 
@@ -3341,6 +3341,6 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140128", 
+  "date_modified": "20140204", 
   "language": "ru"
 }
