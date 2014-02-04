@@ -596,7 +596,8 @@ then to Isaac now passed on to Jacob.
 ![obs-08-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-02.jpg "obs-08-02.jpg")
 
 Many years later, when Jacob was an old man, he sent his favorite son,
-Joseph, to check on his brothers who were taking care of the herds.
+Joseph, to check on his older brothers who were far away, taking care of
+the herds.
 
 ![obs-08-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-01.jpg "obs-08-01.jpg")
 
@@ -663,7 +664,7 @@ recognized them.
 
 ![obs-08-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-12.jpg "obs-08-12.jpg")
 
-After testing hist brothers to see if they had changed, Joseph said to
+After testing his brothers to see if they had changed, Joseph said to
 them, “I am your brother, Joseph! Do not be afraid. You tried to do evil
 when you sold me as a slave, but God used the evil for good! Come and
 live in Egypt so I can provide for you and your families.”
@@ -807,8 +808,8 @@ the Israelites go.
 
 ![obs-10-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-04.jpg "obs-10-04.jpg")
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the
-frogs. But after all the frogs died, Pharaoh hardened his heart and
+Then God sent frogs all over Egypt. Pharaoh begged Moses to take away
+the frogs. But after all the frogs died, Pharaoh hardened his heart and
 would not let the Israelites go.
 
 ![obs-10-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-05.jpg "obs-10-05.jpg")
@@ -899,7 +900,7 @@ because of the lamb’s blood.
 
 But the Egyptians did not believe God or obey his commands. So God did
 not pass over their houses. God killed every one of the Egyptians'
-firstborn sons.
+firstborn sons and every firstborn of their animals as well.
 
 ![obs-11-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-07.jpg "obs-11-07.jpg")
 
@@ -920,14 +921,15 @@ the Israelites to leave right away.
 ![obs-12-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-01.jpg "obs-12-01.jpg")
 
 The Israelites were very happy to leave Egypt. They were no longer
-slaves, and they were going to the Promised Land! The Egyptians gave the
+slaves, and they were going to the Promised Land, the land God had
+promised to give to Abraham's descendants! The Egyptians gave the
 Israelites whatever they asked for, even gold and silver and other
 valuable things. Some people from other nations believed in God and
 joined the Israelites as they left Egypt.
 
 ![obs-12-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-02.jpg "obs-12-02.jpg")
 
-God led them by going ahead of them as a tall cloud pillar during the
+God led them by going ahead of them in a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them
 and guided them as they traveled. All they had to do was follow him.
 
@@ -977,7 +979,8 @@ They decided to chase after them.
 
 So the Egyptians followed the Israelites onto the path through the sea,
 but God threw the Egyptians into a panic and caused their chariots to
-get stuck. They shouted, “Run away! God is fighting for the Israelites!”
+get stuck. They shouted, “Run away! Yahweh is fighting for the
+Israelites!”
 
 ![obs-12-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-11.jpg "obs-12-11.jpg")
 
@@ -3884,7 +3887,7 @@ Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21*
 
 ![obs-49-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-01.jpg "obs-49-01.jpg")
 
-Jesus’ mother, Mary, was a virgin when he was born because Jesus is
+Jesus’ mother, Mary, was a virgin when he was born, because Jesus is
 God’s Son. Jesus is both God and man at the same time.
 
 ![obs-49-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-02.jpg "obs-49-02.jpg")

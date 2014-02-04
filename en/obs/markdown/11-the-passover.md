@@ -35,7 +35,7 @@ because of the lamb’s blood.
 
 But the Egyptians did not believe God or obey his commands. So God did
 not pass over their houses. God killed every one of the Egyptians'
-firstborn sons.
+firstborn sons and every firstborn of their animals as well.
 
 ![obs-11-07.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-11-07.jpg "obs-11-07.jpg")
 

@@ -4,7 +4,8 @@
 ![obs-08-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-02.jpg "obs-08-02.jpg")
 
 Many years later, when Jacob was an old man, he sent his favorite son,
-Joseph, to check on his brothers who were taking care of the herds.
+Joseph, to check on his older brothers who were far away, taking care of
+the herds.
 
 ![obs-08-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-01.jpg "obs-08-01.jpg")
 
@@ -71,7 +72,7 @@ recognized them.
 
 ![obs-08-12.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-08-12.jpg "obs-08-12.jpg")
 
-After testing hist brothers to see if they had changed, Joseph said to
+After testing his brothers to see if they had changed, Joseph said to
 them, “I am your brother, Joseph! Do not be afraid. You tried to do evil
 when you sold me as a slave, but God used the evil for good! Come and
 live in Egypt so I can provide for you and your families.”

@@ -4,14 +4,15 @@
 ![obs-12-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-01.jpg "obs-12-01.jpg")
 
 The Israelites were very happy to leave Egypt. They were no longer
-slaves, and they were going to the Promised Land! The Egyptians gave the
+slaves, and they were going to the Promised Land, the land God had
+promised to give to Abraham's descendants! The Egyptians gave the
 Israelites whatever they asked for, even gold and silver and other
 valuable things. Some people from other nations believed in God and
 joined the Israelites as they left Egypt.
 
 ![obs-12-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-02.jpg "obs-12-02.jpg")
 
-God led them by going ahead of them as a tall cloud pillar during the
+God led them by going ahead of them in a tall cloud pillar during the
 day, which became a tall fire pillar at night. God was always with them
 and guided them as they traveled. All they had to do was follow him.
 
@@ -61,7 +62,8 @@ They decided to chase after them.
 
 So the Egyptians followed the Israelites onto the path through the sea,
 but God threw the Egyptians into a panic and caused their chariots to
-get stuck. They shouted, “Run away! God is fighting for the Israelites!”
+get stuck. They shouted, “Run away! Yahweh is fighting for the
+Israelites!”
 
 ![obs-12-11.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-12-11.jpg "obs-12-11.jpg")
 

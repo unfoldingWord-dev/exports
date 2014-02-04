@@ -21,8 +21,8 @@ the Israelites go.
 
 ![obs-10-04.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-04.jpg "obs-10-04.jpg")
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the
-frogs. But after all the frogs died, Pharaoh hardened his heart and
+Then God sent frogs all over Egypt. Pharaoh begged Moses to take away
+the frogs. But after all the frogs died, Pharaoh hardened his heart and
 would not let the Israelites go.
 
 ![obs-10-05.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-10-05.jpg "obs-10-05.jpg")

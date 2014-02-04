@@ -3,7 +3,7 @@
 
 ![obs-49-01.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-01.jpg "obs-49-01.jpg")
 
-Jesus’ mother, Mary, was a virgin when he was born because Jesus is
+Jesus’ mother, Mary, was a virgin when he was born, because Jesus is
 God’s Son. Jesus is both God and man at the same time.
 
 ![obs-49-02.jpg](/var/www/vhosts/door43.org/httpdocs/data/gitrepo/media/en/obs/obs-49-02.jpg "obs-49-02.jpg")
