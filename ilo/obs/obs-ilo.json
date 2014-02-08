@@ -1217,7 +1217,8 @@
         }
       ], 
       "number": "17", 
-      "ref": "A Bible story from: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12"
+      "ref": "A Bible story from: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
+      "title": "17. God\u2019s Covenant with David"
     }, 
     {
       "frames": [
@@ -3378,6 +3379,6 @@
       "ref": "A Bible story from: Matthew 24:14; 28:18; John 15:20, 16:33; Revelation 2:10; Matthew 13:24-30, 36-42; 1 Thessalonians 4:13-5:11; James 1:12; Matthew 22:13; Revelation 20:10, 21:1-22:21"
     }
   ], 
-  "date_modified": "20140126", 
+  "date_modified": "20140208", 
   "language": "ilo"
 }
