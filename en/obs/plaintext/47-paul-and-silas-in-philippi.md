@@ -5,18 +5,18 @@ Some years later, Paul and his friend Silas went to the town of
 Philippi, proclaiming the Good News about Jesus. They met a woman named
 Lydia who sold purple cloth. She loved and worshiped God.
 
-God opened her heart to understand the message of Jesus, and she and her
-family were baptized. She invited Paul and Silas to stay at her house,
-so they did.
+God opened Lydia's heart to understand the message of Jesus, and she and
+her family were baptized. She invited Paul and Silas to stay at her
+house, so they did.
 
 Paul and Silas often went to pray while they were in Philippi. Every day
 as they walked to the place of prayer, a slave girl possessed by a demon
 followed them. She was a fortune teller, and she made a lot of money for
 her masters.
 
-She kept yelling, “These men are servants of the Most High God. They are
-telling you the way to be saved!” She did this so often that Paul became
-annoyed.
+The slave girl kept yelling, “These men are servants of the Most High
+God. They are telling you the way to be saved!” She did this so often
+that Paul became annoyed.
 
 One day, Paul turned to her and said to the demon, “In the name of
 Jesus, come out of her.” Right away the demon left her.
@@ -24,7 +24,8 @@ Jesus, come out of her.” Right away the demon left her.
 The men who owned the slave girl became very angry when they realized
 the slave girl could no longer make money for them.
 
-So they had Paul and Silas arrested, beaten, and thrown into jail.
+So the owners of the slave girl had Paul and Silas arrested, beaten, and
+thrown into jail.
 
 Paul and Silas were put in the most secure part of the prison with their
 feet locked up. In the middle of the night, they were singing songs of

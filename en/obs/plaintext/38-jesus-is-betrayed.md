@@ -3,15 +3,15 @@
 
 Jesus had been preaching for about three years. It was the time of the
 Passover Feast when the Jews remembered how God had saved them from
-slavery in Egypt many years earlier. Jesus knew what would happen to him
-and told his disciples he was going to Jerusalem where he would be
+slavery in Egypt many centuries earlier. Jesus knew what would happen to
+him and told his disciples he was going to Jerusalem where he would be
 killed.
 
-The Jewish leaders in Jerusalem had rejected Jesus as the Messiah and
-were plotting to kill him. Judas was one of Jesus’ disciples. He was in
-charge of the disciples’ money, but he was dishonest and often stole
-from it. Judas went to the Jewish leaders and offered to betray Jesus to
-them.
+The Jewish leaders in Jerusalem refused to believe that Jesus was the
+Messiah and were plotting to kill him. Judas was one of Jesus’
+disciples. He was in charge of the disciples’ money bag, but he loved
+money and often stole from it. Judas went to the Jewish leaders and
+offered to betray Jesus to them.
 
 The Jewish leaders, led by the high priest, paid Judas thirty pieces of
 silver to betray Jesus. This happened just as the prophets had
@@ -23,7 +23,7 @@ Jesus took bread and broke it, saying, “Take and eat this. It is my
 body, which is broken for you. Do this to remember me.” In this way,
 Jesus said that his body would be sacrificed for them.
 
-Then he took a cup and said, “Drink this. It is my blood of the New
+Then Jesus took a cup and said, “Drink this. It is my blood of the New
 Covenant shed for the forgiveness of sins. Do this to remember me as
 often as you drink it.” In this way, Jesus said that his blood would be
 poured out to forgive their sins.
@@ -52,10 +52,10 @@ Then Jesus went with his disciples to a place called Gethsemane. Jesus
 told his disciples to pray that they would not fall into temptation.
 Then Jesus went to pray by himself.
 
-Jesus prayed three times, “My Father, if there is no other way for
-people’s sins to be forgiven, Your will be done.” Jesus was very
-troubled and his sweat was like drops of blood. God sent an angel to
-strengthen him.
+Jesus prayed three times, “My Father, if it is possible, please let me
+escape this suffering. But if there is no other way for people’s sins to
+be forgiven, then let your will be done.” Jesus was very troubled and
+his sweat was like drops of blood. God sent an angel to strengthen him.
 
 After each time of prayer, Jesus came back to his disciples, but they
 were asleep. After the third time, Jesus said, “Wake up! My betrayer is

@@ -7,7 +7,8 @@ to feel any shame, because there was no sin in the world. They often
 walked in the garden and talked with God.
 
 But there was a crafty snake in the garden. He asked the woman, “Did God
-really tell you not to eat the fruit from the trees in the garden?”
+really tell you not to eat the fruit from any of the trees in the
+garden?”
 
 The woman answered, “God told us we could eat the fruit of any tree
 except from the tree of the knowledge of good and evil. God told us, ‘If
@@ -15,12 +16,11 @@ you eat that fruit or even touch it, you will die.’”
 
 The snake responded, “That is not true! You will not die. God knows that
 as soon as you eat it, you will be like God and will understand good and
-evil like He does.”
+evil like he does.”
 
 The woman saw that the fruit was beautiful and looked delicious. She
 also wanted to be wise, so she picked some of the fruit and ate it. Then
-she turned and gave some to her husband, who was with her, and he ate
-it, too.
+she gave some to her husband, who was with her, and he ate it, too.
 
 Suddenly, their eyes were opened, and they realized they were naked.
 They tried to cover their bodies by sewing leaves together to make

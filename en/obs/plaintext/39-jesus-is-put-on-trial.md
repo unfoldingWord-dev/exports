@@ -19,8 +19,8 @@ power from heaven.” The high priest tore his clothes in anger and
 shouted, “We do not need any more witnesses. You have heard him say that
 he is the Son of God. What is your judgment?”
 
-They all answered, “He deserves to die!” Then they blindfolded him, spit
-on him, hit him, and mocked him.
+The Jewish leaders all answered, “He deserves to die!” Then they
+blindfolded Jesus, spit on him, hit him, and mocked him.
 
 Outside the house, a girl saw Peter and said, “You also were with
 Jesus!” Peter denied it. Later, another girl said the same thing, and
@@ -30,16 +30,16 @@ because you both are from Galilee.”
 Peter swore, saying, “May God curse me if I know this man!” Immediately,
 a rooster crowed, and Jesus turned and looked at Peter.
 
-Peter went outside and cried bitterly. Meanwhile, when Judas, the
-betrayer, saw that Jesus had been condemned, he became full of sorrow
-and went away and killed himself.
+Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer,
+saw that Jesus had been condemned, he became full of sorrow and went
+away and killed himself.
 
 Early the next morning, the Jewish leaders brought Jesus to the Roman
 governor, Pilate, hoping to have Jesus killed. Pilate asked him, “Are
 you the King of the Jews?”
 
 Jesus answered, “You have said so, but my Kingdom is not an earthly
-kingdom. If it was, my servants would fight for me. But I have come to
+kingdom. If it were, my servants would fight for me. But I have come to
 earth to tell the truth about God. Everyone who loves the truth listens
 to me.” Pilate said, “What is truth?”
 

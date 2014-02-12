@@ -16,24 +16,24 @@ After the people crossed the Jordan River, God told Joshua how to attack
 the powerful city of Jericho. The people obeyed God. The soldiers and
 priests marched around the city of Jericho once a day for six days.
 
-On the seventh day, they marched around the city seven times. On the
-last time around the city, the soldiers shouted while the priests blew
-on their trumpets.
+On the seventh day, the Israelites marched around the city seven times.
+On the last time around the city, the soldiers shouted while the priests
+blew on their trumpets.
 
-And the walls around the city fell down! The Israelites destroyed
-everything in the city as God had commanded. Only Rahab and her family
-were saved. They became part of the Israelites. When the rest of the
+Then the walls around Jericho fell down! The Israelites destroyed
+everything in the city as God had commanded. They only saved Rahab and
+her family, who became part of the Israelites. When the rest of the
 Canaanites heard about what had happened to Jericho they were terrified.
 
-The Canaanite tribe of Gibeon lied to Joshua and said they were from far
-away. They asked Joshua to make peace with them. God had commanded the
-Israelites not to make peace with any Canaanites, but Joshua and the
-Israelites did not ask God where the Gibeonites were from. So Joshua
-made peace with them.
+God had commanded the Israelites not to make peace with any of the
+people groups in Canaan. But the Canaanite people group of Gibeon lied
+to Joshua and said they were from far away. They asked Joshua to make
+peace with them. Joshua and the Israelites did not ask God where the
+Gibeonites were from. So Joshua made peace with them.
 
-When the other Canaanites heard that the Gibeonites had made peace with
-the Israelites, they joined their armies and attacked Gibeon. The
-Gibeonites sent a message to Joshua asking for help.
+When the other people groups in Canaan heard that the Gibeonites had
+made peace with the Israelites, they joined their armies and attacked
+Gibeon. The Gibeonites sent a message to Joshua asking for help.
 
 Joshua was angry that he had been tricked, but he gathered the Israelite
 army, and they marched all night to reach the Gibeonites. In the early
@@ -45,12 +45,11 @@ by sending large hailstones that killed many of the Canaanites.
 God also made the sun stand still in the sky so that Israel could finish
 defeating the Canaanites. God won a great victory for Israel that day.
 
-After this defeat, the rest of the Canaanites who were left gathered
-together to attack Israel. Joshua and the Israelites attacked and
-destroyed them.
+After this defeat, the Canaanites who were left gathered together to
+attack Israel. Joshua and the Israelites attacked and destroyed them.
 
-After this battle, God gave each tribe of Israel their own section of
-the Promised Land. Then God gave Israel peace along all its borders.
+After this battle, God gave each tribe of Israel its own section of the
+Promised Land. Then God gave Israel peace along all its borders.
 
 When Joshua was an old man, he called all the people of Israel together.
 Then Joshua renewed the covenant that God had made with the Israelites

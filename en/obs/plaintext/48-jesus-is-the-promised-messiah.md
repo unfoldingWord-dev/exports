@@ -9,17 +9,17 @@ Satan, who was the snake in the garden, deceived Eve, and she and Adam
 sinned against God. Because they sinned, death, sickness, and pain all
 became part of life for everyone on earth.
 
-Even worse, their relationship with God was broken. Now, everyone is
-born an enemy of God because of sin. But God had a plan to fix
-everything that had been broken by sin.
+Even worse, Adam and Eve's relationship with God was broken. Now,
+everyone is born an enemy of God because of sin. But God had a plan to
+fix everything that had been broken by sin.
 
 God promised that one of Eve’s descendants would crush Satan’s head, and
 Satan would wound his heel. This meant that Satan would kill Jesus, but
 God would raise him to life after three days. Jesus would crush the
 power of Satan forever.
 
-When God destroyed the whole earth in the flood, He provided the boat as
-a way of salvation for those who believed in Him. In the same way,
+When God destroyed the whole earth in the flood, he provided the boat as
+a way of salvation for those who believed in him. In the same way,
 though everyone deserves to be destroyed for their sins, God has
 provided a way of salvation for everyone who believes in Jesus.
 
@@ -35,23 +35,22 @@ the earth are blessed through Jesus, because everyone who believes in
 him becomes one of God’s chosen people, a spiritual descendant of
 Abraham.
 
-God provided a lamb for Abraham to sacrifice instead of Isaac. But God
-also provided another lamb to sacrifice instead of the whole world. God
-provided Jesus, the Lamb of God. Everyone deserves to die for their
-sins, including you! But God provided Jesus as a sacrifice to die
-instead of you.
+God provided a lamb for Abraham to sacrifice instead of his son, Isaac.
+God also provided another lamb to sacrifice instead of the whole world.
+God provided Jesus, the Lamb of God. We all deserve to die for our sins!
+But God provided Jesus as a sacrifice to die in your place.
 
 When God sent the last plague on Egypt, each Israelite family needed to
-kill a perfect lamb and spread the blood around their doors. When the
-angel of God saw the blood, he passed over their houses and did not kill
-their firstborn sons. This is called the Passover.
+kill a perfect lamb and spread the blood around their doors. When God
+saw the blood, he passed over their houses and did not kill their
+firstborn sons. This is called the Passover.
 
 Jesus is our Passover Lamb. He was perfect and sinless and was killed at
 the time of the Passover Feast. When anyone believes in Jesus, the blood
-of Jesus washes away that person’s sin, and God’s punishment passes over
+of Jesus takes away that person’s sin, and God’s punishment passes over
 him.
 
-God made a covenant with the Israelites who were His chosen people. In
+God made a covenant with the Israelites who were his chosen people. In
 God’s New Covenant, anyone from any people group can become part of
 God’s chosen people by believing in Jesus.
 
@@ -63,7 +62,7 @@ God promised David that the Messiah would be one of his descendants.
 Jesus, the Messiah, was that special descendant of David.
 
 Like David, Jesus is a king, but Jesus is the king of the universe! He
-will come again and rule his Kingdom with justice and peace.
+will come again and rule his Kingdom with justice and peace, forever.
 
 *A Bible story from: Genesis 1-3, 6, 14, 22; Exodus 12, 20; 2 Samuel 7;
 Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21*

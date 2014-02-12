@@ -1,11 +1,10 @@
 5. The Son of Promise
 =====================
 
-Ten years after they arrived in Canaan, Abram and Sarai still did not
-have a child. So Abram's wife, Sarai, said to him, “Since the LORD has
-not allowed me to have children and now I am too old to have children,
-here is my servant, Hagar. Marry her also so she can have a child for
-me.”
+Ten years after Abram and Sarai arrived in Canaan, they still did not
+have a child. So Abram's wife, Sarai, said to him, “Since God has not
+allowed me to have children and now I am too old to have children, here
+is my servant, Hagar. Marry her also so she can have a child for me.”
 
 So Abram married Hagar. Hagar had a baby boy, and Abram named him
 Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen
@@ -32,9 +31,9 @@ When Isaac was a young man, God tested Abraham’s faith by saying, “Take
 Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham
 obeyed God and prepared to sacrifice his son.
 
-As they walked to the place of the sacrifice Isaac asked, “Father, we
-have wood for the sacrifice, but where is the lamb?” Abraham replied,
-“God will provide the lamb for the sacrifice.”
+As Abraham and Isaac walked to the place of the sacrifice Isaac asked,
+“Father, we have wood for the sacrifice, but where is the lamb?” Abraham
+replied, “God will provide the lamb for the sacrifice, my son.”
 
 When they reached the place of sacrifice, Abraham tied up his son Isaac
 and laid him on an altar. He was about to kill his son when God said,

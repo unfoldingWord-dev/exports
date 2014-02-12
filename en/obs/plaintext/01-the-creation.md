@@ -8,7 +8,7 @@ Spirit was there over the water.
 
 Then God spoke and said, “Let there be light!” And there was light. God
 saw that the light was good and called it “day.” He separated it from
-the darkness, which He called “night.” God created the light on the
+the darkness, which he called “night.” God created the light on the
 first day of creation.
 
 On the second day of creation, God spoke and created the sky above the
@@ -16,18 +16,18 @@ earth. He made the sky by separating the water above from the water
 below.
 
 On the third day, God spoke and separated the water from the dry land.
-He called the dry land “earth,” and He called the water “seas.” God saw
-that what He had created was good.
+He called the dry land “earth,” and he called the water “seas.” God saw
+that what he had created was good.
 
 Then God said, “Let the earth produce all kinds of trees and plants.”
-And that is what happened. God saw that what He had created was good.
+And that is what happened. God saw that what he had created was good.
 
 On the fourth day of creation, God spoke and made the sun, the moon, and
 the stars. God made them to give light to the earth and to mark day and
-night, seasons and years. God saw that what He had created was good.
+night, seasons and years. God saw that what he had created was good.
 
 On the fifth day, God spoke and made everything that swims in the water
-and all the birds. God saw that it was good, and He blessed them.
+and all the birds. God saw that it was good, and he blessed them.
 
 On the sixth day of creation, God said, “Let there be all kinds of land
 animals!” And it happened just like God said. Some were farm animals,
@@ -56,14 +56,14 @@ When Adam saw her, he said, “At last! This one is like me! Let her be
 called 'Woman,' for she was made from Man.” This is why a man leaves his
 father and mother and becomes one with his wife.
 
-God made man and woman in His own image. He blessed them and told them,
+God made man and woman in his own image. He blessed them and told them,
 “Have many children and grandchildren and fill the earth!” And God saw
-that everything He had made was very good, and He was very pleased with
+that everything he had made was very good, and he was very pleased with
 all of it. This all happened on the sixth day of creation.
 
-When the seventh day came, God had finished His work. So God rested from
-all He had been doing. He blessed the seventh day and made it holy,
-because on this day He rested from His work. This is how God created the
+When the seventh day came, God had finished his work. So God rested from
+all he had been doing. He blessed the seventh day and made it holy,
+because on this day he rested from his work. This is how God created the
 universe and everything in it.
 
 *A Bible story from: Genesis 1-2*

@@ -15,9 +15,9 @@ my neighbor?”
 Jesus answered with a story. “There was a Jewish man who was traveling
 along the road from Jerusalem to Jericho.”
 
-“While he was traveling, he was attacked by a group of robbers. They
-took everything he had and beat him until he was almost dead. Then they
-went away.”
+“While the man was traveling, he was attacked by a group of robbers.
+They took everything he had and beat him until he was almost dead. Then
+they went away.”
 
 “Soon after that, a Jewish priest happened to walk down that same road.
 When this religious leader saw the man who had been robbed and beaten,
@@ -39,8 +39,8 @@ hotel where he took care of him.”
 
 “The next day, the Samaritan needed to continue his journey. He gave the
 person in charge of the hotel some money and said, ‘Take care of him,
-and if any extra money is spent, I will repay those expenses when I
-return.’”
+and if you spend any more money than this, I will repay those expenses
+when I return.’”
 
 Then Jesus asked the lawyer, “Which one of the three men do you think
 was a neighbor to the man who was robbed and beaten?” The lawyer

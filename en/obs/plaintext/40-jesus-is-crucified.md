@@ -4,10 +4,10 @@
 After mocking Jesus, the soldiers led him away to be crucified. They
 made him carry his own cross.
 
-They came to a place called “The Skull” and nailed his arms and feet to
-the cross. But Jesus said, “Father, forgive them, because they do not
-know what they are doing.” Pilate commanded that a sign be put above
-Jesus’ head that read, “King of the Jews.”
+The soldiers brought Jesus to a place called “The Skull” and nailed his
+arms and feet to the cross. But Jesus said, “Father, forgive them,
+because they do not know what they are doing.” Pilate commanded that a
+sign be put above Jesus’ head that read, “King of the Jews.”
 
 The soldiers gambled for Jesus’ clothing. When they did this, they
 fulfilled a prophecy which said, “They divided my garments among them,

@@ -1,4 +1,4 @@
-32. Jesus Heals a Demon-Possessed Man & A Sick Woman
+32. Jesus Heals a Demon-Possessed Man & a Sick Woman
 ====================================================
 
 One day, Jesus and his disciples crossed the Sea of Galilee to the
@@ -10,7 +10,7 @@ to Jesus.
 This man was so strong that nobody could hold him down. People had even
 used chains to lock him up, but he kept breaking them.
 
-He lived among the tombs in the area. Day and night this man would
+The man lived among the tombs in the area. Day and night this man would
 scream. He wore no clothes and cut himself repeatedly with stones.
 
 When the man came to Jesus, he fell on his knees in front of him. Jesus
@@ -40,7 +40,7 @@ the boat and prepared to leave. The man who had been healed begged to go
 along with Jesus.
 
 But Jesus said to him, “Go home and tell your friends and family how
-much God has done for you and how He has had mercy on you.”
+much God has done for you and how he has had mercy on you.”
 
 So the man went away and told everyone about what Jesus had done for
 him. Everyone who heard his story was filled with wonder and amazement.

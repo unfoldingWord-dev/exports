@@ -12,7 +12,7 @@ praising God. The people in the Temple were amazed.
 
 A crowd quickly formed. Peter said to them, “Why are you amazed that
 this man is healed? It was not through our own power or goodness that he
-was healed, but by faith in the name of Jesus.”
+was healed, but by faith in Jesus.”
 
 “You demanded that Jesus be killed. You killed the author of life, but
 God raised him from the dead. This is how God fulfilled the prophecies
@@ -27,10 +27,10 @@ to 5,000 men, plus women and children.
 The next day, the Jewish leaders brought Peter and John before the high
 priest and his family. They asked them, “By what power did you do this?”
 
-Peter responded, “It is by the name of Jesus the Messiah that we healed
+Peter responded, “It is by the power of Jesus the Messiah that we healed
 this man. You crucified him, but God raised him to life again! You
 rejected him, but there is no other way to be saved except through the
-name of Jesus!”
+power of Jesus!”
 
 The leaders were shocked because they could see that these men were
 common men who were uneducated. They also realized that these men had

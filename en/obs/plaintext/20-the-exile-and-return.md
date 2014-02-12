@@ -2,12 +2,12 @@
 ========================
 
 The nations of Israel and Judah both sinned against God. They broke the
-Covenant that God had made with them at Sinai. God sent His prophets to
-warn them to repent and worship Him again, but they refused to listen.
+Covenant that God had made with them at Sinai. God sent his prophets to
+warn them to repent and worship him again, but they refused to listen.
 
-So God punished both nations by allowing them to be destroyed. Israel
-was destroyed by the Assyrian Empire, a powerful, cruel nation. The
-Assyrians killed many Israelites, took away everything of value, and
+So God punished both nations by allowing their enemies to destroy them.
+Israel was destroyed by the Assyrian Empire, a powerful, cruel nation.
+The Assyrians killed many Israelites, took away everything of value, and
 burned much of the country.
 
 The Assyrians gathered all the leaders, the rich people, and the people
@@ -19,7 +19,7 @@ rebuilt the destroyed cities and married the Israelites who were left
 there. Their descendants were called Samaritans.
 
 The people in the kingdom of Judah saw how God had punished the kingdom
-of Israel for not believing and obeying Him. But they still worshiped
+of Israel for not believing and obeying him. But they still worshiped
 idols and the gods of the Canaanites. God sent prophets to warn them,
 but they refused to listen.
 
@@ -37,13 +37,14 @@ the king’s sons in front of him and then made him blind. After that,
 they took the king away to die in prison in Babylon.
 
 Nebuchadnezzar and his army took all the people of Judah to Babylon,
-leaving only the poorest people behind to plant the fields. This is
-called the Exile.
+leaving only the poorest people behind to plant the fields. This period
+of time when God's people could not live in the Promised Land is called
+the Exile.
 
 Even though the Exile was punishment for their sin, God did not forget
-His people or His promises. God watched over His people and spoke to
-them through His prophets. He promised that, after seventy years, they
-would return to the Promised Land again.
+his people or his promises. God continued to watch over his people and
+speak to them through his prophets. He promised that, after seventy
+years, they would return to the Promised Land again.
 
 About seventy years later, Cyrus, the king of the Persians, defeated
 Babylon. The Persians were a strong but merciful people. The Israelites
@@ -56,9 +57,9 @@ return to Judah could go. He even gave them money to rebuild the Temple!
 After seventy years in exile, a small group of Jews returned to
 Jerusalem.
 
-When they arrived, they rebuilt the Temple and the wall around the city
-of Jerusalem. Although they were still ruled by other people, they lived
-in the Promised Land again and worshiped at the Temple.
+When the people arrived in Jerusalem, they rebuilt the Temple and the
+wall around the city. Although they were still ruled by other people,
+they lived in the Promised Land again and worshiped at the Temple.
 
 *A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10;
 Nehemiah 1-13*

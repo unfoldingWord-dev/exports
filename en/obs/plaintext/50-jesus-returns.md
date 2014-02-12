@@ -30,10 +30,10 @@ with the wheat, and then he went away.”
 planted good seed in that field. Why are there weeds in it?’ The master
 answered, ‘An enemy has planted them.’”
 
-“They responded, ‘Should we pull out the weeds?’ The master said, ‘No.
-If you do that, you will pull out some of the wheat as well. Wait until
-the harvest and then gather the weeds into piles to be burned, but bring
-the wheat into my barn.’”
+“The workers responded, ‘Should we pull out the weeds?’ The master said,
+‘No. If you do that, you will pull out some of the wheat as well. Wait
+until the harvest and then gather the weeds into piles to be burned, but
+bring the wheat into my barn.’”
 
 The disciples did not understand and said to Jesus, “Please explain this
 story to us.” Jesus said, “The man who planted the good seed is the
@@ -54,9 +54,9 @@ same way that he left—with a physical body in the clouds. Jesus also
 promised that when he returns, all Christians who have died will rise
 from the dead and meet him in the air.
 
-The Christians who are still alive will then be caught up together with
-them in the air and all Christians will be with Jesus forever. Jesus
-will be with his people in perfect unity forever.
+The Christians who are still alive will then rise up together with them
+in the air and all Christians will be with Jesus forever. Jesus will be
+with his people in perfect unity forever.
 
 Christians will be given the crown of life. They will never experience
 the second death, which is hell. Instead, they will live forever with
@@ -69,12 +69,13 @@ worms that never die.
 
 Jesus will also completely destroy Satan and his kingdom and will throw
 him into the lake of fire where he will burn forever. Death also will be
-thrown into the lake of fire in hell.
+thrown into the lake of fire.
 
-Jesus will create a New Heaven and a New Earth. The universe will once
-again be perfect, as it was before Adam and Eve sinned.
+God cursed the universe because of Adam and Eve's sin and he will
+destroy it. Jesus will create a New Heaven and a New Earth that will be
+perfect.
 
-And Jesus will reign forever and ever. He will wipe away every tear and
+Jesus will reign forever and ever. He will wipe away every tear and
 there will be no more death, suffering, sadness, crying, evil, or pain.
 He will rule his Kingdom with peace and justice, and he will be with his
 people forever.

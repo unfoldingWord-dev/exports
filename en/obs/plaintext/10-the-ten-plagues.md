@@ -7,33 +7,34 @@ Instead of letting the Israelites go free, he made their work even
 harder!
 
 Pharaoh kept refusing to let the people go, so God sent ten terrible
-disaster, called plagues, on Egypt. Through these plagues, God showed
-Pharaoh that He is more powerful than Pharaoh and all of Egypt’s gods.
+plagues, on Egypt. Through these plagues, God showed Pharaoh that he is
+more powerful than Pharaoh and all of Egypt’s gods.
 
 God turned the Nile River into blood, but Pharaoh still would not let
 the Israelites go.
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the
-frogs. But after all the frogs died, Pharaoh hardened his heart and
+Then God sent frogs all over Egypt. Pharaoh begged Moses to take away
+the frogs. But after all the frogs died, Pharaoh hardened his heart and
 would not let the Israelites go.
 
-So God sent a plague of gnats. Then He sent a plague of flies. Pharaoh
+So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh
 called Moses and Aaron and told them they could leave if they stopped
 the plague. Moses prayed, and God removed all the flies from Egypt, but
 Pharaoh hardened his heart and would not let the people go.
 
 Next God sent a sickness to kill all the farm animals that belonged to
-the Egyptians. Pharaoh’s heart was hardened, and he would not let the
-Israelites go.
+the Egyptians. But Pharaoh’s heart was hardened, and he would not let
+the Israelites go.
 
 Then God told Moses to throw ashes into the air in front of Pharaoh.
 When he did, painful skin sores appeared on the Egyptians, but not on
 the Israelites. God hardened Pharaoh's heart, and Pharaoh would not let
 the Israelites go free.
 
-After that, God sent hail that destroyed the crops in Egypt and killed
-anybody who went outside. Pharaoh called Moses and Aaron and told them,
-“I have sinned. You may go.” So Moses prayed, and the hail stopped.
+After that, God sent hail that destroyed much of the crops in Egypt and
+killed anybody who went outside. Pharaoh called Moses and Aaron and told
+them, “I have sinned. You may go.” So Moses prayed, and the hail
+stopped.
 
 But Pharaoh sinned again and hardened his heart and would not let the
 Israelites go.

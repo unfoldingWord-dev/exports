@@ -16,13 +16,14 @@ killed, but would rise again on the third day. When they arrived at the
 town where they were going, it was almost night.
 
 The two men invited Jesus to stay with them, so he did. Before they ate,
-Jesus picked up a loaf of bread, thanked God for it, then broke it.
-Suddenly, their eyes were opened, and they recognized that he was Jesus.
-At that moment, he disappeared.
+Jesus picked up a loaf of bread, thanked God for it, and then broke it.
+Suddenly, they recognized that he was Jesus. At that moment, he
+disappeared.
 
 The two men said to each other, “Our hearts were burning when he
-explained God’s Word to us!” Immediately, they returned to Jerusalem and
-told the disciples, “Jesus is alive! We have seen him!”
+explained God’s Word to us!” Immediately, they went back to Jerusalem.
+When they arrived, they told the disciples, “Jesus is alive! We have
+seen him!”
 
 Suddenly, Jesus appeared! The disciples thought he was a ghost, but
 Jesus said, “Peace to you! Why are you afraid and doubting? Look at my

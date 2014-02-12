@@ -24,10 +24,10 @@ But Jesus said to them, “You give them something to eat!” The disciples
 responded, “How can we do that? We only have five loaves of bread and
 two fish.”
 
-Jesus called the crowd to him and told them to sit down in groups on the
-grass.
+Jesus called the crowd to him and told his disciples to have them sit
+down on the grass, in groups of fifty people each.
 
-Then he took the five loaves of bread and the two fish, looked up to
+Then Jesus took the five loaves of bread and the two fish, looked up to
 heaven, and blessed the food.
 
 Jesus then started breaking the bread and fish. He gave the pieces to

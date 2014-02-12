@@ -7,12 +7,12 @@ Jesus heard this news, he said, “This sickness will not end in death,
 but it will bring glory to God.” Jesus loved his friends, so he waited
 where he was for two days.
 
-Then he said to his disciples, “Let’s go back to Judea.” “But Teacher,”
-the disciples answered, “Just a short time ago the people there wanted
-to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I
-must wake him.”
+Then Jesus said to his disciples, “Let’s go back to Judea.” “But
+Teacher,” the disciples answered, “Just a short time ago the people
+there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen
+asleep, and I must wake him.”
 
-His disciples replied, “Master, if Lazarus is sleeping, he will get
+Jesus' disciples replied, “Master, if Lazarus is sleeping, he will get
 better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am
 glad we were not there when he died, for now you will see amazing things
 so that you may believe.”
@@ -20,7 +20,7 @@ so that you may believe.”
 When Jesus got there, Lazarus had already been dead for four days.
 Martha went out to meet Jesus and said, “Master, if only you had been
 here, my brother would not have died. But I believe God will give you
-whatever you ask from Him.”
+whatever you ask from him.”
 
 Jesus replied, “I am the Resurrection and the Life. Whoever believes in
 me will live, even though he dies. Everyone who believes in me will
@@ -39,14 +39,14 @@ said, “He has been dead for four days. There will be a bad smell.”
 Jesus responded, “Did I not tell you that you would see God’s glory if
 you believe?” So they rolled the stone away.
 
-Then Jesus looked up to heaven and said, “Father, thank You for hearing
-me. I know You always listen to me, but I say this for the sake of all
-these people standing here, so that they will believe You sent me.” Then
+Then Jesus looked up to heaven and said, “Father, thank you for hearing
+me. I know you always listen to me, but I say this for the sake of all
+these people standing here, so that they will believe you sent me.” Then
 Jesus shouted, “Lazarus, come out!”
 
-And Lazarus did! He was still wrapped up in grave clothes. Jesus told
-them, “Help him get out of those grave clothes and release him!” Many of
-the Jews believed in Jesus because of this miracle.
+And Lazarus came out! He was still wrapped up in grave clothes. Jesus
+told them, “Help him get out of those grave clothes and release him!”
+Many of the Jews believed in Jesus because of this miracle.
 
 But the religious leaders of the Jews were jealous, so they gathered
 together to plan how they could kill Jesus and Lazarus.

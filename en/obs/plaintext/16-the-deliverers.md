@@ -3,8 +3,9 @@
 
 After Joshua died, the Israelites disobeyed God and did not drive out
 the rest of the Canaanites or obey God’s laws. The Israelites began to
-worship the Canaanite gods instead of the One True God. The Israelites
-had no king, so everyone did what they thought was right for them.
+worship the Canaanite gods instead of Yahweh, the true God. The
+Israelites had no king to lead them, so everyone did what they thought
+was right for them.
 
 As a result of this disobedience, God punished the Israelites by
 allowing them to be defeated by their enemies. These enemies stole from
@@ -14,15 +15,15 @@ many years, the Israelites repented and asked God to rescue them.
 Then God provided a deliverer who rescued them from their enemies and
 brought peace to the land. But then the people forgot about God and
 started worshiping idols again. So God allowed the Midianites, a nearby
-enemy tribe, to defeat them.
+enemy people group, to defeat them.
 
-They took all of the Israelites’ crops for seven years. The Israelites
-were so scared, they hid in caves so the Midianites would not find them.
-Finally, they cried out to God to save them.
+The Midianites took all of the Israelites’ crops for seven years. The
+Israelites were so scared that they hid in caves so the Midianites would
+not find them. Finally, they cried out to God to save them.
 
 One day, a man named Gideon was secretly harvesting grain so the
-Midianites would not steal it. The angel of God came to Gideon and said,
-“God is with you, mighty warrior. Go and save Israel from the
+Midianites would not steal it. The angel of Yahweh came to Gideon and
+said, “God is with you, mighty warrior. Go and save Israel from the
 Midianites.”
 
 God told Gideon to tear down his father’s idol. Gideon was afraid of the
@@ -33,17 +34,17 @@ and made a sacrifice to God.
 The next morning the people saw that the idol had been torn down, and
 they were very angry. They went to Gideon’s house to kill him, but
 Gideon’s father said, “Why are you trying to help your gods? If they are
-gods, let them protect themselves!” So Gideon was saved.
+gods, let them protect themselves!” So he saved Gideon.
 
 Then the Midianites came again to steal from the Israelites. There were
 so many of them that they could not be counted. Gideon called the
 Israelites together to fight them. Gideon asked God for two signs so he
 could be sure that God would use him to save Israel.
 
-First, he laid a cloth on the ground and asked God to let the morning
-dew fall only on the cloth and not on the ground. God did that. The next
-night, he asked that the ground be wet but the cloth dry. God did that
-too.
+First, Gideon laid a cloth on the ground and asked God to let the
+morning dew fall only on the cloth and not on the ground. God did that.
+The next night, he asked that the ground be wet but the cloth dry. God
+did that too.
 
 32,000 Israelite soldiers came to Gideon, but God told him this was too
 many. So Gideon sent home 22,000 who were too scared to fight. God told
@@ -58,12 +59,12 @@ defeat Midian!” Gideon worshiped God.
 
 Then Gideon returned to his soldiers and gave each of them a horn, a
 clay pot, and a torch. They surrounded the place where the Midianites
-were sleeping. The 300 men had the torches in the pots so they could not
-be seen.
+were sleeping. The 300 men had the torches in the pots so the Midianites
+could not see them.
 
-Then, at the same time, they all broke the pots that were hiding the
-torches. They blew their horns and shouted, “A sword for God and for
-Gideon!”
+Then, at the same time, Gideon's soldiers all broke the pots that were
+hiding the torches. They blew their horns and shouted, “A sword for God
+and for Gideon!”
 
 God confused the Midianites, so that they started attacking and killing
 each other. Immediately, the rest of the Israelites were called from
@@ -77,17 +78,18 @@ taken from the enemy. Gideon received a lot of money.
 
 Then Gideon did a foolish thing. He made an idol with the money, and the
 people turned away from God again. They started worshiping Gideon’s
-idol.
+idol. God punished Israel again for worshiping idols. Their enemies
+defeated them. They finally asked God for help, and God sent them
+another deliverer.
 
-God punished Israel again for worshiping idols. Their enemies defeated
-them. They finally asked God for help, and God sent them another
-deliverer. This pattern of sin, punishment, repentance, and deliverance
-was repeated many times. God sent many deliverers who saved Israel from
-their enemies.
+This pattern repeated many times: the Israelites would sin, God would
+punish them, they would repent, and God would save them. Over many
+years, God sent many deliverers who saved the Israelites from their
+enemies.
 
 Finally, the people asked God for a king like all the other nations had.
 They wanted a king who was tall, strong, and could lead them into
-battle. God did not like this request, but He gave them what they
+battle. God did not like this request, but he gave them what they
 wanted.
 
 *A Bible story from: Judges 1-3; 6-8*

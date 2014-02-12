@@ -22,13 +22,13 @@ wonderful works of God.
 Some accused the disciples of being drunk, but Peter stood up and said,
 “Listen to me! These people are not drunk! This is a fulfillment of the
 prophecy made by the prophet Joel which says, ‘In the last days, I will
-pour out My Spirit.’”
+pour out my Spirit.’”
 
 “Men of Israel, Jesus was a man who did many mighty signs and wonders by
 the power of God, as you have seen and already know. You crucified him!”
 
 “But God raised him to life again to fulfill the prophecy which says,
-‘You will not let Your Holy One rot in the grave.’ God raised this Jesus
+‘You will not let your Holy One rot in the grave.’ God raised this Jesus
 from the dead. We are witnesses.”
 
 “Jesus is now exalted to the right hand of God the Father. And the
@@ -36,7 +36,7 @@ Father has sent the promised Holy Spirit which you are seeing and
 hearing.”
 
 “Know for certain that God has made this Jesus, the one you crucified,
-both Master and Messiah!”
+both Lord and Messiah!”
 
 The people listening to Peter were deeply moved and asked, “Brothers,
 what should we do?”
@@ -46,11 +46,12 @@ Jesus Christ for the forgiveness of sins, and you will receive the gift
 of the Holy Spirit.”
 
 About 3,000 people believed what Peter said. They were baptized and were
-added to the people of God, which is the Church.
+added to the people of God, which is the Church. The people who believed
+in Jesus became known as Christians.
 
 The believers devoted themselves to the disciples’ teaching, fellowship,
 eating together, and prayer. They all met together and shared everything
-they had. They praised God and were well received by those who were not
-Christians.
+they had. They praised God and even non-believers thought well of them.
+Every day, more people became Christians.
 
 *A Bible story from: Acts 2*

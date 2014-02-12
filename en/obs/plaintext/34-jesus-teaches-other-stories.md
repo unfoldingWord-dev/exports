@@ -5,8 +5,9 @@ Jesus told many other stories about the Kingdom of God. He said, “The
 Kingdom of God is like a mustard seed that a man planted in his field.
 When it is a seed, it is the smallest seed of all.”
 
-“But when it has grown, it is the largest of all garden plants, big
-enough that even the birds come and make nests in its branches.”
+“But when the mustard seed has grown, it is the largest of all garden
+plants, big enough that even the birds come and make nests in its
+branches.”
 
 Jesus told another story, “The Kingdom of God is like yeast that a woman
 mixed into some bread dough until it spread all the way through.”
@@ -16,7 +17,7 @@ found and then buried again. In his joy, he went and sold everything he
 had and bought that field.”
 
 “The Kingdom of God is also like a pearl merchant who was looking for
-perfect pearls. When he found one of great price, he sold all that he
+perfect pearls. When he found one of great value, he sold all that he
 had and bought it.”
 
 Then Jesus told a story about people who trust in their own good deeds

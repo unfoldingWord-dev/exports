@@ -11,21 +11,22 @@ God promised Abraham that through him all people groups of the world
 would be blessed. This blessing was the coming Messiah who would one day
 provide the way of salvation for all people groups.
 
-God promised Moses that He would raise up another prophet like Moses.
+God promised Moses that he would raise up another prophet like Moses.
 This was another promise about the coming Messiah.
 
 God promised David that the Messiah would be one of David’s own
 descendants.
 
-Through the prophet Jeremiah, God promised that He would make a New
+Through the prophet Jeremiah, God promised that he would make a New
 Covenant, but not like God’s Covenant with Israel. In the New Covenant,
-God would write His law on the people’s hearts, the people would know
-God, they would be His people, and God would forgive their sins. The
+God would write his law on the people’s hearts, the people would know
+God, they would be his people, and God would forgive their sins. The
 Messiah would start the New Covenant.
 
-The coming Messiah would be a prophet, a priest, and a king. A prophet
-is a person who hears the words of God and then proclaims God’s words to
-the people. The coming Messiah would be the perfect prophet.
+God's prophets also said that the coming Messiah would be a prophet, a
+priest, and a king. A prophet is a person who hears the words of God and
+then proclaims God’s words to the people. The coming Messiah would be
+the perfect prophet.
 
 A priest is someone who makes sacrifices to God on behalf of the people
 to take away their sins. Priests also pray to God for the people. The
@@ -37,10 +38,10 @@ coming Messiah would be the perfect king who would sit on the throne of
 his ancestor David, who would reign over the whole world forever, and
 who would judge honestly and make the right decision every time.
 
-God's prophets predicted many things about the coming Messiah. Malachi
-foretold that a great prophet would come before the Messiah came. Isaiah
-prophesied that the Messiah would be born from a virgin. Micah said that
-he would be born in the town of Bethlehem.
+God's prophets predicted many other things about the coming Messiah.
+Malachi foretold that a great prophet would come before the Messiah
+came. Isaiah prophesied that the Messiah would be born from a virgin.
+Micah said that he would be born in the town of Bethlehem.
 
 Isaiah said he would live in Galilee, comfort the broken-hearted, and
 proclaim freedom to captives and release to prisoners. He also predicted
@@ -48,7 +49,7 @@ that the Messiah would heal sick people, including those who could not
 hear, see, speak, or walk.
 
 Isaiah prophesied that the Messiah would be hated without reason and
-rejected. Other prophets foretold that the those who killed the Messiah
+rejected. Other prophets foretold that those who killed the Messiah
 would gamble for his clothes and he would be betrayed by a friend.
 Zechariah foretold that the friend would be paid thirty pieces of silver
 for betraying him.
@@ -64,7 +65,7 @@ Messiah.
 
 Not only would the Messiah die, but the prophets foretold that God would
 raise him from the dead. Through the Messiah’s death and resurrection,
-God would complete His plan of salvation and start the New Covenant.
+God would complete his plan of salvation and start the New Covenant.
 
 God showed the prophets many things about the coming Messiah, but the
 Messiah had not come yet. More than 400 years after the last of these

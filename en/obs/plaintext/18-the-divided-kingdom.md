@@ -8,16 +8,16 @@ very wealthy.
 
 In Jerusalem, Solomon built the Temple for which his father David had
 planned and gathered materials. Instead of the Tent of Meeting, people
-now worshiped God and offered sacrifices to Him in the Temple. God came
-and was present in the Temple, and He lived there with His people.
+now worshiped God and offered sacrifices to him in the Temple. God came
+and was present in the Temple, and he lived there with his people.
 
 But Solomon loved women from other countries. He disobeyed God by
 marrying many women, almost 1,000 of them! Many of these women came from
 foreign countries and brought their gods with them and worshiped them.
-When Solomon was old, he worshiped their gods.
+When Solomon was old, he also worshiped their gods.
 
 God was angry with Solomon and, as a punishment for Solomon’s
-unfaithfulness, He promised to divide the kingdom of Israel in two after
+unfaithfulness, he promised to divide the kingdom of Israel in two after
 Solomon’s death.
 
 After Solomon died, his son, Rehoboam, became king. Rehoboam was a
@@ -30,11 +30,11 @@ Solomon made you work hard, but I will make you work harder than he did,
 and I will punish you worse than he did.”
 
 Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes
-remained faithful to him. These two tribes were called the kingdom of
-Judah.
+remained faithful to him. These two tribes became the kingdom of Judah.
 
 The other ten tribes that rebelled against Rehoboam made a man named
-Jeroboam their king. They were called the kingdom of Israel.
+Jeroboam their king. They set up their kingdom in the northern part of
+the land and were called the kingdom of Israel.
 
 Jeroboam rebelled against God and caused the people to sin. He built two
 idols for his people to worship instead of worshiping God at the Temple

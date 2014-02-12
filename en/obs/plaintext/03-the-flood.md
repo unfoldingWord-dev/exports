@@ -27,7 +27,7 @@ the boat—eight people in all.
 God sent a male and a female of every animal and bird to Noah so they
 could go into the boat and be kept safe during the flood. God sent seven
 males and seven females of every type of animal which could be used for
-sacrifices. When they were all in the boat, God Himself closed the door.
+sacrifices. When they were all in the boat, God himself closed the door.
 
 Then it began to rain, and rain, and rain. It rained for forty days and
 forty nights without stopping! Water also came gushing up out of the
@@ -35,7 +35,7 @@ earth. Everything in the whole world was covered with water, even the
 highest mountains.
 
 Everything that lived on the dry land died, except the people and
-animals who were in the boat. The boat floated on the water and
+animals that were in the boat. The boat floated on the water and
 everything inside the boat was kept safe.
 
 After the rains stopped, the boat floated on the water for five months,
@@ -59,7 +59,7 @@ Two months later God said to Noah, “You and your family and all the
 animals may leave the boat now. Have many children and grandchildren and
 fill the earth.” So Noah and his family left the boat.
 
-After he got off the boat, Noah built an altar and sacrificed some of
+After Noah got off the boat, he built an altar and sacrificed some of
 each kind of animal which could be used for a sacrifice. God was happy
 with the sacrifice and blessed Noah and his family.
 
@@ -67,8 +67,8 @@ God said, “I promise I will never again curse the ground because of
 humans or destroy the world with a flood, even though humans are sinful
 from their youth.”
 
-God then made the first rainbow as a sign of His promise. Every time the
-rainbow appeared in the sky, God would remember what He promised and so
-would His people.
+God then made the first rainbow as a sign of his promise. Every time the
+rainbow appeared in the sky, God would remember what he promised and so
+would his people.
 
 *A Bible story from: Genesis 6-8*

@@ -14,8 +14,8 @@ So Joseph married her and took her home as his wife, but he did not
 sleep with her until she had given birth.
 
 About the time Mary was to give birth, the Roman government told
-everyone to go to the town of their ancestors for a census. Mary and
-Joseph had to make a long journey from where they lived in Nazareth to
+everyone to go to the town of their ancestors for a census. Joseph and
+Mary had to make a long journey from where they lived in Nazareth to
 Bethlehem because their ancestor was David whose hometown was Bethlehem.
 
 When they arrived in Bethlehem, there was no place to stay. The only
@@ -23,20 +23,20 @@ room they could find was a place where animals stayed. The baby was born
 there and his mother laid him in a feeding trough, since they did not
 have a bed for him. They named him Jesus.
 
-That night, there were some shepherds in a nearby field watching their
+That night, there were some shepherds in a nearby field guarding their
 flocks. Suddenly, a shining angel appeared to them, and they were
 terrified. The angel said, “Do not be afraid, because I have some good
-news for you. The Messiah has been born!”
+news for you. The Messiah, the Master, has been born in Bethlehem!”
 
 “Go search for the baby, and you will find him wrapped in pieces of
-cloth and lying in a manger.” Suddenly, the skies were filled with
-angels singing and praising God, saying, “Glory to God in heaven and
-peace on earth to the people He favors!”
+cloth and lying in a feeding trough.” Suddenly, the skies were filled
+with angels praising God, saying, “Glory to God in heaven and peace on
+earth to the people he favors!”
 
 When the shepherds arrived at the place where Jesus was, they found him
-lying in a manger, just as the angel had told them. They were very
-excited. Mary was very happy, too. The shepherds returned to the fields,
-praising God for all they had heard and seen.
+lying in a feeding trough, just as the angel had told them. They were
+very excited. Mary was very happy, too. The shepherds returned to the
+fields, praising God for all they had heard and seen.
 
 Some time later, wise men from countries far to the east saw an unusual
 star in the sky. They realized it meant a new king of the Jews was born.
