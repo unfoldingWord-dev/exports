@@ -193,5 +193,10 @@
     "date_modified": "20140125", 
     "language": "loe", 
     "string": "Saluan"
+  }, 
+  {
+    "date_modified": "20140212", 
+    "language": "tl", 
+    "string": "Wikang Tagalog"
   }
 ]
