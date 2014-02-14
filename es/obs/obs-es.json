@@ -5,7 +5,7 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "As\u00ed fue c\u00f3mo sucedi\u00f3 el principio de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Despu\u00e9s de crear Dios la tierra, \u00e9sta estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
+          "text": "As\u00ed fue c\u00f3mo sucedi\u00f3 el principio de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Despu\u00e9s de crear la tierra, esta estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
         }, 
         {
           "id": "01-02", 
@@ -15,12 +15,17 @@
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra. Hizo el cielo separando las aguas de arriba de las de abajo."
+          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra. Hizo el cielo separando las aguas de arriba de las aguas de abajo."
         }, 
         {
           "id": "01-04", 
           "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
-          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Dios vio que todo lo que hab\u00eda creado era bueno."
+          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Y vio Dios que lo que hab\u00eda creado era bueno."
+        }, 
+        {
+          "id": "01-04", 
+          "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
+          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Y vio Dios que lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-05", 
@@ -30,12 +35,17 @@
         {
           "id": "01-06", 
           "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
-          "text": "En el cuarto d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el sol, la luna y las estrellas. Dios los hizo para dar luz a la tierra y para diferenciar entre el d\u00eda y la noche, las estaciones y los a\u00f1os. Dios vio que lo que hab\u00eda creado era bueno."
+          "text": "En el cuarto d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el sol, la luna y las estrellas. Dios los hizo para dar luz a la tierra y para diferenciar entre el d\u00eda y la noche, las estaciones y los a\u00f1os. Y vio Dios que lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-07", 
           "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
           "text": "En el quinto d\u00eda, Dios habl\u00f3 e hizo todos los seres que nadan en el agua y todas las aves. Y vio Dios que era bueno, y los bendijo."
+        }, 
+        {
+          "id": "01-08", 
+          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
+          "text": "En el sexto d\u00eda de la creaci\u00f3n, Dios dijo: \"H\u00e1ganse todo tipo de animales terrestres!\" Y sucedi\u00f3 tal como Dios dijo. Unos eran animales de granja, otros se arrastraban por el suelo, y otros eran salvajes. Y vio Dios que era bueno."
         }, 
         {
           "id": "01-09", 
