@@ -5,22 +5,17 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "As\u00ed fue el comienzo de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Despu\u00e9s de crear Dios la tierra, \u00e9sta estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
+          "text": "As\u00ed fue c\u00f3mo sucedi\u00f3 el principio de todas las cosas. Dios cre\u00f3 el universo y todo lo que hay en \u00e9l en seis d\u00edas. Despu\u00e9s de crear Dios la tierra, \u00e9sta estaba oscura y vac\u00eda, y nada se hab\u00eda formado en ella. Pero el Esp\u00edritu de Dios estaba sobre el agua."
         }, 
         {
           "id": "01-02", 
           "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
-          "text": "Entonces Dios habl\u00f3 y dijo: \"H\u00e1gase la luz!\" Y se hizo la luz. Y vio Dios que la luz era buena y la llam\u00f3 \"d\u00eda\". La separ\u00f3 de las tinieblas, a las que  llam\u00f3 \"noche\". Dios cre\u00f3 la luz en el primer d\u00eda de la creaci\u00f3n."
+          "text": "Entonces Dios habl\u00f3 y dijo: \"H\u00e1gase la luz!\" Y se hizo la luz. Y vio Dios que la luz era buena y la llam\u00f3 \"d\u00eda\". La separ\u00f3 de las tinieblas, a las que llam\u00f3 \"noche\". Dios cre\u00f3 la luz en el primer d\u00eda de la creaci\u00f3n."
         }, 
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "Hizo el cielo separando las aguas de arriba de las de abajo."
-        }, 
-        {
-          "id": "01-03", 
-          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "Hizo el cielo separando las aguas de arriba de las de abajo."
+          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra. Hizo el cielo separando las aguas de arriba de las de abajo."
         }, 
         {
           "id": "01-04", 
@@ -3265,6 +3260,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140117", 
+  "date_modified": "20140214", 
   "language": "es"
 }
