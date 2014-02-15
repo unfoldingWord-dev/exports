@@ -203,5 +203,20 @@
     "date_modified": "20140212", 
     "language": "slu", 
     "string": "Salaru"
+  }, 
+  {
+    "date_modified": "20140215", 
+    "language": "abs", 
+    "string": "Melayu Ambon"
+  }, 
+  {
+    "date_modified": "20140215", 
+    "language": "jmd", 
+    "string": "Yamdena"
+  }, 
+  {
+    "date_modified": "20140215", 
+    "language": "frd", 
+    "string": "Fordata"
   }
 ]
