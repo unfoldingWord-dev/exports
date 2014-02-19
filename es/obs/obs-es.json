@@ -102,12 +102,12 @@
         {
           "id": "02-01", 
           "img": "{{:en:obs:obs-02-01.jpg?nolink&640x360}}", 
-          "text": "Ad\u00e1n y su mujer viv\u00edan muy felices en el hermoso jard\u00edn que Dios hab\u00eda hecho para ellos. Ninguno de ellos llevaba ropa, pero no  sent\u00edan verg\u00fcenza, porque no hab\u00eda pecado en el mundo. Paseaban a menudo  por el jard\u00edn y hablaban con Dios."
+          "text": "Ad\u00e1n y su mujer viv\u00edan muy felices en el hermoso jard\u00edn que Dios hab\u00eda hecho para ellos. Ninguno de ellos llevaba ropa, pero no sent\u00edan verg\u00fcenza, porque no hab\u00eda pecado en el mundo. Paseaban a menudo por el jard\u00edn y hablaban con Dios."
         }, 
         {
           "id": "02-02", 
           "img": "{{:en:obs:obs-02-02.jpg?nolink&640x360}}", 
-          "text": "Pero en el jard\u00edn hab\u00eda una astuta serpiente. Le dijo a la mujer: \"\u00bfDe verdad te dijo Dios que no comieras del fruto de los \u00e1rboles del jard\u00edn?\"."
+          "text": "Pero en el jard\u00edn hab\u00eda una astuta serpiente. Le pregunt\u00f3 a la mujer: \"\u00bfDe verdad te dijo Dios que no comieras del fruto de los \u00e1rboles del jard\u00edn?\"."
         }, 
         {
           "id": "02-03", 
@@ -117,12 +117,12 @@
         {
           "id": "02-04", 
           "img": "{{:en:obs:obs-02-04.jpg?nolink&640x360}}", 
-          "text": "La serpiente respondi\u00f3: \"\u00a1Eso no es verdad!, No morir\u00e1s. Dios sabe que en cuanto la comas, entender\u00e1s las cosas tal como \u00c9l lo hace. Ser\u00e9is como Dios, conociendo el bien y el mal.\""
+          "text": "La serpiente respondi\u00f3: \"\u00a1Eso no es verdad!, No morir\u00e9is. Dios sabe que en cuanto la comas, entender\u00e1s las cosas tal como \u00c9l lo hace. Ser\u00e9is como Dios, conociendo el bien y el mal.\""
         }, 
         {
           "id": "02-05", 
           "img": "{{:en:obs:obs-02-05.jpg?nolink&640x360}}", 
-          "text": "La mujer vio que el fruto era bello y delicioso. Tambi\u00e9n quer\u00eda ser sabia, as\u00ed que  tom\u00f3 del fruto y lo comi\u00f3. Luego se volvi\u00f3 y dio tambi\u00e9n a su marido, que estaba con ella, y \u00e9l tambi\u00e9n comi\u00f3."
+          "text": "La mujer vio que el fruto era bello y delicioso. Tambi\u00e9n quer\u00eda ser sabia, as\u00ed que tom\u00f3 del fruto y lo comi\u00f3. Luego se volvi\u00f3 y dio tambi\u00e9n a su marido, que estaba con ella, y \u00e9l tambi\u00e9n comi\u00f3."
         }, 
         {
           "id": "02-06", 
@@ -132,7 +132,7 @@
         {
           "id": "02-07", 
           "img": "{{:en:obs:obs-02-07.jpg?nolink&640x360}}", 
-          "text": "Entonces, el hombre y su esposa escucharon el sonido de Dios paseando por el jard\u00edn. Ambos se escondieron de Dios. Entonces Dios llam\u00f3 al hombre: \"\u00bfD\u00f3nde est\u00e1s?\" Ad\u00e1n respondi\u00f3: \"He o\u00eddo que paseabas por el huerto, y tuve miedo, porque estaba desnudo. As\u00ed que  me escond\u00ed.\""
+          "text": "Entonces, el hombre y su esposa escucharon el sonido de Dios paseando por el jard\u00edn. Ambos se escondieron de Dios. Entonces Dios llam\u00f3 al hombre: \"\u00bfD\u00f3nde est\u00e1s?\" Ad\u00e1n respondi\u00f3: \"He o\u00eddo que paseabas por el huerto, y tuve miedo, porque estaba desnudo. As\u00ed que me escond\u00ed.\""
         }, 
         {
           "id": "02-08", 
@@ -157,7 +157,7 @@
         {
           "id": "02-12", 
           "img": "{{:en:obs:obs-02-12.jpg?nolink&640x360}}", 
-          "text": "Entonces dijo Dios: \"Ahora que los seres humanos han llegado a ser como nosotros, conociendo el bien y el mal, no deben  comer el fruto del \u00e1rbol de la vida y vivir para siempre.\" Dios sac\u00f3 a Ad\u00e1n y Eva del hermoso jard\u00edn y puso a grandes y poderosos \u00e1ngeles en la entrada del jard\u00edn para evitar que alguien comiera del fruto del \u00e1rbol de la vida."
+          "text": "Entonces dijo Dios: \"Ahora que los seres humanos han llegado a ser como nosotros, conociendo el bien y el mal, no deben comer el fruto del \u00e1rbol de la vida y vivir para siempre.\" Dios sac\u00f3 a Ad\u00e1n y Eva del hermoso jard\u00edn y puso a grandes y poderosos \u00e1ngeles en la entrada del jard\u00edn para evitar que alguien comiera del fruto del \u00e1rbol de la vida."
         }
       ], 
       "number": "02", 
@@ -3270,6 +3270,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140214", 
+  "date_modified": "20140219", 
   "language": "es"
 }
