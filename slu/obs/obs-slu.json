@@ -5,7 +5,12 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
+          "text": "Khyehyeike bonyo Hulasokwe yala laitke kyor lasmyerke. Ti lasmyerke khaha neke lea kika namit-namit ti, de knani a nggora, ode kelerakokke kkyahat eta tasi malosy-masir ne bo, ode Hulasokwe Memeanke knyem ti de knyem ma ti tasi desy."
+        }, 
+        {
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "Khyehyeike bonyo Hulasokwe yala laitke kyor lasmyerke. Ti lasmyerke khaha neke lea kika namit-namit ti, de knani a nggora, ode kelerakokke kkyahat eta tasi malosy-masir ne bo, ode Hulasokwe Memeanke knyem ti de knyem ma ti tasi desy."
         }, 
         {
           "id": "01-02", 
@@ -75,7 +80,7 @@
         {
           "id": "01-15", 
           "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
-          "text": "God made man and woman in his own image. He blessed them and told them, \u201cHave many children and grandchildren and fill the earth!\u201d  And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation."
+          "text": "God made man and woman in his own image. He blessed them and told them, \u201cHave many children and grandchildren and fill the earth!\u201d And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation."
         }, 
         {
           "id": "01-16", 
@@ -85,7 +90,7 @@
       ], 
       "number": "01", 
       "ref": "A Bible story from: Genesis 1-2", 
-      "title": "1. The Creation"
+      "title": "1. Hulasokwe yala lait o lasmyer"
     }, 
     {
       "frames": [
@@ -3341,6 +3346,6 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140212", 
+  "date_modified": "20140220", 
   "language": "slu"
 }
