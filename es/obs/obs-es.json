@@ -504,12 +504,7 @@
         {
           "id": "08-09", 
           "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
-          "text": "As\u00ed que cuando llegaron los siete a\u00f1os de hambre, Jos\u00e9 vendi\u00f3"
-        }, 
-        {
-          "id": "08-09", 
-          "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
-          "text": "As\u00ed que cuando llegaron los siete a\u00f1os de hambre, Jos\u00e9 vendi\u00f3"
+          "text": "Jos\u00e9 le dijo a la gente que almacenaran grandes cantidades de alimento durante los siete a\u00f1os de buenas cosechas, . Luego Jos\u00e9 vendi\u00f3 el alimento a la gente cuando vinieron los siete a\u00f1os de hambre para que tuvieran lo suficiente para comer."
         }, 
         {
           "id": "08-10", 
@@ -519,7 +514,7 @@
         {
           "id": "08-11", 
           "img": "{{:en:obs:obs-08-11.jpg?nolink&640x360}}", 
-          "text": "Jacob envi\u00f3 a sus hijos a Egipto para que compraran comida. Cuando los hermanos estuvieron frente a Jos\u00e9 para comprar el alimento, no le reconocieron. Pero Jos\u00e9 si que les reconoci\u00f3 a ellos."
+          "text": "Jacob envi\u00f3 a sus hijos a Egipto para que compraran comida. Los hermanos no reconocieron a Jos\u00e9 cuando estuvieron frente a \u00e9l para comprar el alimento. Pero Jos\u00e9 si que les reconoci\u00f3 a ellos."
         }, 
         {
           "id": "08-12", 
@@ -529,7 +524,7 @@
         {
           "id": "08-13", 
           "img": "{{:en:obs:obs-08-13.jpg?nolink&640x360}}", 
-          "text": "Cuando los hermanos regresaron a casa y le dijeron a Jacob que Jos\u00e9 estaba vivo todav\u00eda, se puso muy contento."
+          "text": "Cuando los hermanos regresaron a casa y le dijeron a su padre, Jacob, que Jos\u00e9 estaba vivo todav\u00eda, se puso muy contento."
         }, 
         {
           "id": "08-14", 
@@ -3280,6 +3275,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140219", 
+  "date_modified": "20140220", 
   "language": "es"
 }
