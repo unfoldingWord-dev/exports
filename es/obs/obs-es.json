@@ -633,12 +633,17 @@
         {
           "id": "10-01", 
           "img": "{{:en:obs:obs-10-01.jpg?nolink&640x360}}", 
-          "text": "Mois\u00e9s y Aaron fueron al Fara\u00f3n. Le dijeron: \u201cEsto es lo que el Dios de Israel dice \u2018!Deja ir a mi pueblo!\u2019\u201d El Fara\u00f3n se ri\u00f3 de ellos. !En vez de dejar a los Israelitas irse libres, les hizo trabajar m\u00e1s duro!"
+          "text": "Mois\u00e9s y Aaron fueron al Fara\u00f3n. Dijeron: \u201cEsto es lo que el Dios de Israel dice \u2018!Deja ir a mi pueblo!\u2019\u201d El Fara\u00f3n no les escuch\u00f3. !En vez de dejar ir libres a los Israelitas, les hizo trabajar m\u00e1s duro!"
         }, 
         {
           "id": "10-02", 
           "img": "{{:en:obs:obs-10-02.jpg?nolink&640x360}}", 
-          "text": "Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez plagas a Egipto. (Una plaga es un desastre terrible) Por medio de esas plagas, Dios le ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
+          "text": "Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez terribles plagas a Egipto. Por medio de esas plagas, Dios ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
+        }, 
+        {
+          "id": "10-02", 
+          "img": "{{:en:obs:obs-10-02.jpg?nolink&640x360}}", 
+          "text": "Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez terribles plagas a Egipto. Por medio de esas plagas, Dios ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
         }, 
         {
           "id": "10-03", 
@@ -648,7 +653,7 @@
         {
           "id": "10-04", 
           "img": "{{:en:obs:obs-10-04.jpg?nolink&640x360}}", 
-          "text": "Dios envi\u00f3 ranas por todo Egipto. Fara\u00f3n suplic\u00f3 a Mois\u00e9s que se llevara las ranas. Pero una vez las ranas murieron, Fara\u00f3n endureci\u00f3 su coraz\u00f3n y no dej\u00f3 irse a los Israelitas."
+          "text": "Entonces Dios envi\u00f3 ranas por todo Egipto. Fara\u00f3n suplic\u00f3 a Mois\u00e9s que se llevara las ranas. Pero una vez las ranas murieron, Fara\u00f3n endureci\u00f3 su coraz\u00f3n y no dej\u00f3 irse a los Israelitas."
         }, 
         {
           "id": "10-05", 
@@ -668,7 +673,7 @@
         {
           "id": "10-08", 
           "img": "{{:en:obs:obs-10-08.jpg?nolink&640x360}}", 
-          "text": "Despu\u00e9s Dios envi\u00f3 un granizo que destruy\u00f3 las cosechas de Egipto y mat\u00f3 a los que hab\u00edan salido. Fara\u00f3n llam\u00f3 a Mois\u00e9s y Aar\u00f3n y les dijo: \u201cHe pecado. Pod\u00e9is ir.\u201d Entonces Mois\u00e9s or\u00f3, y el granizo par\u00f3."
+          "text": "Despu\u00e9s de esto, Dios envi\u00f3 un granizo que destruy\u00f3 la mayor parte de las cosechas de Egipto y mat\u00f3 a los que hab\u00edan salido fuera. Fara\u00f3n llam\u00f3 a Mois\u00e9s y Aar\u00f3n y les dijo: \u201cHe pecado. Pod\u00e9is ir.\u201d Entonces Mois\u00e9s or\u00f3, y el granizo par\u00f3."
         }, 
         {
           "id": "10-09", 
@@ -688,7 +693,12 @@
         {
           "id": "10-12", 
           "img": "{{:en:obs:obs-10-12.jpg?nolink&640x360}}", 
-          "text": "Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, hubo una \u00faltima plaga que Dios ten\u00eda preparada. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
+          "text": "Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, Dios prepar\u00f3 una \u00faltima plaga. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
+        }, 
+        {
+          "id": "10-12", 
+          "img": "{{:en:obs:obs-10-12.jpg?nolink&640x360}}", 
+          "text": "Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, Dios prepar\u00f3 una \u00faltima plaga. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
         }
       ], 
       "number": "10", 
