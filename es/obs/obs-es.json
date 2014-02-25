@@ -1577,7 +1577,7 @@
         {
           "id": "22-01", 
           "img": "{{:en:obs:obs-22-01.jpg?nolink&640x360}}", 
-          "text": "M\u00e1s de 400 a\u00f1os despu\u00e9s de que el \u00faltimo profetas hablara a los jud\u00edos, un \u00e1ngel se le apareci\u00f3 a un viejo sacerdote llamado Zacar\u00edas. Era un hombre de Dios y su esposa El\u00edsabet, no pod\u00eda tener hijos."
+          "text": "Hab\u00edan pasado m\u00e1s de 400 a\u00f1os desde que Dios hab\u00eda hablado a su pueblo. Entonces un \u00e1ngel se le apareci\u00f3 a un viejo sacerdote llamado Zacar\u00edas. \u00c9l y su esponsa, Elisabeth, era gente de Dios, pero no pod\u00edan tener hijos."
         }, 
         {
           "id": "22-02", 
@@ -1592,12 +1592,17 @@
         {
           "id": "22-04", 
           "img": "{{:en:obs:obs-22-04.jpg?nolink&640x360}}", 
-          "text": "Cuando Elisabeth ten\u00eda seis meses de embarazo, el \u00e1ngel se le apareci\u00f3 a una familiar de Elisabeth llamada Mar\u00eda . Ella era virgen y estaba comprometida con un hombre llamado Jos\u00e9. El \u00e1ngel dijo: \u201cQuedar\u00e1s embarazada y dar\u00e1s a luz un hijo.\u201d"
+          "text": "Cuando Elisabeth llevaba seis meses embarazada, el \u00e1ngel mismo se le apareci\u00f3 a una familiar de Elisabeth llamada Mar\u00eda . Ella era virgen y estaba comprometida con un hombre llamado Jos\u00e9. El \u00e1ngel dijo: \u201cQuedar\u00e1s embarazada y dar\u00e1s a luz un hijo. Le pondr\u00e1s por nombre Jes\u00fas y \u00e9l ser\u00e1 el Mes\u00edas\u201d"
         }, 
         {
           "id": "22-05", 
           "img": "{{:en:obs:obs-22-05.jpg?nolink&640x360}}", 
-          "text": "El \u00e1ngel continu\u00f3: \u201cLe pondr\u00e1s por nombre Jes\u00fas. \u00a1\u00c9l ser\u00e1 el Mes\u00edas!\u201d Maria contest\u00f3: \u201c\u00bfC\u00f3mo puede ser eso, puesto que soy virgen?\u201d El angel le explic\u00f3: \u201cEl Esp\u00edritu Santo te cubrir\u00e1 y t\u00fa concebir\u00e1s. Por eso tu hijo ser\u00e1 llamado Hijo del Dios Alt\u00edsimo.\u201d"
+          "text": "Mar\u00eda crey\u00f3 y acept\u00f3 lo que el \u00e1ngel dijo."
+        }, 
+        {
+          "id": "22-05", 
+          "img": "{{:en:obs:obs-22-05.jpg?nolink&640x360}}", 
+          "text": "Mar\u00eda crey\u00f3 y acept\u00f3 lo que el \u00e1ngel dijo."
         }, 
         {
           "id": "22-06", 
@@ -1607,7 +1612,7 @@
         {
           "id": "22-07", 
           "img": "{{:en:obs:obs-22-07.jpg?nolink&640x360}}", 
-          "text": "Despu\u00e9s Elisabeth dio a luz a su beb\u00e9, le pusieron por nombre Juan, como el \u00e1ngel les hab\u00eda mandado. Entonces Dios permiti\u00f3 que Zacar\u00edas volviera a hablar. \u00c9l dijo: \u201c\u00a1Bendito sea Dios, porque se ha acordado de su pueblo! T\u00fa, hijo m\u00edo, ser\u00e1s llamado profeta del Alt\u00edsimo! \u00a1T\u00fa preparar\u00e1s el camino para el Mes\u00edas!\u201d"
+          "text": "Despu\u00e9s de que Elisabeth diera a luz a su beb\u00e9, le pusieron por nombre Juan, como el \u00e1ngel les hab\u00eda mandado. Entonces Dios permiti\u00f3 que Zacar\u00edas volviera a hablar. \u00c9l dijo: \u201c\u00a1Bendito sea Dios, porque se ha acordado de su pueblo! T\u00fa, hijo m\u00edo, ser\u00e1s llamado profeta del Alt\u00edsimo! \u00a1T\u00fa preparar\u00e1s el camino para el Mes\u00edas!\u201d"
         }
       ], 
       "number": "22", 
@@ -3300,6 +3305,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140221", 
+  "date_modified": "20140225", 
   "language": "es"
 }
