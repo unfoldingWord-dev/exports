@@ -218,5 +218,10 @@
     "date_modified": "20140215", 
     "language": "frd", 
     "string": "Fordata"
+  }, 
+  {
+    "date_modified": "20140225", 
+    "language": "nxl", 
+    "string": "Nuaulu"
   }
 ]
