@@ -5,7 +5,7 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "Foi assim que tudo come\u00e7ou. Deus criou o universo e tudo que nele h\u00e1 em seis dias. No in\u00edcio, a terra estava escura, vazia e nada havia sido formado ainda, mas o Esp\u00edrito de Deus se movia sobre as \u00e1guas."
+          "text": "Foi assim que tudo come\u00e7ou. Deus criou o universo e tudo que nele h\u00e1 em seis dias. No in\u00edcio, a terra estava escura, vazia e nada havia sido formado ainda e o Esp\u00edrito de Deus se movia sobre as \u00e1guas."
         }, 
         {
           "id": "01-02", 
@@ -3340,6 +3340,6 @@
       "title": "50. JESUS VOLTA"
     }
   ], 
-  "date_modified": "20140222", 
+  "date_modified": "20140303", 
   "language": "pt-br"
 }
