@@ -223,5 +223,15 @@
     "date_modified": "20140225", 
     "language": "nxl", 
     "string": "Nuaulu"
+  }, 
+  {
+    "date_modified": "20140312", 
+    "language": "lgg", 
+    "string": "Lugbarati"
+  }, 
+  {
+    "date_modified": "20140312", 
+    "language": "ln", 
+    "string": "Ling\u00e1la"
   }
 ]
