@@ -233,5 +233,10 @@
     "date_modified": "20140312", 
     "language": "ln", 
     "string": "Ling\u00e1la"
+  }, 
+  {
+    "date_modified": "20140327", 
+    "language": "pgg", 
+    "string": "Pangwali"
   }
 ]
