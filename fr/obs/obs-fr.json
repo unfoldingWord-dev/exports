@@ -178,7 +178,7 @@
         {
           "id": "03-01", 
           "img": "{{:en:obs:obs-03-01.jpg?nolink&640x360}}", 
-          "text": "After a long time, many people were living in the world. They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood."
+          "text": "Apr\u00e8s longtemps, beaucoup de monde vivait sur la terre. Ils \u00e9taient devenus tr\u00e8s m\u00e9chants et violents. La situation s\u2019est d\u00e9grad\u00e9 au point que Dieu a d\u00e9cid\u00e9 de d\u00e9truire le monde avec un d\u00e9luge \u00e9norme."
         }, 
         {
           "id": "03-02", 
@@ -3360,6 +3360,6 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140321", 
+  "date_modified": "20140402", 
   "language": "fr"
 }
