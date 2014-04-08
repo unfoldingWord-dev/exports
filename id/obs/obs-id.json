@@ -1582,12 +1582,74 @@
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "23-01", 
+          "img": "{{:en:obs:obs-23-01.jpg?nolink&640x360}}", 
+          "text": "Tetapi waktu Yusuf sedang memikirkan hal itu, datanglah malaikat Tuhan kepadanya dalam mimpi. ."
+        }, 
+        {
+          "id": "23-01", 
+          "img": "{{:en:obs:obs-23-01.jpg?nolink&640x360}}", 
+          "text": "Tetapi waktu Yusuf sedang memikirkan hal itu, datanglah malaikat Tuhan kepadanya dalam mimpi. ."
+        }, 
+        {
+          "id": "23-01", 
+          "img": "{{:en:obs:obs-23-01.jpg?nolink&640x360}}", 
+          "text": "Tetapi waktu Yusuf sedang memikirkan hal itu, datanglah malaikat Tuhan kepadanya dalam mimpi. ."
+        }, 
+        {
+          "id": "23-02", 
+          "img": "{{:en:obs:obs-23-02.jpg?nolink&640x360}}", 
+          "text": "So Joseph married her and took her home as his wife, but he did not sleep with her until she had given birth."
+        }, 
+        {
+          "id": "23-02", 
+          "img": "{{:en:obs:obs-23-02.jpg?nolink&640x360}}", 
+          "text": "So Joseph married her and took her home as his wife, but he did not sleep with her until she had given birth."
+        }, 
+        {
+          "id": "23-02", 
+          "img": "{{:en:obs:obs-23-02.jpg?nolink&640x360}}", 
+          "text": "So Joseph married her and took her home as his wife, but he did not sleep with her until she had given birth."
+        }, 
+        {
+          "id": "23-04", 
+          "img": "{{:en:obs:obs-23-04.jpg?nolink&640x360}}", 
+          "text": "About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem."
+        }, 
+        {
+          "id": "23-05", 
+          "img": "{{:en:obs:obs-23-05.jpg?nolink&640x360}}", 
+          "text": "When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus."
+        }, 
+        {
+          "id": "23-06", 
+          "img": "{{:en:obs:obs-23-06.jpg?nolink&640x360}}", 
+          "text": "That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, \u201cDo not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!\u201d"
+        }, 
+        {
+          "id": "23-07", 
+          "img": "{{:en:obs:obs-23-07.jpg?nolink&640x360}}", 
+          "text": "\u201cGo search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough.\u201d Suddenly, the skies were filled with angels praising God, saying, \u201cGlory to God in heaven and peace on earth to the people he favors!\u201d"
+        }, 
+        {
+          "id": "23-08", 
+          "img": "{{:en:obs:obs-23-08.jpg?nolink&640x360}}", 
+          "text": "When the shepherds arrived at the place where Jesus was, they found him lying in a feeding trough, just as the angel had told them. They were very excited. Mary was very happy, too. The shepherds returned to the fields, praising God for all they had heard and seen."
+        }, 
+        {
+          "id": "23-09", 
+          "img": "{{:en:obs:obs-23-09.jpg?nolink&640x360}}", 
+          "text": "Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews was born. So, they traveled a great distance to see this king. They came to Bethlehem and found the place where Jesus was living."
+        }, 
+        {
+          "id": "23-10", 
+          "img": "{{:en:obs:obs-23-10.jpg?nolink&640x360}}", 
+          "text": "When they saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home."
         }
       ], 
-      "number": "23"
+      "number": "23", 
+      "ref": "A Bible story from: Matthew 1; Luke 2", 
+      "title": "23. The Birth of Jesus"
     }, 
     {
       "frames": [
