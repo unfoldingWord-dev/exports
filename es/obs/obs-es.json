@@ -15,17 +15,12 @@
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra. Hizo el cielo separando las aguas de arriba de las aguas de abajo."
+          "text": "En el segundo d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el cielo sobre la tierra. Cre\u00f3 el cielo separando las aguas de arriba de las aguas de abajo."
         }, 
         {
           "id": "01-04", 
           "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
-          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Y vio Dios que lo que hab\u00eda creado era bueno."
-        }, 
-        {
-          "id": "01-04", 
-          "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
-          "text": "En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Y vio Dios que lo que hab\u00eda creado era bueno."
+          "text": "Dios vio que lo que todo lo que hab\u00eda creado era bueno. En el tercer d\u00eda, Dios habl\u00f3 y separ\u00f3 las aguas de la tierra seca. A lo seco llam\u00f3 \"tierra\", y a las aguas \"mares\". Y vio Dios que lo que hab\u00eda creado era bueno."
         }, 
         {
           "id": "01-05", 
@@ -80,12 +75,7 @@
         {
           "id": "01-15", 
           "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
-          "text": "Todo esto ocurri\u00f3 en el sexto d\u00eda de la creaci\u00f3n."
-        }, 
-        {
-          "id": "01-15", 
-          "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
-          "text": "Todo esto ocurri\u00f3 en el sexto d\u00eda de la creaci\u00f3n."
+          "text": "Dios hizo al hombre y a la mujer a su imagen. Los bendijo y les dijo, \"\u00a1Tened muchos hijos y nietos, y llenad la tierra!\". Y Dios vio que todo lo que hab\u00eda hecho era muy bueno, y se complaci\u00f3 con todo ello. Todo esto ocurri\u00f3 en el sexto d\u00eda de la creaci\u00f3n."
         }, 
         {
           "id": "01-16", 
@@ -3345,6 +3335,6 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140226", 
+  "date_modified": "20140417", 
   "language": "es"
 }
