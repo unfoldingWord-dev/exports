@@ -355,83 +355,12 @@
     {
       "frames": [
         {
-          "id": "08-01", 
-          "img": "{{:en:obs:obs-08-01.jpg?nolink&640x360}}", 
-          "text": "Joseph\u2019s brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler. When Joseph found his brothers, they kidnapped him and sold him to some slave traders."
-        }, 
-        {
-          "id": "08-02", 
-          "img": "{{:en:obs:obs-08-02.jpg?nolink&640x360}}", 
-          "text": "Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his older brothers who were far away, taking care of the herds."
-        }, 
-        {
-          "id": "08-03", 
-          "img": "{{:en:obs:obs-08-03.jpg?nolink&640x360}}", 
-          "text": "Before Joseph's brothers returned home, they tore Joseph\u2019s robe and dipped it in goat's blood. Then they showed the robe to their father so that he would think a wild animal had killed Joseph. Jacob was very sad."
-        }, 
-        {
-          "id": "08-04", 
-          "img": "{{:en:obs:obs-08-04.jpg?nolink&640x360}}", 
-          "text": "The slave traders took Joseph to Egypt. Egypt was a large, powerful country located along the Nile River. The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his master well, and God blessed Joseph."
-        }, 
-        {
-          "id": "08-05", 
-          "img": "{{:en:obs:obs-08-05.jpg?nolink&640x360}}", 
-          "text": "His master\u2019s wife tried to sleep with Joseph, but Joseph refused to sin against God in this way. She became angry and falsely accused Joseph so that he was arrested and sent to prison. Even in prison, Joseph remained faithful to God, and God blessed him."
-        }, 
-        {
-          "id": "08-06", 
-          "img": "{{:en:obs:obs-08-06.jpg?nolink&640x360}}", 
-          "text": "After two years, Joseph was still in prison, even though he was innocent. One night, the king of Egypt, who was called the Pharaoh, had two dreams that disturbed him greatly. None of his advisors could tell him the meaning of the dreams."
-        }, 
-        {
-          "id": "08-07", 
-          "img": "{{:en:obs:obs-08-07.jpg?nolink&640x360}}", 
-          "text": "God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the dreams for him and said, \u201cGod is going to send seven years of good harvests followed by seven years of famine.\u201d"
-        }, 
-        {
-          "id": "08-08", 
-          "img": "{{:en:obs:obs-08-08.jpg?nolink&640x360}}", 
-          "text": "Pharaoh was so impressed with Joseph that he made him the second most powerful man in all of Egypt!"
-        }, 
-        {
-          "id": "08-09", 
-          "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
-          "text": "Joseph told the people to store up large amounts of food during the seven years of good harvests. Then Joseph sold the food to the people when the seven years of famine came so they would have enough to eat."
-        }, 
-        {
-          "id": "08-10", 
-          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
-          "text": "The famine was severe not only in Egypt, but also in Canaan where Jacob and his family lived."
-        }, 
-        {
-          "id": "08-11", 
-          "img": "{{:en:obs:obs-08-11.jpg?nolink&640x360}}", 
-          "text": "So Jacob sent his sons to Egypt to buy food. The brothers did not recognize Joseph when they stood before him to buy food. But Joseph recognized them."
-        }, 
-        {
-          "id": "08-12", 
-          "img": "{{:en:obs:obs-08-12.jpg?nolink&640x360}}", 
-          "text": "After testing his brothers to see if they had changed, Joseph said to them, \u201cI am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.\u201d"
-        }, 
-        {
-          "id": "08-13", 
-          "img": "{{:en:obs:obs-08-13.jpg?nolink&640x360}}", 
-          "text": "When Joseph's brothers returned home and told their father, Jacob, that Joseph was still alive, he was very happy."
-        }, 
-        {
-          "id": "08-14", 
-          "img": "{{:en:obs:obs-08-14.jpg?nolink&640x360}}", 
-          "text": "Even though Jacob was an old man, he moved to Egypt with all of his family, and they all lived there. Before Jacob died, he blessed each of his sons."
-        }, 
-        {
-          "id": "08-15", 
-          "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
-          "text": "The covenant promises that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob\u2019s twelve sons and their families. The descendants of the twelve sons became the twelve tribes of Israel."
+          "id": null, 
+          "img": null, 
+          "text": "Invalid format."
         }
       ], 
       "number": "08", 
-      "ref": "A Bible story from: Genesis 37-50", 
       "title": "8. God Saves Joseph and His Family"
     }, 
     {
@@ -3244,6 +3173,6 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140417", 
+  "date_modified": "20140419", 
   "language": "fr"
 }
