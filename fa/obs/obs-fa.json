@@ -1,4 +1,5 @@
 {
+  "app_words": {}, 
   "chapters": [
     {
       "frames": [
@@ -548,6 +549,7 @@
       "title": "\u06f5\u06f0.\u0628\u0627\u0632\u06af\u0634\u062a \u0639\u06cc\u0633\u06cc"
     }
   ], 
-  "date_modified": "20131219", 
+  "date_modified": "20140423", 
+  "direction": "ltr", 
   "language": "fa"
 }

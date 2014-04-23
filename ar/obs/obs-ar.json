@@ -1,4 +1,5 @@
 {
+  "app_words": {}, 
   "chapters": [
     {
       "frames": [
@@ -2202,6 +2203,7 @@
       "title": "50. \u0639\u0648\u062f\u0629 \u064a\u0633\u0648\u0639"
     }
   ], 
-  "date_modified": "20131112", 
+  "date_modified": "20140423", 
+  "direction": "rtl", 
   "language": "ar"
 }

@@ -1,247 +1,362 @@
 [
   {
-    "date_modified": "20140117", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "zh", 
+    "status": {}, 
     "string": "\u4e2d\u6587"
   }, 
   {
-    "date_modified": "20140204", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "lgg", 
+    "status": {}, 
+    "string": "Lugbarati"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "en", 
+    "status": {
+      "checking_entity": "distant shores media; wycliffe associates", 
+      "checking_level": "3", 
+      "contributors": "distant shores media", 
+      "publish_date": "2014-01-01", 
+      "source_text": "en", 
+      "source_text_version": "2.0", 
+      "version": "2.0"
+    }, 
     "string": "English"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140423", 
+    "direction": "rtl", 
     "language": "ar", 
+    "status": {}, 
     "string": "|\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "de", 
+    "status": {}, 
     "string": "Deutsch"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "gaj", 
+    "status": {}, 
     "string": "Gadsup"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "pl", 
+    "status": {}, 
     "string": "Polski"
   }, 
   {
     "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "pt-br", 
+    "status": {}, 
     "string": "Portugu\u00eas"
   }, 
   {
-    "date_modified": "20140417", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "es", 
+    "status": {}, 
     "string": "Espa\u00f1ol"
   }, 
   {
-    "date_modified": "20140410", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "abs", 
+    "status": {}, 
+    "string": "Melayu Ambon"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "loe", 
+    "status": {}, 
+    "string": "Saluan"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "ms", 
+    "status": {}, 
     "string": "Bahasa Melayu"
   }, 
   {
-    "date_modified": "20131219", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "ta", 
+    "status": {}, 
     "string": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
   }, 
   {
     "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "fr", 
+    "status": {}, 
     "string": "Fran\u00e7ais"
   }, 
   {
-    "date_modified": "20131219", 
-    "language": "sk", 
-    "string": "Sloven\u010dina"
-  }, 
-  {
-    "date_modified": "20140421", 
-    "language": "id", 
-    "string": "Bahasa Indonesia"
-  }, 
-  {
-    "date_modified": "20140407", 
-    "language": "abp", 
-    "string": "Ayta Abellen"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "te", 
-    "string": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "cnh", 
-    "string": "Chin, Haka"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "ur", 
-    "string": "\u0627\u0631\u062f\u0648"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "ppq", 
-    "string": "Pefiyahe"
-  }, 
-  {
-    "date_modified": "20140414", 
-    "language": "ru", 
-    "string": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "et", 
-    "string": "Eesti"
-  }, 
-  {
-    "date_modified": "20140205", 
-    "language": "sw", 
-    "string": "Kiswahili"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "blx", 
-    "string": "Ayta Mag-Indi"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "xmf", 
-    "string": "\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8"
-  }, 
-  {
-    "date_modified": "20140419", 
-    "language": "ilo", 
-    "string": "Ilokano"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "jit", 
-    "string": "Echijita"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "my", 
-    "string": "\u1017\u1019\u102c\u1005\u102c"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "hi", 
-    "string": "\u0939\u093f\u0928\u094d\u0926\u0940, \u0939\u093f\u0902\u0926\u0940"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "lv", 
-    "string": "Latvie\u0161u Valoda"
-  }, 
-  {
-    "date_modified": "20140418", 
-    "language": "az", 
-    "string": "Az\u0259rbaycan dili"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "shn", 
-    "string": "\u101c\u102d\u1075\u103a\u1088\u1010\u1086\u1038"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "fa", 
-    "string": "\u0641\u0627\u0631\u0633\u06cc"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "bnp", 
-    "string": "Bola"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "ht", 
-    "string": "Krey\u00f2l Ayisyen"
-  }, 
-  {
-    "date_modified": "20140206", 
-    "language": "vi", 
-    "string": "Ti\u1ebfng Vi\u1ec7t"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "nl", 
-    "string": "Nederlands"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "hu", 
-    "string": "Magyar"
-  }, 
-  {
-    "date_modified": "20131219", 
-    "language": "th", 
-    "string": "\u0e44\u0e17\u0e22"
-  }, 
-  {
-    "date_modified": "20140128", 
-    "language": "ko", 
-    "string": "\ud55c\uad6d\uc5b4"
-  }, 
-  {
-    "date_modified": "20140125", 
-    "language": "loe", 
-    "string": "Saluan"
-  }, 
-  {
-    "date_modified": "20140212", 
-    "language": "tl", 
-    "string": "Wikang Tagalog"
-  }, 
-  {
-    "date_modified": "20140220", 
-    "language": "slu", 
-    "string": "Salaru"
-  }, 
-  {
-    "date_modified": "20140215", 
-    "language": "abs", 
-    "string": "Melayu Ambon"
-  }, 
-  {
-    "date_modified": "20140215", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "jmd", 
+    "status": {}, 
     "string": "Yamdena"
   }, 
   {
-    "date_modified": "20140215", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "sk", 
+    "status": {}, 
+    "string": "Sloven\u010dina"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "id", 
+    "status": {}, 
+    "string": "Bahasa Indonesia"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "abp", 
+    "status": {}, 
+    "string": "Ayta Abellen"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "frd", 
+    "status": {}, 
     "string": "Fordata"
   }, 
   {
-    "date_modified": "20140225", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "te", 
+    "status": {}, 
+    "string": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "cnh", 
+    "status": {}, 
+    "string": "Chin, Haka"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ur", 
+    "status": {}, 
+    "string": "\u0627\u0631\u062f\u0648"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ppq", 
+    "status": {}, 
+    "string": "Pefiyahe"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ru", 
+    "status": {
+      "checking_entity": "translation team", 
+      "checking_level": "1", 
+      "comments": "level 1 check cleared via email to tim jore by translation team.", 
+      "contributors": "jack.shibata", 
+      "publish_date": "2014-04-14", 
+      "source_text": "en", 
+      "source_text_version": "2.0", 
+      "version": "2.1"
+    }, 
+    "string": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "et", 
+    "status": {}, 
+    "string": "Eesti"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "sw", 
+    "status": {}, 
+    "string": "Kiswahili"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "blx", 
+    "status": {}, 
+    "string": "Ayta Mag-Indi"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "xmf", 
+    "status": {}, 
+    "string": "\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ilo", 
+    "status": {}, 
+    "string": "Ilokano"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "nxl", 
+    "status": {}, 
     "string": "Nuaulu"
   }, 
   {
-    "date_modified": "20140312", 
-    "language": "lgg", 
-    "string": "Lugbarati"
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "slu", 
+    "status": {}, 
+    "string": "Selaru"
   }, 
   {
-    "date_modified": "20140312", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "jit", 
+    "status": {}, 
+    "string": "Echijita"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "my", 
+    "status": {}, 
+    "string": "\u1017\u1019\u102c\u1005\u102c"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "hi", 
+    "status": {}, 
+    "string": "\u0939\u093f\u0928\u094d\u0926\u0940, \u0939\u093f\u0902\u0926\u0940"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "lv", 
+    "status": {}, 
+    "string": "Latvie\u0161u Valoda"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "ln", 
+    "status": {}, 
     "string": "Ling\u00e1la"
   }, 
   {
-    "date_modified": "20140327", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "tl", 
+    "status": {}, 
+    "string": "Wikang Tagalog"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "az", 
+    "status": {}, 
+    "string": "Az\u0259rbaycan dili"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "shn", 
+    "status": {}, 
+    "string": "\u101c\u102d\u1075\u103a\u1088\u1010\u1086\u1038"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "fa", 
+    "status": {}, 
+    "string": "\u0641\u0627\u0631\u0633\u06cc"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "bnp", 
+    "status": {}, 
+    "string": "Bola"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "pgg", 
+    "status": {}, 
     "string": "Pangwali"
   }, 
   {
-    "date_modified": "20140414", 
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ht", 
+    "status": {}, 
+    "string": "Krey\u00f2l Ayisyen"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "vi", 
+    "status": {}, 
+    "string": "Ti\u1ebfng Vi\u1ec7t"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "nl", 
+    "status": {}, 
+    "string": "Nederlands"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "ko", 
+    "status": {}, 
+    "string": "\ud55c\uad6d\uc5b4"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "hu", 
+    "status": {}, 
+    "string": "Magyar"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
+    "language": "th", 
+    "status": {}, 
+    "string": "\u0e44\u0e17\u0e22"
+  }, 
+  {
+    "date_modified": "20140423", 
+    "direction": "ltr", 
     "language": "tg", 
+    "status": {}, 
     "string": "\u0422\u043e\u04b7\u0438\u043a\u04e3"
   }
 ]

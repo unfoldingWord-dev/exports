@@ -1,4 +1,5 @@
 {
+  "app_words": {}, 
   "chapters": [
     {
       "frames": [
@@ -3296,6 +3297,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20131112", 
+  "date_modified": "20140423", 
+  "direction": "ltr", 
   "language": "ta"
 }

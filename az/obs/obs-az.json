@@ -1,4 +1,5 @@
 {
+  "app_words": {}, 
   "chapters": [
     {
       "frames": [
@@ -3344,6 +3345,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140418", 
+  "date_modified": "20140423", 
+  "direction": "ltr", 
   "language": "az"
 }
