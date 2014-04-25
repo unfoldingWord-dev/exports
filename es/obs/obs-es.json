@@ -1,15 +1,15 @@
 {
   "app_words": {
-    "cancel": "Cancel", 
-    "chapters": "Chapters", 
-    "languages": "Languages", 
-    "next_chapter": "Next Chapter", 
+    "cancel": "Cancelar.", 
+    "chapters": "Cap\u00edtulos", 
+    "languages": "Idiomas", 
+    "next_chapter": "Siguiente cap\u00edtulo", 
     "ok": "OK", 
-    "remove_locally": "Remove Locally", 
-    "remove_this_string": "Remove this language from offline storage. You will need an internet connection to view it in the future.", 
-    "save_locally": "Save Locally", 
-    "save_this_string": "Save this language locally for offline use.", 
-    "select_a_language": "Select a Language"
+    "remove_locally": "Borrar del dispositivo.", 
+    "remove_this_string": "Borrar este idioma del almacenamiento sin conexi\u00f3n. Necesitar\u00e1 una conexi\u00f3n a internet para verlo posteriormente.", 
+    "save_locally": "Guardar en el dispositivo.", 
+    "save_this_string": "Grabar este idioma en el dispositivo para usar sin conexi\u00f3n.", 
+    "select_a_language": "Seleccione un idioma"
   }, 
   "chapters": [
     {
@@ -3347,7 +3347,7 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140424", 
+  "date_modified": "20140425", 
   "direction": "ltr", 
   "language": "es"
 }
