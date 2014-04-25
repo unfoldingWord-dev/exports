@@ -6,17 +6,32 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
+          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ding nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw na ng tubig."
+        }, 
+        {
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ding nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw na ng tubig."
         }, 
         {
           "id": "01-02", 
           "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
-          "text": "Then God spoke and said, \"Let there be light!\" And there was light. God saw that the light was good and called it \"day.\" He separated it from the darkness, which he called \"night.\" God created the light on the first day of creation."
+          "text": "Sinabi ng Diyos, \u201cMagkaroon ng liwanag!\u201d at nagkaroon nga ng liwanag. Nagandahan ang Diyos sa liwanag na nilikha niya. Tinawag niya itong \u201caraw.\u201d Inihiwalay ng Diyos ang liwanag sa dilim. Tinawag niyang \u201cgabi\u201d ang dilim. Ginawa ng Diyos ang liwanag sa unang araw ng paglikha."
+        }, 
+        {
+          "id": "01-02", 
+          "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
+          "text": "Sinabi ng Diyos, \u201cMagkaroon ng liwanag!\u201d at nagkaroon nga ng liwanag. Nagandahan ang Diyos sa liwanag na nilikha niya. Tinawag niya itong \u201caraw.\u201d Inihiwalay ng Diyos ang liwanag sa dilim. Tinawag niyang \u201cgabi\u201d ang dilim. Ginawa ng Diyos ang liwanag sa unang araw ng paglikha."
         }, 
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below."
+          "text": "Sa ikalawang araw naman ng paglikha, nagsalita ang Diyos at ginawa niya ang kalawakan. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
+        }, 
+        {
+          "id": "01-03", 
+          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
+          "text": "Sa ikalawang araw naman ng paglikha, nagsalita ang Diyos at ginawa niya ang kalawakan. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
         }, 
         {
           "id": "01-04", 
@@ -76,7 +91,7 @@
         {
           "id": "01-15", 
           "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
-          "text": "God made man and woman in his own image. He blessed them and told them, \u201cHave many children and grandchildren and fill the earth!\u201d  And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation."
+          "text": "God made man and woman in his own image. He blessed them and told them, \u201cHave many children and grandchildren and fill the earth!\u201d And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation."
         }, 
         {
           "id": "01-16", 
@@ -3342,7 +3357,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140423", 
+  "date_modified": "20140425", 
   "direction": "ltr", 
   "language": "tl"
 }
