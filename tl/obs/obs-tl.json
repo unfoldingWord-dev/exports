@@ -4,13 +4,169 @@
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ding nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw na ng tubig."
+        }, 
+        {
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ding nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw na ng tubig."
+        }, 
+        {
+          "id": "01-02", 
+          "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
+          "text": "Sinabi ng Diyos, \u201cMagkaroon ng liwanag!\u201d at nagkaroon nga ng liwanag. Nagandahan ang Diyos sa liwanag na nilikha niya. Tinawag niya itong \u201caraw.\u201d Inihiwalay ng Diyos ang liwanag sa dilim. Tinawag niyang \u201cgabi\u201d ang dilim. Ginawa ng Diyos ang liwanag sa unang araw ng paglikha."
+        }, 
+        {
+          "id": "01-02", 
+          "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
+          "text": "Sinabi ng Diyos, \u201cMagkaroon ng liwanag!\u201d at nagkaroon nga ng liwanag. Nagandahan ang Diyos sa liwanag na nilikha niya. Tinawag niya itong \u201caraw.\u201d Inihiwalay ng Diyos ang liwanag sa dilim. Tinawag niyang \u201cgabi\u201d ang dilim. Ginawa ng Diyos ang liwanag sa unang araw ng paglikha."
+        }, 
+        {
+          "id": "01-03", 
+          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
+          "text": "Sa ikalawang araw naman ng paglikha, nagsalita ang Diyos at ginawa niya ang kalawakan. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
+        }, 
+        {
+          "id": "01-03", 
+          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
+          "text": "Sa ikalawang araw naman ng paglikha, nagsalita ang Diyos at ginawa niya ang kalawakan. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
+        }, 
+        {
+          "id": "01-04", 
+          "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
+          "text": "Sa ikatlong araw, pinaghiwalay naman ng Diyos ang tubig na nasa ibaba at ang lupa. Tinawag niyang \u201cdaigdig\u201d ang lupa. Tinawag naman niyang \u201cdagat\u201d ang tubig. Nagandahan ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-04", 
+          "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
+          "text": "Sa ikatlong araw, pinaghiwalay naman ng Diyos ang tubig na nasa ibaba at ang lupa. Tinawag niyang \u201cdaigdig\u201d ang lupa. Tinawag naman niyang \u201cdagat\u201d ang tubig. Nagandahan ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-05", 
+          "img": "{{:en:obs:obs-01-05.jpg?nolink&640x360}}", 
+          "text": "Pagkatapos, sinabi ng Diyos, \u201cGusto kong tumubo sa daigdig ang lahat ng uri ng mga puno at halaman.\u201d Ganoon nga ang nangyari. Nagandahan din ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-05", 
+          "img": "{{:en:obs:obs-01-05.jpg?nolink&640x360}}", 
+          "text": "Pagkatapos, sinabi ng Diyos, \u201cGusto kong tumubo sa daigdig ang lahat ng uri ng mga puno at halaman.\u201d Ganoon nga ang nangyari. Nagandahan din ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-06", 
+          "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
+          "text": "Sa ikaapat na araw, ginawa naman ng Diyos ang araw, ang buwan, at ang mga bituin. Ang mga ito ang magbibigay ng liwanag sa daigdig. Ito din ang magtatakda ng mga araw at gabi, mga panahon at mga taon. Nagandahan ulit ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-06", 
+          "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
+          "text": "Sa ikaapat na araw, ginawa naman ng Diyos ang araw, ang buwan, at ang mga bituin. Ang mga ito ang magbibigay ng liwanag sa daigdig. Ito din ang magtatakda ng mga araw at gabi, mga panahon at mga taon. Nagandahan ulit ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-07", 
+          "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
+          "text": "Sa ikalimang araw, sinabi ng Diyos, \u201cMagkaroon ng lahat ng uri ng hayop sa dagat at lahat ng uri ng ibon.\u201d Ganoon nga ang nangyari! Nagandahan din ang Diyos sa mga ito. Pinagpala pa niya ang mga hayop na ginawa niya."
+        }, 
+        {
+          "id": "01-07", 
+          "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
+          "text": "Sa ikalimang araw, sinabi ng Diyos, \u201cMagkaroon ng lahat ng uri ng hayop sa dagat at lahat ng uri ng ibon.\u201d Ganoon nga ang nangyari! Nagandahan din ang Diyos sa mga ito. Pinagpala pa niya ang mga hayop na ginawa niya."
+        }, 
+        {
+          "id": "01-08", 
+          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
+          "text": "Sa ikaanim na araw, sinabi ng Diyos, \u201cMagkaroon ng lahat ng uri ng hayop sa lupa!\u201d Ganoon nga ang nangyari. May mga hayop sa bukid, may mga hayop na gumagapang, at may mga hayop na maiilap (sa gubat). Nagandahan ulit ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-08", 
+          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
+          "text": "Sa ikaanim na araw, sinabi ng Diyos, \u201cMagkaroon ng lahat ng uri ng hayop sa lupa!\u201d Ganoon nga ang nangyari. May mga hayop sa bukid, may mga hayop na gumagapang, at may mga hayop na maiilap (sa gubat). Nagandahan ulit ang Diyos sa ginawa niyang ito."
+        }, 
+        {
+          "id": "01-09", 
+          "img": "{{:en:obs:obs-01-09.jpg?nolink&640x360}}", 
+          "text": "Pagkatapos, sinabi ng Diyos, \u201cGumawa tayo ng mga tao. Gawin natin silang kamukha natin. Sila ang mamamahala sa daigdig at sa lahat ng mga hayop.\u201d"
+        }, 
+        {
+          "id": "01-09", 
+          "img": "{{:en:obs:obs-01-09.jpg?nolink&640x360}}", 
+          "text": "Pagkatapos, sinabi ng Diyos, \u201cGumawa tayo ng mga tao. Gawin natin silang kamukha natin. Sila ang mamamahala sa daigdig at sa lahat ng mga hayop.\u201d"
+        }, 
+        {
+          "id": "01-10", 
+          "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
+          "text": "Kaya kumuha ang Diyos ng lupa. Ginawa niya itong hugis-lalaki. Pagkatapos, hinihangan niya ito kaya ito nabuhay. Tinawa niya ang lalaki na Adan. Gumawa din ang Diyos ng isang halamanan para doon tumira si Adan. Siya ang mag-aalaga sa halamanan."
+        }, 
+        {
+          "id": "01-10", 
+          "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
+          "text": "Kaya kumuha ang Diyos ng lupa. Ginawa niya itong hugis-lalaki. Pagkatapos, hinihangan niya ito kaya ito nabuhay. Tinawa niya ang lalaki na Adan. Gumawa din ang Diyos ng isang halamanan para doon tumira si Adan. Siya ang mag-aalaga sa halamanan."
+        }, 
+        {
+          "id": "01-11", 
+          "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
+          "text": "Sa gitna ng halamanan ay may itinanim na dalawang kakaibang puno ang Diyos. Ang unang puno ay ang puno ng buhay. Ang ikalawa naman ay ang puno ng pagkaalam ng mabuti at masama. Sinabi ng Diyos kay Adan, \u201cPwede kang kumain ng bunga ng lahat ng puno dito, maliban sa bunga ng puno ng pagkaalam ng mabuti at masama.\u201d Sinabi din ng Diyos na mamamatay siya kapag kumain siya ng bunga nito."
+        }, 
+        {
+          "id": "01-11", 
+          "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
+          "text": "Sa gitna ng halamanan ay may itinanim na dalawang kakaibang puno ang Diyos. Ang unang puno ay ang puno ng buhay. Ang ikalawa naman ay ang puno ng pagkaalam ng mabuti at masama. Sinabi ng Diyos kay Adan, \u201cPwede kang kumain ng bunga ng lahat ng puno dito, maliban sa bunga ng puno ng pagkaalam ng mabuti at masama.\u201d Sinabi din ng Diyos na mamamatay siya kapag kumain siya ng bunga nito."
+        }, 
+        {
+          "id": "01-12", 
+          "img": "{{:en:obs:obs-01-12.jpg?nolink&640x360}}", 
+          "text": "\u201cHindi maganda na nag-iisa ang tao,\u201d sabi ng Diyos. Pero wala namang makatuwang si Adan sa mga hayop na kasama niya."
+        }, 
+        {
+          "id": "01-12", 
+          "img": "{{:en:obs:obs-01-12.jpg?nolink&640x360}}", 
+          "text": "\u201cHindi maganda na nag-iisa ang tao,\u201d sabi ng Diyos. Pero wala namang makatuwang si Adan sa mga hayop na kasama niya."
+        }, 
+        {
+          "id": "01-13", 
+          "img": "{{:en:obs:obs-01-13.jpg?nolink&640x360}}", 
+          "text": "Kaya, pinatulog ng Diyos si Adan. Habang natutulog siya nang mahimbing, kinuha ng Diyos ang isa sa buto ni Adan sa tagiliran. Ginawa niya itong isang babae. Paggising ni Adan, ipinakita ng Diyos sa kanya ang babae."
+        }, 
+        {
+          "id": "01-13", 
+          "img": "{{:en:obs:obs-01-13.jpg?nolink&640x360}}", 
+          "text": "Kaya, pinatulog ng Diyos si Adan. Habang natutulog siya nang mahimbing, kinuha ng Diyos ang isa sa buto ni Adan sa tagiliran. Ginawa niya itong isang babae. Paggising ni Adan, ipinakita ng Diyos sa kanya ang babae."
+        }, 
+        {
+          "id": "01-14", 
+          "img": "{{:en:obs:obs-01-14.jpg?nolink&640x360}}", 
+          "text": "Tuwang-tuwa si Adan nang makita ang babae. Sinabi niya, \u201cSa wakas! Mayroon na akong makakasama na kagaya ko. Tatawagin ko siyang \u2018Babae\u2019 dahil nanggaling siya sa \u2018Lalaki\u2019.\u201d Dahil sa nangyaring ito, iniiwan ng mga lalaki ang kanilang mga magulang. Sumasama sila sa kani-kanilang asawa. At nagiging isa ang lalaki at ang babae."
+        }, 
+        {
+          "id": "01-14", 
+          "img": "{{:en:obs:obs-01-14.jpg?nolink&640x360}}", 
+          "text": "Tuwang-tuwa si Adan nang makita ang babae. Sinabi niya, \u201cSa wakas! Mayroon na akong makakasama na kagaya ko. Tatawagin ko siyang \u2018Babae\u2019 dahil nanggaling siya sa \u2018Lalaki\u2019.\u201d Dahil sa nangyaring ito, iniiwan ng mga lalaki ang kanilang mga magulang. Sumasama sila sa kani-kanilang asawa. At nagiging isa ang lalaki at ang babae."
+        }, 
+        {
+          "id": "01-15", 
+          "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
+          "text": "Ginawa ng Diyos ang lalaki at ang babae na katulad niya. Pinagpala niya ang dalawa at sinabi sa kanila, \u201cMag-anak kayo nang marami hanggang mapuno ng mga tao ang daigdig.\u201d Gandang-ganda ang Diyos sa lahat ng mga bagay na nilikha niya. Tuwang tuwa siya sa lahat ng ito. Ito ang nangyari sa ikaanim na araw."
+        }, 
+        {
+          "id": "01-15", 
+          "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
+          "text": "Ginawa ng Diyos ang lalaki at ang babae na katulad niya. Pinagpala niya ang dalawa at sinabi sa kanila, \u201cMag-anak kayo nang marami hanggang mapuno ng mga tao ang daigdig.\u201d Gandang-ganda ang Diyos sa lahat ng mga bagay na nilikha niya. Tuwang tuwa siya sa lahat ng ito. Ito ang nangyari sa ikaanim na araw."
+        }, 
+        {
+          "id": "01-16", 
+          "img": "{{:en:obs:obs-01-16.jpg?nolink&640x360}}", 
+          "text": "Nang sumapit ang ikapitong araw, tapos na ng Diyos ang lahat ng gagawin niya, kaya nagpahinga siya. Pinagpala niya ang ikapitong araw. Ginawa niya itong banal, dahil nagpahinga siya sa araw na ito. Ganito nilikha ng Diyos ang lahat ng bagay."
+        }, 
+        {
+          "id": "01-16", 
+          "img": "{{:en:obs:obs-01-16.jpg?nolink&640x360}}", 
+          "text": "Nang sumapit ang ikapitong araw, tapos na ng Diyos ang lahat ng gagawin niya, kaya nagpahinga siya. Pinagpala niya ang ikapitong araw. Ginawa niya itong banal, dahil nagpahinga siya sa araw na ito. Ganito nilikha ng Diyos ang lahat ng bagay."
         }
       ], 
       "number": "01", 
-      "title": "1. The Creation"
+      "ref": "A Bible story from: Genesis 1-2", 
+      "title": "Ang Paglikha sa Lahat"
     }, 
     {
       "frames": [
@@ -137,7 +293,7 @@
       ], 
       "number": "02", 
       "ref": "A Bible story from: Genesis 3", 
-      "title": "2. Nagkasala ang mga Tao"
+      "title": "Nagkasala ang mga Tao"
     }, 
     {
       "frames": [
@@ -304,7 +460,7 @@
       ], 
       "number": "03", 
       "ref": "A Bible story from: Genesis 6-8", 
-      "title": "3. Ang Napakalaking Baha"
+      "title": "Ang Napakalaking Baha"
     }, 
     {
       "frames": [
@@ -401,7 +557,7 @@
       ], 
       "number": "04", 
       "ref": "A Bible story from: Genesis 11-15", 
-      "title": "4. Ang Kasunduan ng Diyos at ni Abraham"
+      "title": "Ang Kasunduan ng Diyos at ni Abraham"
     }, 
     {
       "frames": [
@@ -508,7 +664,7 @@
       ], 
       "number": "05", 
       "ref": "A Bible story from: Genesis 16-22", 
-      "title": "5. Ang Ipinangakong Anak"
+      "title": "Ang Ipinangakong Anak"
     }, 
     {
       "frames": [
@@ -585,7 +741,7 @@
       ], 
       "number": "06", 
       "ref": "A Bible story from: Genesis 24:1-25:26", 
-      "title": "6. Ibinigay ng Diyos ang Kailangan ni Isaac"
+      "title": "Ibinigay ng Diyos ang Kailangan ni Isaac"
     }, 
     {
       "frames": [
@@ -692,7 +848,7 @@
       ], 
       "number": "07", 
       "ref": "A Bible story from: Genesis 25:27-33:20", 
-      "title": "7. Pinapala ng Diyos si Jacob"
+      "title": "Pinapala ng Diyos si Jacob"
     }, 
     {
       "frames": [
@@ -849,7 +1005,7 @@
       ], 
       "number": "08", 
       "ref": "A Bible story from: Genesis 37-50", 
-      "title": "8. Iniligtas ng Diyos si Jose at ang Kanyang Pamilya"
+      "title": "Iniligtas ng Diyos si Jose at ang Kanyang Pamilya"
     }, 
     {
       "frames": [
