@@ -4202,124 +4202,234 @@
         {
           "id": "44-01", 
           "img": "{{:en:obs:obs-44-01.jpg?nolink&640x360}}", 
-          "text": "One day Peter and John went to the Temple. On their way, they saw a crippled man begging for money."
+          "text": "Isang araw, pumunta sina Pedro at Juan sa Templo. Mag nadaanan silang isang pulubi na namamalimos."
+        }, 
+        {
+          "id": "44-01", 
+          "img": "{{:en:obs:obs-44-01.jpg?nolink&640x360}}", 
+          "text": "Isang araw, pumunta sina Pedro at Juan sa Templo. Mag nadaanan silang isang pulubi na namamalimos."
         }, 
         {
           "id": "44-02", 
           "img": "{{:en:obs:obs-44-02.jpg?nolink&640x360}}", 
-          "text": "Peter looked at him and said, \u201cI do not have any money to give you. But what I do have I will give you. In the name of Jesus, get up and walk!\u201d"
+          "text": "Tiningnan siya ni Pedro at sinabi, \u201cWala akong pera na maibibigay sa iyo. Pero mayroong isang bagay na pwede kong ibigay. Sa pangalan ni Jesus, tumayo ka at lumakad!\u201d"
+        }, 
+        {
+          "id": "44-02", 
+          "img": "{{:en:obs:obs-44-02.jpg?nolink&640x360}}", 
+          "text": "Tiningnan siya ni Pedro at sinabi, \u201cWala akong pera na maibibigay sa iyo. Pero mayroong isang bagay na pwede kong ibigay. Sa pangalan ni Jesus, tumayo ka at lumakad!\u201d"
         }, 
         {
           "id": "44-03", 
           "img": "{{:en:obs:obs-44-03.jpg?nolink&640x360}}", 
-          "text": "The man was immediately healed, and he began walking and jumping around, praising God. The people in the Temple were amazed."
+          "text": "Gumaling agad ang lalaki. Naglakad siya at tumalon-talon habang pinupuri niya ang Diyos. Nagtaka ang mga tao na nasa Templo."
+        }, 
+        {
+          "id": "44-03", 
+          "img": "{{:en:obs:obs-44-03.jpg?nolink&640x360}}", 
+          "text": "Gumaling agad ang lalaki. Naglakad siya at tumalon-talon habang pinupuri niya ang Diyos. Nagtaka ang mga tao na nasa Templo."
         }, 
         {
           "id": "44-04", 
           "img": "{{:en:obs:obs-44-04.jpg?nolink&640x360}}", 
-          "text": "A crowd quickly formed. Peter said to them, \u201cWhy are you amazed that this man is healed? It was not through our own power or goodness that he was healed, but by faith in Jesus.\u201d"
+          "text": "Sinabi ni Pedro sa mga tao na nagkakatipon, \u201cNagtataka ba kayo dahil gumaling ang lalaking ito? Hindi siya gumaling dahil sa sarili naming kapangyarihan o kabutihan. Gumaling siya dahil sa pananampalatay kay Jesus.\u201d"
+        }, 
+        {
+          "id": "44-04", 
+          "img": "{{:en:obs:obs-44-04.jpg?nolink&640x360}}", 
+          "text": "Sinabi ni Pedro sa mga tao na nagkakatipon, \u201cNagtataka ba kayo dahil gumaling ang lalaking ito? Hindi siya gumaling dahil sa sarili naming kapangyarihan o kabutihan. Gumaling siya dahil sa pananampalatay kay Jesus.\u201d"
         }, 
         {
           "id": "44-05", 
           "img": "{{:en:obs:obs-44-05.jpg?nolink&640x360}}", 
-          "text": "\u201cYou demanded that Jesus be killed. You killed the author of life, but God raised him from the dead. This is how God fulfilled the prophecies that the Messiah would suffer and die. But now, repent and turn to God so that your sins will be washed away.\u201d"
+          "text": "\u201cPinili ninyong mamatay si Jesus. Ipinapatay ninyo ang pinagmumulan ng buhay, pero binuhay siyang muli ng Diyos. Tinupad ng Diyos ang mga inuhula tungkol sa Tagapagligtas. Siya ay maghihirap at mamamatay. Kaya nga, magsisisi na kayo at bumalik sa Diyos at lilinisin niya ang mga kasalanan ninyo.\u201d"
+        }, 
+        {
+          "id": "44-05", 
+          "img": "{{:en:obs:obs-44-05.jpg?nolink&640x360}}", 
+          "text": "\u201cPinili ninyong mamatay si Jesus. Ipinapatay ninyo ang pinagmumulan ng buhay, pero binuhay siyang muli ng Diyos. Tinupad ng Diyos ang mga inuhula tungkol sa Tagapagligtas. Siya ay maghihirap at mamamatay. Kaya nga, magsisisi na kayo at bumalik sa Diyos at lilinisin niya ang mga kasalanan ninyo.\u201d"
         }, 
         {
           "id": "44-06", 
           "img": "{{:en:obs:obs-44-06.jpg?nolink&640x360}}", 
-          "text": "The leaders of the Temple were greatly annoyed at what Peter and John were saying. So they arrested them and threw them into prison. But many of the people believed what they had seen and heard and the Church grew to 5,000 men, plus women and children."
+          "text": "Nainis naman kina Pedro at Juan ang mga pinuno ng Templo. Kaya ipinahuli nila ang dalawa at ipinakulong. Pero marami sa mga nakarinig ng sinabi nila ang naniwala at umabot sa 5,000 ang nadagdag sa mga naging Cristiano nang araw na iyon. May mga babae at mga bata ding naniwala sa kanila."
+        }, 
+        {
+          "id": "44-06", 
+          "img": "{{:en:obs:obs-44-06.jpg?nolink&640x360}}", 
+          "text": "Nainis naman kina Pedro at Juan ang mga pinuno ng Templo. Kaya ipinahuli nila ang dalawa at ipinakulong. Pero marami sa mga nakarinig ng sinabi nila ang naniwala at umabot sa 5,000 ang nadagdag sa mga naging Cristiano nang araw na iyon. May mga babae at mga bata ding naniwala sa kanila."
         }, 
         {
           "id": "44-07", 
           "img": "{{:en:obs:obs-44-07.jpg?nolink&640x360}}", 
-          "text": "The next day, the Jewish leaders brought Peter and John before the high priest and his family. They asked them, \u201cBy what power did you do this?\u201d"
+          "text": "Kinabukasan, dinala ng mga pinuno ng mga Judio sina Pedro at Juan sa bahay ng pinakapunong paring Judio. Tinanong sila ng pari, \u201cSino ang nagbigay sa inyo ng karapatan na gawin ang ginawa ninyo sa Templo?\u201d"
+        }, 
+        {
+          "id": "44-07", 
+          "img": "{{:en:obs:obs-44-07.jpg?nolink&640x360}}", 
+          "text": "Kinabukasan, dinala ng mga pinuno ng mga Judio sina Pedro at Juan sa bahay ng pinakapunong paring Judio. Tinanong sila ng pari, \u201cSino ang nagbigay sa inyo ng karapatan na gawin ang ginawa ninyo sa Templo?\u201d"
         }, 
         {
           "id": "44-08", 
           "img": "{{:en:obs:obs-44-08.jpg?nolink&640x360}}", 
-          "text": "Peter responded, \u201cIt is by the power of Jesus the Messiah that we healed this man. You crucified him, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!\u201d"
+          "text": "Sumagot si Pedro, \u201cSi Jesus ang Tagapagligtas ang nagpagaling sa lalaking ito. Siya yung ipinapako ninyo sa krus, pero binuhay siyang muli ng Diyos! Hindi ninyo siya tinanggap pero hindi maliligtas ang kahit na sino kung hindi sa pamamagitan ni Jesus!\u201d"
+        }, 
+        {
+          "id": "44-08", 
+          "img": "{{:en:obs:obs-44-08.jpg?nolink&640x360}}", 
+          "text": "Sumagot si Pedro, \u201cSi Jesus ang Tagapagligtas ang nagpagaling sa lalaking ito. Siya yung ipinapako ninyo sa krus, pero binuhay siyang muli ng Diyos! Hindi ninyo siya tinanggap pero hindi maliligtas ang kahit na sino kung hindi sa pamamagitan ni Jesus!\u201d"
         }, 
         {
           "id": "44-09", 
           "img": "{{:en:obs:obs-44-09.jpg?nolink&640x360}}", 
-          "text": "The leaders were shocked because they could see that these men were common men who were uneducated. They also realized that these men had been with Jesus. After they had threatened Peter and John, they let them go."
+          "text": "Ganoon na lang ang gulat ng mga pinuno dahil nalaman nilang mga karaniwang tao lamang ang mga kausap nila at ni hindi nakapag-aral. Nalaman din nilang kasa-kasama ni Jesus ang mga taong ito. Kaya tinakot nila sina Pedro at Juan saka pinaalis."
+        }, 
+        {
+          "id": "44-09", 
+          "img": "{{:en:obs:obs-44-09.jpg?nolink&640x360}}", 
+          "text": "Ganoon na lang ang gulat ng mga pinuno dahil nalaman nilang mga karaniwang tao lamang ang mga kausap nila at ni hindi nakapag-aral. Nalaman din nilang kasa-kasama ni Jesus ang mga taong ito. Kaya tinakot nila sina Pedro at Juan saka pinaalis."
         }
       ], 
       "number": "44", 
       "ref": "A Bible story from: Acts 3:1-4:22", 
-      "title": "44. Peter and John Heal a Beggar"
+      "title": "Pinagaling nina Pedro at Juan ang Isang Pulubi"
     }, 
     {
       "frames": [
         {
           "id": "45-01", 
           "img": "{{:en:obs:obs-45-01.jpg?nolink&640x360}}", 
-          "text": "Stephen was a leader in the early Church. He had a good reputation and was full of the Holy Spirit and of wisdom. Stephen did many miracles and argued strongly that people should believe in Jesus."
+          "text": "Si Esteban ay isa sa mga pinuno sa unang iglesya. Siya ay kilalang mabuting tao, marunong at ginagabayan siya ng Banal na Espiritu. Marami na ding ginawang mga himala si Esteban. Palagi niyang sinasabi sa mga tao na kailangan silang magtiwala kay Jesus."
+        }, 
+        {
+          "id": "45-01", 
+          "img": "{{:en:obs:obs-45-01.jpg?nolink&640x360}}", 
+          "text": "Si Esteban ay isa sa mga pinuno sa unang iglesya. Siya ay kilalang mabuting tao, marunong at ginagabayan siya ng Banal na Espiritu. Marami na ding ginawang mga himala si Esteban. Palagi niyang sinasabi sa mga tao na kailangan silang magtiwala kay Jesus."
         }, 
         {
           "id": "45-02", 
           "img": "{{:en:obs:obs-45-02.jpg?nolink&640x360}}", 
-          "text": "One day, Stephen was arguing with some unbelieving Jews about Jesus. They became very angry and lied about Stephen, saying, \u201cWe heard him speak evil things about Moses and God!\u201d So they arrested Stephen and brought him before the high priest and leaders of the Jews."
+          "text": "Isang araw, nakipagtalo si Esteban sa ilang mga Judio na hindi naniniwala kay Jesus. Nagalit sila kay Esteban. Nagsinungaling sila tungkol kay Esteban. Sinabi nila, \u201cNarinig namin siyang nagsasalita ng masama tungkol kay Moises at tungkol sa Diyos!\u201d Kaya hinuli nila si Esteban. Dinala nila si Esteban sa pinakapunong pari at sa mga pinuno ng mga Judio."
+        }, 
+        {
+          "id": "45-02", 
+          "img": "{{:en:obs:obs-45-02.jpg?nolink&640x360}}", 
+          "text": "Isang araw, nakipagtalo si Esteban sa ilang mga Judio na hindi naniniwala kay Jesus. Nagalit sila kay Esteban. Nagsinungaling sila tungkol kay Esteban. Sinabi nila, \u201cNarinig namin siyang nagsasalita ng masama tungkol kay Moises at tungkol sa Diyos!\u201d Kaya hinuli nila si Esteban. Dinala nila si Esteban sa pinakapunong pari at sa mga pinuno ng mga Judio."
         }, 
         {
           "id": "45-03", 
           "img": "{{:en:obs:obs-45-03.jpg?nolink&640x360}}", 
-          "text": "The high priest asked Stephen, \u201cAre these things true?\u201d Stephen reminded them of all the great things God had done from the time of Abraham to Jesus. Then he replied, \u201cYou stubborn and rebellious people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets. You have even killed the Messiah whom God sent!\u201d"
+          "text": "Tinanong ng punong pari si Esteban, \u201cTotoo ba ang sinasabi nila tungkol sa iyo?\u201d Sinabi ni Esteban ang magagandang bagay na ginawa ng Diyos noong panahon ni Abraham hanggang sa panahon ni Jesus. Saka niya sinabi, \u201cMatitigas ang ulo ninyo. Ayaw ninyong sumunod sa Diyos, Palagi ninyong tinatanggihan ang paggabay ng Banal na Espiritu. Kagaya kayo ng mga ninuno ninyo. Pinapatay ninyo ang mga propeta ng Diyos. Sa katunayan, pati ang Tagapagligtas na ipinadala niya ay ipinapatay din ninyo.\u201d"
+        }, 
+        {
+          "id": "45-03", 
+          "img": "{{:en:obs:obs-45-03.jpg?nolink&640x360}}", 
+          "text": "Tinanong ng punong pari si Esteban, \u201cTotoo ba ang sinasabi nila tungkol sa iyo?\u201d Sinabi ni Esteban ang magagandang bagay na ginawa ng Diyos noong panahon ni Abraham hanggang sa panahon ni Jesus. Saka niya sinabi, \u201cMatitigas ang ulo ninyo. Ayaw ninyong sumunod sa Diyos, Palagi ninyong tinatanggihan ang paggabay ng Banal na Espiritu. Kagaya kayo ng mga ninuno ninyo. Pinapatay ninyo ang mga propeta ng Diyos. Sa katunayan, pati ang Tagapagligtas na ipinadala niya ay ipinapatay din ninyo.\u201d"
         }, 
         {
           "id": "45-04", 
           "img": "{{:en:obs:obs-45-04.jpg?nolink&640x360}}", 
-          "text": "When the people heard this, they covered their ears and yelled loudly. They threw Stephen out of the city and stoned him to death."
+          "text": "Nang marinig ito ng mga tao, tinakpan nila ang mga tainga nila at sumigaw ng malakas. Kinaladkad nila si Esteban palabas sa lungsod. Doon nila binato si Esteban hanggang mamatay ito."
+        }, 
+        {
+          "id": "45-04", 
+          "img": "{{:en:obs:obs-45-04.jpg?nolink&640x360}}", 
+          "text": "Nang marinig ito ng mga tao, tinakpan nila ang mga tainga nila at sumigaw ng malakas. Kinaladkad nila si Esteban palabas sa lungsod. Doon nila binato si Esteban hanggang mamatay ito."
         }, 
         {
           "id": "45-05", 
           "img": "{{:en:obs:obs-45-05.jpg?nolink&640x360}}", 
-          "text": "As Stephen was dying, he cried out, \u201cJesus, receive my spirit.\u201d Then he fell to his knees and cried out again, \u201cMaster, do not count this sin against them.\u201d Then he died."
+          "text": "Pero bago mamatay si Esteban, nanalangin siya, \u201cJesus, tanggapin mo po ang espiritu ko.\u201d Pagkatapos ay muli siyang lumuhod, saka nanalangin, \u201cPanginoon, huwag mo po silang parusahan sa ginawa nilang ito sa akin.\u201d Pagkasabi nito, namatay na si Esteban."
+        }, 
+        {
+          "id": "45-05", 
+          "img": "{{:en:obs:obs-45-05.jpg?nolink&640x360}}", 
+          "text": "Pero bago mamatay si Esteban, nanalangin siya, \u201cJesus, tanggapin mo po ang espiritu ko.\u201d Pagkatapos ay muli siyang lumuhod, saka nanalangin, \u201cPanginoon, huwag mo po silang parusahan sa ginawa nilang ito sa akin.\u201d Pagkasabi nito, namatay na si Esteban."
         }, 
         {
           "id": "45-06", 
           "img": "{{:en:obs:obs-45-06.jpg?nolink&640x360}}", 
-          "text": "A man named Saul approved of Stephen\u2019s execution and guarded the belongings of those who stoned Stephen. That day many people started persecuting the Christians, and they were scattered through that region. But everywhere they went they preached about Jesus."
+          "text": "May isang lalaki doon na sumang-ayon sa pagpatay kay Esteban. Siya ang nagbantay sa gamit ng mga taong pumatay kay Esteban. Siya ay si Saulo. Noong panahong iyon, marami nang mga taong gustong patayin ang mga Cristiano. Kaya maraming Cristiano ang lumipat ng tirahan. Pero kahit saan sila mapunta, ikinukuwento nila sa mga tao ang tungkol kay Jesus."
+        }, 
+        {
+          "id": "45-06", 
+          "img": "{{:en:obs:obs-45-06.jpg?nolink&640x360}}", 
+          "text": "May isang lalaki doon na sumang-ayon sa pagpatay kay Esteban. Siya ang nagbantay sa gamit ng mga taong pumatay kay Esteban. Siya ay si Saulo. Noong panahong iyon, marami nang mga taong gustong patayin ang mga Cristiano. Kaya maraming Cristiano ang lumipat ng tirahan. Pero kahit saan sila mapunta, ikinukuwento nila sa mga tao ang tungkol kay Jesus."
         }, 
         {
           "id": "45-07", 
           "img": "{{:en:obs:obs-45-07.jpg?nolink&640x360}}", 
-          "text": "Philip, one of Jesus' disciples, went to Samaria where he preached about Jesus and many were saved. Then one day an angel from God told Philip to go to the road to Gaza in the desert. As he walked along the road, Philip saw an important official from Ethiopia riding in his chariot. The Holy Spirit told Philip to go up and talk to this man."
+          "text": "Si Felipe ay isa sa mga alagad ng Panginoon. Pumunta siya sa Samaria at doon ipinahayag ang tungkol kay Jesus. Marami ang naniwala kay Jesus sa Samaria. Isang araw, inutusan ng anghel ng Panginoon si Felipe, \u201cPumunta ka sa daan papuntang Gaza. Habang naglalakad siya, nakita ni Felipe ang sasakyan (karwahe) ng isang opisyal sa Etiopia. Sinabi ng Banal na Espiritu sa aknya na kausapin ang opisyal."
+        }, 
+        {
+          "id": "45-07", 
+          "img": "{{:en:obs:obs-45-07.jpg?nolink&640x360}}", 
+          "text": "Si Felipe ay isa sa mga alagad ng Panginoon. Pumunta siya sa Samaria at doon ipinahayag ang tungkol kay Jesus. Marami ang naniwala kay Jesus sa Samaria. Isang araw, inutusan ng anghel ng Panginoon si Felipe, \u201cPumunta ka sa daan papuntang Gaza. Habang naglalakad siya, nakita ni Felipe ang sasakyan (karwahe) ng isang opisyal sa Etiopia. Sinabi ng Banal na Espiritu sa aknya na kausapin ang opisyal."
         }, 
         {
           "id": "45-08", 
           "img": "{{:en:obs:obs-45-08.jpg?nolink&640x360}}", 
-          "text": "When Philip came near the chariot, he heard the man reading from the prophet Isaiah, \u201cHe was led like a lamb to be killed, and did not say a word. He was treated unfairly and without respect. His life was taken away from him.\u201d"
+          "text": "Nang makalapit si Felipe sa karwahe, narinig niyang binabasa ng lalaki ang aklat ni Propeta Isaias. \u201cKagaya ng tupa, siya ay papatayin, pero hindi siya nagsabi kahit kaunti man. Hindi siya binigyan ng katarungan at paggalang. Inagaw sa kanya ang kanyang buhay."
+        }, 
+        {
+          "id": "45-08", 
+          "img": "{{:en:obs:obs-45-08.jpg?nolink&640x360}}", 
+          "text": "Nang makalapit si Felipe sa karwahe, narinig niyang binabasa ng lalaki ang aklat ni Propeta Isaias. \u201cKagaya ng tupa, siya ay papatayin, pero hindi siya nagsabi kahit kaunti man. Hindi siya binigyan ng katarungan at paggalang. Inagaw sa kanya ang kanyang buhay."
         }, 
         {
           "id": "45-09", 
           "img": "{{:en:obs:obs-45-09.jpg?nolink&640x360}}", 
-          "text": "Philip asked the Ethiopian, \u201cDo you understand what you are reading?\u201d He said, \u201cNo. I cannot understand it unless someone explains it to me. Please come and sit next to me. Is Isaiah talking about himself or someone else?\u201d"
+          "text": "Tinanong ni Felipe ang lalaki, \u201cNauunawaan po ba ninyo ang binabasa ninyo?\u201d Sumagot ang pinuno, \u201cHindi. Hindi ko ito maiintindihan kung walang magpapaliwanag nito sa akin. Halika, sumakay ka. Sa tingin mo, sino ang tinutukoy ni Isaias dito? Ibang tao ba o ang sarili niya?\u201d"
+        }, 
+        {
+          "id": "45-09", 
+          "img": "{{:en:obs:obs-45-09.jpg?nolink&640x360}}", 
+          "text": "Tinanong ni Felipe ang lalaki, \u201cNauunawaan po ba ninyo ang binabasa ninyo?\u201d Sumagot ang pinuno, \u201cHindi. Hindi ko ito maiintindihan kung walang magpapaliwanag nito sa akin. Halika, sumakay ka. Sa tingin mo, sino ang tinutukoy ni Isaias dito? Ibang tao ba o ang sarili niya?\u201d"
         }, 
         {
           "id": "45-10", 
           "img": "{{:en:obs:obs-45-10.jpg?nolink&640x360}}", 
-          "text": "Philip showed him that Isaiah was talking about Jesus. Philip also used many other Scriptures to tell him the Good News of Jesus."
+          "text": "Ipinaliwanag sa kanya ni Felipe na ang tinutukoy ni Isaias ay ang Panginoong Jesus. Bumanggit din si Felipe ng iba pang mga kasulatan para maikuwento sa pinuno ng Etiopia ang magandang balita tungkol kay Jesus."
+        }, 
+        {
+          "id": "45-10", 
+          "img": "{{:en:obs:obs-45-10.jpg?nolink&640x360}}", 
+          "text": "Ipinaliwanag sa kanya ni Felipe na ang tinutukoy ni Isaias ay ang Panginoong Jesus. Bumanggit din si Felipe ng iba pang mga kasulatan para maikuwento sa pinuno ng Etiopia ang magandang balita tungkol kay Jesus."
         }, 
         {
           "id": "45-11", 
           "img": "{{:en:obs:obs-45-11.jpg?nolink&640x360}}", 
-          "text": "As they passed by some water, the Ethiopian said, \u201cLook! There is some water! May I be baptized?\u201d And he ordered the chariot to stop."
+          "text": "Nang mapadaan sila sa isang lugar na may tubig, tinanong ng pinuno si Felipe, \u201cHayun! May tubig doon! Pwede na ba akong magpabautismo?\u201d At pinatigil niya ang sasakyan."
+        }, 
+        {
+          "id": "45-11", 
+          "img": "{{:en:obs:obs-45-11.jpg?nolink&640x360}}", 
+          "text": "Nang mapadaan sila sa isang lugar na may tubig, tinanong ng pinuno si Felipe, \u201cHayun! May tubig doon! Pwede na ba akong magpabautismo?\u201d At pinatigil niya ang sasakyan."
         }, 
         {
           "id": "45-12", 
           "img": "{{:en:obs:obs-45-12.jpg?nolink&640x360}}", 
-          "text": "So they went down into the water, and Philip baptized him. After Philip baptized the Ethiopian, the Holy Spirit carried Philip away to another place where he continued telling people about Jesus."
+          "text": "Lumusong sila ni Felipe sa tubig. Doon siya binautismuhan ni Felipe. Matapos niyang bautismuhan ang pinuno, dinala siya ng Banal na Espiritu sa ibang lugar. Doon ipinapatuloy ni Felipe ang pagkukuwneto sa iba tungkol kay Jesus."
+        }, 
+        {
+          "id": "45-12", 
+          "img": "{{:en:obs:obs-45-12.jpg?nolink&640x360}}", 
+          "text": "Lumusong sila ni Felipe sa tubig. Doon siya binautismuhan ni Felipe. Matapos niyang bautismuhan ang pinuno, dinala siya ng Banal na Espiritu sa ibang lugar. Doon ipinapatuloy ni Felipe ang pagkukuwneto sa iba tungkol kay Jesus."
         }, 
         {
           "id": "45-13", 
           "img": "{{:en:obs:obs-45-13.jpg?nolink&640x360}}", 
-          "text": "The Ethiopian went on his way, happy to know Jesus."
+          "text": "Samantala, umuwi naman ang pinuno sa Etiopia. Masayang masaya siya dahil nakilala niya si Jesus."
+        }, 
+        {
+          "id": "45-13", 
+          "img": "{{:en:obs:obs-45-13.jpg?nolink&640x360}}", 
+          "text": "Samantala, umuwi naman ang pinuno sa Etiopia. Masayang masaya siya dahil nakilala niya si Jesus."
         }
       ], 
       "number": "45", 
       "ref": "A Bible story from: Acts 8:26-40", 
-      "title": "45. Philip and the Ethiopian Official"
+      "title": "Si Esteban at si Felipe"
     }, 
     {
       "frames": [
