@@ -6,7 +6,7 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ding nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw na ng tubig."
+          "text": "Ganito nagsimula ang lahat. Nilikha ng Diyos ang lahat ng bagay sa loob ng anim na araw. Madilim at wala pang laman ang nilikha ng Diyos noon. Wala pa ring nalilikhang anumang bagay mula sa ginawa niya. Pero ang Espiritu ng Diyos ay nasa ibabaw ng tubig."
         }, 
         {
           "id": "01-02", 
@@ -16,7 +16,7 @@
         {
           "id": "01-03", 
           "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
-          "text": "Sa ikalawang araw naman ng paglikha, nagsalita ang Diyos at ginawa niya ang kalawakan. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
+          "text": "Sa ikalawang araw naman ng paglikha, ginawa ng Diyos ang kalawakan sa pamamagitan ng salita. Ito ang naghiwalay sa tubig na nasa itaas at sa tubig na nasa ibaba."
         }, 
         {
           "id": "01-04", 
@@ -51,12 +51,12 @@
         {
           "id": "01-10", 
           "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
-          "text": "Kaya kumuha ang Diyos ng lupa. Ginawa niya itong hugis-lalaki. Pagkatapos, hinihangan niya ito kaya ito nabuhay. Tinawa niya ang lalaki na Adan. Gumawa din ang Diyos ng isang halamanan para doon tumira si Adan. Siya ang mag-aalaga sa halamanan."
+          "text": "Kaya kumuha ang Diyos ng lupa. Ginawa niya itong hugis-lalaki. Pagkatapos, hinihangan niya ito kaya ito nabuhay. Tinawag niya ang lalaki na Adan. Gumawa din ang Diyos ng isang halamanan para doon tumira si Adan. Siya ang mag-aalaga sa halamanan."
         }, 
         {
           "id": "01-11", 
           "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
-          "text": "Sa gitna ng halamanan ay may itinanim na dalawang kakaibang puno ang Diyos. Ang unang puno ay ang puno ng buhay. Ang ikalawa naman ay ang puno ng pagkaalam ng mabuti at masama. Sinabi ng Diyos kay Adan, \u201cPwede kang kumain ng bunga ng lahat ng puno dito, maliban sa bunga ng puno ng pagkaalam ng mabuti at masama.\u201d Sinabi din ng Diyos na mamamatay siya kapag kumain siya ng bunga nito."
+          "text": "Sa gitna ng halamanan ay may itinanim ang Diyos na dalawang kakaibang puno ang Diyos. Ang unang puno ay ang puno ng buhay. Ang ikalawa naman ay ang puno ng pagkaalam ng mabuti at masama. Sinabi ng Diyos kay Adan, \u201cPwede kang kumain ng bunga ng lahat ng puno dito, maliban sa bunga ng puno ng pagkaalam ng mabuti at masama.\u201d Sinabi din ng Diyos na mamamatay siya kapag kumain siya ng bunga nito."
         }, 
         {
           "id": "01-12", 
@@ -116,11 +116,6 @@
           "text": "Lalong natakam ang babae sa bunga dahil maganda ito. Gusto din niyang tumalino kaya pumitas siya ng bunga at kinain ito. Binigyan din niya ang asawa niya at kumain din si Adan."
         }, 
         {
-          "id": "02-05", 
-          "img": "{{:en:obs:obs-02-05.jpg?nolink&640x360}}", 
-          "text": "Lalong natakam ang babae sa bunga dahil maganda ito. Gusto din niyang tumalino kaya pumitas siya ng bunga at kinain ito. Binigyan din niya ang asawa niya at kumain din si Adan."
-        }, 
-        {
           "id": "02-06", 
           "img": "{{:en:obs:obs-02-06.jpg?nolink&640x360}}", 
           "text": "Biglang may nangyari sa kanila. Napansin nilang wala pala silang suot na damit. Sinikap nilang takpan ang kanilang katawan ng pinagtagpi-tagping dahon na ginawa nilang damit."
@@ -128,12 +123,12 @@
         {
           "id": "02-07", 
           "img": "{{:en:obs:obs-02-07.jpg?nolink&640x360}}", 
-          "text": "Nadinig ng mag-asawa na naglalakad ang Diyos sa halamanan. Kaya nagtago sila. Tinawa ng Diyos ang lalaki, \u201cAdan, nasaan ka?\u201d Sumagot si Adan, \u201cNadinig ko pong naglalakad kayo sa hardin. Natakot po ako kasi nakahubad po ako. Kaya po nagtago ako.\u201d"
+          "text": "Nadinig ng mag-asawa na naglalakad ang Diyos sa halamanan. Kaya nagtago sila. Tinawag ng Diyos ang lalaki, \u201cAdan, nasaan ka?\u201d Sumagot si Adan, \u201cNadinig ko pong naglalakad kayo sa hardin. Natakot po ako kasi nakahubad po ako. Kaya po nagtago ako.\u201d"
         }, 
         {
           "id": "02-08", 
           "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
-          "text": "\u201cSino ang nagsabi nakahubad ka?\u201d tanong ng Diyos sa kanya. \u201cKumain ka ba ng bunga sa ayaw kong ipakin sa inyo?\u201d Sumagot si Adan, \u201cYun pong babaeng ibinigay ninyo sa akin, siya po ang nagpakain sa akin ng bunga.\u201d Tinanong ng Diyos ang babae, \u201cBakit mo ginawa iyon?\u201d Sumagot ang babae, \u201cNilinlang po ako ng ahas.\u201d"
+          "text": "\u201cSino ang nagsabing nakahubad ka?\u201d tanong ng Diyos sa kanya. \u201cKumain ka ba ng bunga na ayaw kong ipakin sa inyo?\u201d Sumagot si Adan, \u201cYun pong babaeng ibinigay ninyo sa akin, siya po ang nagpakain sa akin ng bunga.\u201d Tinanong ng Diyos ang babae, \u201cBakit mo ginawa iyon?\u201d Sumagot ang babae, \u201cNilinlang po ako ng ahas.\u201d"
         }, 
         {
           "id": "02-09", 
@@ -153,7 +148,7 @@
         {
           "id": "02-12", 
           "img": "{{:en:obs:obs-02-12.jpg?nolink&640x360}}", 
-          "text": "Sinabi ng Diyos, \u201cNaging katulad na natin ang mga tao. Alam na nila ang mabuti at ang masama. Hindi sila dapat makakain ng bunga ng puno ng buhay dahil hindi sila mamamatay.\u201d Kaya pinaalais ng Diyos sina Adan at Eba sa magandang halamanan. Naglagay din siya ng malalaki at malalakas na mga anghel sa pagpasok ng halamanan para pigilan ang mga tao na makakain ng bunga ng puno ng buhay."
+          "text": "Sinabi ng Diyos, \u201cNaging katulad na natin ang mga tao. Alam na nila ang mabuti at ang masama. Hindi sila dapat makakain ng bunga ng puno ng buhay dahil hindi sila mamamatay.\u201d Kaya pinaalis ng Diyos sina Adan at Eba sa magandang halamanan. Naglagay din siya ng malalaki at malalakas na mga anghel sa pagpasok ng halamanan para pigilan ang mga tao na makakain ng bunga ng puno ng buhay."
         }
       ], 
       "number": "02", 
@@ -3347,7 +3342,7 @@
       "title": "50. Babalik si Jesus"
     }
   ], 
-  "date_modified": "20140520", 
+  "date_modified": "20140521", 
   "direction": "ltr", 
   "language": "tl"
 }
