@@ -6,12 +6,12 @@
         {
           "id": "01-01", 
           "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "Zeizong vialte hram an i thawk ning cu hiti hin a si. Pathian nih van le vawlei le cu hna chung i a ummi vialte ni ruk chung ah a ser dih hna. A hramthawk ah cun vawlei hi a rak mui demdum i a kawlawng pi a rak si, i a chung ah zei hmanh a rak um lo. Nain Pathian Thlarau cu ti cung ah a rak um."
+          "text": "Zeizong vialte hram an i thawk ning cu hiti hin a si. Pathian nih van le vawlei le cu hna chung i a ummi vialte ni ruk chung ah a ser dih hna. A hramthawk ah cun vawlei hi a rak mui demdum i a kawlawng pi a rak si i, a chung ah zei hmanh a rak um lo. Nain Pathian Thlarau cu ti cung ah a rak um."
         }, 
         {
           "id": "01-02", 
           "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
-          "text": "Cun Pathian nih, \"Ceunak um seh!\" a ti. Cuticun ceunak cu a hung um. Pathian nih ceunak cu a zoh i a \u1e6dha a ti i \"chun\" tiah a ti. Cu ceunak cu \"zan\" tiah a timi muihnak in a \u1e6dhen. Pathian nih ceunak cu sernak a thawk a ni khatnak ah a ser."
+          "text": "Cun Pathian nih, \"Ceunak um seh!\" a ti. Cuticun ceunak cu a hung um. Pathian nih ceunak cu a zoh i a \u1e6dha a ti i \"chun\" tiah a ti. Cu ceunak cu \"zan\" tiah a timi muihnak in a then. Pathian nih ceunak cu sernak a thawk a ni khatnak ah a ser."
         }, 
         {
           "id": "01-03", 
@@ -3317,7 +3317,7 @@
       "title": "50. Jesuh A Ra Than Lai"
     }
   ], 
-  "date_modified": "20140423", 
+  "date_modified": "20140522", 
   "direction": "ltr", 
   "language": "cnh"
 }
