@@ -128,7 +128,12 @@
         {
           "id": "02-08", 
           "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
-          "text": "\u201cSino ang nagsabing nakahubad ka?\u201d tanong ng Diyos sa kanya. \u201cKumain ka ba ng bunga na ayaw kong ipakin sa inyo?\u201d Sumagot si Adan, \u201cYun pong babaeng ibinigay ninyo sa akin, siya po ang nagpakain sa akin ng bunga.\u201d Tinanong ng Diyos ang babae, \u201cBakit mo ginawa iyon?\u201d Sumagot ang babae, \u201cNilinlang po ako ng ahas.\u201d"
+          "text": "Question: ayaw kong ipakain sa inyo? Should this be \"binawal ko ..\""
+        }, 
+        {
+          "id": "02-08", 
+          "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
+          "text": "Question: ayaw kong ipakain sa inyo? Should this be \"binawal ko ..\""
         }, 
         {
           "id": "02-09", 
@@ -634,22 +639,22 @@
         {
           "id": "10-04", 
           "img": "{{:en:obs:obs-10-04.jpg?nolink&640x360}}", 
-          "text": "Nagpadala naman ang Diyos ng mga palaka sa buong Ehipto. Nakiusap ang hari kay Moises na paalisin ang mga palaka. Nang mawala na ang mga palaka, nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Isarelita."
+          "text": "Nagpadala naman ang Diyos ng mga palaka sa buong Ehipto. Nakiusap ang hari kay Moises na paalisin ang mga palaka. Nang mawala na ang mga palaka, nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Israelita."
         }, 
         {
           "id": "10-05", 
           "img": "{{:en:obs:obs-10-05.jpg?nolink&640x360}}", 
-          "text": "Nagpadala naman ang Diyos ng mga niknik. Pagkatapos ay mga langaw naman. Kaya sinabi ng hari, \u201cPapayagan ko na kayong umalis, basta alisin ninyo ang mga kulisap na ito.\u201d Nanalangin si Moises at inalis ng Diyos ang mga langaw sa buong Ehipto. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Isarelita."
+          "text": "Nagpadala naman ang Diyos ng mga niknik. Pagkatapos ay mga langaw naman. Kaya sinabi ng hari, \u201cPapayagan ko na kayong umalis, basta alisin ninyo ang mga kulisap na ito.\u201d Nanalangin si Moises at inalis ng Diyos ang mga langaw sa buong Ehipto. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Israelita."
         }, 
         {
           "id": "10-06", 
           "img": "{{:en:obs:obs-10-06.jpg?nolink&640x360}}", 
-          "text": "Pagkatapos ay nagpadala ang Diyos ng sakit sa mga hayop na alaga ng mga taga-Ehipto. Namatay ang mga hayop. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Isarelita."
+          "text": "Pagkatapos ay nagpadala ang Diyos ng sakit sa mga hayop na alaga ng mga taga-Ehipto. Namatay ang mga hayop. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Israelita."
         }, 
         {
           "id": "10-07", 
           "img": "{{:en:obs:obs-10-07.jpg?nolink&640x360}}", 
-          "text": "Sinabi ng Diyos kay Moises, \u201cDumakot ka ng alikabok at ihagis mo sa hangin sa harap ng hari ng Ehipto. Nang ginawa ito ni Moises, nagkaroon ng mga bukol ang mga taga-Ehipto, pero hindi ang mga Israelita. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Isarelita."
+          "text": "Sinabi ng Diyos kay Moises, \u201cDumakot ka ng alikabok at ihagis mo sa hangin sa harap ng hari ng Ehipto. Nang ginawa ito ni Moises, nagkaroon ng mga bukol ang mga taga-Ehipto, pero hindi ang mga Israelita. Pero nagmatigas pa rin ang hari. Hindi pa rin niya pinalaya ang mga Israelita."
         }, 
         {
           "id": "10-08", 
@@ -674,7 +679,7 @@
         {
           "id": "10-12", 
           "img": "{{:en:obs:obs-10-12.jpg?nolink&640x360}}", 
-          "text": "Nagmamatigas pa rin ang hari ng Ehipto kahit siyam na salot na ang naranasan nila. Hindi pa rin niya pinalaya ang mga Isarelita. Dahil ayaw talagang makinig ng hari, nagpadala ang Diyos ng isa pang salot at ito ang bumago sa isip ng hari."
+          "text": "Nagmamatigas pa rin ang hari ng Ehipto kahit siyam na salot na ang naranasan nila. Hindi pa rin niya pinalaya ang mga Israelita. Dahil ayaw talagang makinig ng hari, nagpadala ang Diyos ng isa pang salot at ito ang bumago sa isip ng hari."
         }
       ], 
       "number": "10", 
@@ -3347,7 +3352,7 @@
       "title": "50. Babalik si Jesus"
     }
   ], 
-  "date_modified": "20140525", 
+  "date_modified": "20140527", 
   "direction": "ltr", 
   "language": "tl"
 }
