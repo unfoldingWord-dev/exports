@@ -1323,24 +1323,466 @@
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "08-01", 
+          "img": "{{:en:obs:obs-08-01.jpg?nolink&640x360}}", 
+          "text": "Sen tuway na  si Jacob,  gisay allu in-utus nay kakaidwan nay  anak  ya  naglagyun Jose. Sinabi na kana, \u201cAnak ku, lakw\u00ean mun elewen na mapatel  muy magpastul.\u201d"
+        }, 
+        {
+          "id": "08-01", 
+          "img": "{{:en:obs:obs-08-01.jpg?nolink&640x360}}", 
+          "text": "Sen tuway na  si Jacob,  gisay allu in-utus nay kakaidwan nay  anak  ya  naglagyun Jose. Sinabi na kana, \u201cAnak ku, lakw\u00ean mun elewen na mapatel  muy magpastul.\u201d"
+        }, 
+        {
+          "id": "08-01", 
+          "img": "{{:en:obs:obs-08-01.jpg?nolink&640x360}}", 
+          "text": "Sen tuway na  si Jacob,  gisay allu in-utus nay kakaidwan nay  anak  ya  naglagyun Jose. Sinabi na kana, \u201cAnak ku, lakw\u00ean mun elewen na mapatel  muy magpastul.\u201d"
+        }, 
+        {
+          "id": "08-02", 
+          "img": "{{:en:obs:obs-08-02.jpg?nolink&640x360}}", 
+          "text": "Ya mapatel na, tanda lay  kakaidwan  bapa la  si Jose buy tanda la \u00eat ta  sa  tayn\u00eap nan Jose  sabay  siyay   mag-ari kalla. Kabay masakit ta  nak\u00eam la  kan Jose."
+        }, 
+        {
+          "id": "08-02", 
+          "img": "{{:en:obs:obs-08-02.jpg?nolink&640x360}}", 
+          "text": "Ya mapatel na, tanda lay  kakaidwan  bapa la  si Jose buy tanda la \u00eat ta  sa  tayn\u00eap nan Jose  sabay  siyay   mag-ari kalla. Kabay masakit ta  nak\u00eam la  kan Jose."
+        }, 
+        {
+          "id": "08-02", 
+          "img": "{{:en:obs:obs-08-02.jpg?nolink&640x360}}", 
+          "text": "Ya mapatel na, tanda lay  kakaidwan  bapa la  si Jose buy tanda la \u00eat ta  sa  tayn\u00eap nan Jose  sabay  siyay   mag-ari kalla. Kabay masakit ta  nak\u00eam la  kan Jose."
+        }, 
+        {
+          "id": "08-03", 
+          "img": "{{:en:obs:obs-08-03.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,  inlumat\u00eang  nga si Jose sa mapatel  na, tinalan yan  mapatel na buy kinulbutan.  Dilag dinuman bayduy   manaliw, kingwa la ya.Ta insaliw la ya sa mani manaliw. Buy gintan  yan manaliw sa Egipto. Am\u00eas\u00ean, sen nuli yay mapatel na sa bali la, inpakit lay  yaming  Jose sa  bapa la, buy sinabi la, \u201cBapay, nakit yan sa dan  na yaming  Jose.\u201d Sinabin  Jacob,  \u201cDat  dilag gisay saysay ya matubag ga namati kana.\u201d Buy  sadyay lungkut bapa la."
+        }, 
+        {
+          "id": "08-03", 
+          "img": "{{:en:obs:obs-08-03.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,  inlumat\u00eang  nga si Jose sa mapatel  na, tinalan yan  mapatel na buy kinulbutan.  Dilag dinuman bayduy   manaliw, kingwa la ya.Ta insaliw la ya sa mani manaliw. Buy gintan  yan manaliw sa Egipto. Am\u00eas\u00ean, sen nuli yay mapatel na sa bali la, inpakit lay  yaming  Jose sa  bapa la, buy sinabi la, \u201cBapay, nakit yan sa dan  na yaming  Jose.\u201d Sinabin  Jacob,  \u201cDat  dilag gisay saysay ya matubag ga namati kana.\u201d Buy  sadyay lungkut bapa la."
+        }, 
+        {
+          "id": "08-03", 
+          "img": "{{:en:obs:obs-08-03.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,  inlumat\u00eang  nga si Jose sa mapatel  na, tinalan yan  mapatel na buy kinulbutan.  Dilag dinuman bayduy   manaliw, kingwa la ya.Ta insaliw la ya sa mani manaliw. Buy gintan  yan manaliw sa Egipto. Am\u00eas\u00ean, sen nuli yay mapatel na sa bali la, inpakit lay  yaming  Jose sa  bapa la, buy sinabi la, \u201cBapay, nakit yan sa dan  na yaming  Jose.\u201d Sinabin  Jacob,  \u201cDat  dilag gisay saysay ya matubag ga namati kana.\u201d Buy  sadyay lungkut bapa la."
+        }, 
+        {
+          "id": "08-04", 
+          "img": "{{:en:obs:obs-08-04.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,   sen inlumateng nga sa Egiptuy  manaliw, insaliw la  et  si Jose sa gisay mabandi, ya naglagyun Potiphar."
+        }, 
+        {
+          "id": "08-04", 
+          "img": "{{:en:obs:obs-08-04.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,   sen inlumateng nga sa Egiptuy  manaliw, insaliw la  et  si Jose sa gisay mabandi, ya naglagyun Potiphar."
+        }, 
+        {
+          "id": "08-04", 
+          "img": "{{:en:obs:obs-08-04.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean,   sen inlumateng nga sa Egiptuy  manaliw, insaliw la  et  si Jose sa gisay mabandi, ya naglagyun Potiphar."
+        }, 
+        {
+          "id": "08-05", 
+          "img": "{{:en:obs:obs-08-05.jpg?nolink&640x360}}", 
+          "text": "Sen idi ya si Jose sa Egipto, mapagkatiwalan yan  amung na. Nuwa ya asawan  amung na, labay na yan gitan  si  Jose. Am\u00eas\u00ean, si Jose, a ya kalabay  mangasalanan kan Bapan Namalyari. Buy si asawan Potiphar, sinangkanan  na  si Jose sa ayin kap\u00eat\u00eagan. Kabay nasukul ya. Nuwa agyan idi  ya  sa sukulan, pagtiwalan ya pun  \u00eat murin, ta pagpal\u00ean  yan Bapan Namalyari."
+        }, 
+        {
+          "id": "08-05", 
+          "img": "{{:en:obs:obs-08-05.jpg?nolink&640x360}}", 
+          "text": "Sen idi ya si Jose sa Egipto, mapagkatiwalan yan  amung na. Nuwa ya asawan  amung na, labay na yan gitan  si  Jose. Am\u00eas\u00ean, si Jose, a ya kalabay  mangasalanan kan Bapan Namalyari. Buy si asawan Potiphar, sinangkanan  na  si Jose sa ayin kap\u00eat\u00eagan. Kabay nasukul ya. Nuwa agyan idi  ya  sa sukulan, pagtiwalan ya pun  \u00eat murin, ta pagpal\u00ean  yan Bapan Namalyari."
+        }, 
+        {
+          "id": "08-05", 
+          "img": "{{:en:obs:obs-08-05.jpg?nolink&640x360}}", 
+          "text": "Sen idi ya si Jose sa Egipto, mapagkatiwalan yan  amung na. Nuwa ya asawan  amung na, labay na yan gitan  si  Jose. Am\u00eas\u00ean, si Jose, a ya kalabay  mangasalanan kan Bapan Namalyari. Buy si asawan Potiphar, sinangkanan  na  si Jose sa ayin kap\u00eat\u00eagan. Kabay nasukul ya. Nuwa agyan idi  ya  sa sukulan, pagtiwalan ya pun  \u00eat murin, ta pagpal\u00ean  yan Bapan Namalyari."
+        }, 
+        {
+          "id": "08-06", 
+          "img": "{{:en:obs:obs-08-06.jpg?nolink&640x360}}", 
+          "text": "Sa panawun na abaytu, ya Puun Paraun ya mag-ari  sa Egipto, nanayn\u00eap ya buy aya mapipaldan  ta ayin mamipaintindi kana  nu sab\u00eat ta labay sabin natayn\u00eap na."
+        }, 
+        {
+          "id": "08-06", 
+          "img": "{{:en:obs:obs-08-06.jpg?nolink&640x360}}", 
+          "text": "Sa panawun na abaytu, ya Puun Paraun ya mag-ari  sa Egipto, nanayn\u00eap ya buy aya mapipaldan  ta ayin mamipaintindi kana  nu sab\u00eat ta labay sabin natayn\u00eap na."
+        }, 
+        {
+          "id": "08-06", 
+          "img": "{{:en:obs:obs-08-06.jpg?nolink&640x360}}", 
+          "text": "Sa panawun na abaytu, ya Puun Paraun ya mag-ari  sa Egipto, nanayn\u00eap ya buy aya mapipaldan  ta ayin mamipaintindi kana  nu sab\u00eat ta labay sabin natayn\u00eap na."
+        }, 
+        {
+          "id": "08-07", 
+          "img": "{{:en:obs:obs-08-07.jpg?nolink&640x360}}", 
+          "text": "Tandan  Jose nu sabet ta labay sabin natayn\u00eap Paraun. Ta pan-ipatandan Bapan Namalyari kanay labay sabin abitu. Buy  nabalitan  Puun Paraun,  ya si Jose dilag yan kabiyasnan mamipatanda nu sabet ta labay sabin natayn\u00eap na. Kabay inpaawas na si Jose sa sukulan, ta labay nan Puun Paraun ya ipatandan  Jose  kanay  labay sabin natayn\u00eap na. Buy s\u00ean idi ya  si  Jose sa arapan na, sinabi na kan Jose, \u201cJose, ipatanda mu dayi kangku  nu sabet ta labay sabin  tayn\u00eap ku.\u201d Sinabin  Jose kana, \u201cPanggalang\u00ean na Puun Paraun, inpatandan Bapan Namalyari kangku ya labay sabin tayn\u00eap mu. Paradi ya labay sabin. Sa lal\u00ean  pituy tawun, mang\u00ead da pupul baydi sa Egipto, nuwa dilag \u00eat kasunul, sa lal\u00ean pituy tawun  ayin nan   mang\u00ead da pupul.\u201d"
+        }, 
+        {
+          "id": "08-07", 
+          "img": "{{:en:obs:obs-08-07.jpg?nolink&640x360}}", 
+          "text": "Tandan  Jose nu sabet ta labay sabin natayn\u00eap Paraun. Ta pan-ipatandan Bapan Namalyari kanay labay sabin abitu. Buy  nabalitan  Puun Paraun,  ya si Jose dilag yan kabiyasnan mamipatanda nu sabet ta labay sabin natayn\u00eap na. Kabay inpaawas na si Jose sa sukulan, ta labay nan Puun Paraun ya ipatandan  Jose  kanay  labay sabin natayn\u00eap na. Buy s\u00ean idi ya  si  Jose sa arapan na, sinabi na kan Jose, \u201cJose, ipatanda mu dayi kangku  nu sabet ta labay sabin  tayn\u00eap ku.\u201d Sinabin  Jose kana, \u201cPanggalang\u00ean na Puun Paraun, inpatandan Bapan Namalyari kangku ya labay sabin tayn\u00eap mu. Paradi ya labay sabin. Sa lal\u00ean  pituy tawun, mang\u00ead da pupul baydi sa Egipto, nuwa dilag \u00eat kasunul, sa lal\u00ean pituy tawun  ayin nan   mang\u00ead da pupul.\u201d"
+        }, 
+        {
+          "id": "08-07", 
+          "img": "{{:en:obs:obs-08-07.jpg?nolink&640x360}}", 
+          "text": "Tandan  Jose nu sabet ta labay sabin natayn\u00eap Paraun. Ta pan-ipatandan Bapan Namalyari kanay labay sabin abitu. Buy  nabalitan  Puun Paraun,  ya si Jose dilag yan kabiyasnan mamipatanda nu sabet ta labay sabin natayn\u00eap na. Kabay inpaawas na si Jose sa sukulan, ta labay nan Puun Paraun ya ipatandan  Jose  kanay  labay sabin natayn\u00eap na. Buy s\u00ean idi ya  si  Jose sa arapan na, sinabi na kan Jose, \u201cJose, ipatanda mu dayi kangku  nu sabet ta labay sabin  tayn\u00eap ku.\u201d Sinabin  Jose kana, \u201cPanggalang\u00ean na Puun Paraun, inpatandan Bapan Namalyari kangku ya labay sabin tayn\u00eap mu. Paradi ya labay sabin. Sa lal\u00ean  pituy tawun, mang\u00ead da pupul baydi sa Egipto, nuwa dilag \u00eat kasunul, sa lal\u00ean pituy tawun  ayin nan   mang\u00ead da pupul.\u201d"
+        }, 
+        {
+          "id": "08-08", 
+          "img": "{{:en:obs:obs-08-08.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun,  ya labay sabin natayn\u00eap na, natula ya kan Jose. Kabay dinyag na yan ikaluwan pinakamatag-ay ya mamaala baydu sa bansan Egipto."
+        }, 
+        {
+          "id": "08-08", 
+          "img": "{{:en:obs:obs-08-08.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun,  ya labay sabin natayn\u00eap na, natula ya kan Jose. Kabay dinyag na yan ikaluwan pinakamatag-ay ya mamaala baydu sa bansan Egipto."
+        }, 
+        {
+          "id": "08-08", 
+          "img": "{{:en:obs:obs-08-08.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun,  ya labay sabin natayn\u00eap na, natula ya kan Jose. Kabay dinyag na yan ikaluwan pinakamatag-ay ya mamaala baydu sa bansan Egipto."
+        }, 
+        {
+          "id": "08-09", 
+          "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
+          "text": "Ya kal-atan  pupul sa Egipto sa lal\u00ean  pituy tawun, si Jose ya mamantay un natagan buy siya \u00eat murin na mamaala sa mani nanipun un kaatag ga pupul baydu ta am\u00ean la maisimpan ya kaatag ga pupul sa Egipto. Buy sen nilateng ngay  kasunul la  pituy tawun, magkasakit  tay  mani tawu."
+        }, 
+        {
+          "id": "08-09", 
+          "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
+          "text": "Ya kal-atan  pupul sa Egipto sa lal\u00ean  pituy tawun, si Jose ya mamantay un natagan buy siya \u00eat murin na mamaala sa mani nanipun un kaatag ga pupul baydu ta am\u00ean la maisimpan ya kaatag ga pupul sa Egipto. Buy sen nilateng ngay  kasunul la  pituy tawun, magkasakit  tay  mani tawu."
+        }, 
+        {
+          "id": "08-09", 
+          "img": "{{:en:obs:obs-08-09.jpg?nolink&640x360}}", 
+          "text": "Ya kal-atan  pupul sa Egipto sa lal\u00ean  pituy tawun, si Jose ya mamantay un natagan buy siya \u00eat murin na mamaala sa mani nanipun un kaatag ga pupul baydu ta am\u00ean la maisimpan ya kaatag ga pupul sa Egipto. Buy sen nilateng ngay  kasunul la  pituy tawun, magkasakit  tay  mani tawu."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-10", 
+          "img": "{{:en:obs:obs-08-10.jpg?nolink&640x360}}", 
+          "text": "Buy s\u00ean nabalitan  Jacob ba  malak\u00eay ma\u00eakan baydu sa Egipto, in-utus nay maanak  nay  manaliw kan Jose. Kabay nakuy mapatel Jose sa  bansan Egipto. Pamakalat\u00eang  la  baydu, a la  tanday  si Jose aw\u00ead da mamaala sa bansan Egipto. Nuwa, si Jose, tanda nay sabay silay mani mapat\u00eal nay nisaliw kana."
+        }, 
+        {
+          "id": "08-12", 
+          "img": "{{:en:obs:obs-08-12.jpg?nolink&640x360}}", 
+          "text": "Sinubukan  Jose ya mapat\u00eal na, nu p\u00eat\u00eag gan nagbayuy ugali la. S\u00ean  natandan nay nagbayu silay na, nagpatanda si Jose kalla. Buy sinagyat na silan manug\u00eal sa Egipto. Ta sawpan na sila."
+        }, 
+        {
+          "id": "08-12", 
+          "img": "{{:en:obs:obs-08-12.jpg?nolink&640x360}}", 
+          "text": "Sinubukan  Jose ya mapat\u00eal na, nu p\u00eat\u00eag gan nagbayuy ugali la. S\u00ean  natandan nay nagbayu silay na, nagpatanda si Jose kalla. Buy sinagyat na silan manug\u00eal sa Egipto. Ta sawpan na sila."
+        }, 
+        {
+          "id": "08-12", 
+          "img": "{{:en:obs:obs-08-12.jpg?nolink&640x360}}", 
+          "text": "Sinubukan  Jose ya mapat\u00eal na, nu p\u00eat\u00eag gan nagbayuy ugali la. S\u00ean  natandan nay nagbayu silay na, nagpatanda si Jose kalla. Buy sinagyat na silan manug\u00eal sa Egipto. Ta sawpan na sila."
+        }, 
+        {
+          "id": "08-13", 
+          "img": "{{:en:obs:obs-08-13.jpg?nolink&640x360}}", 
+          "text": "S\u00ean nuli ya mapatel na , inbalita la sa bapa la, ya sinabi la, \u201cBapay, nabyay  pun aw\u00ead si Jose. Pansagyat\u00ean na kitamun manug\u00eal baydu sa Egipto ta am\u00ean  masawpan na kitamu.\u201d Sen natandan  Jacob ya nabyay  pun si Jose, sadyay tula na."
+        }, 
+        {
+          "id": "08-13", 
+          "img": "{{:en:obs:obs-08-13.jpg?nolink&640x360}}", 
+          "text": "S\u00ean nuli ya mapatel na , inbalita la sa bapa la, ya sinabi la, \u201cBapay, nabyay  pun aw\u00ead si Jose. Pansagyat\u00ean na kitamun manug\u00eal baydu sa Egipto ta am\u00ean  masawpan na kitamu.\u201d Sen natandan  Jacob ya nabyay  pun si Jose, sadyay tula na."
+        }, 
+        {
+          "id": "08-13", 
+          "img": "{{:en:obs:obs-08-13.jpg?nolink&640x360}}", 
+          "text": "S\u00ean nuli ya mapatel na , inbalita la sa bapa la, ya sinabi la, \u201cBapay, nabyay  pun aw\u00ead si Jose. Pansagyat\u00ean na kitamun manug\u00eal baydu sa Egipto ta am\u00ean  masawpan na kitamu.\u201d Sen natandan  Jacob ya nabyay  pun si Jose, sadyay tula na."
+        }, 
+        {
+          "id": "08-14", 
+          "img": "{{:en:obs:obs-08-14.jpg?nolink&640x360}}", 
+          "text": "Agyan tuway na si  Jacob, gawan sa tula na, naku ya sa Egipto, kaawyun nay pamilya na. Buy nanug\u00eal sila baydu. Nuwa bayu  nati si Jacob, pinagpala na  pun na kaganawan  anak na."
+        }, 
+        {
+          "id": "08-14", 
+          "img": "{{:en:obs:obs-08-14.jpg?nolink&640x360}}", 
+          "text": "Agyan tuway na si  Jacob, gawan sa tula na, naku ya sa Egipto, kaawyun nay pamilya na. Buy nanug\u00eal sila baydu. Nuwa bayu  nati si Jacob, pinagpala na  pun na kaganawan  anak na."
+        }, 
+        {
+          "id": "08-14", 
+          "img": "{{:en:obs:obs-08-14.jpg?nolink&640x360}}", 
+          "text": "Agyan tuway na si  Jacob, gawan sa tula na, naku ya sa Egipto, kaawyun nay pamilya na. Buy nanug\u00eal sila baydu. Nuwa bayu  nati si Jacob, pinagpala na  pun na kaganawan  anak na."
+        }, 
+        {
+          "id": "08-15", 
+          "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, ya mani pangakun Bapan Namalyari kan Abraham, naku kan Isaac. Buy s\u00ean nati si Isaac, naku \u00eat kan Jacob. Buy s\u00ean nati si Jacob, naku \u00eat sa labinluway anak na buy sa  pamilya la. Ati ya labinluway anak  Jacob ya nagin labinluway  tribun pamb\u00eag\u00ean Israel. Ta mani anak  silan Jacob ya pam\u00eag\u00ean \u00eat Israel."
+        }, 
+        {
+          "id": "08-15", 
+          "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, ya mani pangakun Bapan Namalyari kan Abraham, naku kan Isaac. Buy s\u00ean nati si Isaac, naku \u00eat kan Jacob. Buy s\u00ean nati si Jacob, naku \u00eat sa labinluway anak na buy sa  pamilya la. Ati ya labinluway anak  Jacob ya nagin labinluway  tribun pamb\u00eag\u00ean Israel. Ta mani anak  silan Jacob ya pam\u00eag\u00ean \u00eat Israel."
+        }, 
+        {
+          "id": "08-15", 
+          "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, ya mani pangakun Bapan Namalyari kan Abraham, naku kan Isaac. Buy s\u00ean nati si Isaac, naku \u00eat kan Jacob. Buy s\u00ean nati si Jacob, naku \u00eat sa labinluway anak na buy sa  pamilya la. Ati ya labinluway anak  Jacob ya nagin labinluway  tribun pamb\u00eag\u00ean Israel. Ta mani anak  silan Jacob ya pam\u00eag\u00ean \u00eat Israel."
         }
       ], 
       "number": "08", 
-      "title": "8. God Saves Joseph and His Family"
+      "ref": "A Bible story from: Genesis 37-50", 
+      "title": "8. Inligtas Bapan Namalyari si Jose buy Pamilya na"
     }, 
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "09-01", 
+          "img": "{{:en:obs:obs-09-01.jpg?nolink&640x360}}", 
+          "text": "Pangayarin pangamatin Jose, ya kaganawan kamag-anak na, nanug\u00eal sila pun sa Egipto. Sa kinakarangan panawun, sila buy layi la, nanug\u00eal silay na baydu buy inlumak\u00eay nay anak la. Kabay bin\u00eag silan Israelita."
+        }, 
+        {
+          "id": "09-01", 
+          "img": "{{:en:obs:obs-09-01.jpg?nolink&640x360}}", 
+          "text": "Pangayarin pangamatin Jose, ya kaganawan kamag-anak na, nanug\u00eal sila pun sa Egipto. Sa kinakarangan panawun, sila buy layi la, nanug\u00eal silay na baydu buy inlumak\u00eay nay anak la. Kabay bin\u00eag silan Israelita."
+        }, 
+        {
+          "id": "09-01", 
+          "img": "{{:en:obs:obs-09-01.jpg?nolink&640x360}}", 
+          "text": "Pangayarin pangamatin Jose, ya kaganawan kamag-anak na, nanug\u00eal sila pun sa Egipto. Sa kinakarangan panawun, sila buy layi la, nanug\u00eal silay na baydu buy inlumak\u00eay nay anak la. Kabay bin\u00eag silan Israelita."
+        }, 
+        {
+          "id": "09-02", 
+          "img": "{{:en:obs:obs-09-02.jpg?nolink&640x360}}", 
+          "text": "Sa kinakarangan na panawun, ya mani taga Egipto, naliwan lay na si Jose buy paglingkud na sa mani taga Egipto. Nalimwan na mani taga Egiptu sa mani Israelita gawan inlumak\u00ea silayna. Kabay ati ya bayun puun, inipus nay mani Israelita."
+        }, 
+        {
+          "id": "09-02", 
+          "img": "{{:en:obs:obs-09-02.jpg?nolink&640x360}}", 
+          "text": "Sa kinakarangan na panawun, ya mani taga Egipto, naliwan lay na si Jose buy paglingkud na sa mani taga Egipto. Nalimwan na mani taga Egiptu sa mani Israelita gawan inlumak\u00ea silayna. Kabay ati ya bayun puun, inipus nay mani Israelita."
+        }, 
+        {
+          "id": "09-02", 
+          "img": "{{:en:obs:obs-09-02.jpg?nolink&640x360}}", 
+          "text": "Sa kinakarangan na panawun, ya mani taga Egipto, naliwan lay na si Jose buy paglingkud na sa mani taga Egipto. Nalimwan na mani taga Egiptu sa mani Israelita gawan inlumak\u00ea silayna. Kabay ati ya bayun puun, inipus nay mani Israelita."
+        }, 
+        {
+          "id": "09-03", 
+          "img": "{{:en:obs:obs-09-03.jpg?nolink&640x360}}", 
+          "text": "ya mani Egiptu, pinilit lay mani Israelita un manyag matag-ay ya bali buy makwal la balayan. Pinaubra silan masakit, nuwa pinagpala silan Bapan Namalyari buy inlumak\u00eay nay mani anak la."
+        }, 
+        {
+          "id": "09-03", 
+          "img": "{{:en:obs:obs-09-03.jpg?nolink&640x360}}", 
+          "text": "ya mani Egiptu, pinilit lay mani Israelita un manyag matag-ay ya bali buy makwal la balayan. Pinaubra silan masakit, nuwa pinagpala silan Bapan Namalyari buy inlumak\u00eay nay mani anak la."
+        }, 
+        {
+          "id": "09-03", 
+          "img": "{{:en:obs:obs-09-03.jpg?nolink&640x360}}", 
+          "text": "ya mani Egiptu, pinilit lay mani Israelita un manyag matag-ay ya bali buy makwal la balayan. Pinaubra silan masakit, nuwa pinagpala silan Bapan Namalyari buy inlumak\u00eay nay mani anak la."
+        }, 
+        {
+          "id": "09-04", 
+          "img": "{{:en:obs:obs-09-04.jpg?nolink&640x360}}", 
+          "text": "Nuwa nakit  Puun Paraun ya lakwas  silay san  inlumak\u00eay anak  mani  Israelita. Kabay in-utus na, \"Nu liyaki ya anak un Israelita, isamwag ga kulaw sa ilug ta am\u00ean mati.\""
+        }, 
+        {
+          "id": "09-04", 
+          "img": "{{:en:obs:obs-09-04.jpg?nolink&640x360}}", 
+          "text": "Nuwa nakit  Puun Paraun ya lakwas  silay san  inlumak\u00eay anak  mani  Israelita. Kabay in-utus na, \"Nu liyaki ya anak un Israelita, isamwag ga kulaw sa ilug ta am\u00ean mati.\""
+        }, 
+        {
+          "id": "09-04", 
+          "img": "{{:en:obs:obs-09-04.jpg?nolink&640x360}}", 
+          "text": "Nuwa nakit  Puun Paraun ya lakwas  silay san  inlumak\u00eay anak  mani  Israelita. Kabay in-utus na, \"Nu liyaki ya anak un Israelita, isamwag ga kulaw sa ilug ta am\u00ean mati.\""
+        }, 
+        {
+          "id": "09-05", 
+          "img": "{{:en:obs:obs-09-05.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, dilag gisay Israelitay babayi ya nanganak un gisay liyaki. Siya buy asawa na, kaylangan lan itaguy kulaw sa makarang nga panawun."
+        }, 
+        {
+          "id": "09-05", 
+          "img": "{{:en:obs:obs-09-05.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, dilag gisay Israelitay babayi ya nanganak un gisay liyaki. Siya buy asawa na, kaylangan lan itaguy kulaw sa makarang nga panawun."
+        }, 
+        {
+          "id": "09-05", 
+          "img": "{{:en:obs:obs-09-05.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, dilag gisay Israelitay babayi ya nanganak un gisay liyaki. Siya buy asawa na, kaylangan lan itaguy kulaw sa makarang nga panawun."
+        }, 
+        {
+          "id": "09-06", 
+          "img": "{{:en:obs:obs-09-06.jpg?nolink&640x360}}", 
+          "text": "Kabay nanyag yan basket bayu na kinuskusan un lilin ta am\u00ean aya masunan lan\u00eam. Pamakayari, indin nay kulaw sa basket buy gintan na \u00eat ta basket buy inbul-is sa agid lan\u00eam . Si pat\u00eal  kulaw ya naglagyun Miriam, naku ya \u00eat sa ilug, ta pambantayan naya nu sab\u00eat ta malyari kana."
+        }, 
+        {
+          "id": "09-06", 
+          "img": "{{:en:obs:obs-09-06.jpg?nolink&640x360}}", 
+          "text": "Kabay nanyag yan basket bayu na kinuskusan un lilin ta am\u00ean aya masunan lan\u00eam. Pamakayari, indin nay kulaw sa basket buy gintan na \u00eat ta basket buy inbul-is sa agid lan\u00eam . Si pat\u00eal  kulaw ya naglagyun Miriam, naku ya \u00eat sa ilug, ta pambantayan naya nu sab\u00eat ta malyari kana."
+        }, 
+        {
+          "id": "09-06", 
+          "img": "{{:en:obs:obs-09-06.jpg?nolink&640x360}}", 
+          "text": "Kabay nanyag yan basket bayu na kinuskusan un lilin ta am\u00ean aya masunan lan\u00eam. Pamakayari, indin nay kulaw sa basket buy gintan na \u00eat ta basket buy inbul-is sa agid lan\u00eam . Si pat\u00eal  kulaw ya naglagyun Miriam, naku ya \u00eat sa ilug, ta pambantayan naya nu sab\u00eat ta malyari kana."
+        }, 
+        {
+          "id": "09-07", 
+          "img": "{{:en:obs:obs-09-07.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, si dalagan  Puun Paraun, in\u00eal\u00eaw nay lal\u00ean basket. S\u00ean nakit nay kulaw, ya dinyag na, kinwa nay kulaw. Ta pag-anak nayna. Inupan nay indu na  am\u00ean saysay\u00ean nay sarili nan kulaw. S\u00ean dinumagul lay  kulaw, Moises ya impalagyun dalaga."
+        }, 
+        {
+          "id": "09-07", 
+          "img": "{{:en:obs:obs-09-07.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, si dalagan  Puun Paraun, in\u00eal\u00eaw nay lal\u00ean basket. S\u00ean nakit nay kulaw, ya dinyag na, kinwa nay kulaw. Ta pag-anak nayna. Inupan nay indu na  am\u00ean saysay\u00ean nay sarili nan kulaw. S\u00ean dinumagul lay  kulaw, Moises ya impalagyun dalaga."
+        }, 
+        {
+          "id": "09-07", 
+          "img": "{{:en:obs:obs-09-07.jpg?nolink&640x360}}", 
+          "text": "Am\u00eas\u00ean, si dalagan  Puun Paraun, in\u00eal\u00eaw nay lal\u00ean basket. S\u00ean nakit nay kulaw, ya dinyag na, kinwa nay kulaw. Ta pag-anak nayna. Inupan nay indu na  am\u00ean saysay\u00ean nay sarili nan kulaw. S\u00ean dinumagul lay  kulaw, Moises ya impalagyun dalaga."
+        }, 
+        {
+          "id": "09-08", 
+          "img": "{{:en:obs:obs-09-08.jpg?nolink&640x360}}", 
+          "text": "Gisay allu, bayintawuy  na  si Moises. Nakit nay gisay Israelitay ipus  ya pampasakitin  gisay taga-Egiptu. Sinawpan nay ati tagawan tanda nay kaparisu na yan Israelita."
+        }, 
+        {
+          "id": "09-08", 
+          "img": "{{:en:obs:obs-09-08.jpg?nolink&640x360}}", 
+          "text": "Gisay allu, bayintawuy  na  si Moises. Nakit nay gisay Israelitay ipus  ya pampasakitin  gisay taga-Egiptu. Sinawpan nay ati tagawan tanda nay kaparisu na yan Israelita."
+        }, 
+        {
+          "id": "09-08", 
+          "img": "{{:en:obs:obs-09-08.jpg?nolink&640x360}}", 
+          "text": "Gisay allu, bayintawuy  na  si Moises. Nakit nay gisay Israelitay ipus  ya pampasakitin  gisay taga-Egiptu. Sinawpan nay ati tagawan tanda nay kaparisu na yan Israelita."
+        }, 
+        {
+          "id": "09-09", 
+          "img": "{{:en:obs:obs-09-09.jpg?nolink&640x360}}", 
+          "text": "Pinatin  Moises sa gisay Egiptu  buy in-ilb\u00eang naya.  Indap  na nu  ayin nakakit kana pakan  dilag gaman  awed  nakakit kana."
+        }, 
+        {
+          "id": "09-09", 
+          "img": "{{:en:obs:obs-09-09.jpg?nolink&640x360}}", 
+          "text": "Pinatin  Moises sa gisay Egiptu  buy in-ilb\u00eang naya.  Indap  na nu  ayin nakakit kana pakan  dilag gaman  awed  nakakit kana."
+        }, 
+        {
+          "id": "09-09", 
+          "img": "{{:en:obs:obs-09-09.jpg?nolink&640x360}}", 
+          "text": "Pinatin  Moises sa gisay Egiptu  buy in-ilb\u00eang naya.  Indap  na nu  ayin nakakit kana pakan  dilag gaman  awed  nakakit kana."
+        }, 
+        {
+          "id": "09-10", 
+          "img": "{{:en:obs:obs-09-10.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun ya nalyari, labay nan patin si Moises. Nuwa sen natandan  Moises ya patin  yan Puun Paraun, nagbating  ya sa Egiptu,  ta maku ya sa marayuy lugal sa kakyangan buy baydu ya manug\u00eal."
+        }, 
+        {
+          "id": "09-10", 
+          "img": "{{:en:obs:obs-09-10.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun ya nalyari, labay nan patin si Moises. Nuwa sen natandan  Moises ya patin  yan Puun Paraun, nagbating  ya sa Egiptu,  ta maku ya sa marayuy lugal sa kakyangan buy baydu ya manug\u00eal."
+        }, 
+        {
+          "id": "09-10", 
+          "img": "{{:en:obs:obs-09-10.jpg?nolink&640x360}}", 
+          "text": "S\u00ean natandan  Puun Paraun ya nalyari, labay nan patin si Moises. Nuwa sen natandan  Moises ya patin  yan Puun Paraun, nagbating  ya sa Egiptu,  ta maku ya sa marayuy lugal sa kakyangan buy baydu ya manug\u00eal."
+        }, 
+        {
+          "id": "09-11", 
+          "img": "{{:en:obs:obs-09-11.jpg?nolink&640x360}}", 
+          "text": "Nagin magpastul   mani ayup Moises ya marayu sa Egiptu. Baydu winan nag-asawa buy nakaanak yan luway liyaki."
+        }, 
+        {
+          "id": "09-11", 
+          "img": "{{:en:obs:obs-09-11.jpg?nolink&640x360}}", 
+          "text": "Nagin magpastul   mani ayup Moises ya marayu sa Egiptu. Baydu winan nag-asawa buy nakaanak yan luway liyaki."
+        }, 
+        {
+          "id": "09-11", 
+          "img": "{{:en:obs:obs-09-11.jpg?nolink&640x360}}", 
+          "text": "Nagin magpastul   mani ayup Moises ya marayu sa Egiptu. Baydu winan nag-asawa buy nakaanak yan luway liyaki."
+        }, 
+        {
+          "id": "09-12", 
+          "img": "{{:en:obs:obs-09-12.jpg?nolink&640x360}}", 
+          "text": "Gisay allu magpastul  yan tupa. Buy nakakit yan gisay kayu ya nay\u00eapa ya magd\u00eak\u00eatd\u00eak\u00eat. Nuwa a ya maulam. Kabay dinanyan nay ati, s\u00ean narani yina, nal\u00eang\u00ea nay tunuy  Bapan Namalyari, ya sinabi na, <<Itas  muy sapatus mu, gawan idi  ka sa Banal la Lugal.>>"
+        }, 
+        {
+          "id": "09-12", 
+          "img": "{{:en:obs:obs-09-12.jpg?nolink&640x360}}", 
+          "text": "Gisay allu magpastul  yan tupa. Buy nakakit yan gisay kayu ya nay\u00eapa ya magd\u00eak\u00eatd\u00eak\u00eat. Nuwa a ya maulam. Kabay dinanyan nay ati, s\u00ean narani yina, nal\u00eang\u00ea nay tunuy  Bapan Namalyari, ya sinabi na, <<Itas  muy sapatus mu, gawan idi  ka sa Banal la Lugal.>>"
+        }, 
+        {
+          "id": "09-12", 
+          "img": "{{:en:obs:obs-09-12.jpg?nolink&640x360}}", 
+          "text": "Gisay allu magpastul  yan tupa. Buy nakakit yan gisay kayu ya nay\u00eapa ya magd\u00eak\u00eatd\u00eak\u00eat. Nuwa a ya maulam. Kabay dinanyan nay ati, s\u00ean narani yina, nal\u00eang\u00ea nay tunuy  Bapan Namalyari, ya sinabi na, <<Itas  muy sapatus mu, gawan idi  ka sa Banal la Lugal.>>"
+        }, 
+        {
+          "id": "09-13", 
+          "img": "{{:en:obs:obs-09-13.jpg?nolink&640x360}}", 
+          "text": "Buy sinabin Bapan Namalyari kan Moises, \u201cNakit kuy kasakitan mani tawu ku. Kabay sikay maku kan Paraun. Ta sikay mamiligtas sa mani Israelitay ipus  mani taga-Egiptu. Ta idin ku kallay lugal  la impangaku ku  sa mani ninunu  yu  ya si  Abraham, Isaac, buy Jacub.\u201d"
+        }, 
+        {
+          "id": "09-13", 
+          "img": "{{:en:obs:obs-09-13.jpg?nolink&640x360}}", 
+          "text": "Buy sinabin Bapan Namalyari kan Moises, \u201cNakit kuy kasakitan mani tawu ku. Kabay sikay maku kan Paraun. Ta sikay mamiligtas sa mani Israelitay ipus  mani taga-Egiptu. Ta idin ku kallay lugal  la impangaku ku  sa mani ninunu  yu  ya si  Abraham, Isaac, buy Jacub.\u201d"
+        }, 
+        {
+          "id": "09-13", 
+          "img": "{{:en:obs:obs-09-13.jpg?nolink&640x360}}", 
+          "text": "Buy sinabin Bapan Namalyari kan Moises, \u201cNakit kuy kasakitan mani tawu ku. Kabay sikay maku kan Paraun. Ta sikay mamiligtas sa mani Israelitay ipus  mani taga-Egiptu. Ta idin ku kallay lugal  la impangaku ku  sa mani ninunu  yu  ya si  Abraham, Isaac, buy Jacub.\u201d"
+        }, 
+        {
+          "id": "09-14", 
+          "img": "{{:en:obs:obs-09-14.jpg?nolink&640x360}}", 
+          "text": "Sinabin Moises, <<Nu mamatang sila  nu  sisab\u00eat ta namiutus kangku, sab\u00eat ta s\u00eapat kun sabin kalla?>> Sinabin Bapan Namalyari,  si sabin mu kallay, <Siku wi Siku ya namiutus kamu.> Abiin  na  lagyuy pam\u00eag la kangku makanuman.>>"
+        }, 
+        {
+          "id": "09-14", 
+          "img": "{{:en:obs:obs-09-14.jpg?nolink&640x360}}", 
+          "text": "Sinabin Moises, <<Nu mamatang sila  nu  sisab\u00eat ta namiutus kangku, sab\u00eat ta s\u00eapat kun sabin kalla?>> Sinabin Bapan Namalyari,  si sabin mu kallay, <Siku wi Siku ya namiutus kamu.> Abiin  na  lagyuy pam\u00eag la kangku makanuman.>>"
+        }, 
+        {
+          "id": "09-14", 
+          "img": "{{:en:obs:obs-09-14.jpg?nolink&640x360}}", 
+          "text": "Sinabin Moises, <<Nu mamatang sila  nu  sisab\u00eat ta namiutus kangku, sab\u00eat ta s\u00eapat kun sabin kalla?>> Sinabin Bapan Namalyari,  si sabin mu kallay, <Siku wi Siku ya namiutus kamu.> Abiin  na  lagyuy pam\u00eag la kangku makanuman.>>"
+        }, 
+        {
+          "id": "09-15", 
+          "img": "{{:en:obs:obs-09-15.jpg?nolink&640x360}}", 
+          "text": "As\u00ea kalabay maku si Moises. Kabay in-utus na si Aarun ya pat\u00eal nan Moises. Ta saba siyay  manawup kan Moises. Nuwa sinabin  Bapan Namalyari kan  Moises buy  kan  Aarun, ya, \u201cGana kaw sumuku. Mibabata kaw. Ta nakd\u00eay ya b\u00eak\u00ean Puun  Paraun sa Egipto.\u201d"
+        }, 
+        {
+          "id": "09-15", 
+          "img": "{{:en:obs:obs-09-15.jpg?nolink&640x360}}", 
+          "text": "As\u00ea kalabay maku si Moises. Kabay in-utus na si Aarun ya pat\u00eal nan Moises. Ta saba siyay  manawup kan Moises. Nuwa sinabin  Bapan Namalyari kan  Moises buy  kan  Aarun, ya, \u201cGana kaw sumuku. Mibabata kaw. Ta nakd\u00eay ya b\u00eak\u00ean Puun  Paraun sa Egipto.\u201d"
+        }, 
+        {
+          "id": "09-15", 
+          "img": "{{:en:obs:obs-09-15.jpg?nolink&640x360}}", 
+          "text": "As\u00ea kalabay maku si Moises. Kabay in-utus na si Aarun ya pat\u00eal nan Moises. Ta saba siyay  manawup kan Moises. Nuwa sinabin  Bapan Namalyari kan  Moises buy  kan  Aarun, ya, \u201cGana kaw sumuku. Mibabata kaw. Ta nakd\u00eay ya b\u00eak\u00ean Puun  Paraun sa Egipto.\u201d"
         }
       ], 
       "number": "09", 
-      "title": "9. God Calls Moses"
+      "ref": "A Bible story from: Exodus 1-4", 
+      "title": "9. Bin\u00eag Bapan Namalyari si Moises"
     }, 
     {
       "frames": [
