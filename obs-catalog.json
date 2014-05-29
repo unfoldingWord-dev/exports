@@ -372,5 +372,12 @@
     "language": "am", 
     "status": {}, 
     "string": "\u12a0\u121b\u122d\u129b"
+  }, 
+  {
+    "date_modified": "20140529", 
+    "direction": "ltr", 
+    "language": "prs", 
+    "status": {}, 
+    "string": "\u062f\u0631\u06cc\u200e"
   }
 ]
