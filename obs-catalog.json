@@ -155,7 +155,7 @@
     "string": "Chin, Haka"
   }, 
   {
-    "date_modified": "20140423", 
+    "date_modified": "20140530", 
     "direction": "ltr", 
     "language": "ur", 
     "status": {}, 
@@ -379,5 +379,26 @@
     "language": "prs", 
     "status": {}, 
     "string": "\u062f\u0631\u06cc\u200e"
+  }, 
+  {
+    "date_modified": "20140530", 
+    "direction": "ltr", 
+    "language": "tr", 
+    "status": {}, 
+    "string": "T\u00fcrk\u00e7e"
+  }, 
+  {
+    "date_modified": "20140530", 
+    "direction": "ltr", 
+    "language": "so", 
+    "status": {}, 
+    "string": "Soomaaliga"
+  }, 
+  {
+    "date_modified": "20140530", 
+    "direction": "ltr", 
+    "language": "bal", 
+    "status": {}, 
+    "string": "\u0628\u0644\u0648\u0686\u06cc"
   }
 ]
