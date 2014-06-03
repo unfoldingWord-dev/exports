@@ -9,6 +9,11 @@
           "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
         }, 
         {
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
+        }, 
+        {
           "id": "01-02", 
           "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
           "text": "Then God spoke and said, \"Let there be light!\" And there was light. God saw that the light was good and called it \"day.\" He separated it from the darkness, which he called \"night.\" God created the light on the first day of creation."
@@ -3342,7 +3347,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140530", 
+  "date_modified": "20140603", 
   "direction": "ltr", 
   "language": "bal"
 }
