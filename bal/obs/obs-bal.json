@@ -5,12 +5,7 @@
       "frames": [
         {
           "id": "01-01", 
-          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
-          "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
-        }, 
-        {
-          "id": "01-01", 
-          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}\u0634\u064a \u0645\u0633\u062a\u0646\u062b\u0643\u0645\u0646\u062a\u0633 \u0633\u0633\u064a\u0646\u0645\u062a\u0633\u0635\u0669\u0662", 
           "text": "This is how the beginning of everything happened. God created the universe and everything in it in six days. After God created the earth it was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water."
         }, 
         {
@@ -3347,7 +3342,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140603", 
+  "date_modified": "20140606", 
   "direction": "ltr", 
   "language": "bal"
 }
