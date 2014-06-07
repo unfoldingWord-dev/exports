@@ -615,6 +615,16 @@
           "text": "After Joseph died, all of his relatives stayed in Egypt. They and their descendants continued to live there for many years and had many children. They were called the Israelites."
         }, 
         {
+          "id": "09-01", 
+          "img": "{{:en:obs:obs-09-01.jpg?nolink&640x360}}", 
+          "text": "After Joseph died, all of his relatives stayed in Egypt. They and their descendants continued to live there for many years and had many children. They were called the Israelites."
+        }, 
+        {
+          "id": "09-02", 
+          "img": "{{:en:obs:obs-09-02.jpg?nolink&640x360}}", 
+          "text": "Many years later, a new Pharaoh came to power in Egypt. The Egyptians forgot about Joseph and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the Egyptians made the Israelites their slaves."
+        }, 
+        {
           "id": "09-02", 
           "img": "{{:en:obs:obs-09-02.jpg?nolink&640x360}}", 
           "text": "Many years later, a new Pharaoh came to power in Egypt. The Egyptians forgot about Joseph and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the Egyptians made the Israelites their slaves."
@@ -3350,7 +3360,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140605", 
+  "date_modified": "20140607", 
   "direction": "ltr", 
   "language": "az"
 }
