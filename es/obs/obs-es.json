@@ -22,7 +22,7 @@
         {
           "id": "01-02", 
           "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
-          "text": "Entonces Dios habl\u00f3 y dijo: \"H\u00e1gase la luz!\" Y se hizo la luz. Y vio Dios que la luz era buena y la llam\u00f3 \"d\u00eda\". La separ\u00f3 de las tinieblas, a las que llam\u00f3 \"noche\". Dios cre\u00f3 la luz en el primer d\u00eda de la creaci\u00f3n."
+          "text": "Entonces Dios habl\u00f3 y dijo: \"\u00a1H\u00e1gase la luz!\" Y se hizo la luz. Dios vio que la luz era buena y la llam\u00f3 \"d\u00eda\". La separ\u00f3 de las tinieblas, a las que llam\u00f3 \"noche\". Dios cre\u00f3 la luz en el primer d\u00eda de la creaci\u00f3n."
         }, 
         {
           "id": "01-03", 
@@ -3347,7 +3347,7 @@
       "title": "50. Jes\u00fas regresa"
     }
   ], 
-  "date_modified": "20140425", 
+  "date_modified": "20140617", 
   "direction": "ltr", 
   "language": "es"
 }
