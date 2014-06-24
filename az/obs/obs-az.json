@@ -2126,12 +2126,7 @@
         {
           "id": "32-07", 
           "img": "{{:en:obs:obs-32-07.jpg?nolink&640x360}}", 
-          "text": "The evil spirits begged Jesus, \u201cPlease do not send us out of this area!\u201d There was a herd of pigs feeding on a nearby hill. So, the evil spirits begged Jesus, \u201cPlease send us into the pigs instead!\u201d Jesus said, \u201cGo!\u201d"
-        }, 
-        {
-          "id": "32-07", 
-          "img": "{{:en:obs:obs-32-07.jpg?nolink&640x360}}", 
-          "text": "The evil spirits begged Jesus, \u201cPlease do not send us out of this area!\u201d There was a herd of pigs feeding on a nearby hill. So, the evil spirits begged Jesus, \u201cPlease send us into the pigs instead!\u201d Jesus said, \u201cGo!\u201d"
+          "text": "Murdar ruhlar \u0130saya yalvard\u0131lar, \u201cXahi\u015f eleyirik, bizi bu yerd\u0259n kenara g\u00f6nd\u0259rm\u0259.\u201d Yax\u0131nl\u0131qda yamaclarda iki min\u0259 yax\u0131n donuz otlay\u0131rd\u0131. Ona g\u00f6r\u0259 d\u0259, murdar ruhlar \u0130saya yalvard\u0131lar, \u201cXahi\u015f eleyirik, bizi donuzlar\u0131n i\u00e7\u0259risin\u0259 g\u00f6nd\u0259r.\u201d \u0130sa da onlara dedi, \u201cGedin!\u201d"
         }, 
         {
           "id": "32-08", 
@@ -3360,7 +3355,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140607", 
+  "date_modified": "20140624", 
   "direction": "ltr", 
   "language": "az"
 }
