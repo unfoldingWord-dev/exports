@@ -2295,6 +2295,16 @@
           "text": "One day, Jesus was teaching many tax collectors and sinners who were with him."
         }, 
         {
+          "id": "35-01", 
+          "img": "{{:en:obs:obs-35-01.jpg?nolink&640x360}}", 
+          "text": "One day, Jesus was teaching many tax collectors and sinners who were with him."
+        }, 
+        {
+          "id": "35-02", 
+          "img": "{{:en:obs:obs-35-02.jpg?nolink&640x360}}", 
+          "text": "The religious leaders were grumbling because Jesus was treating these people as friends. So Jesus told this story."
+        }, 
+        {
           "id": "35-02", 
           "img": "{{:en:obs:obs-35-02.jpg?nolink&640x360}}", 
           "text": "The religious leaders were grumbling because Jesus was treating these people as friends. So Jesus told this story."
@@ -2305,9 +2315,24 @@
           "text": "\u201cThere was a man who had two sons. The younger son told his father, \u2018Father, I want my inheritance now!\u2019 So the father divided his property between the two sons.\u201d"
         }, 
         {
+          "id": "35-03", 
+          "img": "{{:en:obs:obs-35-03.jpg?nolink&640x360}}", 
+          "text": "\u201cThere was a man who had two sons. The younger son told his father, \u2018Father, I want my inheritance now!\u2019 So the father divided his property between the two sons.\u201d"
+        }, 
+        {
           "id": "35-04", 
           "img": "{{:en:obs:obs-35-04.jpg?nolink&640x360}}", 
           "text": "\u201cSoon the younger son gathered all that he had and went far away and wasted his money in sinful living.\u201d"
+        }, 
+        {
+          "id": "35-04", 
+          "img": "{{:en:obs:obs-35-04.jpg?nolink&640x360}}", 
+          "text": "\u201cSoon the younger son gathered all that he had and went far away and wasted his money in sinful living.\u201d"
+        }, 
+        {
+          "id": "35-05", 
+          "img": "{{:en:obs:obs-35-05.jpg?nolink&640x360}}", 
+          "text": "\u201cAt that time a severe famine came on the land, and he had no money to buy food. So he took the only job he could find, feeding pigs. He was so miserable and hungry that he wanted to eat the pigs\u2019 food.\u201d"
         }, 
         {
           "id": "35-05", 
@@ -3355,7 +3380,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140624", 
+  "date_modified": "20140628", 
   "direction": "ltr", 
   "language": "az"
 }
