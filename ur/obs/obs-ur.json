@@ -3001,79 +3001,12 @@
     {
       "frames": [
         {
-          "id": "47-01", 
-          "img": "{{:en:obs:obs-47-01.jpg?nolink&640x360}}", 
-          "text": "Some years later, Paul and his friend Silas went to the town of Philippi, proclaiming the Good News about Jesus. They met a woman named Lydia who sold purple cloth. She loved and worshiped God."
-        }, 
-        {
-          "id": "47-02", 
-          "img": "{{:en:obs:obs-47-02.jpg?nolink&640x360}}", 
-          "text": "God opened Lydia's heart to understand the message of Jesus, and she and her family were baptized. She invited Paul and Silas to stay at her house, so they did."
-        }, 
-        {
-          "id": "47-03", 
-          "img": "{{:en:obs:obs-47-03.jpg?nolink&640x360}}", 
-          "text": "Paul and Silas often went to pray while they were in Philippi. Every day as they walked to the place of prayer, a slave girl possessed by a demon followed them. She was a fortune teller, and she made a lot of money for her masters."
-        }, 
-        {
-          "id": "47-04", 
-          "img": "{{:en:obs:obs-47-04.jpg?nolink&640x360}}", 
-          "text": "The slave girl kept yelling, \u201cThese men are servants of the Most High God. They are telling you the way to be saved!\u201d She did this so often that Paul became annoyed."
-        }, 
-        {
-          "id": "47-05", 
-          "img": "{{:en:obs:obs-47-05.jpg?nolink&640x360}}", 
-          "text": "One day, Paul turned to her and said to the demon, \u201cIn the name of Jesus, come out of her.\u201d Right away the demon left her."
-        }, 
-        {
-          "id": "47-06", 
-          "img": "{{:en:obs:obs-47-06.jpg?nolink&640x360}}", 
-          "text": "The men who owned the slave girl became very angry when they realized the slave girl could no longer make money for them."
-        }, 
-        {
-          "id": "47-07", 
-          "img": "{{:en:obs:obs-47-07.jpg?nolink&640x360}}", 
-          "text": "So the owners of the slave girl had Paul and Silas arrested, beaten, and thrown into jail."
-        }, 
-        {
-          "id": "47-08", 
-          "img": "{{:en:obs:obs-47-08.jpg?nolink&640x360}}", 
-          "text": "Paul and Silas were put in the most secure part of the prison with their feet locked up. In the middle of the night, they were singing songs of praise to God."
-        }, 
-        {
-          "id": "47-09", 
-          "img": "{{:en:obs:obs-47-09.jpg?nolink&640x360}}", 
-          "text": "Suddenly, the earth shook and the prison doors flew open. All the prisoners\u2019 chains fell off."
-        }, 
-        {
-          "id": "47-10", 
-          "img": "{{:en:obs:obs-47-10.jpg?nolink&640x360}}", 
-          "text": "When the jailer saw that the doors were open, he planned to kill himself, thinking that all the prisoners had escaped. (He knew he would be killed for letting the prisoners escape.) Paul saw him and yelled, \u201cStop! Do not hurt yourself. We are all here.\u201d"
-        }, 
-        {
-          "id": "47-11", 
-          "img": "{{:en:obs:obs-47-11.jpg?nolink&640x360}}", 
-          "text": "The jailer was terrified! He took Paul and Silas home, gave them some food, and washed their wounds. Then he said, \u201cWhat must I do to be saved?\u201d"
-        }, 
-        {
-          "id": "47-12", 
-          "img": "{{:en:obs:obs-47-12.jpg?nolink&640x360}}", 
-          "text": "Paul answered, \u201cBelieve in Jesus, the Master, and you and your family will be saved.\u201d Then Paul baptized the jailer and his whole family, and they celebrated together."
-        }, 
-        {
-          "id": "47-13", 
-          "img": "{{:en:obs:obs-47-13.jpg?nolink&640x360}}", 
-          "text": "The next day the leaders of the city freed Paul and Silas and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The Good News of Jesus kept spreading, and the Church kept growing."
-        }, 
-        {
-          "id": "47-14", 
-          "img": "{{:en:obs:obs-47-14.jpg?nolink&640x360}}", 
-          "text": "Paul and other Christian leaders traveled to many cities, preaching and teaching about Jesus. They also wrote many letters to the churches to encourage and teach them about God\u2019s New Covenant."
+          "id": null, 
+          "img": null, 
+          "text": "Invalid format."
         }
       ], 
-      "number": "47", 
-      "ref": "A Bible story from: Acts 16:11-40", 
-      "title": "47. Paul and Silas in Philippi"
+      "number": "47"
     }, 
     {
       "frames": [
@@ -3342,7 +3275,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140530", 
+  "date_modified": "20140628", 
   "direction": "ltr", 
   "language": "ur"
 }
