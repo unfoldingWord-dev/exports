@@ -2439,6 +2439,16 @@
           "text": "One day, Jesus received a message that Lazarus was very sick. Lazarus and his two sisters, Mary and Martha, were good friends of Jesus. When Jesus heard this news, he said, \u201cThis sickness will not end in death, but it will bring glory to God.\u201d Jesus loved his friends, so he waited where he was for two days."
         }, 
         {
+          "id": "37-01", 
+          "img": "{{:en:obs:obs-37-01.jpg?nolink&640x360}}", 
+          "text": "One day, Jesus received a message that Lazarus was very sick. Lazarus and his two sisters, Mary and Martha, were good friends of Jesus. When Jesus heard this news, he said, \u201cThis sickness will not end in death, but it will bring glory to God.\u201d Jesus loved his friends, so he waited where he was for two days."
+        }, 
+        {
+          "id": "37-02", 
+          "img": "{{:en:obs:obs-37-02.jpg?nolink&640x360}}", 
+          "text": "Then he said to his disciples, \u201cLet\u2019s go back to Judea.\u201d \u201cBut Teacher,\u201d the disciples answered, \u201cJust a short time ago the people there wanted to kill you!\u201d Jesus said, \u201cOur friend Lazarus has fallen asleep, and I must wake him.\u201d"
+        }, 
+        {
           "id": "37-02", 
           "img": "{{:en:obs:obs-37-02.jpg?nolink&640x360}}", 
           "text": "Then he said to his disciples, \u201cLet\u2019s go back to Judea.\u201d \u201cBut Teacher,\u201d the disciples answered, \u201cJust a short time ago the people there wanted to kill you!\u201d Jesus said, \u201cOur friend Lazarus has fallen asleep, and I must wake him.\u201d"
@@ -2449,9 +2459,24 @@
           "text": "His disciples replied, \u201cLord, if Lazarus is sleeping, he will get better on his own.\u201d Then Jesus told them plainly, \u201cLazarus is dead. I am glad we were not there when he died, for now you will see amazing things so that you may believe.\u201d"
         }, 
         {
+          "id": "37-03", 
+          "img": "{{:en:obs:obs-37-03.jpg?nolink&640x360}}", 
+          "text": "His disciples replied, \u201cLord, if Lazarus is sleeping, he will get better on his own.\u201d Then Jesus told them plainly, \u201cLazarus is dead. I am glad we were not there when he died, for now you will see amazing things so that you may believe.\u201d"
+        }, 
+        {
           "id": "37-04", 
           "img": "{{:en:obs:obs-37-04.jpg?nolink&640x360}}", 
           "text": "When Jesus got there, Lazarus had already been dead for four days. Martha went out to meet Jesus and said, \u201cMaster, if only you had been here, my brother would not have died. But I believe God will give you whatever you ask from Him.\u201d"
+        }, 
+        {
+          "id": "37-04", 
+          "img": "{{:en:obs:obs-37-04.jpg?nolink&640x360}}", 
+          "text": "When Jesus got there, Lazarus had already been dead for four days. Martha went out to meet Jesus and said, \u201cMaster, if only you had been here, my brother would not have died. But I believe God will give you whatever you ask from Him.\u201d"
+        }, 
+        {
+          "id": "37-05", 
+          "img": "{{:en:obs:obs-37-05.jpg?nolink&640x360}}", 
+          "text": "Jesus replied, \u201cI am the Resurrection and the Life. Whoever believes in me will live, even though he dies. Everyone who believes in me will never die. Do you believe this?\u201d \u201cYes, Master!\u201d Martha answered. \u201cI believe you are the Messiah, the Son of God.\u201d"
         }, 
         {
           "id": "37-05", 
@@ -3385,7 +3410,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140628", 
+  "date_modified": "20140705", 
   "direction": "ltr", 
   "language": "az"
 }
