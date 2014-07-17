@@ -2489,9 +2489,24 @@
           "text": "Then Mary arrived. She fell at the feet of Jesus and said, \u201cLord, if only you had been here, my brother would not have died.\u201d \u201cWhere have you put Lazarus?\u201d he asked them. They told him, \u201cIn the tomb. Come and see.\u201d Then Jesus wept."
         }, 
         {
+          "id": "37-06", 
+          "img": "{{:en:obs:obs-37-06.jpg?nolink&640x360}}", 
+          "text": "Then Mary arrived. She fell at the feet of Jesus and said, \u201cLord, if only you had been here, my brother would not have died.\u201d \u201cWhere have you put Lazarus?\u201d he asked them. They told him, \u201cIn the tomb. Come and see.\u201d Then Jesus wept."
+        }, 
+        {
           "id": "37-07", 
           "img": "{{:en:obs:obs-37-07.jpg?nolink&640x360}}", 
           "text": "The tomb was a cave with a stone rolled across its entrance. When Jesus arrived at the tomb, he told them, \u201cRoll the stone away.\u201d But Martha said, \u201cHe has been dead for four days. There will be a bad smell.\u201d"
+        }, 
+        {
+          "id": "37-07", 
+          "img": "{{:en:obs:obs-37-07.jpg?nolink&640x360}}", 
+          "text": "The tomb was a cave with a stone rolled across its entrance. When Jesus arrived at the tomb, he told them, \u201cRoll the stone away.\u201d But Martha said, \u201cHe has been dead for four days. There will be a bad smell.\u201d"
+        }, 
+        {
+          "id": "37-08", 
+          "img": "{{:en:obs:obs-37-08.jpg?nolink&640x360}}", 
+          "text": "Jesus responded, \u201cDid I not tell you that you would see God\u2019s glory if you believe?\u201d So they rolled the stone away."
         }, 
         {
           "id": "37-08", 
@@ -3410,7 +3425,7 @@
       "title": "50. \u0130san\u0131n Z\u00fchuru"
     }
   ], 
-  "date_modified": "20140705", 
+  "date_modified": "20140717", 
   "direction": "ltr", 
   "language": "az"
 }
