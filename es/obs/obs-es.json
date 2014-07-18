@@ -87,7 +87,7 @@
       ], 
       "number": "02", 
       "ref": "Una Historia de la Biblia en: G\u00e9nesis 3", 
-      "title": "2. El pecado entra en el Mundo"
+      "title": " 2. El pecado entra en el Mundo "
     }, 
     {
       "frames": [
@@ -174,7 +174,7 @@
       ], 
       "number": "03", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 6-8", 
-      "title": "3. El Diluvio"
+      "title": " 3. El Diluvio "
     }, 
     {
       "frames": [
@@ -226,7 +226,7 @@
       ], 
       "number": "04", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 11-15", 
-      "title": "4. El Pacto de Dios con Abraham"
+      "title": " 4. El Pacto de Dios con Abraham "
     }, 
     {
       "frames": [
@@ -283,7 +283,7 @@
       ], 
       "number": "05", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 16-22", 
-      "title": "5. El Hijo de la Promesa"
+      "title": " 5. El Hijo de la Promesa "
     }, 
     {
       "frames": [
@@ -325,7 +325,7 @@
       ], 
       "number": "06", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 24:1-25:26", 
-      "title": "6. Dios Provee para Isaac"
+      "title": " 6. Dios Provee para Isaac "
     }, 
     {
       "frames": [
@@ -382,7 +382,7 @@
       ], 
       "number": "07", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 25:27-33:20", 
-      "title": "7. Dios bendice a Jacob"
+      "title": " 7. Dios bendice a Jacob "
     }, 
     {
       "frames": [
@@ -464,7 +464,7 @@
       ], 
       "number": "08", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 37-50", 
-      "title": "8. Dios salva a Jos\u00e9 y a su Familia"
+      "title": " 8. Dios salva a Jos\u00e9 y a su Familia "
     }, 
     {
       "frames": [
@@ -514,11 +514,6 @@
           "text": "Cuando Mois\u00e9s pens\u00f3 que no le ve\u00eda nadie, mat\u00f3 al egipcio y enterrr\u00f3 su cuerpo. Pero alguien vio lo que hab\u00eda sucedido."
         }, 
         {
-          "id": "09-09", 
-          "img": "{{:en:obs:obs-09-09.jpg?nolink&640x360}}", 
-          "text": "Cuando Mois\u00e9s pens\u00f3 que no le ve\u00eda nadie, mat\u00f3 al egipcio y enterrr\u00f3 su cuerpo. Pero alguien vio lo que hab\u00eda sucedido."
-        }, 
-        {
           "id": "09-10", 
           "img": "{{:en:obs:obs-09-10.jpg?nolink&640x360}}", 
           "text": "Cuando el Fara\u00f3n se enter\u00f3, intent\u00f3 matar a Mois\u00e9s por lo que hab\u00eda hecho. Mois\u00e9s huy\u00f3 de Egipto hacia el desierto donde estar\u00eda a salvo de los soldados del Fara\u00f3n."
@@ -551,7 +546,7 @@
       ], 
       "number": "09", 
       "ref": "Una historia de la Biblia de: Exodo 1-4", 
-      "title": "9. Dios llama a Mois\u00e9s"
+      "title": " 9. Dios llama a Mois\u00e9s "
     }, 
     {
       "frames": [
@@ -628,7 +623,7 @@
       ], 
       "number": "10", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 5-10", 
-      "title": "10. Las Diez Plagas"
+      "title": " 10. Las Diez Plagas "
     }, 
     {
       "frames": [
@@ -675,7 +670,7 @@
       ], 
       "number": "11", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 11:1-12:32", 
-      "title": "11. La Pascua"
+      "title": " 11. La Pascua "
     }, 
     {
       "frames": [
@@ -752,7 +747,7 @@
       ], 
       "number": "12", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 12:33-15:21", 
-      "title": "12. El \u00c9xodo"
+      "title": " 12. El \u00c9xodo "
     }, 
     {
       "frames": [
@@ -834,7 +829,7 @@
       ], 
       "number": "13", 
       "ref": "Una historia de la Biblia en: \u00c9xodo 19-34", 
-      "title": "13. El Pacto de Dios con Israel"
+      "title": " 13. El Pacto de Dios con Israel "
     }, 
     {
       "frames": [
@@ -926,7 +921,7 @@
       ], 
       "number": "14", 
       "ref": "Una historia de la Biblia en: \u00c9xodo 16-17; N\u00fameros 10-14; 20; 27; Deuteronomio 34", 
-      "title": "14. Vagando por el Desierto"
+      "title": " 14. Vagando por el Desierto "
     }, 
     {
       "frames": [
@@ -998,7 +993,7 @@
       ], 
       "number": "15", 
       "ref": "Una historia de la Biblia en: Josu\u00e9 1-24", 
-      "title": "15. La Tierra Prometida"
+      "title": " 15. La Tierra Prometida "
     }, 
     {
       "frames": [
@@ -1095,7 +1090,7 @@
       ], 
       "number": "16", 
       "ref": "Una historia de la Biblia en: Jueces 1-3; 6-8", 
-      "title": "16. Los Libertadores"
+      "title": " 16. Los Libertadores "
     }, 
     {
       "frames": [
@@ -1172,7 +1167,7 @@
       ], 
       "number": "17", 
       "ref": "Una historia de la Biblia en: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
-      "title": "17. El Pacto de Dios con David"
+      "title": " 17. El Pacto de Dios con David "
     }, 
     {
       "frames": [
@@ -1244,7 +1239,7 @@
       ], 
       "number": "18", 
       "ref": "Una historia de la Biblia en: 1 Reyes 1-6; 11-12", 
-      "title": "18. El Reino Dividido"
+      "title": " 18. El Reino Dividido "
     }, 
     {
       "frames": [
@@ -1341,7 +1336,7 @@
       ], 
       "number": "19", 
       "ref": "Una historia de la Biblia en: 1 Reyes 16-18; 2 Reyes 5; Jerem\u00edas 38", 
-      "title": "19. Los Profetas"
+      "title": " 19. Los Profetas "
     }, 
     {
       "frames": [
@@ -1413,7 +1408,7 @@
       ], 
       "number": "20", 
       "ref": "Una historia de la Biblia en: 2 Reyes 17; 24-25; 2 Cr\u00f3nicas 36; Esdr\u00e1s 1-10; Nehem\u00edas 1-13", 
-      "title": "20. El Exilio y el Regreso"
+      "title": " 20. El Exilio y el Regreso "
     }, 
     {
       "frames": [
@@ -1495,7 +1490,7 @@
       ], 
       "number": "21", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 3:15; 12:1-3; Deuteronomio 18:15; 2 Samuel 7; Jerem\u00edas 31; Isa\u00edas 59:16; Daniel 7; Malaqu\u00edas 4:5; Isa\u00edas 7:14; Miqueas 5:2; Isa\u00edas 9:1-7; 35:3-5; 61; 53; Salmos 22:18; 35:19; 69:4; 41:9; Zacar\u00edas 11:12-13; Isa\u00edas 50:6; Salmos 16:10-11", 
-      "title": "21. Dios promete el Mes\u00edas"
+      "title": " 21. Dios promete el Mes\u00edas "
     }, 
     {
       "frames": [
@@ -1542,7 +1537,7 @@
       ], 
       "number": "22", 
       "ref": "Una historia de la Biblia en: Lucas 1", 
-      "title": "22. El nacimiento de Juan"
+      "title": " 22. El nacimiento de Juan "
     }, 
     {
       "frames": [
@@ -1553,7 +1548,7 @@
         }
       ], 
       "number": "23", 
-      "title": "23. El Nacimiento de Jes\u00fas"
+      "title": " 23. El Nacimiento de Jes\u00fas "
     }, 
     {
       "frames": [
@@ -1605,7 +1600,7 @@
       ], 
       "number": "24", 
       "ref": "Una historia de la Biblia de: Mateo 3; Marcos 1:9-11; Lucas 3:1-23", 
-      "title": "24. Juan bautiza a Jes\u00fas"
+      "title": " 24. Juan bautiza a Jes\u00fas "
     }, 
     {
       "frames": [
@@ -1652,7 +1647,7 @@
       ], 
       "number": "25", 
       "ref": "Una historia de la Biblia en: Mateo 4:1-11; Marcos 1:12-13; Lucas 4:1-13", 
-      "title": "25. Satan\u00e1s tienta a Jes\u00fas"
+      "title": " 25. Satan\u00e1s tienta a Jes\u00fas "
     }, 
     {
       "frames": [
@@ -1709,7 +1704,7 @@
       ], 
       "number": "26", 
       "ref": "Una historia de la Biblia de: Mateo 4:12-25; Marcos 1:14-15, 35-39; 3:13-21; Lucas 4:14-30, 38-44", 
-      "title": "26. Jes\u00fas comienza su Ministerio"
+      "title": " 26. Jes\u00fas comienza su Ministerio "
     }, 
     {
       "frames": [
@@ -1771,7 +1766,7 @@
       ], 
       "number": "27", 
       "ref": "Una historia de la Biblia en: Lucas 10:25-37", 
-      "title": "27. La Historia del Buen Samaritano."
+      "title": " 27. La Historia del Buen Samaritano. "
     }, 
     {
       "frames": [
@@ -1833,7 +1828,7 @@
       ], 
       "number": "28", 
       "ref": "Una historia de la Biblia en: Mateo 19:16-30; Marcos 10:17-31; Lucas 18:18-30", 
-      "title": "28. El principal joven y rico"
+      "title": " 28. El principal joven y rico "
     }, 
     {
       "frames": [
@@ -1885,7 +1880,7 @@
       ], 
       "number": "29", 
       "ref": "Una historia de la Biblia de: Mateo 18:21-35", 
-      "title": "29. La historia del siervo despiadado"
+      "title": " 29. La historia del siervo despiadado "
     }, 
     {
       "frames": [
@@ -1937,7 +1932,7 @@
       ], 
       "number": "30", 
       "ref": "Una historia de la Biblia de: Mateo 14:13-21; Marcos 6:31-44; Lucas 9:10-17; Juan 6:5-15", 
-      "title": "30. Jes\u00fas alimenta cinco mil personas"
+      "title": " 30. Jes\u00fas alimenta cinco mil personas "
     }, 
     {
       "frames": [
@@ -1984,7 +1979,7 @@
       ], 
       "number": "31", 
       "ref": "Una historia de la Biblia en: Mateo 14:22-33; Marcos 6:45-52; Juan 6:16-21", 
-      "title": "31. Jes\u00fas camina sobre las aguas."
+      "title": " 31. Jes\u00fas camina sobre las aguas. "
     }, 
     {
       "frames": [
@@ -2071,7 +2066,7 @@
       ], 
       "number": "32", 
       "ref": "Una historia de la Biblia en: Mateo 8:28-34; Marcos 5:1-20; Lucas 8:26-39", 
-      "title": "32. Jes\u00fas sana a un endemoniado y a una mujer enferma"
+      "title": " 32. Jes\u00fas sana a un endemoniado y a una mujer enferma "
     }, 
     {
       "frames": [
@@ -2123,7 +2118,7 @@
       ], 
       "number": "33", 
       "ref": "Una historia de la Biblia en: Mateo 13:1-8, 18-23; Marcos 4:1-8, 13-20; Lucas 8:4-15", 
-      "title": "33. La historia del sembrador"
+      "title": " 33. La historia del sembrador "
     }, 
     {
       "frames": [
@@ -2180,7 +2175,7 @@
       ], 
       "number": "34", 
       "ref": "Una historia de la Biblia en: Mateo 13:31-33, 44-46; Marcos 4:30-32; Lucas 13:18-21; 18:9-14", 
-      "title": "34. Jes\u00fas ense\u00f1a otras historias"
+      "title": " 34. Jes\u00fas ense\u00f1a otras historias "
     }, 
     {
       "frames": [
@@ -2252,7 +2247,7 @@
       ], 
       "number": "35", 
       "ref": "Una historia de la Biblia en: Lucas 15:11-32", 
-      "title": "35. La historia del padre compasivo"
+      "title": " 35. La historia del padre compasivo "
     }, 
     {
       "frames": [
@@ -2294,7 +2289,7 @@
       ], 
       "number": "36", 
       "ref": "Una historia de la Biblia en: Mateo 17:1-9; Marcos 9:2-8; Lucas 9:28-36", 
-      "title": "36. La Transfiguraci\u00f3n."
+      "title": " 36. La Transfiguraci\u00f3n. "
     }, 
     {
       "frames": [
@@ -2356,7 +2351,7 @@
       ], 
       "number": "37", 
       "ref": "Una historia de la Biblia en: Juan 11:1-46", 
-      "title": "37. Jes\u00fas resucita a L\u00e1zaro de la muerte"
+      "title": " 37. Jes\u00fas resucita a L\u00e1zaro de la muerte "
     }, 
     {
       "frames": [
@@ -2438,7 +2433,7 @@
       ], 
       "number": "38", 
       "ref": "Una historia de la Biblia en: Mateo 26:14-56; Marcos 14:10-50; Lucas 22:1-53; Juan 18:1-11", 
-      "title": "38. Jes\u00fas es traicionado"
+      "title": " 38. Jes\u00fas es traicionado "
     }, 
     {
       "frames": [
@@ -2505,7 +2500,7 @@
       ], 
       "number": "39", 
       "ref": "Una historia de la Biblia en: Mateo 26:57-27:26; Marcos 14:53-15:15; Lucas 22:54-23:25; Juan 18:12-19:16", 
-      "title": "39. Jes\u00fas es llevado a juicio"
+      "title": " 39. Jes\u00fas es llevado a juicio "
     }, 
     {
       "frames": [
@@ -2557,7 +2552,7 @@
       ], 
       "number": "40", 
       "ref": "Una historia de la Biblia en: Mateo 27:27-61; Marcos 15:16-47; Lucas 23:26-56; Juan 19:17-42", 
-      "title": "40. Jes\u00fas es crucificado"
+      "title": " 40. Jes\u00fas es crucificado "
     }, 
     {
       "frames": [
@@ -2604,7 +2599,7 @@
       ], 
       "number": "41", 
       "ref": "Una historia de la Biblia en: Mateo 27:62-28:15; Marcos 16:1-11; Lucas 24:1-12; Juan 20:1-18", 
-      "title": "41. Dios resucita a Jes\u00fas de entre los muertos"
+      "title": " 41. Dios resucita a Jes\u00fas de entre los muertos "
     }, 
     {
       "frames": [
@@ -2666,7 +2661,7 @@
       ], 
       "number": "42", 
       "ref": "Una historia de la Biblia en: Mateo 28:16-20, Marcos 16:12-20, Lucas 24:13-53, Juan 20:19-23, Hechos 1:1-11", 
-      "title": "42. Jes\u00fas Regresa al Cielo"
+      "title": " 42. Jes\u00fas Regresa al Cielo "
     }, 
     {
       "frames": [
@@ -2738,7 +2733,7 @@
       ], 
       "number": "43", 
       "ref": "Una historia de la Biblia de: Hechos 2", 
-      "title": "43. Comienza la Iglesia"
+      "title": " 43. Comienza la Iglesia "
     }, 
     {
       "frames": [
@@ -2790,7 +2785,7 @@
       ], 
       "number": "44", 
       "ref": "Una historia de la Biblia en: Hechos 3:1-4:22", 
-      "title": "44. Pedro y Juan sanan a un mendigo"
+      "title": " 44. Pedro y Juan sanan a un mendigo "
     }, 
     {
       "frames": [
@@ -2862,7 +2857,7 @@
       ], 
       "number": "45", 
       "ref": "Una historia de la Biblia en: Hechos 8:26-40", 
-      "title": "45. Felipe y el Oficial Et\u00edope"
+      "title": " 45. Felipe y el Oficial Et\u00edope "
     }, 
     {
       "frames": [
@@ -2919,7 +2914,7 @@
       ], 
       "number": "46", 
       "ref": "Una historia de la Biblia en: Hechos 6:8-8:3; 9:1-25;  11:25-26", 
-      "title": "46. Pablo se hace cristiano"
+      "title": " 46. Pablo se hace cristiano "
     }, 
     {
       "frames": [
@@ -2996,7 +2991,7 @@
       ], 
       "number": "47", 
       "ref": "Una historia de la Biblia en: Hechos 16:11-40", 
-      "title": "47. Pablo y Silas en Filipo"
+      "title": " 47. Pablo y Silas en Filipo "
     }, 
     {
       "frames": [
@@ -3073,7 +3068,7 @@
       ], 
       "number": "48", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 1-3, 6, 14, 22; \u00c9xodo 12, 20; 2 Samuel 7; Hebreos 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Apocalipsis 21", 
-      "title": "48. Jes\u00fas es el Mes\u00edas Prometido"
+      "title": " 48. Jes\u00fas es el Mes\u00edas Prometido "
     }, 
     {
       "frames": [
@@ -3175,7 +3170,7 @@
       ], 
       "number": "49", 
       "ref": "Una historia de la Biblia en: Romanos 3:21-26, 5:1-11; Juan 3:16; Marcos 16:16; Colosenses 1:13-14; 2 Tesalonicenses 5:17-21; 1 Juan 1:5-10", 
-      "title": "49. El Nuevo Pacto de Dios"
+      "title": " 49. El Nuevo Pacto de Dios "
     }, 
     {
       "frames": [
@@ -3267,10 +3262,10 @@
       ], 
       "number": "50", 
       "ref": "Una historia de la Biblia en: Mateo 24:14; 28:18; Juan 15:20, 16:33; Apocalipsis 2:10; Mateo 13:24-30, 36-42; 1 Tesalonicenses 4:13-5:11; Santiago 1:12; Mateo 22:13; Apocalipsis 20:10, 21:1-22:21", 
-      "title": "50. Jes\u00fas regresa"
+      "title": " 50. Jes\u00fas regresa "
     }
   ], 
-  "date_modified": "20140617", 
+  "date_modified": "20140718", 
   "direction": "ltr", 
   "language": "es"
 }

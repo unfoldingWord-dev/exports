@@ -86,7 +86,7 @@
       ], 
       "number": "01", 
       "ref": "A Bible story from: Genesis 1-2", 
-      "title": "1. The Creation"
+      "title": " 1. The Creation "
     }, 
     {
       "frames": [
@@ -153,7 +153,7 @@
       ], 
       "number": "02", 
       "ref": "A Bible story from: Genesis 3", 
-      "title": "2. Sin Enters the World"
+      "title": " 2. Sin Enters the World "
     }, 
     {
       "frames": [
@@ -240,7 +240,7 @@
       ], 
       "number": "03", 
       "ref": "A Bible story from: Genesis 6-8", 
-      "title": "3. The Flood"
+      "title": " 3. The Flood "
     }, 
     {
       "frames": [
@@ -292,7 +292,7 @@
       ], 
       "number": "04", 
       "ref": "A Bible story from: Genesis 11-15", 
-      "title": "4. God\u2019s Covenant with Abraham"
+      "title": " 4. God\u2019s Covenant with Abraham "
     }, 
     {
       "frames": [
@@ -441,7 +441,7 @@
       ], 
       "number": "07", 
       "ref": "A Bible story from: Genesis 25:27-33:20", 
-      "title": "7. God Blessed Jacob"
+      "title": " 7. God Blessed Jacob "
     }, 
     {
       "frames": [
@@ -523,7 +523,7 @@
       ], 
       "number": "08", 
       "ref": "A Bible story from: Genesis 37-50", 
-      "title": "8. God Saves Joseph and His Family"
+      "title": " 8. God Saves Joseph and His Family "
     }, 
     {
       "frames": [
@@ -3253,7 +3253,7 @@
       "ref": "A Bible story from: Matthew 24:14; 28:18; John 15:20, 16:33; Revelation 2:10; Matthew 13:24-30, 36-42; 1 Thessalonians 4:13-5:11; James 1:12; Matthew 22:13; Revelation 20:10, 21:1-22:21"
     }
   ], 
-  "date_modified": "20140423", 
+  "date_modified": "20140718", 
   "direction": "ltr", 
   "language": "hi"
 }
