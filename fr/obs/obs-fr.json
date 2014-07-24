@@ -41,12 +41,7 @@
         {
           "id": "01-08", 
           "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
-          "text": "Le sixi\u00e8me jour de la cr\u00e9ation, Dieu dit:\"Qu'il y ait toutes sortes d'animaux terrestres!\" Et il arriva comme Dieu l'a dit. Certains \u00e9taient des animaux de ferme, certains rampaient sur le sol, et certains \u00e9taient sauvages. Et Dieu vit que cela \u00e9tait bon."
-        }, 
-        {
-          "id": "01-08", 
-          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
-          "text": "Le sixi\u00e8me jour de la cr\u00e9ation, Dieu dit:\"Qu'il y ait toutes sortes d'animaux terrestres!\" Et il arriva comme Dieu l'a dit. Certains \u00e9taient des animaux de ferme, certains rampaient sur le sol, et certains \u00e9taient sauvages. Et Dieu vit que cela \u00e9tait bon."
+          "text": "\\\\ Le sixi\u00e8me jour de la cr\u00e9ation, Dieu dit:\"Qu'il y ait toutes sortes d'animaux terrestres!\" Et il arriva comme Dieu l'a dit. Certains \u00e9taient des animaux de ferme, certains rampaient sur le sol, et certains \u00e9taient sauvages. Et Dieu vit que cela \u00e9tait bon."
         }, 
         {
           "id": "01-09", 
@@ -91,7 +86,7 @@
       ], 
       "number": "01", 
       "ref": "A Bible story from: Genesis 1-2", 
-      "title": " 1. La Cr\u00e9ation "
+      "title": "1. La Cr\u00e9ation"
     }, 
     {
       "frames": [
@@ -123,12 +118,7 @@
         {
           "id": "02-06", 
           "img": "{{:en:obs:obs-02-06.jpg?nolink&640x360}}", 
-          "text": "couvrir leurs corps ayant cousu des feuilles de figuier ensemble pour leur faire des habits."
-        }, 
-        {
-          "id": "02-06", 
-          "img": "{{:en:obs:obs-02-06.jpg?nolink&640x360}}", 
-          "text": "couvrir leurs corps ayant cousu des feuilles de figuier ensemble pour leur faire des habits."
+          "text": "Soudainement, les yeux de l'un et l'autre s'ouvrirent, et ils r\u00e9alisent qu'ils \u00e9taient nus.  Ils ont essay\u00e9 decouvrir leurs corps ayant cousu des feuilles de figuier ensemble pour leur faire des habits."
         }, 
         {
           "id": "02-07", 
@@ -138,12 +128,7 @@
         {
           "id": "02-08", 
           "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
-          "text": "\"Qu'est ce que tu as fait? La femme r\u00e9pondit, \"Le serpent m'a s\u00e9duit.\""
-        }, 
-        {
-          "id": "02-08", 
-          "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
-          "text": "\"Qu'est ce que tu as fait? La femme r\u00e9pondit, \"Le serpent m'a s\u00e9duit.\""
+          "text": "Alors Dieu demanda, \"Qui t'a appris que tu es nu? Est-ce que tu as mang\u00e9 du fruit que je t'avais d\u00e9fendu de manger? L'homme r\u00e9pondit, \"Tu m'a donn\u00e9 cette femme and elle m'a donn\u00e9 le fruit. \"Alors Dieu demande \u00e0 la femme, \"Qu'est ce que tu as fait? La femme r\u00e9pondit, \"Le serpent m'a s\u00e9duit.\""
         }, 
         {
           "id": "02-09", 
@@ -167,7 +152,8 @@
         }
       ], 
       "number": "02", 
-      "title": "  2. Le p\u00e9ch\u00e9 entre dans le monde "
+      "ref": "NOT FOUND", 
+      "title": "2. Le p\u00e9ch\u00e9 entre dans le monde"
     }, 
     {
       "frames": [
@@ -254,7 +240,7 @@
       ], 
       "number": "03", 
       "ref": "A Bible story from: Genesis 6-8", 
-      "title": " 3. Le d\u00e9luge "
+      "title": "3. Le d\u00e9luge"
     }, 
     {
       "frames": [
@@ -306,7 +292,7 @@
       ], 
       "number": "04", 
       "ref": "A Bible story from: Genesis 11-15", 
-      "title": " 4. L'alliance de Dieu avec Abraham "
+      "title": "4. L'alliance de Dieu avec Abraham"
     }, 
     {
       "frames": [
@@ -363,7 +349,7 @@
       ], 
       "number": "05", 
       "ref": "A Bible story from: Genesis 16-22", 
-      "title": " 5. Le fils de la promesse "
+      "title": "5. Le fils de la promesse"
     }, 
     {
       "frames": [
@@ -405,7 +391,7 @@
       ], 
       "number": "06", 
       "ref": "A Bible story from: Genesis 24:1-25:26", 
-      "title": " 6. Dieu va subvenir aux besoins de Isaac  "
+      "title": "6. Dieu va subvenir aux besoins de Isaac"
     }, 
     {
       "frames": [
@@ -462,7 +448,7 @@
       ], 
       "number": "07", 
       "ref": "A Bible story from: Genesis 25:27-33:20", 
-      "title": " 7. Dieu b\u00e9nit Jacob "
+      "title": "7. Dieu b\u00e9nit Jacob"
     }, 
     {
       "frames": [
@@ -544,7 +530,7 @@
       ], 
       "number": "08", 
       "ref": "A Bible story from: Genesis 37-50", 
-      "title": " 8. Dieu sauve Joseph et sa famille "
+      "title": "8. Dieu sauve Joseph et sa famille"
     }, 
     {
       "frames": [
@@ -626,7 +612,7 @@
       ], 
       "number": "09", 
       "ref": "A Bible story from: Exodus 1-4", 
-      "title": " 9. Dieu appelle Mo\u00efse "
+      "title": "9. Dieu appelle Mo\u00efse"
     }, 
     {
       "frames": [
@@ -693,7 +679,7 @@
       ], 
       "number": "10", 
       "ref": "Cet histoire de la Bible vient de: Exode, chapitres 5-10", 
-      "title": " 10. Les dix plaies "
+      "title": "10. Les dix plaies"
     }, 
     {
       "frames": [
@@ -739,8 +725,8 @@
         }
       ], 
       "number": "11", 
-      "ref": "Cet histoire de la Bible vient de Exode, chapitres 11 et 12\u200b", 
-      "title": " 11. La P\u00e2ques Juive "
+      "ref": "Cet histoire de la Bible vient de Exode, chapitres 11 et 12", 
+      "title": "11. La P\u00e2ques Juive"
     }, 
     {
       "frames": [
@@ -817,7 +803,7 @@
       ], 
       "number": "12", 
       "ref": "Cet histoire de la Bible vient de: Exode 12:33-15:21", 
-      "title": " 12. L'Exode "
+      "title": "12. L'Exode"
     }, 
     {
       "frames": [
@@ -899,7 +885,7 @@
       ], 
       "number": "13", 
       "ref": "Cet histoire de la Bible vient de: Exode 19-34", 
-      "title": " 13. L'Alliance de Dieu avec Isra\u00ebl "
+      "title": "13. L'Alliance de Dieu avec Isra\u00ebl"
     }, 
     {
       "frames": [
@@ -916,22 +902,12 @@
         {
           "id": "14-03", 
           "img": "{{:en:obs:obs-14-03.jpg?nolink&640x360}}", 
-          "text": "Si vous ne m'ob\u00e9issez pas, vous allez adorer leurs idols a ma place.\""
-        }, 
-        {
-          "id": "14-03", 
-          "img": "{{:en:obs:obs-14-03.jpg?nolink&640x360}}", 
-          "text": "Si vous ne m'ob\u00e9issez pas, vous allez adorer leurs idols a ma place.\""
+          "text": "Dieu dit aux Isra\u00e9lites, \"Il faut que vous vous d\u00e9barrassiez de tous les Canan\u00e9ens dans le pays promis. Ne faites pas la paix avec eux et n'entrez pas en mariage avec eux. Vous devez d\u00e9truire tous les Canan\u00e9ens au pays promis. Si vous ne m'ob\u00e9issez pas; vous allez adorer leurs idols \u00e0 ma placeSi vous ne m'ob\u00e9issez pas, vous allez adorer leurs idols a ma place.\""
         }, 
         {
           "id": "14-04", 
           "img": "{{:en:obs:obs-14-04.jpg?nolink&640x360}}", 
-          "text": "Quand les Isra\u00e9lites atteignent la fronti\u00e8re du pays de Canaan, Mo\u00efse choisit douze hommes, un de chaque tribu d'Isra\u00ebl.  Il donna des instructions aux hommes d'aller et d'\u00e9pier le pays pour voir comment le pays \u00e9tait.  Ils devaient aussi \u00e9pier les Canan\u00e9ens pour voir si Ils \u00e9taient forts ou faibles."
-        }, 
-        {
-          "id": "14-04", 
-          "img": "{{:en:obs:obs-14-04.jpg?nolink&640x360}}", 
-          "text": "Quand les Isra\u00e9lites atteignent la fronti\u00e8re du pays de Canaan, Mo\u00efse choisit douze hommes, un de chaque tribu d'Isra\u00ebl.  Il donna des instructions aux hommes d'aller et d'\u00e9pier le pays pour voir comment le pays \u00e9tait.  Ils devaient aussi \u00e9pier les Canan\u00e9ens pour voir si Ils \u00e9taient forts ou faibles."
+          "text": "\u00cfQuand les Isra\u00e9lites atteignent la fronti\u00e8re du pays de Canaan, Mo\u00efse choisit douze hommes, un de chaque tribu d'Isra\u00ebl.  Il donna des instructions aux hommes d'aller et d'\u00e9pier le pays pour voir comment le pays \u00e9tait.  Ils devaient aussi \u00e9pier les Canan\u00e9ens pour voir si Ils \u00e9taient forts ou faibles."
         }, 
         {
           "id": "14-05", 
@@ -991,7 +967,7 @@
       ], 
       "number": "14", 
       "ref": "A Bible story from: Exodus 16-17; Numbers 10-14; 20; 27; Deuteronomy 34", 
-      "title": "14. Errant dans le d\u00e9sert "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1028,21 +1004,16 @@
         {
           "id": "15-07", 
           "img": "{{:en:obs:obs-15-07.jpg?nolink&640x360}}", 
-          "text": "Quand les autres Canan\u00e9ens ont vu que le peuple de Gabaon ont fait la paix avec les Isra\u00e9lites, ils ont reli\u00e9 leurs arm\u00e9es et ils ont attaqu\u00e9 le Gabaon. Les gens de Gabaon ont envoy\u00e9 un message \u00e0 Josu\u00e9 pour demander son aide."
-        }, 
-        {
-          "id": "15-07", 
-          "img": "{{:en:obs:obs-15-07.jpg?nolink&640x360}}", 
-          "text": "Quand les autres Canan\u00e9ens ont vu que le peuple de Gabaon ont fait la paix avec les Isra\u00e9lites, ils ont reli\u00e9 leurs arm\u00e9es et ils ont attaqu\u00e9 le Gabaon. Les gens de Gabaon ont envoy\u00e9 un message \u00e0 Josu\u00e9 pour demander son aide."
+          "text": "\\\\ Quand les autres Canan\u00e9ens ont vu que le peuple de Gabaon ont fait la paix avec les Isra\u00e9lites, ils ont reli\u00e9 leurs arm\u00e9es et ils ont attaqu\u00e9 le Gabaon. Les gens de Gabaon ont envoy\u00e9 un message \u00e0 Josu\u00e9 pour demander son aide."
         }, 
         {
           "id": "15-08", 
           "img": "{{:en:obs:obs-15-08.jpg?nolink&640x360}}", 
-          "text": "Dieu a plong\u00e9 les Canan\u00e9ens dans l'embarras. Dieu s'est battu pour Isra\u00ebl ce jour. Il a envoy\u00e9 la gr\u00eale, qui a tu\u00e9 plusieurs Canan\u00e9ens."
+          "text": "Josu\u00e9 \u00e9tait f\u00e2ch\u00e9 qu'il a \u00e9t\u00e9 dup\u00e9, mais il a rassembl\u00e9 l'arm\u00e9e Isra\u00e9lite et ils ont tous march\u00e9 pendant la nuit pour voyager au Gabaon. Tr\u00e8s t\u00f4t dans le matin, l'arm\u00e9e a \u00e9tonn\u00e9 leurs ennemis Canan\u00e9ens car ils les ont attaqu\u00e9."
         }, 
         {
-          "id": "15-08", 
-          "img": "{{:en:obs:obs-15-08.jpg?nolink&640x360}}", 
+          "id": "15-09", 
+          "img": "{{:en:obs:obs-15-09.jpg?nolink&640x360}}", 
           "text": "Dieu a plong\u00e9 les Canan\u00e9ens dans l'embarras. Dieu s'est battu pour Isra\u00ebl ce jour. Il a envoy\u00e9 la gr\u00eale, qui a tu\u00e9 plusieurs Canan\u00e9ens."
         }, 
         {
@@ -1068,7 +1039,7 @@
       ], 
       "number": "15", 
       "ref": "Cette histoire de la Bible vient de: Josue 1-24", 
-      "title": " 15. La Terre Promise "
+      "title": "15. La Terre Promise"
     }, 
     {
       "frames": [
@@ -1165,7 +1136,7 @@
       ], 
       "number": "16", 
       "ref": "Une histoire de la Bible qui vient de: Juges 1-3; 6-8", 
-      "title": " 16. Les Sauveteurs "
+      "title": "16. Les Sauveteurs"
     }, 
     {
       "frames": [
@@ -1242,7 +1213,7 @@
       ], 
       "number": "17", 
       "ref": "A Bible story from: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
-      "title": " 17. L'alliance de Dieu avec David"
+      "title": "17. L'alliance de Dieu avec David"
     }, 
     {
       "frames": [
@@ -1314,19 +1285,14 @@
       ], 
       "number": "18", 
       "ref": "A Bible story from: 1 Kings 1-6; 11-12", 
-      "title": " 18. The Divided Kingdom "
+      "title": "18. The Divided Kingdom"
     }, 
     {
       "frames": [
         {
           "id": "19-01", 
           "img": "{{:en:obs:obs-19-01.jpg?nolink&640x360}}", 
-          "text": "Pendant l'histoire des Isra\u00e9lites, Dieu leur envoyait des proph\u00e8tes. Ils entendirent les messages de Dieu pour le dire au peuple."
-        }, 
-        {
-          "id": "19-01", 
-          "img": "{{:en:obs:obs-19-01.jpg?nolink&640x360}}", 
-          "text": "Pendant l'histoire des Isra\u00e9lites, Dieu leur envoyait des proph\u00e8tes. Ils entendirent les messages de Dieu pour le dire au peuple."
+          "text": "\\\\ Pendant l'histoire des Isra\u00e9lites, Dieu leur envoyait des proph\u00e8tes. Ils entendirent les messages de Dieu pour le dire au peuple."
         }, 
         {
           "id": "19-02", 
@@ -1416,7 +1382,7 @@
       ], 
       "number": "19", 
       "ref": "Cette histoire de la Bible vient de: 1 Rois 16-18; 2 Rois 5; J\u00e9r\u00e9mie\u200b 38", 
-      "title": " 19. Les Proph\u00e8tes "
+      "title": "19. Les Proph\u00e8tes"
     }, 
     {
       "frames": [
@@ -1488,7 +1454,7 @@
       ], 
       "number": "20", 
       "ref": "A Bible story from: 2 Kings 17; 24-25; 2 Chronicles 36; Ezra 1-10; Nehemiah 1-13", 
-      "title": " 20. The Exile and Return "
+      "title": "20. The Exile and Return"
     }, 
     {
       "frames": [
@@ -1570,7 +1536,7 @@
       ], 
       "number": "21", 
       "ref": "A Bible story from: Genesis 3:15; 12:1-3; Deuteronomy 18:15; 2 Samuel 7; Jeremiah 31; Isaiah 59:16; Daniel 7; Malachi 4:5; Isaiah 7:14; Micah 5:2; Isaiah 9:1-7; 35:3-5; 61; 53; Psalm 22:18; 35:19; 69:4; 41:9; Zechariah 11:12-13; Isaiah 50:6; Psalm 16:10-11", 
-      "title": " 21. God Promises the Messiah "
+      "title": "21. God Promises the Messiah"
     }, 
     {
       "frames": [
@@ -1612,7 +1578,7 @@
       ], 
       "number": "22", 
       "ref": "A Bible story from: Luke 1", 
-      "title": " 22. The Birth of John "
+      "title": "22. The Birth of John"
     }, 
     {
       "frames": [
@@ -1669,7 +1635,7 @@
       ], 
       "number": "23", 
       "ref": "A Bible story from: Matthew 1; Luke 2", 
-      "title": " 23. The Birth of Jesus "
+      "title": "23. The Birth of Jesus"
     }, 
     {
       "frames": [
@@ -1721,7 +1687,7 @@
       ], 
       "number": "24", 
       "ref": "A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23", 
-      "title": " 24. John Baptizes Jesus "
+      "title": "24. John Baptizes Jesus"
     }, 
     {
       "frames": [
@@ -1768,7 +1734,7 @@
       ], 
       "number": "25", 
       "ref": "A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13", 
-      "title": " 25. Satan Tempts Jesus "
+      "title": "25. Satan Tempts Jesus"
     }, 
     {
       "frames": [
@@ -1825,7 +1791,7 @@
       ], 
       "number": "26", 
       "ref": "A Bible story from:Matthew 4:12-25; Mark 1:14-15, 35-39; 3:13-21; Luke 4:14-30, 38-44", 
-      "title": " 26. Jesus Starts His Ministry "
+      "title": "26. Jesus Starts His Ministry"
     }, 
     {
       "frames": [
@@ -1887,7 +1853,7 @@
       ], 
       "number": "27", 
       "ref": "Un histoire de la Bible de Luke 10. 25-37", 
-      "title": " 27. L'histoire du Bon Samaritain "
+      "title": "27. L'histoire du Bon Samaritain"
     }, 
     {
       "frames": [
@@ -1944,7 +1910,7 @@
       ], 
       "number": "28", 
       "ref": "A Bible story from: Matthew 19:16-30; Mark 10:17-31; Luke 18:18-30", 
-      "title": " 28. The Rich Young Ruler "
+      "title": "28. The Rich Young Ruler"
     }, 
     {
       "frames": [
@@ -1996,7 +1962,7 @@
       ], 
       "number": "29", 
       "ref": "A Bible story from: Matthew 18:21-35", 
-      "title": " 29. The Story of the Unmerciful Servant "
+      "title": "29. The Story of the Unmerciful Servant"
     }, 
     {
       "frames": [
@@ -2048,7 +2014,7 @@
       ], 
       "number": "30", 
       "ref": "A Bible story from: Matthew 14:13-21; Mark 6:31-44; Luke 9:10-17; John 6:5-15", 
-      "title": " 30. Jesus Feeds Five Thousand People "
+      "title": "30. Jesus Feeds Five Thousand People"
     }, 
     {
       "frames": [
@@ -2095,7 +2061,7 @@
       ], 
       "number": "31", 
       "ref": "A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21", 
-      "title": " 31. Jesus Walks on Water "
+      "title": "31. Jesus Walks on Water"
     }, 
     {
       "frames": [
@@ -2182,7 +2148,7 @@
       ], 
       "number": "32", 
       "ref": "A Bible story from: Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39", 
-      "title": " 32. Jesus Heals a Demon-Possessed Man & a Sick Woman "
+      "title": "32. Jesus Heals a Demon-Possessed Man & a Sick Woman"
     }, 
     {
       "frames": [
@@ -2234,7 +2200,7 @@
       ], 
       "number": "33", 
       "ref": "A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15", 
-      "title": " 33. The Story of the Farmer "
+      "title": "33. The Story of the Farmer"
     }, 
     {
       "frames": [
@@ -2291,7 +2257,7 @@
       ], 
       "number": "34", 
       "ref": "A Bible story from: Matthew 13:31-33, 44-46; Mark 4:30-32; Luke 13:18-21; 18:9-14", 
-      "title": " 34. Jesus Teaches Other Stories "
+      "title": "34. Jesus Teaches Other Stories"
     }, 
     {
       "frames": [
@@ -2363,7 +2329,7 @@
       ], 
       "number": "35", 
       "ref": "A Bible story from: Luke 15:11-32", 
-      "title": " 35. The Story of the Compassionate Father "
+      "title": "35. The Story of the Compassionate Father"
     }, 
     {
       "frames": [
@@ -2405,7 +2371,7 @@
       ], 
       "number": "36", 
       "ref": "A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36", 
-      "title": " 36. The Transfiguration "
+      "title": "36. The Transfiguration"
     }, 
     {
       "frames": [
@@ -2467,7 +2433,7 @@
       ], 
       "number": "37", 
       "ref": "A Bible story from: John 11:1-46", 
-      "title": " 37. Jesus Raises Lazarus from the Dead "
+      "title": "37. Jesus Raises Lazarus from the Dead"
     }, 
     {
       "frames": [
@@ -2549,7 +2515,7 @@
       ], 
       "number": "38", 
       "ref": "A Bible story from: Matthew 26:14-56; Mark 14:10-50; Luke 22:1-53; John 18:1-11", 
-      "title": " 38. Jesus Is Betrayed "
+      "title": "38. Jesus Is Betrayed"
     }, 
     {
       "frames": [
@@ -2616,7 +2582,7 @@
       ], 
       "number": "39", 
       "ref": "A Bible story from: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 18:12-19:16", 
-      "title": " 39. Jesus Is Put on Trial "
+      "title": "39. Jesus Is Put on Trial"
     }, 
     {
       "frames": [
@@ -2668,7 +2634,7 @@
       ], 
       "number": "40", 
       "ref": "A Bible story from: Matthew 27:27-61; Mark 15:16-47; Luke 23:26-56; John 19:17-42", 
-      "title": " 40. Jesus Is Crucified "
+      "title": "40. Jesus Is Crucified"
     }, 
     {
       "frames": [
@@ -2715,7 +2681,7 @@
       ], 
       "number": "41", 
       "ref": "A Bible story from: Matthew 27:62-28:15; Mark 16:1-11; Luke 24:1-12; John 20:1-18", 
-      "title": " 41. God Raises Jesus from the Dead "
+      "title": "41. God Raises Jesus from the Dead"
     }, 
     {
       "frames": [
@@ -2777,7 +2743,7 @@
       ], 
       "number": "42", 
       "ref": "A Bible story from: Matthew 28:16-20; Mark 16:12-20; Luke 24:13-53; John 20:19-23; Acts 1:1-11", 
-      "title": " 42. Jesus Returns to Heaven "
+      "title": "42. Jesus Returns to Heaven"
     }, 
     {
       "frames": [
@@ -2849,7 +2815,7 @@
       ], 
       "number": "43", 
       "ref": "A Bible story from: Acts 2", 
-      "title": " 43. The Church Begins "
+      "title": "43. The Church Begins"
     }, 
     {
       "frames": [
@@ -2901,7 +2867,7 @@
       ], 
       "number": "44", 
       "ref": "A Bible story from: Acts 3:1-4:22", 
-      "title": " 44. Peter and John Heal a Beggar "
+      "title": "44. Peter and John Heal a Beggar"
     }, 
     {
       "frames": [
@@ -2973,7 +2939,7 @@
       ], 
       "number": "45", 
       "ref": "A Bible story from: Acts 8:26-40", 
-      "title": " 45. Philip and the Ethiopian Official "
+      "title": "45. Philip and the Ethiopian Official"
     }, 
     {
       "frames": [
@@ -3030,7 +2996,7 @@
       ], 
       "number": "46", 
       "ref": "Cet histoire de la Bible vient de: Acts 6:8-8:3; 9:1-25; 11:25-26", 
-      "title": " 46. Le conversion de Paul "
+      "title": "46. Le conversion de Paul"
     }, 
     {
       "frames": [
@@ -3107,7 +3073,7 @@
       ], 
       "number": "47", 
       "ref": "A Bible story from: Acts 16:11-40", 
-      "title": " 47. Paul and Silas in Philippi "
+      "title": "47. Paul and Silas in Philippi"
     }, 
     {
       "frames": [
@@ -3184,7 +3150,7 @@
       ], 
       "number": "48", 
       "ref": "A Bible story from: Genesis 1-3, 6, 14, 22; Exodus 12, 20; 2 Samuel 7; Hebrew 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Revelation 21", 
-      "title": " 48. Jesus Is the Promised Messiah "
+      "title": "48. Jesus Is the Promised Messiah"
     }, 
     {
       "frames": [
@@ -3281,7 +3247,7 @@
       ], 
       "number": "49", 
       "ref": "A Bible story from: Romans 3:21-26, 5:1-11; John 3:16; Mark 16:16; Colossians 1:13-14; 2 Thessalonians 5:17-21; 1 John 1:5-10", 
-      "title": " 49. God\u2019s New Covenant "
+      "title": "49. God\u2019s New Covenant"
     }, 
     {
       "frames": [
@@ -3373,7 +3339,7 @@
       ], 
       "number": "50", 
       "ref": "A Bible story from: Matthew 24:14; 28:18; John 15:20, 16:33; Revelation 2:10; Matthew 13:24-30, 36-42; 1 Thessalonians 4:13-5:11; James 1:12; Matthew 22:13; Revelation 20:10, 21:1-22:21", 
-      "title": " 50. Jesus Returns "
+      "title": "50. Jesus Returns"
     }
   ], 
   "date_modified": "20140724", 

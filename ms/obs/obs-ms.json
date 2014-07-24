@@ -86,7 +86,7 @@
       ], 
       "number": "01", 
       "ref": "Cerita Taurat: Kejadian 1-2", 
-      "title": "1. Penciptaan "
+      "title": "1. Penciptaan"
     }, 
     {
       "frames": [
@@ -153,7 +153,7 @@
       ], 
       "number": "02", 
       "ref": "Cerita Taurat: Kejadian 3", 
-      "title": " 2.  Dosa Masuk Ke dalam Dunia "
+      "title": "2.  Dosa Masuk Ke dalam Dunia"
     }, 
     {
       "frames": [
@@ -240,7 +240,7 @@
       ], 
       "number": "03", 
       "ref": "Cerita Taurat: Kejadian 6-8", 
-      "title": " 3. Air Bah "
+      "title": "3. Air Bah"
     }, 
     {
       "frames": [
@@ -292,7 +292,7 @@
       ], 
       "number": "04", 
       "ref": "Cerita Taurat: Kejadian 11-15", 
-      "title": " 4. Perjanjian Allah dengan Abraham "
+      "title": "4. Perjanjian Allah dengan Abraham"
     }, 
     {
       "frames": [
@@ -344,7 +344,7 @@
       ], 
       "number": "05", 
       "ref": "Cerita Taurat: Kejadian 16-22", 
-      "title": " 5. Anak Perjanjian "
+      "title": "5. Anak Perjanjian"
     }, 
     {
       "frames": [
@@ -386,7 +386,7 @@
       ], 
       "number": "06", 
       "ref": "Cerita Taurat: Kejadian 24:1-25:26", 
-      "title": " 6. Allah Membekali Ishak "
+      "title": "6. Allah Membekali Ishak"
     }, 
     {
       "frames": [
@@ -443,7 +443,7 @@
       ], 
       "number": "07", 
       "ref": "Cerita Taurat: Kejadian 25:27-33:20", 
-      "title": " 7. Allah Memberkati Yakub "
+      "title": "7. Allah Memberkati Yakub"
     }, 
     {
       "frames": [
@@ -525,7 +525,7 @@
       ], 
       "number": "08", 
       "ref": "Cerita Taurat: Kejadian 37-50", 
-      "title": " 8. Allah Menyelamatkan Yusuf dan Keluarganya "
+      "title": "8. Allah Menyelamatkan Yusuf dan Keluarganya"
     }, 
     {
       "frames": [
@@ -607,7 +607,7 @@
       ], 
       "number": "09", 
       "ref": "Cerita Taurat: Keluaran 1-4", 
-      "title": " 9. Allah Memanggil Musa "
+      "title": "9. Allah Memanggil Musa"
     }, 
     {
       "frames": [
@@ -674,7 +674,7 @@
       ], 
       "number": "10", 
       "ref": "Cerita Taurat: Keluaran 5-10", 
-      "title": " 10. Sepuluh Bencana "
+      "title": "10. Sepuluh Bencana"
     }, 
     {
       "frames": [
@@ -721,7 +721,7 @@
       ], 
       "number": "11", 
       "ref": "Cerita Taurat: Keluaran 11:1-12:32", 
-      "title": " 11. Paska "
+      "title": "11. Paska"
     }, 
     {
       "frames": [
@@ -798,7 +798,7 @@
       ], 
       "number": "12", 
       "ref": "Cerita Taurat: Keluaran 12:33-15:21", 
-      "title": " 12. Keluaran "
+      "title": "12. Keluaran"
     }, 
     {
       "frames": [
@@ -880,7 +880,7 @@
       ], 
       "number": "13", 
       "ref": "Cerita Taurat: Keluaran 19-34", 
-      "title": " 13. Perjanjian Allah dengan Israel "
+      "title": "13. Perjanjian Allah dengan Israel"
     }, 
     {
       "frames": [
@@ -962,7 +962,7 @@
       ], 
       "number": "14", 
       "ref": "Cerita Taurat: Keluaran 16-17; Bilangan 10-14; 20; 27; Ulangan 34", 
-      "title": " 14. Mengembara di Padang Belantara "
+      "title": "14. Mengembara di Padang Belantara"
     }, 
     {
       "frames": [
@@ -1034,7 +1034,7 @@
       ], 
       "number": "15", 
       "ref": "Cerita Taurat: Yoshua 1-24", 
-      "title": " 15. Tanah Perjanjian "
+      "title": "15. Tanah Perjanjian"
     }, 
     {
       "frames": [
@@ -1131,7 +1131,7 @@
       ], 
       "number": "16", 
       "ref": "Cerita Taurat: Hakim-hakim1-3; 6-8", 
-      "title": " 16. Para Pelepas "
+      "title": "16. Para Pelepas"
     }, 
     {
       "frames": [
@@ -1208,7 +1208,7 @@
       ], 
       "number": "17", 
       "ref": "Cerita Taurat: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
-      "title": " 17. Perjanjian Allah dengan Daud "
+      "title": "17. Perjanjian Allah dengan Daud"
     }, 
     {
       "frames": [
@@ -1280,7 +1280,7 @@
       ], 
       "number": "18", 
       "ref": "Cerita Taurat: 1 Raja-raja 1-6; 11-12", 
-      "title": " 18. Kerajaan Yang Terbelah "
+      "title": "18. Kerajaan Yang Terbelah"
     }, 
     {
       "frames": [
@@ -1347,12 +1347,7 @@
         {
           "id": "19-13", 
           "img": "{{:en:obs:obs-19-13.jpg?nolink&640x360}}", 
-          "text": "gelap, dan hujan pun turun dengan lebatnya."
-        }, 
-        {
-          "id": "19-13", 
-          "img": "{{:en:obs:obs-19-13.jpg?nolink&640x360}}", 
-          "text": "gelap, dan hujan pun turun dengan lebatnya."
+          "text": "Lalu Elia berkata kepada Raja Ahab, \u201cSegeralah kembali ke kota, kerana hujan akan turun.\u201d Tidak lama kemudian langit kelihatangelap, dan hujan pun turun dengan lebatnya."
         }, 
         {
           "id": "19-14", 
@@ -1377,7 +1372,7 @@
       ], 
       "number": "19", 
       "ref": "Cerita Kitab Suci dari: 1 Raja-raja 16-18; 2 Raja-raja 5; Yeremiah 38", 
-      "title": " 19. Para Nabi "
+      "title": "19. Para Nabi"
     }, 
     {
       "frames": [
@@ -1449,7 +1444,7 @@
       ], 
       "number": "20", 
       "ref": "Cerita Kitab Suci dari: 2 Raja=raja 17; 24-25; 2 Tawarikh 36; Ezra 1-10; Nehemia 1-13", 
-      "title": " 20. Keluaran dan Kembali "
+      "title": "20. Keluaran dan Kembali"
     }, 
     {
       "frames": [
@@ -1531,7 +1526,7 @@
       ], 
       "number": "21", 
       "ref": "Cerita Kitab Suci dari: Kejadian 3:15; 12:1-3; Ulangan 18:15; 2 Samuel 7; Yeremia 31; Yesaya 59:16; Daniel 7; Maleakhi 4:5; Isaiah 7:14; Mikha 5:2; Yesaya 9:1-7; 35:3-5; 61; 53; Zabur 22:18; 35:19; 69:4; 41:9; Zakhariah 11:12-13; Yesaya 50:6; Zabur 16:10-11", 
-      "title": " 21. Allah Menjanjikan Mesias "
+      "title": "21. Allah Menjanjikan Mesias"
     }, 
     {
       "frames": [
@@ -1573,7 +1568,7 @@
       ], 
       "number": "22", 
       "ref": "Cerita Injil dari: Lukas 1", 
-      "title": " 22. Kelahiran Yohanis "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1630,7 +1625,7 @@
       ], 
       "number": "23", 
       "ref": "Cerita Injil dari: Matius 1; Lukas 2", 
-      "title": " 23. Kelahiran Isa "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1681,8 +1676,8 @@
         }
       ], 
       "number": "24", 
-      "ref": " Cerita Injil dari: Matius 3; Markus 1:9-11; Lukas 3:1-23", 
-      "title": " 24. Yohanis Membaptis Isa "
+      "ref": "Cerita Injil dari: Matius 3; Markus 1:9-11; Lukas 3:1-23", 
+      "title": "24. Yohanis Membaptis Isa"
     }, 
     {
       "frames": [
@@ -1728,8 +1723,8 @@
         }
       ], 
       "number": "25", 
-      "ref": " Cerita Injil dari: Matius4:1-11; Markus 1:12-13; Lukas 4:1-13", 
-      "title": " 25.  Isa dicubai oleh Iblis "
+      "ref": "Cerita Injil dari: Matius4:1-11; Markus 1:12-13; Lukas 4:1-13", 
+      "title": "25.  Isa dicubai oleh Iblis"
     }, 
     {
       "frames": [
@@ -1786,7 +1781,7 @@
       ], 
       "number": "26", 
       "ref": "Cerita Injil dari:Matius 4:12-25; Markus 1:14-15, 35-39; 3:13-21; Lukas 4:14-30, 38-44", 
-      "title": " 26. Isa  Memulai PelayananNya "
+      "title": "26. Isa  Memulai PelayananNya"
     }, 
     {
       "frames": [
@@ -1848,7 +1843,7 @@
       ], 
       "number": "27", 
       "ref": "Cerita Injil dari: Lukas 10:25-37", 
-      "title": " 27. Kisah Tentang Seorang Samaria Yang Baik "
+      "title": "27. Kisah Tentang Seorang Samaria Yang Baik"
     }, 
     {
       "frames": [
@@ -1905,7 +1900,7 @@
       ], 
       "number": "28", 
       "ref": "Cerita Injil dari: Matius 19:16-30; Markus 10:17-31; Lukas 18:18-30", 
-      "title": " 28. Seorang Pemimpin Muda Kaya "
+      "title": "28. Seorang Pemimpin Muda Kaya"
     }, 
     {
       "frames": [
@@ -1957,7 +1952,7 @@
       ], 
       "number": "29", 
       "ref": "Cerita Injil dari: Matius 18:21-35", 
-      "title": " 29. Kisah tentang Seorang Hamba Yang Kejam "
+      "title": "29. Kisah tentang Seorang Hamba Yang Kejam"
     }, 
     {
       "frames": [
@@ -2009,7 +2004,7 @@
       ], 
       "number": "30", 
       "ref": "Cerita Injil dari: Matius 14:13-21; Markus 6:31-44; Lukas 9:10-17; Yahya 6:5-15", 
-      "title": " 30. Isa Memberi Makan Lima Ribu Orang "
+      "title": "30. Isa Memberi Makan Lima Ribu Orang"
     }, 
     {
       "frames": [
@@ -2056,7 +2051,7 @@
       ], 
       "number": "31", 
       "ref": "Cerita Injil dari: Matius 14:22-33; Markus 6:45-52; Yahya 6:16-21", 
-      "title": " 31. Isa Berjalan di atas Air "
+      "title": "31. Isa Berjalan di atas Air"
     }, 
     {
       "frames": [
@@ -2142,8 +2137,8 @@
         }
       ], 
       "number": "32", 
-      "ref": "  Cerita Injil dari: Matius 8:28-34; Markus 5:1-20; Lukas 8:26-39", 
-      "title": " 32. Isa Menyembuhkan Seorang Yang dirasuk & Seorang Perempuan Sakit "
+      "ref": "Cerita Injil dari: Matius 8:28-34; Markus 5:1-20; Lukas 8:26-39", 
+      "title": "32. Isa Menyembuhkan Seorang Yang dirasuk & Seorang Perempuan Sakit"
     }, 
     {
       "frames": [
@@ -2194,8 +2189,8 @@
         }
       ], 
       "number": "33", 
-      "ref": " Cerita Injil dari: Matius 13:1-8, 18-23; Markus 4:1-8, 13-20; Lukas 8:4-15", 
-      "title": " 33. Cerita tentang Seorang Peladang"
+      "ref": "Cerita Injil dari: Matius 13:1-8, 18-23; Markus 4:1-8, 13-20; Lukas 8:4-15", 
+      "title": "33. Cerita tentang Seorang Peladang"
     }, 
     {
       "frames": [
@@ -2252,7 +2247,7 @@
       ], 
       "number": "34", 
       "ref": "Cerita Injil dari: Matius 13:31-33, 44-46; Markus 4:30-32; Lukas 13:18-21; 18:9-14", 
-      "title": " 34. Isa Mengajar Tentang Perumpamaan"
+      "title": "34. Isa Mengajar Tentang Perumpamaan"
     }, 
     {
       "frames": [
@@ -2324,7 +2319,7 @@
       ], 
       "number": "35", 
       "ref": "Cerita Injil dari: Lukas 15:11-32", 
-      "title": " 35. Kisah Seorang Ayah Yang Berbelas Kasihan"
+      "title": "35. Kisah Seorang Ayah Yang Berbelas Kasihan"
     }, 
     {
       "frames": [
@@ -2366,7 +2361,7 @@
       ], 
       "number": "36", 
       "ref": "Cerita Injil dari: Matius 17:1-9; Markus 9:2-8; Lukas 9:28-36", 
-      "title": " 36. Isa Dimuliakan "
+      "title": "36. Isa Dimuliakan"
     }, 
     {
       "frames": [
@@ -2433,17 +2428,12 @@
         {
           "id": "36-07", 
           "img": "{{:en:obs:obs-36-07.jpg?nolink&640x360}}", 
-          "text": "Sewaktu mereka turun dari gunung, Isa berkata, \u201cJangan sekali-kali memberitahu sesiapa pun tentang apa yang terjadi di sini sehingga Aku dibangkitkan dari kematian.\u201d"
+          "text": "Sewaktu mereka turun dari gunung, Isa berkata, \u201cJangan sekali-kali memberitahu sesiapa pun tentang apa yang terjadi di sini sehingga Aku dibangkitkan dari kematian.\u201d====== 36. Isa Dimuliakan ======"
         }, 
         {
           "id": "36-07", 
           "img": "{{:en:obs:obs-36-07.jpg?nolink&640x360}}", 
-          "text": "Lalu Maria pun tiba.  Ia merebahkan dirinya pada kaki Isa dan berkata, \u201cTuhan seandainya Engkau berada di sini, saudaraku tidak akan mati.\u201d  \u201cDi manakah kamu menempatkan Lazarus?\u201d Ia bertanya kepada mereka.  Mereka memberitahuNya dalam kubur.  Mari dan lihat\u201d Lalu Isa pun meratap."
-        }, 
-        {
-          "id": "36-07", 
-          "img": "{{:en:obs:obs-36-07.jpg?nolink&640x360}}", 
-          "text": "Lalu Maria pun tiba.  Ia merebahkan dirinya pada kaki Isa dan berkata, \u201cTuhan seandainya Engkau berada di sini, saudaraku tidak akan mati.\u201d  \u201cDi manakah kamu menempatkan Lazarus?\u201d Ia bertanya kepada mereka.  Mereka memberitahuNya dalam kubur.  Mari dan lihat\u201d Lalu Isa pun meratap."
+          "text": "Sewaktu mereka turun dari gunung, Isa berkata, \u201cJangan sekali-kali memberitahu sesiapa pun tentang apa yang terjadi di sini sehingga Aku dibangkitkan dari kematian.\u201dLalu Maria pun tiba.  Ia merebahkan dirinya pada kaki Isa dan berkata, \u201cTuhan seandainya Engkau berada di sini, saudaraku tidak akan mati.\u201d  \u201cDi manakah kamu menempatkan Lazarus?\u201d Ia bertanya kepada mereka.  Mereka memberitahuNya dalam kubur.  Mari dan lihat\u201d Lalu Isa pun meratap."
         }, 
         {
           "id": "37-01", 
@@ -2469,6 +2459,11 @@
           "id": "37-05", 
           "img": "{{:en:obs:obs-37-05.jpg?nolink&640x360}}", 
           "text": "Isa menjawab, \u201cAkulah Kebangkitan dan Hidup. Siapa saja yang percaya kepadaKu akan hidup semula, walaupun ia sudah mati.  Setiap orang yang percaya kepadaKu tidak akan mati. Apakah kamu percaya akan ini?\u201d \u201cYa, Tuan!\u201d Marta menjawab. \u201cAku percaya bahawa Engkaulah Mesias, Putera Allah.\u201d"
+        }, 
+        {
+          "id": "37-06", 
+          "img": "{{:en:obs:obs-37-06.jpg?nolink&640x360}}", 
+          "text": "====== 36. Isa Dimuliakan ======"
         }, 
         {
           "id": "37-07", 
@@ -2497,8 +2492,8 @@
         }
       ], 
       "number": "37", 
-      "ref": "Cerita Injil dari: Yahya 11:1-46", 
-      "title": " 36. Isa Dimuliakan "
+      "ref": "Cerita Injil dari: Matius 17:1-9; Markus 9:2-8; Lukas 9:28-36", 
+      "title": "37. Isa Membangkitkan Lazarus dari Kematian"
     }, 
     {
       "frames": [
@@ -2580,7 +2575,7 @@
       ], 
       "number": "38", 
       "ref": "Cerita Injil dari: Matius 26:14-56; Markus 14:10-50; Lukas 22:1-53; Yahya 18:1-11", 
-      "title": " 38. Isa Dikhianati "
+      "title": "38. Isa Dikhianati"
     }, 
     {
       "frames": [
@@ -2647,7 +2642,7 @@
       ], 
       "number": "39", 
       "ref": "Cerita Injil dari: Matius 26:57-27:26; Markus 14:53-15:15; Lukas 22:54-23:25; Yahya 18:12-19:16", 
-      "title": " 39. Isa Diadili "
+      "title": "39. Isa Diadili"
     }, 
     {
       "frames": [
@@ -2699,7 +2694,7 @@
       ], 
       "number": "40", 
       "ref": "Cerita Injil dari: Matius 27:27-61; Markus 15:16-47; Lukas 23:26-56; Yahya 19:17-42", 
-      "title": "= 40. Isa Disalibkan "
+      "title": "40. Isa Disalibkan"
     }, 
     {
       "frames": [
@@ -2731,17 +2726,7 @@
         {
           "id": "41-06", 
           "img": "{{:en:obs:obs-41-06.jpg?nolink&640x360}}", 
-          "text": "Perempuan-perempuan tersebut penuh dengan ketakutan dan melimpah-limpah dengan sukacita. Mereka lari untuk menyampaikan   berita baik tersebut kepada para murid."
-        }, 
-        {
-          "id": "41-06", 
-          "img": "{{:en:obs:obs-41-06.jpg?nolink&640x360}}", 
-          "text": "Perempuan-perempuan tersebut penuh dengan ketakutan dan melimpah-limpah dengan sukacita. Mereka lari untuk menyampaikan   berita baik tersebut kepada para murid."
-        }, 
-        {
-          "id": "41-06", 
-          "img": "{{:en:obs:obs-41-06.jpg?nolink&640x360}}", 
-          "text": "Perempuan-perempuan tersebut penuh dengan ketakutan dan melimpah-limpah dengan sukacita. Mereka lari untuk menyampaikan   berita baik tersebut kepada para murid."
+          "text": "Lalu malaikat pun memberitahukan kepada perempuan-perempuan tersebut, \u201cBeritahukan kepada para murid bahawa Isa telah bangkit dari kematian dan Ia akan mendahului mereka ke Galilea.\u201d"
         }, 
         {
           "id": "41-08", 
@@ -2751,7 +2736,7 @@
       ], 
       "number": "41", 
       "ref": "Cerita Injil dari: Matius 27:62-28:15; Markus 16:1-11; Lukas 24:1-12; Yahya 20:1-18", 
-      "title": " 41. Allah Membangkitkan Isa dari Kematian"
+      "title": "41. Allah Membangkitkan Isa dari Kematian"
     }, 
     {
       "frames": [
@@ -2813,7 +2798,7 @@
       ], 
       "number": "42", 
       "ref": "Cerita Injil dari: Matius 28:16-20; Markus 16:12-20; Lukas 24:13-53; Yahya 20:19-23; Acts 1:1-11", 
-      "title": " 42. Isa Kembali Ke Syurga "
+      "title": "42. Isa Kembali Ke Syurga"
     }, 
     {
       "frames": [
@@ -2885,7 +2870,7 @@
       ], 
       "number": "43", 
       "ref": "Cerita Injil dari: Kisah para Rasul 2", 
-      "title": " 43. Mulanya Gereja "
+      "title": "43. Mulanya Gereja"
     }, 
     {
       "frames": [
@@ -2937,7 +2922,7 @@
       ], 
       "number": "44", 
       "ref": "Cerita Injil dari: Kisah para Rausl  3:1-4:22", 
-      "title": " 44. Petrus dan Yohanes Menyembuhkan seorang Peminta Sedekah "
+      "title": "44. Petrus dan Yohanes Menyembuhkan seorang Peminta Sedekah"
     }, 
     {
       "frames": [
@@ -2978,20 +2963,15 @@
         }
       ], 
       "number": "45", 
-      "ref": "Cerita Injil dari: Kisah para Rasul 8:26-40", 
-      "title": " 45. Filipus dan Orang Sida-Sida "
+      "ref": "NOT FOUND", 
+      "title": "45. Filipus dan Orang Sida-Sida"
     }, 
     {
       "frames": [
         {
           "id": "46-01", 
           "img": "{{:en:obs:obs-46-01.jpg?nolink&640x360}}", 
-          "text": "Saul terus menganiayai orang Kristian dengan mengeledah dari rumah ke rumah, menangkap lelaki dan perempuan, dan memasukkan mereka ke dalam penjara. Saul mendapat keizinan dari imam besar untuk pergi ke kota Damsik untuk menangkap orang Kristian di sana dan membawa mereka kembali ke Yerusalem."
-        }, 
-        {
-          "id": "46-01", 
-          "img": "{{:en:obs:obs-46-01.jpg?nolink&640x360}}", 
-          "text": "Saul terus menganiayai orang Kristian dengan mengeledah dari rumah ke rumah, menangkap lelaki dan perempuan, dan memasukkan mereka ke dalam penjara. Saul mendapat keizinan dari imam besar untuk pergi ke kota Damsik untuk menangkap orang Kristian di sana dan membawa mereka kembali ke Yerusalem."
+          "text": "Saul merupakan seorang lelaki yang menjadi dalang  utama dalam pembunuhan Stefanus dialah juga yang menjaga barang-barang kepunyaan mereka yang merejam Stefanus.  Pada hari yang sama, orang-orang Kristian yang lain juga  turut dianiaya, dan mereka melarikan ke seluruh daerah. Saul terus menganiayai orang Kristian dengan mengeledah dari rumah ke rumah, menangkap lelaki dan perempuan, dan memasukkan mereka ke dalam penjara. Saul mendapat keizinan dari imam besar untuk pergi ke kota Damsik untuk menangkap orang Kristian di sana dan membawa mereka kembali ke Yerusalem."
         }, 
         {
           "id": "46-02", 
@@ -3021,7 +3001,7 @@
       ], 
       "number": "46", 
       "ref": "Cerita Injil dari: Kisah para Rasul 6:8-8:3; 9:1-25", 
-      "title": " 46. Paulus Menjadi Pengikut Isa "
+      "title": "46. Paulus Menjadi Pengikut Isa"
     }, 
     {
       "frames": [
@@ -3098,7 +3078,7 @@
       ], 
       "number": "47", 
       "ref": "Cerita Injil dari: Kisah para Rasul 16:11-40", 
-      "title": "= 47. Paulus dan Silas di Filipi "
+      "title": "47. Paulus dan Silas di Filipi"
     }, 
     {
       "frames": [
@@ -3175,7 +3155,7 @@
       ], 
       "number": "48", 
       "ref": "Cerita Kitab Suci dari: Kejadian 1-3, 6, 14, 22; Keluaran 12, 20; 2 Samuel 7; Ibrani 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Wahyu 21", 
-      "title": " 48. Isa Mesias Yang Dijanjikan "
+      "title": "48. Isa Mesias Yang Dijanjikan"
     }, 
     {
       "frames": [
@@ -3272,7 +3252,7 @@
       ], 
       "number": "49", 
       "ref": "Cerita Injil dari: Rom 3:21-26, 5:1-11; Yahya 3:16; Markus 16:16; Kolose 1:13-14; 2 Teselonika 5:17-21; 1 Yahya 1:5-10", 
-      "title": " 49. Perjanjian Allah Yang Baru "
+      "title": "49. Perjanjian Allah Yang Baru"
     }, 
     {
       "frames": [
@@ -3364,7 +3344,7 @@
       ], 
       "number": "50", 
       "ref": "Cerita Injil dari: Matius 24:14; 28:18; Yahya 15:20, 16:33; Wahyu 2:10; Matius 13:24-30, 36-42; 1 Teselonika 4:13-5:11; Yakobus 1:12; Matius 22:13; Wahyu 20:10, 21:1-22:21", 
-      "title": " 50. Isa Kembali "
+      "title": "50. Isa Kembali"
     }
   ], 
   "date_modified": "20140724", 

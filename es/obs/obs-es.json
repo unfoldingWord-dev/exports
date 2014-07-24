@@ -15,13 +15,69 @@
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "01-05", 
+          "img": "{{:en:obs:obs-01-05.jpg?nolink&640x360}}", 
+          "text": "Entonces Dios dijo: \"Que la tierra produzca toda clase de \u00e1rboles y plantas\". Y as\u00ed sucedi\u00f3. Dios vio que todo lo que hab\u00eda creado era bueno."
+        }, 
+        {
+          "id": "01-06", 
+          "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
+          "text": "En el cuarto d\u00eda de la creaci\u00f3n, Dios habl\u00f3 y cre\u00f3 el sol, la luna y las estrellas. Dios los hizo para dar luz a la tierra y para diferenciar entre el d\u00eda y la noche, las estaciones y los a\u00f1os. Y Dios vio que lo que hab\u00eda creado era bueno."
+        }, 
+        {
+          "id": "01-07", 
+          "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
+          "text": "En el quinto d\u00eda, Dios habl\u00f3 e hizo todos los seres que nadan en el agua y todas las aves. Y vio Dios que era bueno, y los bendijo."
+        }, 
+        {
+          "id": "01-08", 
+          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
+          "text": "En el sexto d\u00eda de la creaci\u00f3n, Dios dijo: \"\u00a1H\u00e1ganse todo tipo de animales terrestres!\" Y sucedi\u00f3 tal como Dios dijo. Unos eran animales de granja, otros se arrastraban por el suelo, y otros eran salvajes. Y Dios vio que era bueno."
+        }, 
+        {
+          "id": "01-09", 
+          "img": "{{:en:obs:obs-01-09.jpg?nolink&640x360}}", 
+          "text": "Entonces dijo Dios: \"Hag\u00e1mos a los seres humanos a nuestra imagen para que sean como nosotros. Tendr\u00e1n autoridad sobre la tierra y todos los animales.\""
+        }, 
+        {
+          "id": "01-10", 
+          "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
+          "text": "As\u00ed que Dios tom\u00f3 un poco de tierra, le dio forma de hombre, y sopl\u00f3 vida en \u00e9l. El nombre de este hombre era Ad\u00e1n. Dios plant\u00f3 un jard\u00edn donde Ad\u00e1n pudiera vivir, y lo puso all\u00ed para que cuidara de \u00e9l."
+        }, 
+        {
+          "id": "01-11", 
+          "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
+          "text": "En medio del jard\u00edn, Dios plant\u00f3 dos \u00e1rboles especiales: el \u00e1rbol de la vida y el \u00e1rbol del conocimiento del bien y del mal. Dios le dijo a Ad\u00e1n que pod\u00eda comer de todo \u00e1rbol del huerto, excepto del \u00e1rbol del conocimiento del bien y del mal. Si com\u00eda de ese \u00e1rbol, morir\u00eda."
+        }, 
+        {
+          "id": "01-12", 
+          "img": "{{:en:obs:obs-01-12.jpg?nolink&640x360}}", 
+          "text": "Entonces Dios dijo: \"No es bueno que el hombre est\u00e9 solo\". Pero ninguno de los animales pod\u00eda ser el ayudante de Ad\u00e1n."
+        }, 
+        {
+          "id": "01-13", 
+          "img": "{{:en:obs:obs-01-13.jpg?nolink&640x360}}", 
+          "text": "As\u00ed que Dios hizo que Ad\u00e1n cayera en un sue\u00f1o profundo. Entonces Dios tom\u00f3 una de las costillas de Ad\u00e1n y la convirti\u00f3 en una mujer y la llev\u00f3 ante \u00e9l."
+        }, 
+        {
+          "id": "01-14", 
+          "img": "{{:en:obs:obs-01-14.jpg?nolink&640x360}}", 
+          "text": "Cuando Ad\u00e1n la vio, dijo: \"\u00a1Por fin! \u00a1Esta es como yo! Se llamar\u00e1\" mujer \"porque fue hecha del Hombre\". Por eso dejar\u00e1 el hombre a su padre y a su madre y ser\u00e1 uno con su esposa."
+        }, 
+        {
+          "id": "01-15", 
+          "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
+          "text": "Dios hizo al hombre y a la mujer a su imagen. Los bendijo y les dijo, \"\u00a1Tened muchos hijos y nietos, y llenad la tierra!\". Y Dios vio que todo lo que hab\u00eda hecho era muy bueno, y se complaci\u00f3 con todo ello. Todo esto ocurri\u00f3 en el sexto d\u00eda de la creaci\u00f3n."
+        }, 
+        {
+          "id": "01-16", 
+          "img": "{{:en:obs:obs-01-16.jpg?nolink&640x360}}", 
+          "text": "Cuando lleg\u00f3 el s\u00e9ptimo d\u00eda, Dios ya hab\u00eda terminado su obra. As\u00ed que Dios descans\u00f3 de todo lo que hab\u00eda estado haciendo. Bendijo el s\u00e9ptimo d\u00eda y lo santific\u00f3, porque en ese d\u00eda descans\u00f3 de su obra. As\u00ed es como Dios cre\u00f3 el universo y todo lo que hay en \u00e9l."
         }
       ], 
       "number": "01", 
-      "title": " 1. La Creaci\u00f3n "
+      "ref": "Una historia de la Biblia en: Genesis 1-2", 
+      "title": "1. La Creaci\u00f3n"
     }, 
     {
       "frames": [
@@ -88,7 +144,7 @@
       ], 
       "number": "02", 
       "ref": "Una Historia de la Biblia en: G\u00e9nesis 3", 
-      "title": " 2. El pecado entra en el Mundo "
+      "title": "2. El pecado entra en el Mundo"
     }, 
     {
       "frames": [
@@ -175,7 +231,7 @@
       ], 
       "number": "03", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 6-8", 
-      "title": " 3. El Diluvio "
+      "title": "3. El Diluvio"
     }, 
     {
       "frames": [
@@ -227,7 +283,7 @@
       ], 
       "number": "04", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 11-15", 
-      "title": " 4. El Pacto de Dios con Abraham "
+      "title": "4. El Pacto de Dios con Abraham"
     }, 
     {
       "frames": [
@@ -284,7 +340,7 @@
       ], 
       "number": "05", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 16-22", 
-      "title": " 5. El Hijo de la Promesa "
+      "title": "5. El Hijo de la Promesa"
     }, 
     {
       "frames": [
@@ -326,7 +382,7 @@
       ], 
       "number": "06", 
       "ref": "Una historia de la Biblia de: G\u00e9nesis 24:1-25:26", 
-      "title": " 6. Dios Provee para Isaac "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -383,7 +439,7 @@
       ], 
       "number": "07", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 25:27-33:20", 
-      "title": " 7. Dios bendice a Jacob "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -465,7 +521,7 @@
       ], 
       "number": "08", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 37-50", 
-      "title": " 8. Dios salva a Jos\u00e9 y a su Familia "
+      "title": "8. Dios salva a Jos\u00e9 y a su Familia"
     }, 
     {
       "frames": [
@@ -547,7 +603,7 @@
       ], 
       "number": "09", 
       "ref": "Una historia de la Biblia de: Exodo 1-4", 
-      "title": " 9. Dios llama a Mois\u00e9s "
+      "title": "9. Dios llama a Mois\u00e9s"
     }, 
     {
       "frames": [
@@ -559,12 +615,7 @@
         {
           "id": "10-02", 
           "img": "{{:en:obs:obs-10-02.jpg?nolink&640x360}}", 
-          "text": "Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez terribles plagas a Egipto. Por medio de esas plagas, Dios ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
-        }, 
-        {
-          "id": "10-02", 
-          "img": "{{:en:obs:obs-10-02.jpg?nolink&640x360}}", 
-          "text": "Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez terribles plagas a Egipto. Por medio de esas plagas, Dios ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
+          "text": "Pharaoh kept refusing to let the people go, so God sent ten terrible plagues, on Egypt. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt\u2019s gods. Fara\u00f3n sigui\u00f3 neg\u00e1ndose a dejar ir al pueblo, por lo que Dios envi\u00f3 diez terribles plagas a Egipto. Por medio de esas plagas, Dios ense\u00f1o al Fara\u00f3n que era m\u00e1s poderoso que Fara\u00f3n y que todos los dioses de Egipto."
         }, 
         {
           "id": "10-03", 
@@ -614,17 +665,12 @@
         {
           "id": "10-12", 
           "img": "{{:en:obs:obs-10-12.jpg?nolink&640x360}}", 
-          "text": "Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, Dios prepar\u00f3 una \u00faltima plaga. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
-        }, 
-        {
-          "id": "10-12", 
-          "img": "{{:en:obs:obs-10-12.jpg?nolink&640x360}}", 
-          "text": "Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, Dios prepar\u00f3 una \u00faltima plaga. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
+          "text": "Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh\u2019s mind. Incluso despu\u00e9s de esas nueve plagas, Fara\u00f3n todav\u00eda se negaba dejar libres a los israelitas. Dado que Fara\u00f3n no quer\u00eda escuchar, Dios prepar\u00f3 una \u00faltima plaga. Esto cambiar\u00eda la forma de pensar del Fara\u00f3n."
         }
       ], 
       "number": "10", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 5-10", 
-      "title": " 10. Las Diez Plagas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -671,7 +717,7 @@
       ], 
       "number": "11", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 11:1-12:32", 
-      "title": " 11. La Pascua "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -748,7 +794,7 @@
       ], 
       "number": "12", 
       "ref": "Una historia de la Biblia de: \u00c9xodo 12:33-15:21", 
-      "title": " 12. El \u00c9xodo "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -830,7 +876,7 @@
       ], 
       "number": "13", 
       "ref": "Una historia de la Biblia en: \u00c9xodo 19-34", 
-      "title": " 13. El Pacto de Dios con Israel "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -887,12 +933,7 @@
         {
           "id": "14-11", 
           "img": "{{:en:obs:obs-14-11.jpg?nolink&640x360}}", 
-          "text": "Durante este tiempo de viaje, Dios les dio provision. Les dio pan del cielo, llamado \u201cman\u00e1.\u201d Tambi\u00e9n envi\u00f3 codornices (un tipo de ave) a su campamento para que pudieran tener carne que comer. Durante esos cuarenta a\u00f1os, Dios guard\u00f3 sus vestidos y sus calzados de modo que no se desgastasen."
-        }, 
-        {
-          "id": "14-11", 
-          "img": "{{:en:obs:obs-14-11.jpg?nolink&640x360}}", 
-          "text": "Durante este tiempo de viaje, Dios les dio provision. Les dio pan del cielo, llamado \u201cman\u00e1.\u201d Tambi\u00e9n envi\u00f3 codornices (un tipo de ave) a su campamento para que pudieran tener carne que comer. Durante esos cuarenta a\u00f1os, Dios guard\u00f3 sus vestidos y sus calzados de modo que no se desgastasen."
+          "text": "During that time of wandering, God provided for them. He gave them bread from heaven, called \u201cmanna.\u201d He also sent quail (which is a kind of bird) into their camp so they could have meat to eat. During those forty years, God kept their clothes and shoes from wearing out.Durante este tiempo de viaje, Dios les dio provision. Les dio pan del cielo, llamado \u201cman\u00e1.\u201d Tambi\u00e9n envi\u00f3 codornices (un tipo de ave) a su campamento para que pudieran tener carne que comer. Durante esos cuarenta a\u00f1os, Dios guard\u00f3 sus vestidos y sus calzados de modo que no se desgastasen."
         }, 
         {
           "id": "14-12", 
@@ -907,12 +948,7 @@
         {
           "id": "14-14", 
           "img": "{{:en:obs:obs-14-14.jpg?nolink&640x360}}", 
-          "text": "Despu\u00e9s de que los israelitas erraran por el desierto durante cuarenta a\u00f1os, toda la gente que se hab\u00eda rebelado contra Dios muri\u00f3. Dios llev\u00f3 a los israelitas a la frontera con la Tierra Prometida otra vez. Mois\u00e9s era ahora muy viejo, as\u00ed que escogi\u00f3 a Josu\u00e9 para ayudarle a liderar al pueblo. Dios prometi\u00f3 a Mois\u00e9s que un d\u00eda levantar\u00eda un profeta como Mois\u00e9s."
-        }, 
-        {
-          "id": "14-14", 
-          "img": "{{:en:obs:obs-14-14.jpg?nolink&640x360}}", 
-          "text": "Despu\u00e9s de que los israelitas erraran por el desierto durante cuarenta a\u00f1os, toda la gente que se hab\u00eda rebelado contra Dios muri\u00f3. Dios llev\u00f3 a los israelitas a la frontera con la Tierra Prometida otra vez. Mois\u00e9s era ahora muy viejo, as\u00ed que escogi\u00f3 a Josu\u00e9 para ayudarle a liderar al pueblo. Dios prometi\u00f3 a Mois\u00e9s que un d\u00eda levantar\u00eda un profeta como Mois\u00e9s."
+          "text": "After the Israelites had wandered in the wilderness for forty years, all the people who had rebelled against God were dead. Then God led the people to the edge of the Promised Land again. Moses was now very old, so he chose Joshua to help him lead the people. God promised Moses that one day he would raise up another prophet like Moses.Despu\u00e9s de que los israelitas erraran por el desierto durante cuarenta a\u00f1os, toda la gente que se hab\u00eda rebelado contra Dios muri\u00f3. Dios llev\u00f3 a los israelitas a la frontera con la Tierra Prometida otra vez. Mois\u00e9s era ahora muy viejo, as\u00ed que escogi\u00f3 a Josu\u00e9 para ayudarle a liderar al pueblo. Dios prometi\u00f3 a Mois\u00e9s que un d\u00eda levantar\u00eda un profeta como Mois\u00e9s."
         }, 
         {
           "id": "14-15", 
@@ -922,7 +958,7 @@
       ], 
       "number": "14", 
       "ref": "Una historia de la Biblia en: \u00c9xodo 16-17; N\u00fameros 10-14; 20; 27; Deuteronomio 34", 
-      "title": " 14. Vagando por el Desierto "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -994,7 +1030,7 @@
       ], 
       "number": "15", 
       "ref": "Una historia de la Biblia en: Josu\u00e9 1-24", 
-      "title": " 15. La Tierra Prometida "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1091,7 +1127,7 @@
       ], 
       "number": "16", 
       "ref": "Una historia de la Biblia en: Jueces 1-3; 6-8", 
-      "title": " 16. Los Libertadores "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1168,7 +1204,7 @@
       ], 
       "number": "17", 
       "ref": "Una historia de la Biblia en: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
-      "title": " 17. El Pacto de Dios con David "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1240,7 +1276,7 @@
       ], 
       "number": "18", 
       "ref": "Una historia de la Biblia en: 1 Reyes 1-6; 11-12", 
-      "title": " 18. El Reino Dividido "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1337,7 +1373,7 @@
       ], 
       "number": "19", 
       "ref": "Una historia de la Biblia en: 1 Reyes 16-18; 2 Reyes 5; Jerem\u00edas 38", 
-      "title": " 19. Los Profetas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1409,7 +1445,7 @@
       ], 
       "number": "20", 
       "ref": "Una historia de la Biblia en: 2 Reyes 17; 24-25; 2 Cr\u00f3nicas 36; Esdr\u00e1s 1-10; Nehem\u00edas 1-13", 
-      "title": " 20. El Exilio y el Regreso "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1491,7 +1527,7 @@
       ], 
       "number": "21", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 3:15; 12:1-3; Deuteronomio 18:15; 2 Samuel 7; Jerem\u00edas 31; Isa\u00edas 59:16; Daniel 7; Malaqu\u00edas 4:5; Isa\u00edas 7:14; Miqueas 5:2; Isa\u00edas 9:1-7; 35:3-5; 61; 53; Salmos 22:18; 35:19; 69:4; 41:9; Zacar\u00edas 11:12-13; Isa\u00edas 50:6; Salmos 16:10-11", 
-      "title": " 21. Dios promete el Mes\u00edas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1518,12 +1554,7 @@
         {
           "id": "22-05", 
           "img": "{{:en:obs:obs-22-05.jpg?nolink&640x360}}", 
-          "text": "Mar\u00eda crey\u00f3 y acept\u00f3 lo que el \u00e1ngel dijo."
-        }, 
-        {
-          "id": "22-05", 
-          "img": "{{:en:obs:obs-22-05.jpg?nolink&640x360}}", 
-          "text": "Mar\u00eda crey\u00f3 y acept\u00f3 lo que el \u00e1ngel dijo."
+          "text": "Maria contest\u00f3: \u201c\u00bfC\u00f3mo puede ser eso, puesto que soy virgen?\u201d El angel le explic\u00f3: \u201cEl Esp\u00edritu Santo vendr\u00e1 sobre t\u00ed y el poder de Dios te cubrir\u00e1. Por eso tu hijo ser\u00e1 santo, el Hijo del Dios Alt\u00edsimo.\u201dMar\u00eda crey\u00f3 y acept\u00f3 lo que el \u00e1ngel dijo."
         }, 
         {
           "id": "22-06", 
@@ -1538,7 +1569,7 @@
       ], 
       "number": "22", 
       "ref": "Una historia de la Biblia en: Lucas 1", 
-      "title": " 22. El nacimiento de Juan "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1595,7 +1626,7 @@
       ], 
       "number": "23", 
       "ref": "Una historia de la Biblia en: Mateo 1; Lucas 2", 
-      "title": " 23. El Nacimiento de Jes\u00fas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1647,7 +1678,7 @@
       ], 
       "number": "24", 
       "ref": "Una historia de la Biblia de: Mateo 3; Marcos 1:9-11; Lucas 3:1-23", 
-      "title": " 24. Juan bautiza a Jes\u00fas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1694,7 +1725,7 @@
       ], 
       "number": "25", 
       "ref": "Una historia de la Biblia en: Mateo 4:1-11; Marcos 1:12-13; Lucas 4:1-13", 
-      "title": " 25. Satan\u00e1s tienta a Jes\u00fas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1751,7 +1782,7 @@
       ], 
       "number": "26", 
       "ref": "Una historia de la Biblia de: Mateo 4:12-25; Marcos 1:14-15, 35-39; 3:13-21; Lucas 4:14-30, 38-44", 
-      "title": " 26. Jes\u00fas comienza su Ministerio "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1813,7 +1844,7 @@
       ], 
       "number": "27", 
       "ref": "Una historia de la Biblia en: Lucas 10:25-37", 
-      "title": " 27. La Historia del Buen Samaritano. "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1850,12 +1881,7 @@
         {
           "id": "28-07", 
           "img": "{{:en:obs:obs-28-07.jpg?nolink&640x360}}", 
-          "text": "Cuando los disc\u00edpulos oyeron esto se sorprendieron y dijeron: \"Entonces, \u00bfqui\u00e9n podr\u00e1 salvarse?\""
-        }, 
-        {
-          "id": "28-07", 
-          "img": "{{:en:obs:obs-28-07.jpg?nolink&640x360}}", 
-          "text": "Cuando los disc\u00edpulos oyeron esto se sorprendieron y dijeron: \"Entonces, \u00bfqui\u00e9n podr\u00e1 salvarse?\""
+          "text": "When the disciples heard this they were shocked and said, \u201cThen who can be saved?\u201dCuando los disc\u00edpulos oyeron esto se sorprendieron y dijeron: \"Entonces, \u00bfqui\u00e9n podr\u00e1 salvarse?\""
         }, 
         {
           "id": "28-08", 
@@ -1875,7 +1901,7 @@
       ], 
       "number": "28", 
       "ref": "Una historia de la Biblia en: Mateo 19:16-30; Marcos 10:17-31; Lucas 18:18-30", 
-      "title": " 28. El principal joven y rico "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1927,7 +1953,7 @@
       ], 
       "number": "29", 
       "ref": "Una historia de la Biblia de: Mateo 18:21-35", 
-      "title": " 29. La historia del siervo despiadado "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -1979,7 +2005,7 @@
       ], 
       "number": "30", 
       "ref": "Una historia de la Biblia de: Mateo 14:13-21; Marcos 6:31-44; Lucas 9:10-17; Juan 6:5-15", 
-      "title": " 30. Jes\u00fas alimenta cinco mil personas "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2026,7 +2052,7 @@
       ], 
       "number": "31", 
       "ref": "Una historia de la Biblia en: Mateo 14:22-33; Marcos 6:45-52; Juan 6:16-21", 
-      "title": " 31. Jes\u00fas camina sobre las aguas. "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2113,7 +2139,7 @@
       ], 
       "number": "32", 
       "ref": "Una historia de la Biblia en: Mateo 8:28-34; Marcos 5:1-20; Lucas 8:26-39", 
-      "title": " 32. Jes\u00fas sana a un endemoniado y a una mujer enferma "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2165,7 +2191,7 @@
       ], 
       "number": "33", 
       "ref": "Una historia de la Biblia en: Mateo 13:1-8, 18-23; Marcos 4:1-8, 13-20; Lucas 8:4-15", 
-      "title": " 33. La historia del sembrador "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2222,7 +2248,7 @@
       ], 
       "number": "34", 
       "ref": "Una historia de la Biblia en: Mateo 13:31-33, 44-46; Marcos 4:30-32; Lucas 13:18-21; 18:9-14", 
-      "title": " 34. Jes\u00fas ense\u00f1a otras historias "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2294,7 +2320,7 @@
       ], 
       "number": "35", 
       "ref": "Una historia de la Biblia en: Lucas 15:11-32", 
-      "title": " 35. La historia del padre compasivo "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2336,7 +2362,7 @@
       ], 
       "number": "36", 
       "ref": "Una historia de la Biblia en: Mateo 17:1-9; Marcos 9:2-8; Lucas 9:28-36", 
-      "title": " 36. La Transfiguraci\u00f3n. "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2398,7 +2424,7 @@
       ], 
       "number": "37", 
       "ref": "Una historia de la Biblia en: Juan 11:1-46", 
-      "title": " 37. Jes\u00fas resucita a L\u00e1zaro de la muerte "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2480,7 +2506,7 @@
       ], 
       "number": "38", 
       "ref": "Una historia de la Biblia en: Mateo 26:14-56; Marcos 14:10-50; Lucas 22:1-53; Juan 18:1-11", 
-      "title": " 38. Jes\u00fas es traicionado "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2547,7 +2573,7 @@
       ], 
       "number": "39", 
       "ref": "Una historia de la Biblia en: Mateo 26:57-27:26; Marcos 14:53-15:15; Lucas 22:54-23:25; Juan 18:12-19:16", 
-      "title": " 39. Jes\u00fas es llevado a juicio "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2599,7 +2625,7 @@
       ], 
       "number": "40", 
       "ref": "Una historia de la Biblia en: Mateo 27:27-61; Marcos 15:16-47; Lucas 23:26-56; Juan 19:17-42", 
-      "title": " 40. Jes\u00fas es crucificado "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2646,7 +2672,7 @@
       ], 
       "number": "41", 
       "ref": "Una historia de la Biblia en: Mateo 27:62-28:15; Marcos 16:1-11; Lucas 24:1-12; Juan 20:1-18", 
-      "title": " 41. Dios resucita a Jes\u00fas de entre los muertos "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2708,7 +2734,7 @@
       ], 
       "number": "42", 
       "ref": "Una historia de la Biblia en: Mateo 28:16-20, Marcos 16:12-20, Lucas 24:13-53, Juan 20:19-23, Hechos 1:1-11", 
-      "title": " 42. Jes\u00fas Regresa al Cielo "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2780,7 +2806,7 @@
       ], 
       "number": "43", 
       "ref": "Una historia de la Biblia de: Hechos 2", 
-      "title": " 43. Comienza la Iglesia "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2832,7 +2858,7 @@
       ], 
       "number": "44", 
       "ref": "Una historia de la Biblia en: Hechos 3:1-4:22", 
-      "title": " 44. Pedro y Juan sanan a un mendigo "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2904,7 +2930,7 @@
       ], 
       "number": "45", 
       "ref": "Una historia de la Biblia en: Hechos 8:26-40", 
-      "title": " 45. Felipe y el Oficial Et\u00edope "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -2961,7 +2987,7 @@
       ], 
       "number": "46", 
       "ref": "Una historia de la Biblia en: Hechos 6:8-8:3; 9:1-25;  11:25-26", 
-      "title": " 46. Pablo se hace cristiano "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -3038,7 +3064,7 @@
       ], 
       "number": "47", 
       "ref": "Una historia de la Biblia en: Hechos 16:11-40", 
-      "title": " 47. Pablo y Silas en Filipo "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -3115,7 +3141,7 @@
       ], 
       "number": "48", 
       "ref": "Una historia de la Biblia en: G\u00e9nesis 1-3, 6, 14, 22; \u00c9xodo 12, 20; 2 Samuel 7; Hebreos 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Apocalipsis 21", 
-      "title": " 48. Jes\u00fas es el Mes\u00edas Prometido "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -3162,12 +3188,7 @@
         {
           "id": "49-09", 
           "img": "{{:en:obs:obs-49-09.jpg?nolink&640x360}}", 
-          "text": "obs-49-08.jpg"
-        }, 
-        {
-          "id": "49-09", 
-          "img": "{{:en:obs:obs-49-09.jpg?nolink&640x360}}", 
-          "text": "obs-49-08.jpg"
+          "text": "Pero Dios am\u00f3 tanto al mundo que dio a Su \u00fanico hijo, Jes\u00fas, para que todo aquel que cree en \u00c9l no ir\u00e1 al infierno sino que vivir\u00e1 con \u00c9l para siempre.obs-49-08.jpg"
         }, 
         {
           "id": "49-10", 
@@ -3217,7 +3238,7 @@
       ], 
       "number": "49", 
       "ref": "Una historia de la Biblia en: Romanos 3:21-26, 5:1-11; Juan 3:16; Marcos 16:16; Colosenses 1:13-14; 2 Tesalonicenses 5:17-21; 1 Juan 1:5-10", 
-      "title": " 49. El Nuevo Pacto de Dios "
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -3309,7 +3330,7 @@
       ], 
       "number": "50", 
       "ref": "Una historia de la Biblia en: Mateo 24:14; 28:18; Juan 15:20, 16:33; Apocalipsis 2:10; Mateo 13:24-30, 36-42; 1 Tesalonicenses 4:13-5:11; Santiago 1:12; Mateo 22:13; Apocalipsis 20:10, 21:1-22:21", 
-      "title": " 50. Jes\u00fas regresa "
+      "title": "NOT FOUND"
     }
   ], 
   "date_modified": "20140724", 

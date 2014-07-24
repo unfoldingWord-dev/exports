@@ -86,7 +86,7 @@
       ], 
       "number": "01", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ng Th\u1ebf K\u00fd 1-2.", 
-      "title": " 1. S\u1ef1 S\u00e1ng T\u1ea1o "
+      "title": "1. S\u1ef1 S\u00e1ng T\u1ea1o"
     }, 
     {
       "frames": [
@@ -153,7 +153,7 @@
       ], 
       "number": "02", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 3.", 
-      "title": " 2. T\u1ed9i L\u1ed7i V\u00e0o Th\u1ebf Gian. "
+      "title": "2. T\u1ed9i L\u1ed7i V\u00e0o Th\u1ebf Gian."
     }, 
     {
       "frames": [
@@ -240,7 +240,7 @@
       ], 
       "number": "03", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch: S\u00e1ng Th\u1ebf K\u00fd Ch\u01b0\u01a1ng 6-8.", 
-      "title": " 3.C\u01a1n \u0110\u1ea1i H\u1ed3ng Th\u1ee7y "
+      "title": "3.C\u01a1n \u0110\u1ea1i H\u1ed3ng Th\u1ee7y"
     }, 
     {
       "frames": [
@@ -292,7 +292,7 @@
       ], 
       "number": "04", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 11-15.", 
-      "title": " 4. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa v\u1edbi Ap-ra-ham. "
+      "title": "4. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa v\u1edbi Ap-ra-ham."
     }, 
     {
       "frames": [
@@ -349,7 +349,7 @@
       ], 
       "number": "05", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 16-22", 
-      "title": " 5. \u0110\u1ee9a Con C\u1ee7a L\u1eddi H\u1ee9a "
+      "title": "5. \u0110\u1ee9a Con C\u1ee7a L\u1eddi H\u1ee9a"
     }, 
     {
       "frames": [
@@ -391,7 +391,7 @@
       ], 
       "number": "06", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 24:1-25:26.", 
-      "title": " 6. Ch\u00faa Cung C\u1ea5p Cho Y-sac "
+      "title": "6. Ch\u00faa Cung C\u1ea5p Cho Y-sac"
     }, 
     {
       "frames": [
@@ -448,7 +448,7 @@
       ], 
       "number": "07", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 25:27-33: 20", 
-      "title": " 7. Ch\u00faa Ban Ph\u01b0\u1edbc Cho Gia-c\u1ed1p "
+      "title": "7. Ch\u00faa Ban Ph\u01b0\u1edbc Cho Gia-c\u1ed1p"
     }, 
     {
       "frames": [
@@ -525,16 +525,12 @@
         {
           "id": "08-15", 
           "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 37-50."
-        }, 
-        {
-          "id": "08-15", 
-          "img": "{{:en:obs:obs-08-15.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 37-50."
+          "text": "L\u1eddi giao \u01b0\u1edbc Ch\u00faa h\u1ee9a c\u00f9ng Ap-ra-ham \u0111\u01b0\u1ee3c ti\u1ebfp t\u1ee5c chuy\u1ec3n sang cho Y-sac, r\u1ed3i Gia-c\u1ed1p ti\u1ebfp \u0111\u1ebfn m\u01b0\u1eddi hai con trai c\u1ee7a Gia-c\u1ed1p v\u00e0 gia \u0111\u00ecnh h\u1ecd. D\u00f2ng d\u00f5i m\u01b0\u1eddi hai con trai Gia-c\u1ed1p tr\u1edf th\u00e0nh m\u01b0\u1eddi hai chi t\u1ed9c c\u1ee7a ng\u01b0\u1eddi Do Th\u00e1i.C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch S\u00e1ng Th\u1ebf K\u00fd ch\u01b0\u01a1ng 37-50."
         }
       ], 
       "number": "08", 
-      "title": " 8. Ch\u00faa B\u1ea3o V\u1ec7 Gi\u00f4-s\u00e9p v\u00e0 gia \u0111\u00ecnh \u00f4ng "
+      "ref": "NOT FOUND", 
+      "title": "8. Ch\u00faa B\u1ea3o V\u1ec7 Gi\u00f4-s\u00e9p v\u00e0 gia \u0111\u00ecnh \u00f4ng"
     }, 
     {
       "frames": [
@@ -616,7 +612,7 @@
       ], 
       "number": "09", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch Xu\u1ea5t -\u00ca-Dip-T\u00f4 K\u00fd ch\u01b0\u01a1ng 1-4.", 
-      "title": " 9. Ch\u00faa G\u1ecdi M\u00f4i-se. "
+      "title": "9. Ch\u00faa G\u1ecdi M\u00f4i-se."
     }, 
     {
       "frames": [
@@ -683,7 +679,7 @@
       ], 
       "number": "10", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch Xu\u1ea5t H\u00e0nh ch\u01b0\u01a1ng 5-10.", 
-      "title": " 10. M\u01b0\u1eddi Tai V\u1ea1. "
+      "title": "10. M\u01b0\u1eddi Tai V\u1ea1."
     }, 
     {
       "frames": [
@@ -729,8 +725,8 @@
         }
       ], 
       "number": "11", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>C\u00e2u chuy</font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333/arial;;#333333;;#ffffff>\u1ec7n Kinh Th\u00e1nh s\u00e1ch Xu\u1ea5t H\u00e0nh ch\u01b0\u01a1ng 11:1-12:32.</font> ", 
-      "title": " 11. L\u1ec5 V\u01b0\u1ee3t Qua "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>C\u00e2u chuy<font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333arial;;#333333;;#ffffff>\u1ec7n Kinh Th\u00e1nh s\u00e1ch Xu\u1ea5t H\u00e0nh ch\u01b0\u01a1ng 11:1-12:32.<font>", 
+      "title": "11. L\u1ec5 V\u01b0\u1ee3t Qua"
     }, 
     {
       "frames": [
@@ -806,8 +802,8 @@
         }
       ], 
       "number": "12", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>C\u00e2u chuy</font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333/arial;;#333333;;#ffffff>\u1ec7n Kinh Th\u00e1nh s\u00e1ch Xu\u1ea5t H\u00e0nh ch\u01b0\u01a1ng 12:33-15:21.</font> ", 
-      "title": " 12. Xu\u1ea5t H\u00e0nh. "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>C\u00e2u chuy<font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333arial;;#333333;;#ffffff>\u1ec7n Kinh Th\u00e1nh s\u00e1ch Xu\u1ea5t H\u00e0nh ch\u01b0\u01a1ng 12:33-15:21.<font>", 
+      "title": "12. Xu\u1ea5t H\u00e0nh."
     }, 
     {
       "frames": [
@@ -889,7 +885,7 @@
       ], 
       "number": "13", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch Xu\u1ea5t H\u00e0nh 19-34.", 
-      "title": " 13. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa V\u1edbi D\u00e2n Do Th\u00e1i. "
+      "title": "13. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa V\u1edbi D\u00e2n Do Th\u00e1i."
     }, 
     {
       "frames": [
@@ -970,8 +966,8 @@
         }
       ], 
       "number": "14", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>Ch\u00faa</font> <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333/arial;;#333333;;#ffffff>\u0111em M\u00f4i-se l\u00ean tr\u00ean m\u1ed9t ng\u1ecdn n\u00fai \u0111\u1ec3 \u00f4ng c\u00f3 th\u1ec3 nh\u00ecn th\u1ea5y to\u00e0n b\u1ed9 \u0110\u1ea5t H\u1ee9a. M\u00f4i-se nh\u00ecn th\u1ea5y \u0110\u1ea5t H\u1ee9a nh\u01b0ng kh\u00f4ng \u0111\u01b0\u1ee3c v\u00e0o n\u01a1i \u1ea5y. sau \u0111\u00f3 M\u00f4i-se qua \u0111\u1eddi, v\u00e0 d\u00e2n Do Th\u00e1i \u0111\u1ec3 tang cho \u00f4ng trong ba m\u01b0\u01a1i ng\u00e0y. Gi\u00f4-su\u00ea tr\u1edf th\u00e0nh ng\u01b0\u1eddi l\u00e3nh \u0111\u1ea1o m\u1edbi cho d\u00e2n s\u1ef1. Gi\u00f4-su\u00ea l\u00e0 m\u1ed9t l\u00e3nh \u0111\u1ea1o t\u1ed1t v\u00ec \u00f4ng tin v\u00e0 v\u00e2ng ph\u1ee5c Ch\u00faa.</font> ", 
-      "title": " 14. Lang Thang Trong \u0110\u1ed3ng V\u1eafng. "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>Ch\u00faa<font> <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333arial;;#333333;;#ffffff>\u0111em M\u00f4i-se l\u00ean tr\u00ean m\u1ed9t ng\u1ecdn n\u00fai \u0111\u1ec3 \u00f4ng c\u00f3 th\u1ec3 nh\u00ecn th\u1ea5y to\u00e0n b\u1ed9 \u0110\u1ea5t H\u1ee9a. M\u00f4i-se nh\u00ecn th\u1ea5y \u0110\u1ea5t H\u1ee9a nh\u01b0ng kh\u00f4ng \u0111\u01b0\u1ee3c v\u00e0o n\u01a1i \u1ea5y. sau \u0111\u00f3 M\u00f4i-se qua \u0111\u1eddi, v\u00e0 d\u00e2n Do Th\u00e1i \u0111\u1ec3 tang cho \u00f4ng trong ba m\u01b0\u01a1i ng\u00e0y. Gi\u00f4-su\u00ea tr\u1edf th\u00e0nh ng\u01b0\u1eddi l\u00e3nh \u0111\u1ea1o m\u1edbi cho d\u00e2n s\u1ef1. Gi\u00f4-su\u00ea l\u00e0 m\u1ed9t l\u00e3nh \u0111\u1ea1o t\u1ed1t v\u00ec \u00f4ng tin v\u00e0 v\u00e2ng ph\u1ee5c Ch\u00faa.<font>", 
+      "title": "14. Lang Thang Trong \u0110\u1ed3ng V\u1eafng."
     }, 
     {
       "frames": [
@@ -983,12 +979,7 @@
         {
           "id": "15-02", 
           "img": "{{:en:obs:obs-15-02.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
-        }, 
-        {
-          "id": "15-02", 
-          "img": "{{:en:obs:obs-15-02.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
+          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial;/Helvetica, sans-serif;;#000000;;white background-position: initial initial; background-repeat: initial initial;>\u0110\u1ec3 ti\u1ebfn v\u00e0o \u0110\u1ea5t H\u1ee9a, ng\u01b0\u1eddi Do Th\u00e1i ph\u1ea3i v\u01b0\u1ee3t qua s\u00f4ng Gi\u00f4-\u0111anh. Ch\u00faa ph\u00e1n c\u00f9ng Gi\u00f4-su\u00ea, \"\u0110\u1ec3 th\u1ea7y T\u1ebf l\u1ec5 \u0111i tr\u01b0\u1edbc.\" Khi b\u00e0n ch\u00e2n th\u1ea7y t\u1ebf l\u1ec5 ch\u1ea1m n\u01b0\u1edbc s\u00f4ng Gi\u00f4-\u0111anh, n\u01b0\u1edbc b\u1eaft \u0111\u1ea7u kh\u00f4 d\u1ea7n v\u00e0 d\u00e2n Do Th\u00e1i \u0111i qua s\u00f4ng nh\u01b0 \u0111i tr\u00ean \u0111\u1ea5t kh\u00f4.</font>\\\\ <font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
         }, 
         {
           "id": "15-03", 
@@ -1003,22 +994,12 @@
         {
           "id": "15-05", 
           "img": "{{:en:obs:obs-15-05.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
-        }, 
-        {
-          "id": "15-05", 
-          "img": "{{:en:obs:obs-15-05.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
+          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial;/Helvetica, sans-serif;;#000000;;white background-position: initial initial; background-repeat: initial initial;>V\u00e0 t\u01b0\u1eddng th\u00e0nh s\u1ee5p \u0111\u1ed7! D\u00e2n Do Th\u00e1i b\u00e8n ti\u00eau hu\u1ef7 t\u1ea5t c\u1ea3 theo m\u1ea1ng l\u1ec7nh c\u1ee7a Ch\u00faa. Ch\u1ec9 c\u00f3 Ra-h\u00e1p v\u00e0 gia \u0111\u00ecnh b\u00e0 \u0111\u01b0\u1ee3c c\u1ee9u. H\u1ecd tr\u1edf th\u00e0nh m\u1ed9t ph\u1ea7n c\u1ee7a d\u00e2n Do Th\u00e1i. Khi d\u00e2n Ca-na-an nghe nh\u1eefng g\u00ec x\u1ea3y ra v\u1edbi th\u00e0nh Gi\u00ea-ri-c\u00f4 th\u00ec h\u1ecd v\u00f4 c\u00f9ng s\u1ee3 h\u00e3i.</font>\\\\ <font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
         }, 
         {
           "id": "15-06", 
           "img": "{{:en:obs:obs-15-06.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
-        }, 
-        {
-          "id": "15-06", 
-          "img": "{{:en:obs:obs-15-06.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
+          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial;/Helvetica, sans-serif;;#000000;;white background-position: initial initial; background-repeat: initial initial;>Ng\u01b0\u1eddi d\u00e2n thu\u1ed9c b\u1ed9 t\u1ed9c Ghi-b\u00ea-\u00f4n t\u00ecm c\u00e1ch n\u00f3i d\u1ed1i Gi\u00f4-su\u00ea l\u00e0 h\u1ecd \u0111\u1ebfn t\u1eeb n\u01a1i r\u1ea5t xa. H\u1ecd y\u00eau c\u1ea7u Gi\u00f4-su\u00ea l\u00e0m giao \u01b0\u1edbc ho\u00e0 b\u00ecnh v\u1edbi h\u1ecd. Ch\u00faa c\u00f3 ph\u00e1n l\u00e0 kh\u00f4ng \u0111\u01b0\u1ee3c k\u00fd giao \u01b0\u1edbc ho\u00e0 b\u00ecnh v\u1edbi ng\u01b0\u1eddi Ca-na-an, nh\u01b0ng Gi\u00f4-su\u00ea v\u00e0 d\u00e2n Do Th\u00e1i kh\u00f4ng ch\u1ecbu h\u1ecfi Ch\u00faa xem ng\u01b0\u1eddi Ghi-b\u00ea-\u00f4n t\u1eeb \u0111\u00e2u t\u1edbi. V\u1eady, Gi\u00f4-su\u00ea l\u00e0m giao \u01b0\u1edbc ho\u00e0 b\u00ecnh v\u1edbi h\u1ecd.</font>\\\\ <font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
         }, 
         {
           "id": "15-07", 
@@ -1028,12 +1009,7 @@
         {
           "id": "15-08", 
           "img": "{{:en:obs:obs-15-08.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
-        }, 
-        {
-          "id": "15-08", 
-          "img": "{{:en:obs:obs-15-08.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
+          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial;/Helvetica, sans-serif;;#000000;;white background-position: initial initial; background-repeat: initial initial;>Gi\u00f4-su\u00ea n\u1ed5i gi\u1eadn v\u00ec \u00f4ng b\u1ecb l\u1eeba, nh\u01b0ng \u00f4ng v\u1eabn t\u1eadp h\u1ee3p binh s\u0129 Do Th\u00e1i, v\u00e0 h\u1ecd \u0111i su\u1ed1t \u0111\u00eam \u0111\u1ebfn b\u1ed9 t\u1ed9c Ghi-b\u00ea-\u00f4n. s\u00e1ng s\u1edbm h\u00f4m sau h\u1ecd b\u1ea5t th\u1ea7n t\u1ea5n c\u00f4ng qu\u00e2n c\u1ee7a Ca-na-an.</font>\\\\ <font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
         }, 
         {
           "id": "15-09", 
@@ -1048,12 +1024,7 @@
         {
           "id": "15-11", 
           "img": "{{:en:obs:obs-15-11.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
-        }, 
-        {
-          "id": "15-11", 
-          "img": "{{:en:obs:obs-15-11.jpg?nolink&640x360}}", 
-          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
+          "text": "<font 12pt line-height: 115%; font-family: Helvetica, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial;/Helvetica, sans-serif;;#000000;;white background-position: initial initial; background-repeat: initial initial;>Sau tr\u1eadn chi\u1ebfn n\u00e0y, ng\u01b0\u1eddi Ca-na-an mu\u1ed1n t\u1ea5n c\u00f4ng ng\u01b0\u1eddi Do Th\u00e1i, nh\u01b0ng Gi\u00f4-su\u00ea \u0111\u00e3 ho\u00e0n to\u00e0n hu\u1ef7 di\u1ec7t h\u1ecd.</font>\\\\ <font 12pt line-height: 115%; font-family: Helvetica, sans-serif;/Helvetica, sans-serif;;#000000;;#ffffff>%</font>"
         }, 
         {
           "id": "15-12", 
@@ -1068,7 +1039,7 @@
       ], 
       "number": "15", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch Gi\u00f4-su\u00ea ch\u01b0\u01a1ng 1-24.", 
-      "title": " 15. \u0110\u1ea5t H\u1ee9a "
+      "title": "15. \u0110\u1ea5t H\u1ee9a"
     }, 
     {
       "frames": [
@@ -1165,7 +1136,7 @@
       ], 
       "number": "16", 
       "ref": "C\u00e2u chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch C\u00e1c Quan x\u00e9t 1-3;6-8.", 
-      "title": " 16. Nh\u1eefng Ng\u01b0\u1eddi Gi\u1ea3i C\u1ee9u. "
+      "title": "16. Nh\u1eefng Ng\u01b0\u1eddi Gi\u1ea3i C\u1ee9u."
     }, 
     {
       "frames": [
@@ -1242,7 +1213,7 @@
       ], 
       "number": "17", 
       "ref": "C\u00e2u Chuy\u1ec7nKinh Th\u00e1nh S\u00e1ch I Sa-mu-\u00ean ch\u01b0\u01a1ng 10; 15-19; 24; 31 & s\u00e1ch II Sa-mu-\u00ean 5; 7; 11-12.", 
-      "title": " 17. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa V\u1edbi \u0110a-vit. "
+      "title": "17. Giao \u01af\u1edbc C\u1ee7a Ch\u00faa V\u1edbi \u0110a-vit."
     }, 
     {
       "frames": [
@@ -1313,8 +1284,8 @@
         }
       ], 
       "number": "18", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>C\u00e2u Chuy</font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333/arial;;#333333;;#ffffff>\u1ec7n Kinh th\u00e1nh S\u00e1ch I c\u00e1c Vua 1-6; 11-12.</font> ", 
-      "title": " 18. \u0110\u1ea5t N\u01b0\u1edbc Chia \u0110\u00f4i. "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>C\u00e2u Chuy<font>  <font 10.5ptfont-family:\"Arial\",\"sans-serif\";color:#333333arial;;#333333;;#ffffff>\u1ec7n Kinh th\u00e1nh S\u00e1ch I c\u00e1c Vua 1-6; 11-12.<font>", 
+      "title": "18. \u0110\u1ea5t N\u01b0\u1edbc Chia \u0110\u00f4i."
     }, 
     {
       "frames": [
@@ -1411,7 +1382,7 @@
       ], 
       "number": "19", 
       "ref": "C\u00e2u Chuy\u1ec7nKinh Th\u00e1nh T\u1eeb S\u00e1ch I Vua 16-18; II V\u1ee5a; Gi\u00ea-r\u00ea-mi 38.", 
-      "title": " 19. Nh\u1eefng Ti\u00ean Tri. "
+      "title": "19. Nh\u1eefng Ti\u00ean Tri."
     }, 
     {
       "frames": [
@@ -1478,16 +1449,12 @@
         {
           "id": "20-13", 
           "img": "{{:en:obs:obs-20-13.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ch 2 Vua 17; 24-25, 2 S\u1eed K\u00fd 36; \u00ca-x\u01a1-ra 1-10; N\u00ea-h\u00ea-mi 1-13."
-        }, 
-        {
-          "id": "20-13", 
-          "img": "{{:en:obs:obs-20-13.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ch 2 Vua 17; 24-25, 2 S\u1eed K\u00fd 36; \u00ca-x\u01a1-ra 1-10; N\u00ea-h\u00ea-mi 1-13."
+          "text": "Khi tr\u1edf v\u1ec1, h\u1ecd x\u00e2y l\u1ea1i \u0110\u1ec1n Th\u1edd v\u00e0 t\u01b0\u1eddng th\u00e0nh Gi\u00ea-ru-sa-lem. D\u1ea7u v\u1eady, h\u1ecd v\u1eabn \u1edf d\u01b0\u1edbi s\u1ef1 l\u00e3nh \u0111\u1ea1o c\u1ee7a ng\u01b0\u1eddi kh\u00e1c, h\u1ecd s\u1ed1ng n\u01a1i \u0110\u1ea5t H\u1ee9a v\u00e0 th\u1edd ph\u01b0\u1ee3ng n\u01a1i \u0110\u1ec1n Th\u1edd.C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh: S\u00e1ch 2 Vua 17; 24-25, 2 S\u1eed K\u00fd 36; \u00ca-x\u01a1-ra 1-10; N\u00ea-h\u00ea-mi 1-13."
         }
       ], 
       "number": "20", 
-      "title": " 20. L\u01b0u \u0110\u00e0y v\u00e0 H\u1ed3i H\u01b0\u01a1ng "
+      "ref": "NOT FOUND", 
+      "title": "20. L\u01b0u \u0110\u00e0y v\u00e0 H\u1ed3i H\u01b0\u01a1ng"
     }, 
     {
       "frames": [
@@ -1564,16 +1531,12 @@
         {
           "id": "21-15", 
           "img": "{{:en:obs:obs-21-15.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch: S\u00e1ng Th\u1ebf 3:15; 12:1-3; Ph\u1ee5c Truy\u1ec1n 18:15; 2 Samue6n 7; Gi\u00ea-r\u00ea-mi 31; \u00ca-sai 59:16; \u0110a-ni-\u00ean 7; Ma-la-chi 4:5; \u00ca-sai 7:14; Mi-ch\u00ea 5:2; \u00ca-sai 9:1-7; 35:3-5; 61; 53; thi Thi\u00ean 22:18; 35:19; 69:4; 41:9; Xa-cha-ri 11:12-13; \u00ca-sai 50:6; Thi Thi\u00ean 16: 10-11."
-        }, 
-        {
-          "id": "21-15", 
-          "img": "{{:en:obs:obs-21-15.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch: S\u00e1ng Th\u1ebf 3:15; 12:1-3; Ph\u1ee5c Truy\u1ec1n 18:15; 2 Samue6n 7; Gi\u00ea-r\u00ea-mi 31; \u00ca-sai 59:16; \u0110a-ni-\u00ean 7; Ma-la-chi 4:5; \u00ca-sai 7:14; Mi-ch\u00ea 5:2; \u00ca-sai 9:1-7; 35:3-5; 61; 53; thi Thi\u00ean 22:18; 35:19; 69:4; 41:9; Xa-cha-ri 11:12-13; \u00ca-sai 50:6; Thi Thi\u00ean 16: 10-11."
+          "text": "<font 10.5pt line-height: 14.7pt;/Arial, sans-serif;;rgb(51, 51, 51) font-family: Arial, sans-serif; font-size: 10.5pt; line-height: 14.7pt;;;#ffffff>Ch\u00faa b\u00e0y t\u1ecf cho ti\u00ean tri r\u1ea5t nhi\u1ec1u \u0111i\u1ec1u v\u1ec1 s\u1ef1 ra \u0111\u1eddi c\u1ee7a \u0110\u1ea5ng M\u00ea-si, nh\u01b0ng \u0110\u1ea5ng M\u00ea-si ch\u01b0a \u0111\u1ebfn. H\u01a1n 400 n\u0103m sau k\u1ec3 t\u1eeb ti\u00ean tri sau c\u00f9ng xu\u1ea5t hi\u1ec7n, khi \u0111\u1ebfn th\u1eddi \u0111i\u1ec3m thu\u1eadn hi\u1ec7p, Ch\u00faa g\u1eedi \u0110\u1ea5ng M\u00ea-si \u0111\u1ebfn tr\u1ea7n gian.</font>C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch: S\u00e1ng Th\u1ebf 3:15; 12:1-3; Ph\u1ee5c Truy\u1ec1n 18:15; 2 Samue6n 7; Gi\u00ea-r\u00ea-mi 31; \u00ca-sai 59:16; \u0110a-ni-\u00ean 7; Ma-la-chi 4:5; \u00ca-sai 7:14; Mi-ch\u00ea 5:2; \u00ca-sai 9:1-7; 35:3-5; 61; 53; thi Thi\u00ean 22:18; 35:19; 69:4; 41:9; Xa-cha-ri 11:12-13; \u00ca-sai 50:6; Thi Thi\u00ean 16: 10-11."
         }
       ], 
       "number": "21", 
-      "title": " 21. Ch\u00faa H\u1ee9a v\u1ec1 \u0110\u1ea5ng M\u00ea-si. "
+      "ref": "NOT FOUND", 
+      "title": "21. Ch\u00faa H\u1ee9a v\u1ec1 \u0110\u1ea5ng M\u00ea-si."
     }, 
     {
       "frames": [
@@ -1615,7 +1578,7 @@
       ], 
       "number": "22", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch Lu-ca ch\u01b0\u01a1ng 1.", 
-      "title": " 22. S\u1ef1 Ra \u0110\u1eddi C\u1ee7a Gi\u0103ng "
+      "title": "22. S\u1ef1 Ra \u0110\u1eddi C\u1ee7a Gi\u0103ng"
     }, 
     {
       "frames": [
@@ -1672,7 +1635,7 @@
       ], 
       "number": "23", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 1; Lu-ca 2.", 
-      "title": " 23. S\u1ef1 Gi\u00e1ng Sinh C\u1ee7a Ch\u00faa Jesus. "
+      "title": "23. S\u1ef1 Gi\u00e1ng Sinh C\u1ee7a Ch\u00faa Jesus."
     }, 
     {
       "frames": [
@@ -1724,7 +1687,7 @@
       ], 
       "number": "24", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 3; M\u00e1c 1:9-11; Lu-ca 3:1-23.", 
-      "title": " 24. Gi\u0103ng L\u00e0m Ph\u00e9p B\u00e1p-tem Cho Ch\u00faa Jesus. "
+      "title": "24. Gi\u0103ng L\u00e0m Ph\u00e9p B\u00e1p-tem Cho Ch\u00faa Jesus."
     }, 
     {
       "frames": [
@@ -1766,16 +1729,12 @@
         {
           "id": "25-08", 
           "img": "{{:en:obs:obs-25-08.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch Ma-thi-\u01a1 4:1-11; M\u00e1c 1:12-13; Lu-ca 4:1-13."
-        }, 
-        {
-          "id": "25-08", 
-          "img": "{{:en:obs:obs-25-08.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch Ma-thi-\u01a1 4:1-11; M\u00e1c 1:12-13; Lu-ca 4:1-13."
+          "text": "Ch\u00faa Jesus kh\u00f4ng \u0111\u1ec3 cho Sa-tan c\u00e1m d\u1ed7 Ng\u00e0i, v\u1eady Sa-tan r\u1eddi kh\u1ecfi Ng\u00e0i. Sau \u0111\u00f3 thi\u00ean s\u1ee9 \u0111\u1ebfn ch\u0103m s\u00f3c Ch\u00faa Jesus.C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh s\u00e1ch Ma-thi-\u01a1 4:1-11; M\u00e1c 1:12-13; Lu-ca 4:1-13."
         }
       ], 
       "number": "25", 
-      "title": " 25. Satan C\u00e1m D\u1ed7 Ch\u00faa Jesus. "
+      "ref": "NOT FOUND", 
+      "title": "25. Satan C\u00e1m D\u1ed7 Ch\u00faa Jesus."
     }, 
     {
       "frames": [
@@ -1832,7 +1791,7 @@
       ], 
       "number": "26", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh S\u00e1ch: Ma-thi-\u01a1 4:12-25; M\u00e1c 1:14-15; 35-39; 3:13-21; Lu-ca 4:14-30, 38-44.", 
-      "title": " 26. Ch\u00faa Jesus B\u1eaft \u0110\u1ea7u Ch\u1ee9c V\u1ee5. "
+      "title": "26. Ch\u00faa Jesus B\u1eaft \u0110\u1ea7u Ch\u1ee9c V\u1ee5."
     }, 
     {
       "frames": [
@@ -1894,7 +1853,7 @@
       ], 
       "number": "27", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Lu-ca 10:25-37.", 
-      "title": " 27. C\u00e2u Chuy\u1ec7n Ng\u01b0\u1eddi Sa-ma-ri Nh\u01a1n L\u00e0nh. "
+      "title": "27. C\u00e2u Chuy\u1ec7n Ng\u01b0\u1eddi Sa-ma-ri Nh\u01a1n L\u00e0nh."
     }, 
     {
       "frames": [
@@ -1951,7 +1910,7 @@
       ], 
       "number": "28", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 19:16-30; M\u00e1c 10:17-31; Lu-ca 18:1830.", 
-      "title": " 28. Ng\u01b0\u1eddi Trai Tr\u1ebb Gi\u00e0u C\u00f3. "
+      "title": "28. Ng\u01b0\u1eddi Trai Tr\u1ebb Gi\u00e0u C\u00f3."
     }, 
     {
       "frames": [
@@ -2003,7 +1962,7 @@
       ], 
       "number": "29", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 18:21-35.", 
-      "title": " 29. Chuy\u1ec7n Ng\u01b0\u1eddi \u0110\u1ea7y T\u1edb B\u1ea5t Nh\u00e2n "
+      "title": "29. Chuy\u1ec7n Ng\u01b0\u1eddi \u0110\u1ea7y T\u1edb B\u1ea5t Nh\u00e2n"
     }, 
     {
       "frames": [
@@ -2050,16 +2009,12 @@
         {
           "id": "30-09", 
           "img": "{{:en:obs:obs-30-09.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 14:13-21; Mac 6:31-44; Lu-ca 9:10-17; Gi\u0103ng 6:5-15."
-        }, 
-        {
-          "id": "30-09", 
-          "img": "{{:en:obs:obs-30-09.jpg?nolink&640x360}}", 
-          "text": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 14:13-21; Mac 6:31-44; Lu-ca 9:10-17; Gi\u0103ng 6:5-15."
+          "text": "M\u00f4n \u0111\u1ec7 c\u00f2n nh\u1eb7t lai m\u01b0\u1eddi hai gi\u1ecf th\u1eeba m\u00e0 \u0111o\u00e0n d\u00e2n kh\u00f4ng \u0103n h\u1ebft. T\u1ea5t c\u1ea3 th\u1ee9c \u0103n \u0111\u1ebfn t\u1eeb n\u0103m c\u00e1i b\u00e1nh v\u00e0 hai con c\u00e1.C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 14:13-21; Mac 6:31-44; Lu-ca 9:10-17; Gi\u0103ng 6:5-15."
         }
       ], 
       "number": "30", 
-      "title": " 30. Ch\u00faa Ho\u00e1 B\u00e1nh Cho N\u0103m Ng\u00e0n Ng\u01b0\u1eddi \u0102n "
+      "ref": "NOT FOUND", 
+      "title": "30. Ch\u00faa Ho\u00e1 B\u00e1nh Cho N\u0103m Ng\u00e0n Ng\u01b0\u1eddi \u0102n"
     }, 
     {
       "frames": [
@@ -2106,7 +2061,7 @@
       ], 
       "number": "31", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 14:22-33; M\u00e1c 6:45-52; Gi\u0103ng 6:16-21.", 
-      "title": " 31. Ch\u00faa Jesus \u0110i Tr\u00ean N\u01b0\u1edbc "
+      "title": "31. Ch\u00faa Jesus \u0110i Tr\u00ean N\u01b0\u1edbc"
     }, 
     {
       "frames": [
@@ -2193,7 +2148,7 @@
       ], 
       "number": "32", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-ti-\u01a1 8:28-34; Mac 5:1-20; Lu-ca 8:26-39.", 
-      "title": " 32. Ch\u00faa \u0110u\u1ed5i Qu\u1ec9 Ra Kh\u1ecfi Ng\u01b0\u1eddi \u0110\u00e0n \u00d4ng & Ch\u1eeda L\u00e0nh Cho M\u1ed9t Ph\u1ee5 N\u1eef "
+      "title": "32. Ch\u00faa \u0110u\u1ed5i Qu\u1ec9 Ra Kh\u1ecfi Ng\u01b0\u1eddi \u0110\u00e0n \u00d4ng & Ch\u1eeda L\u00e0nh Cho M\u1ed9t Ph\u1ee5 N\u1eef"
     }, 
     {
       "frames": [
@@ -2245,7 +2200,7 @@
       ], 
       "number": "33", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 13:1-8, 18-23; M\u00e1c 4:1-8, 13-20; Lu-ca 8:4-15.", 
-      "title": " 33. C\u00e2u Chuy\u1ec7n Ng\u01b0\u1eddi Gieo Gi\u1ed1ng "
+      "title": "33. C\u00e2u Chuy\u1ec7n Ng\u01b0\u1eddi Gieo Gi\u1ed1ng"
     }, 
     {
       "frames": [
@@ -2302,7 +2257,7 @@
       ], 
       "number": "34", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 13:31-33, 44-46; M\u00e1c 4:30-32; Lu-ca 13:18-21; 18:9-14.", 
-      "title": " 34. Ch\u00faa Jesus D\u1ea1y Nh\u1eefng C\u00e2u Chuy\u1ec7n Kh\u00e1c "
+      "title": "34. Ch\u00faa Jesus D\u1ea1y Nh\u1eefng C\u00e2u Chuy\u1ec7n Kh\u00e1c"
     }, 
     {
       "frames": [
@@ -2374,7 +2329,7 @@
       ], 
       "number": "35", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Lu-ca 15:11-32.", 
-      "title": " 35. C\u00e2u Chuy\u1ec7n V\u1ec1 Ng\u01b0\u1eddi Cha Nh\u01a1n T\u1eeb "
+      "title": "35. C\u00e2u Chuy\u1ec7n V\u1ec1 Ng\u01b0\u1eddi Cha Nh\u01a1n T\u1eeb"
     }, 
     {
       "frames": [
@@ -2416,7 +2371,7 @@
       ], 
       "number": "36", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 17:1-9; M\u00e1c 9:2-8; Lu-ca 9:28-36.", 
-      "title": " 36. S\u1ef1 Ho\u00e1 H\u00ecnh "
+      "title": "36. S\u1ef1 Ho\u00e1 H\u00ecnh"
     }, 
     {
       "frames": [
@@ -2478,7 +2433,7 @@
       ], 
       "number": "37", 
       "ref": "Kinh Th\u00e1nh S\u00e1ch Gi\u0103ng 11:1-46.", 
-      "title": " 37. Ch\u00faa Jesus K\u00eau La-xa-r\u01a1 S\u1ed1ng L\u1ea1i T\u1eeb K\u1ebb Ch\u1ebft "
+      "title": "37. Ch\u00faa Jesus K\u00eau La-xa-r\u01a1 S\u1ed1ng L\u1ea1i T\u1eeb K\u1ebb Ch\u1ebft"
     }, 
     {
       "frames": [
@@ -2560,7 +2515,7 @@
       ], 
       "number": "38", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 26:14-56; M\u00e1c 14:10-50; Lu-ca 22:1-53; Gi\u0103ng 18:1-11.", 
-      "title": " 38. Ch\u00faa Jesus B\u1ecb Ph\u1ea3n B\u1ed9i "
+      "title": "38. Ch\u00faa Jesus B\u1ecb Ph\u1ea3n B\u1ed9i"
     }, 
     {
       "frames": [
@@ -2627,7 +2582,7 @@
       ], 
       "number": "39", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 26:57-27:26; Mca1 14:53- 15:15; Lu-ca 22:54-23- 23-25; Gi\u0103ng 18:12-19-16.", 
-      "title": " 39. C\u01a1n Kh\u1ed5 n\u1ea1n C\u1ee7a Ch\u00faa Jesus "
+      "title": "39. C\u01a1n Kh\u1ed5 n\u1ea1n C\u1ee7a Ch\u00faa Jesus"
     }, 
     {
       "frames": [
@@ -2679,7 +2634,7 @@
       ], 
       "number": "40", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 27:27-61; M\u00e1c 15:16-47; Lu-ca 23:26-56; Gi\u0103ng 19:17-42.", 
-      "title": " 40. Ch\u00faa Jesus B\u1ecb \u0110\u00f3ng \u0110inh "
+      "title": "40. Ch\u00faa Jesus B\u1ecb \u0110\u00f3ng \u0110inh"
     }, 
     {
       "frames": [
@@ -2726,7 +2681,7 @@
       ], 
       "number": "41", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 27:62-28:15; M\u00e1c 16:1-11; Lu-ca 24:1-12; Gi\u0103ng 20:1-18.", 
-      "title": " 41. Ch\u00faa Jesus S\u1ed1ng L\u1ea1i T\u1eeb C\u00f5i Ch\u1ebft "
+      "title": "41. Ch\u00faa Jesus S\u1ed1ng L\u1ea1i T\u1eeb C\u00f5i Ch\u1ebft"
     }, 
     {
       "frames": [
@@ -2788,7 +2743,7 @@
       ], 
       "number": "42", 
       "ref": "C\u00e2u Chuy\u1ec7n Kinh Th\u00e1nh Ma-thi-\u01a1 28:16-20; Mac16:12020; Lu-ca 24;13-53; Gi\u0103ng 20:19-23; C\u00f4ng V\u1ee5 1:1-11.", 
-      "title": " 42. Ch\u00faa Jesus Th\u0103ng Thi\u00ean "
+      "title": "42. Ch\u00faa Jesus Th\u0103ng Thi\u00ean"
     }, 
     {
       "frames": [
@@ -2859,8 +2814,8 @@
         }
       ], 
       "number": "43", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>S\u00e1ch C\u00f4ng V\u1ee5 Ch\u01b0\u01a1ng 2.</font> ", 
-      "title": " 43. H\u1ed9i Th\u00e1nh Ra \u0110\u1eddi "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>S\u00e1ch C\u00f4ng V\u1ee5 Ch\u01b0\u01a1ng 2.<font>", 
+      "title": "43. H\u1ed9i Th\u00e1nh Ra \u0110\u1eddi"
     }, 
     {
       "frames": [
@@ -2911,8 +2866,8 @@
         }
       ], 
       "number": "44", 
-      "ref": "<font 10.5pt/arial;;#333333;;#ffffff>S\u00e1ch C\u00f4ng V\u1ee5 Ch\u01b0\u01a1ng 3:1-4:22.</font> ", 
-      "title": " 44. Phi-e-r\u01a1 v\u00e0 Gi\u0103ng Ch\u1eeda L\u00e0nh Ng\u01b0\u1eddi \u0102n M\u00e0y "
+      "ref": "<font 10.5ptarial;;#333333;;#ffffff>S\u00e1ch C\u00f4ng V\u1ee5 Ch\u01b0\u01a1ng 3:1-4:22.<font>", 
+      "title": "44. Phi-e-r\u01a1 v\u00e0 Gi\u0103ng Ch\u1eeda L\u00e0nh Ng\u01b0\u1eddi \u0102n M\u00e0y"
     }, 
     {
       "frames": [
@@ -2984,7 +2939,7 @@
       ], 
       "number": "45", 
       "ref": "Kinh Th\u00e1nh C\u00f4ng V\u1ee5 Ch\u01b0\u01a1ng 8:26-40.", 
-      "title": " 45. Phi-lip V\u00e0 Vi\u00ean S\u0129 Quan Ng\u01b0\u1eddi \u00ca-thi-\u00f4-pi "
+      "title": "45. Phi-lip V\u00e0 Vi\u00ean S\u0129 Quan Ng\u01b0\u1eddi \u00ca-thi-\u00f4-pi"
     }, 
     {
       "frames": [
@@ -3041,7 +2996,7 @@
       ], 
       "number": "46", 
       "ref": "V\u1eady H\u1ed9i Th\u00e1nh c\u1ea7u nguy\u1ec7n cho Phao-l\u00f4 v\u00e0 Ba-na-ba, \u0111\u1eb7t tay tr\u00ean h\u1ecd r\u1ed3i sai \u0111i rao gi\u1ea3ng tin l\u00e0nh c\u1ee7a Ch\u00faa Jesus. H\u1ecd gi\u1ea3ng v\u1ec1 Ch\u00faa Jesus nhi\u1ec1u n\u01a1i v\u00e0 c\u00f3 nhi\u1ec1u ng\u01b0\u1eddi tin Ch\u00faa Jesus.", 
-      "title": " 46. Phao-L\u00f4 Tr\u1edf Th\u00e0nh C\u01a1 \u0110\u1ed1c Nh\u00e2n "
+      "title": "46. Phao-L\u00f4 Tr\u1edf Th\u00e0nh C\u01a1 \u0110\u1ed1c Nh\u00e2n"
     }, 
     {
       "frames": [
@@ -3118,7 +3073,7 @@
       ], 
       "number": "47", 
       "ref": "Kinh Th\u00e1nh C\u00f4ng V\u1ee5 16:11-40.", 
-      "title": " 47. Phao-l\u00f4 v\u00e0 Si-la T\u1ea1i Th\u00e0nh Phi-l\u00edp "
+      "title": "47. Phao-l\u00f4 v\u00e0 Si-la T\u1ea1i Th\u00e0nh Phi-l\u00edp"
     }, 
     {
       "frames": [
@@ -3195,7 +3150,7 @@
       ], 
       "number": "48", 
       "ref": "Kinh Th\u00e1nh S\u00e1ng Th\u1ebf 1-3, 6, 14, 22; Xu\u1ea5t H\u00e0nh 12, 20; IISa-mu-\u00ean 7; H\u00ea-b\u01a1-r\u01a1 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Kh\u1ea3i Huy\u1ec1n 21.", 
-      "title": " 48. Ch\u00faa Jesus L\u00e0 \u0110\u1ea5ng M\u00ea-si \u0110\u00e3 H\u1ee9a "
+      "title": "48. Ch\u00faa Jesus L\u00e0 \u0110\u1ea5ng M\u00ea-si \u0110\u00e3 H\u1ee9a"
     }, 
     {
       "frames": [
@@ -3287,16 +3242,12 @@
         {
           "id": "49-18", 
           "img": "{{:en:obs:obs-49-18.jpg?nolink&640x360}}", 
-          "text": "Kinh Th\u00e1nh S\u00e1ch R\u00f4-ma 3:21-26, 5:1-11; Gi\u0103ng 3:16; M\u00e1c 16:16; C\u00f4-l\u00f4-se 1:13-14; 2T\u00ea-sa-l\u00f4-ni-ca 5:7-21;  1Gi\u0103ng 1:5-10."
-        }, 
-        {
-          "id": "49-18", 
-          "img": "{{:en:obs:obs-49-18.jpg?nolink&640x360}}", 
-          "text": "Kinh Th\u00e1nh S\u00e1ch R\u00f4-ma 3:21-26, 5:1-11; Gi\u0103ng 3:16; M\u00e1c 16:16; C\u00f4-l\u00f4-se 1:13-14; 2T\u00ea-sa-l\u00f4-ni-ca 5:7-21;  1Gi\u0103ng 1:5-10."
+          "text": "Ch\u00faa b\u1ea3o ch\u00fang ta h\u00e3y c\u1ea7u nguy\u1ec7n, h\u1ecdc L\u1eddi Ng\u00e0i, v\u00e0 th\u1edd ph\u01b0\u1ee3ng Ch\u00faa c\u00f9ng v\u1edbi nh\u1eefng C\u01a1 \u0110\u1ed1c Nh\u00e2n kh\u00e1c, v\u00e0 n\u00f3i l\u1ea1i nh\u1eefng g\u00ec Ng\u00e0i \u0111\u00e3 l\u00e0m cho ch\u00fang ta. T\u1ea5t c\u1ea3 nh\u1eefng \u0111i\u1ec1u n\u00e0y s\u1ebd l\u00e0m cho ch\u00fang ta l\u1edbn l\u00ean trong m\u1ed1i t\u01b0\u01a1ng giao c\u00f9ng Ng\u00e0i.Kinh Th\u00e1nh S\u00e1ch R\u00f4-ma 3:21-26, 5:1-11; Gi\u0103ng 3:16; M\u00e1c 16:16; C\u00f4-l\u00f4-se 1:13-14; 2T\u00ea-sa-l\u00f4-ni-ca 5:7-21;  1Gi\u0103ng 1:5-10."
         }
       ], 
       "number": "49", 
-      "title": " 49. Giao \u01af\u1edbc M\u1edbi C\u1ee7a Ch\u00faa "
+      "ref": "NOT FOUND", 
+      "title": "49. Giao \u01af\u1edbc M\u1edbi C\u1ee7a Ch\u00faa"
     }, 
     {
       "frames": [
@@ -3383,16 +3334,12 @@
         {
           "id": "50-17", 
           "img": "{{:en:obs:obs-50-17.jpg?nolink&640x360}}", 
-          "text": "Kinh Th\u00e1nh S\u00e1ch Ma-thi-\u01a1 24:14; 28:18; Gi\u0103ng 15:20; 16:33; Kh\u1ea3i Huy\u1ec1n 2:10; Ma-thi-\u01a1 13:24-30, 36-42; 1 t\u00ea-sa-l\u00f4-ni-ca 4:13-5:11; Gia-c\u01a1 1:12; Ma-thi-\u01a1 22:13; Kh\u1ea3i Huy\u1ec1n 20:10, 21:1-22:21."
-        }, 
-        {
-          "id": "50-17", 
-          "img": "{{:en:obs:obs-50-17.jpg?nolink&640x360}}", 
-          "text": "Kinh Th\u00e1nh S\u00e1ch Ma-thi-\u01a1 24:14; 28:18; Gi\u0103ng 15:20; 16:33; Kh\u1ea3i Huy\u1ec1n 2:10; Ma-thi-\u01a1 13:24-30, 36-42; 1 t\u00ea-sa-l\u00f4-ni-ca 4:13-5:11; Gia-c\u01a1 1:12; Ma-thi-\u01a1 22:13; Kh\u1ea3i Huy\u1ec1n 20:10, 21:1-22:21."
+          "text": "Ch\u00faa Jesus s\u1ebd cai tr\u1ecb \u0111\u1eddi \u0111\u1eddi. Ng\u00e0i s\u1ebd lau h\u1ebft n\u01b0\u1edbc m\u1eaft v\u00e0 kh\u00f4ng c\u00f2n s\u1ef1 ch\u1ebft, \u0111au kh\u1ed5, kh\u00f3c l\u00f3c ho\u1eb7c \u0111au \u0111\u1edbn. Ng\u00e0i s\u1ebd cai tr\u1ecb v\u01b0\u01a1ng qu\u1ed1c c\u1ee7a Ng\u00e0i trong b\u00ecnh an v\u00e0 c\u00f4ng b\u00ecnh, v\u00e0 Ng\u00e0i s\u1ebd \u1edf c\u00f9ng d\u00e2n s\u1ef1 Ng\u00e0i \u0111\u1eddi \u0111\u1eddi.Kinh Th\u00e1nh S\u00e1ch Ma-thi-\u01a1 24:14; 28:18; Gi\u0103ng 15:20; 16:33; Kh\u1ea3i Huy\u1ec1n 2:10; Ma-thi-\u01a1 13:24-30, 36-42; 1 t\u00ea-sa-l\u00f4-ni-ca 4:13-5:11; Gia-c\u01a1 1:12; Ma-thi-\u01a1 22:13; Kh\u1ea3i Huy\u1ec1n 20:10, 21:1-22:21."
         }
       ], 
       "number": "50", 
-      "title": " 50. Ch\u00faa Jesus Tr\u1edf L\u1ea1i "
+      "ref": "NOT FOUND", 
+      "title": "50. Ch\u00faa Jesus Tr\u1edf L\u1ea1i"
     }
   ], 
   "date_modified": "20140724", 

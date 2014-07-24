@@ -4,32 +4,243 @@
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "01-01", 
+          "img": "{{:en:obs:obs-01-01.jpg?nolink&640x360}}", 
+          "text": "Foi assim que tudo come\u00e7ou. Quando nada ainda existia, pelo comando da Sua voz, Deus criou o universo e tudo o que nele h\u00e1; as coisas vis\u00edveis e as coisas invis\u00edveis. No in\u00edcio a Terra era escura, vazia e nada havia sido formado ainda; havia somente \u00e1guas cobrindo tudo. E o Esp\u00edrito de Deus se movia livremente sobre as \u00e1guas que a cobriam, preparando-se para criar e dar forma a tudo o que Ele tinha planejado fazer.E Ele fez tudo em seis dias."
+        }, 
+        {
+          "id": "01-02", 
+          "img": "{{:en:obs:obs-01-02.jpg?nolink&640x360}}", 
+          "text": "E a primeira coisa que Deus fez foi dizer: _Haja luz! E, pelo poder da Sua palavra, houve luz. Deus ficou feliz em ter criado a luz logo no primeiro dia da cria\u00e7\u00e3o. Ele viu que a luz era boa e chamou-a de \u201cdia\u201d. Ele separou a luz da escurid\u00e3o, \u00e0 qual chamou \u201cnoite\u201d."
+        }, 
+        {
+          "id": "01-03", 
+          "img": "{{:en:obs:obs-01-03.jpg?nolink&640x360}}", 
+          "text": "No segundo dia, Deus deu a ordem e o c\u00e9u foi criado acima da terra. Deus criou o c\u00e9u como uma expans\u00e3o no meio das \u00e1guas, separando as \u00e1guas que ficaram por cima dele das que lhe ficaram por baixo."
+        }, 
+        {
+          "id": "01-04", 
+          "img": "{{:en:obs:obs-01-04.jpg?nolink&640x360}}", 
+          "text": "No terceiro dia Deus separou as \u00e1guas que tinham ficado debaixo do c\u00e9u, ordenando que se ajuntassem num s\u00f3 lugar, criando assim uma parte seca. Deus chamou \u00e0 parte seca \u201cterra\u201d e \u00e0s \u00e1guas \u201cmares\u201d. E ficou satisfeito com o que Ele tinha criado."
+        }, 
+        {
+          "id": "01-05", 
+          "img": "{{:en:obs:obs-01-05.jpg?nolink&640x360}}", 
+          "text": "Ent\u00e3o, disse Deus:_Que a terra produza todos os tipos de \u00e1rvores e plantas! E isso foi o que aconteceu. Deus viu que o que Ele havia criado era bom e se alegrou. A Terra estava ficando linda agora!"
+        }, 
+        {
+          "id": "01-06", 
+          "img": "{{:en:obs:obs-01-06.jpg?nolink&640x360}}", 
+          "text": "No quarto dia da cria\u00e7\u00e3o Deus ordenou que se fizessem o sol, a lua e as estrelas. Deus os fez para iluminar a Terra e para marcar dia e noite, esta\u00e7\u00f5es e anos. E Deus viu que o que Ele havia feito era bom."
+        }, 
+        {
+          "id": "01-07", 
+          "img": "{{:en:obs:obs-01-07.jpg?nolink&640x360}}", 
+          "text": "No quinto dia Deus criou todos os animais aqu\u00e1ticos e os p\u00e1ssaros. Uma diversidade enorme! Eles eram lindos, coloridos e diferentes. E conforme Seu plano e prop\u00f3sito, Deus viu que isso era bom e os aben\u00e7oou."
+        }, 
+        {
+          "id": "01-08", 
+          "img": "{{:en:obs:obs-01-08.jpg?nolink&640x360}}", 
+          "text": "No sexto dia da cria\u00e7\u00e3o, Deus disse:_Que haja todos os tipos de animais terrestres! E assim se fez. Uma grande variedade de esp\u00e9cies foi criada. Alguns eram animais dom\u00e9sticos, outros rastejantes e outros selvagens. E Deus tamb\u00e9m achou que isso era bom."
+        }, 
+        {
+          "id": "01-09", 
+          "img": "{{:en:obs:obs-01-09.jpg?nolink&640x360}}", 
+          "text": "E ent\u00e3o, disse Deus:_Fa\u00e7amos o homem \u00e0 nossa imagem.E Deus o fez com caracter\u00edsticas e qualidades semelhantes a Ele.E Deus continuou dizendo:_ Ele ter\u00e1 autoridade sobre a Terra e todos os animais."
+        }, 
+        {
+          "id": "01-10", 
+          "img": "{{:en:obs:obs-01-10.jpg?nolink&640x360}}", 
+          "text": "Do p\u00f3 da terra Deus formou o homem, e soprando dentro dele deu-lhe vida. Tanto vida f\u00edsica, quanto vida espiritual, j\u00e1 que o homem foi criado \u00e0 semelhan\u00e7a de Deus, que \u00e9 Esp\u00edrito.  O nome desse homem era Ad\u00e3o. Deus plantou um jardim muito bonito para Ad\u00e3o morar e o colocou l\u00e1 para cuidar dele."
+        }, 
+        {
+          "id": "01-11", 
+          "img": "{{:en:obs:obs-01-11.jpg?nolink&640x360}}", 
+          "text": "No meio do jardim Deus plantou duas \u00e1rvores especiais \u2013 a \u00e1rvore da vida e a \u00e1rvore do conhecimento do bem e do mal. Aquele que comesse do fruto da \u00e1rvore da vida viveria para sempre. Deus disse a Ad\u00e3o que ele podia comer de todas as \u00e1rvores do jardim, com exce\u00e7\u00e3o da \u00e1rvore do conhecimento do bem e do mal. Se ele comesse dessa \u00e1rvore, ele morreria."
+        }, 
+        {
+          "id": "01-12", 
+          "img": "{{:en:obs:obs-01-12.jpg?nolink&640x360}}", 
+          "text": "Um dia, Deus trouxe todos os animais a Ad\u00e3o, para que ele desse um nome a cada um. L\u00e1 vinham eles, dois a dois, macho e f\u00eamea, uma longa fila. Cada um tinha sua companheira. Mas Ad\u00e3o estava s\u00f3._ N\u00e3o \u00e9 bom que o homem esteja s\u00f3. - disse Deus.  Mas nenhum dos animais poderia ser um companheiro para Ad\u00e3o."
+        }, 
+        {
+          "id": "01-13", 
+          "img": "{{:en:obs:obs-01-13.jpg?nolink&640x360}}", 
+          "text": "Ent\u00e3o, Deus fez Ad\u00e3o cair em profundo sono. Deus tirou uma de suas costelas e dela fez uma mulher e pessoalmente a trouxe para ele. Foi como ganhar um presente muito especial."
+        }, 
+        {
+          "id": "01-14", 
+          "img": "{{:en:obs:obs-01-14.jpg?nolink&640x360}}", 
+          "text": "Quando Ad\u00e3o a viu, ele disse:_Afinal, esta \u00e9 como eu! Ela se chamar\u00e1 \u201cmulher\u201d, pois foi feita do homem. Por isso, o homem deixa seu pai e sua m\u00e3e e se torna um com sua mulher, com quem compartilha, de maneira especial e \u00fanica, la\u00e7os de intimidade, unidade e compromisso. Ad\u00e3o n\u00e3o teve pai nem m\u00e3e, mas todos os outros homens os teriam."
+        }, 
+        {
+          "id": "01-15", 
+          "img": "{{:en:obs:obs-01-15.jpg?nolink&640x360}}", 
+          "text": "Deus fez homem e mulher \u00e0 sua pr\u00f3pria imagem e Ele viu que isso era muito bom. Ele os aben\u00e7oou e disse a eles:_Tenham muitos filhos e netos e encham a terra! E assim, passou-se o sexto dia."
+        }, 
+        {
+          "id": "01-16", 
+          "img": "{{:en:obs:obs-01-16.jpg?nolink&640x360}}", 
+          "text": "Ao chegar o s\u00e9timo dia Deus tinha terminado o Seu trabalho. Ent\u00e3o, Ele descansou. Deus aben\u00e7oou o s\u00e9timo dia e o separou como um dia sagrado, porque nesse dia Ele descansou de todo o Seu trabalho. Foi assim que Deus criou o universo e tudo o que nele h\u00e1."
         }
       ], 
-      "number": "01"
+      "number": "01", 
+      "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 1-2", 
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "02-01", 
+          "img": "{{:en:obs:obs-02-01.jpg?nolink&640x360}}", 
+          "text": "Ad\u00e3o e sua esposa estavam muito felizes morando no lindo jardim que Deus havia feito para eles. Nenhum dos dois usava roupa, mas n\u00e3o se envergonhavam, porque o pecado ainda n\u00e3o havia entrado no mundo, e eles s\u00f3 conheciam o bem. Eles frequentemente andavam no jardim e conversavam com Deus, que sempre passeava por l\u00e1."
+        }, 
+        {
+          "id": "02-02", 
+          "img": "{{:en:obs:obs-02-02.jpg?nolink&640x360}}", 
+          "text": "Mas a serpente, o mais astuto animal do campo que Deus tinha criado, estava l\u00e1 tamb\u00e9m. Um dia, conversando com a mulher, ela lhe perguntou: _ Deus realmente lhe falou para n\u00e3o comer do fruto de nenhuma \u00e1rvore do jardim? N\u00e3o que a serpente n\u00e3o soubesse o que Deus tinha dito, mas com ast\u00facia desejava despertar a d\u00favida na mente da mulher. Queria que ela questionasse a bondade de Deus."
+        }, 
+        {
+          "id": "02-03", 
+          "img": "{{:en:obs:obs-02-03.jpg?nolink&640x360}}", 
+          "text": "_ Deus nos disse que pod\u00edamos comer do fruto de qualquer \u00e1rvore, menos o da \u00e1rvore do conhecimento do bem e do mal. Ele nos disse que se com\u00eassemos daquele fruto, ou at\u00e9 mesmo toc\u00e1ssemos nele, morrer\u00edamos, respondeu-lhe a mulher."
+        }, 
+        {
+          "id": "02-04", 
+          "img": "{{:en:obs:obs-02-04.jpg?nolink&640x360}}", 
+          "text": "_Isso n\u00e3o \u00e9 verdade! \u2013 Contestou a serpente. _Voc\u00eas n\u00e3o v\u00e3o morrer! Deus bem sabe que assim que voc\u00eas comerem do fruto, voc\u00eas v\u00e3o ser como Ele, capazes de entender o bem e o mal, continuou a serpente."
+        }, 
+        {
+          "id": "02-05", 
+          "img": "{{:en:obs:obs-02-05.jpg?nolink&640x360}}", 
+          "text": "A mulher viu que o fruto era bonito e parecia delicioso. Tamb\u00e9m queria ser s\u00e1bia; ent\u00e3o, ela pegou o fruto e comeu um peda\u00e7o. Da\u00ed, ela se virou e deu do fruto ao seu marido, que estava com ela, e ele tamb\u00e9m comeu."
+        }, 
+        {
+          "id": "02-06", 
+          "img": "{{:en:obs:obs-02-06.jpg?nolink&640x360}}", 
+          "text": "De repente, olharam um para o outro de um modo diferente e perceberam que estavam nus. Eles tentaram cobrir a sua nudez costurando folhas para fazerem roupas."
+        }, 
+        {
+          "id": "02-07", 
+          "img": "{{:en:obs:obs-02-07.jpg?nolink&640x360}}", 
+          "text": "Ent\u00e3o, o homem e a sua mulher ouviram a voz de Deus, que passeava \u00e0 tardinha no jardim, e correram para se esconder Dele. _ Onde voc\u00ea est\u00e1? \u2013 chamou Deus ao homem._Eu ouvi o senhor andando no jardim e fiquei com medo porque eu estava nu. Ent\u00e3o, eu me escondi, respondeu Ad\u00e3o."
+        }, 
+        {
+          "id": "02-08", 
+          "img": "{{:en:obs:obs-02-08.jpg?nolink&640x360}}", 
+          "text": "E Deus lhe perguntou:_Como voc\u00ea descobriu que estava nu? Voc\u00ea comeu do fruto que eu lhe disse para n\u00e3o comer? _O senhor me deu esta mulher e ela me deu do fruto, respondeu-Lhe o homem. Depois Deus perguntou \u00e0 mulher:_Por que voc\u00ea fez isso? E ela Lhe respondeu:_A serpente me enganou."
+        }, 
+        {
+          "id": "02-09", 
+          "img": "{{:en:obs:obs-02-09.jpg?nolink&640x360}}", 
+          "text": "Deus disse \u00e0 serpente:_ Maldita ser\u00e1! Voc\u00ea rastejar\u00e1 sobre seu ventre e comer\u00e1 p\u00f3 para sempre! Voc\u00ea e a mulher odiar\u00e3o uma a outra, assim como os filhos de uma ser\u00e3o inimigos dos filhos da outra. O descendente da mulher esmagar\u00e1 sua cabe\u00e7a e voc\u00ea lhe ferir\u00e1 o calcanhar."
+        }, 
+        {
+          "id": "02-10", 
+          "img": "{{:en:obs:obs-02-10.jpg?nolink&640x360}}", 
+          "text": "Deus, ent\u00e3o, disse \u00e0 mulher:_ Eu farei o parto ser doloroso para voc\u00ea. Voc\u00ea vai querer controlar o seu marido, mas ele ter\u00e1 dom\u00ednio sobre voc\u00ea."
+        }, 
+        {
+          "id": "02-11", 
+          "img": "{{:en:obs:obs-02-11.jpg?nolink&640x360}}", 
+          "text": "E ao homem Ele disse:_ Voc\u00ea ouviu \u00e0 sua esposa, e me desobedeceram. Agora a terra est\u00e1 amaldi\u00e7oada e voc\u00ea vai precisar trabalhar duro para produzir comida. Voc\u00ea morrer\u00e1 e o seu corpo retornar\u00e1 a terra. O homem deu \u00e0 sua esposa o nome de Eva, que significa \u201cdoadora de vida,\u201d porque ela seria a m\u00e3e de todos. E Deus vestiu Ad\u00e3o e Eva com peles de animais."
+        }, 
+        {
+          "id": "02-12", 
+          "img": "{{:en:obs:obs-02-12.jpg?nolink&640x360}}", 
+          "text": "Em seguida, Deus disse:_Agora que o homem veio a ser como n\u00f3s, conhecedor do bem e do mal, n\u00e3o permito que ele coma do fruto da \u00e1rvore da vida e viva eternamente. Deus, ent\u00e3o, expulsou Ad\u00e3o e Eva do lindo jardim. Deus colocou anjos grandes e poderosos na entrada do jardim, para que ningu\u00e9m comesse do fruto da \u00e1rvore da vida."
         }
       ], 
-      "number": "02"
+      "number": "02", 
+      "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 3", 
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
         {
-          "id": null, 
-          "img": null, 
-          "text": "Invalid format."
+          "id": "03-01", 
+          "img": "{{:en:obs:obs-03-01.jpg?nolink&640x360}}", 
+          "text": "Muitos anos tinham se passado desde que Deus tinha criado o homem e j\u00e1 havia muitas pessoas vivendo no mundo. As pessoas tinham se tornado t\u00e3o m\u00e1s e violentas que Deus decidiu destruir o mundo todo com um enorme dil\u00favio. At\u00e9 os animais e os p\u00e1ssaros seriam mortos na inunda\u00e7\u00e3o."
+        }, 
+        {
+          "id": "03-02", 
+          "img": "{{:en:obs:obs-03-02.jpg?nolink&640x360}}", 
+          "text": "Mas Deus estava contente com No\u00e9 porque ele temia e obedecia a Deus. Ele era um homem justo vivendo entre pessoas m\u00e1s. Por isso, Deus lhe contou sobre o dil\u00favio que Ele estava planejando enviar ao mundo e falou para No\u00e9 construir um enorme barco, chamado arca."
+        }, 
+        {
+          "id": "03-03", 
+          "img": "{{:en:obs:obs-03-03.jpg?nolink&640x360}}", 
+          "text": "Deus disse para No\u00e9 construir um barco com 140 metros de comprimento, 23 metros de largura e 13,5 metros de altura. O barco deveria ser feito de madeira, com tr\u00eas andares, muitas divis\u00f5es, cobertura e uma janela. O barco manteria No\u00e9, sua fam\u00edlia e todo tipo de animal terrestre em seguran\u00e7a durante a inunda\u00e7\u00e3o."
+        }, 
+        {
+          "id": "03-04", 
+          "img": "{{:en:obs:obs-03-04.jpg?nolink&640x360}}", 
+          "text": "No\u00e9 obedeceu ao Senhor. Ele e seus tr\u00eas filhos constru\u00edram o barco exatamente como Deus tinha falado para eles. Demoraram muitos anos para terminar a constru\u00e7\u00e3o da arca, porque ela era bem grande! No\u00e9 avisou as pessoas sobre o dil\u00favio que estava por vir e disse a elas que se convertessem a Deus, pois Deus planejava destruir o mundo por causa do pecado. Elas deveriam deixar o pecado e come\u00e7ar a obedecer a Deus. Infelizmente, as pessoas apenas riam dele, sem realmente acreditarem no que No\u00e9 dizia."
+        }, 
+        {
+          "id": "03-05", 
+          "img": "{{:en:obs:obs-03-05.jpg?nolink&640x360}}", 
+          "text": "Seguindo as orienta\u00e7\u00f5es de Deus, No\u00e9 e sua fam\u00edlia tamb\u00e9m ajuntaram comida suficiente para eles e para os animais. Quando tudo estava pronto, Deus falou para No\u00e9 que estava na hora de entrarem no barco, ele, sua esposa e seus tr\u00eas filhos com suas esposas. Eram oito pessoas."
+        }, 
+        {
+          "id": "03-06", 
+          "img": "{{:en:obs:obs-03-06.jpg?nolink&640x360}}", 
+          "text": "Deus enviou um macho e uma f\u00eamea de cada animal e ave para No\u00e9, para que entrassem tamb\u00e9m na arca e ficassem seguros durante o dil\u00favio. Deus enviou sete machos e sete f\u00eameas de cada tipo de animal que Deus aceitaria, para serem usados em sacrif\u00edcios. Quando todos estavam dentro do barco, o pr\u00f3prio Deus fechou a porta da arca."
+        }, 
+        {
+          "id": "03-07", 
+          "img": "{{:en:obs:obs-03-07.jpg?nolink&640x360}}", 
+          "text": "Ent\u00e3o a chuva come\u00e7ou a cair. Chovia forte como nunca! Choveu por quarenta dias e quarenta noites sem parar! Tamb\u00e9m jorrava a \u00e1gua que vinha do interior da terra. Tudo no mundo inteiro foi coberto com \u00e1gua, at\u00e9 mesmo as montanhas mais altas."
+        }, 
+        {
+          "id": "03-08", 
+          "img": "{{:en:obs:obs-03-08.jpg?nolink&640x360}}", 
+          "text": "Tudo que estava vivo na terra morreu, menos as pessoas e animais que estavam dentro da arca, porque o barco flutuou na \u00e1gua e eles ficaram seguros l\u00e1 dentro."
+        }, 
+        {
+          "id": "03-09", 
+          "img": "{{:en:obs:obs-03-09.jpg?nolink&640x360}}", 
+          "text": "Ent\u00e3o, de repente, parou de chover e a \u00e1gua ia baixando pouco a pouco. Havia tanta \u00e1gua, que cobria at\u00e9 os montes mais altos.O barco ainda flutuou por cinco meses, at\u00e9 que um dia repousou no cume de uma das montanhas; mas o mundo ainda estava coberto de \u00e1gua, que continuava minguando dia a dia. Tr\u00eas meses depois os topos das montanhas j\u00e1 podiam ser vistos."
+        }, 
+        {
+          "id": "03-10", 
+          "img": "{{:en:obs:obs-03-10.jpg?nolink&640x360}}", 
+          "text": "Depois de mais quarenta dias, No\u00e9 enviou um corvo para ver se a \u00e1gua havia secado. O corvo ia e voltava, voando \u00e0 procura de terra seca, mas n\u00e3o conseguia encontrar nenhum lugar seco para pousar."
+        }, 
+        {
+          "id": "03-11", 
+          "img": "{{:en:obs:obs-03-11.jpg?nolink&640x360}}", 
+          "text": "Mais tarde, No\u00e9 enviou uma pomba. Ela voou, voou, \u00e0 procura de alguma semente ou frutinha, mas tamb\u00e9m n\u00e3o encontrou nenhuma terra seca. Por isso, voltou para No\u00e9. Uma semana depois, ele enviou a pomba novamente, que voltou com um ramo de oliveira em seu bico! Finalmente a \u00e1gua havia diminu\u00eddo e as plantas estavam crescendo de novo!"
+        }, 
+        {
+          "id": "03-12", 
+          "img": "{{:en:obs:obs-03-12.jpg?nolink&640x360}}", 
+          "text": "No\u00e9 esperou mais uma semana e soltou a pomba pela terceira vez. Desta vez, ela voou, voou e n\u00e3o voltou. A \u00e1gua havia secado!"
+        }, 
+        {
+          "id": "03-13", 
+          "img": "{{:en:obs:obs-03-13.jpg?nolink&640x360}}", 
+          "text": "Dois meses depois de No\u00e9 ter soltado a pombinha, Deus disse a ele:_Voc\u00ea, sua fam\u00edlia e todos os animais podem sair do barco agora. Quero que voc\u00eas tenham muitos filhos e netos e povoem a terra. Eles, obedecendo a Deus, sa\u00edram finalmente da arca."
+        }, 
+        {
+          "id": "03-14", 
+          "img": "{{:en:obs:obs-03-14.jpg?nolink&640x360}}", 
+          "text": "Ao sa\u00edrem do barco eles estavam t\u00e3o felizes com a salva\u00e7\u00e3o e prote\u00e7\u00e3o de Deus \u00e0 sua fam\u00edlia, que No\u00e9 construiu um altar e, em louvor e adora\u00e7\u00e3o a Deus, ofereceu-lhe animais em sacrif\u00edcio. Deus aceitou seu louvor e se alegrou com a sua oferta e aben\u00e7oou No\u00e9 e sua fam\u00edlia."
+        }, 
+        {
+          "id": "03-15", 
+          "img": "{{:en:obs:obs-03-15.jpg?nolink&640x360}}", 
+          "text": "Deus fez ent\u00e3o uma promessa:_Eu nunca mais vou amaldi\u00e7oar a terra por causa do homem e do mal que h\u00e1 no seu cora\u00e7\u00e3o, nem destruir o mundo com um dil\u00favio, mesmo sabendo que os seres humanos s\u00e3o pecadores desde a sua inf\u00e2ncia."
+        }, 
+        {
+          "id": "03-16", 
+          "img": "{{:en:obs:obs-03-16.jpg?nolink&640x360}}", 
+          "text": "Assim, para selar a Sua promessa, Deus fez um lindo arco multicolorido de luz como sinal, o primeiro arco-\u00edris. Toda vez que o arco-\u00edris aparecesse no c\u00e9u, Deus se lembraria do que Ele tinha prometido; e tamb\u00e9m seria um sinal para o Seu povo se lembrar de que Deus \u00e9 sempre fiel nas Suas promessas."
         }
       ], 
-      "number": "03"
+      "number": "03", 
+      "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 6-8", 
+      "title": "NOT FOUND"
     }, 
     {
       "frames": [
@@ -81,7 +292,7 @@
       ], 
       "number": "04", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 11-15", 
-      "title": " 4. A Alian\u00e7a de Deus com Abra\u00e3o "
+      "title": "4. A Alian\u00e7a de Deus com Abra\u00e3o"
     }, 
     {
       "frames": [
@@ -133,7 +344,7 @@
       ], 
       "number": "05", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 16-22", 
-      "title": " 5. O Filho da Promessa "
+      "title": "5. O Filho da Promessa"
     }, 
     {
       "frames": [
@@ -175,7 +386,7 @@
       ], 
       "number": "06", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 24:1-25:26", 
-      "title": " 6. A Provid\u00eancia de Deus para Isaque "
+      "title": "6. A Provid\u00eancia de Deus para Isaque"
     }, 
     {
       "frames": [
@@ -232,7 +443,7 @@
       ], 
       "number": "07", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 25:27-33:20", 
-      "title": " 7. Deus Aben\u00e7oa Jac\u00f3 "
+      "title": "7. Deus Aben\u00e7oa Jac\u00f3"
     }, 
     {
       "frames": [
@@ -314,7 +525,7 @@
       ], 
       "number": "08", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: G\u00eanesis 37-50", 
-      "title": " 8. Deus Salva Jos\u00e9 e sua Fam\u00edlia "
+      "title": "8. Deus Salva Jos\u00e9 e sua Fam\u00edlia"
     }, 
     {
       "frames": [
@@ -396,7 +607,7 @@
       ], 
       "number": "09", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: \u00caxodo 1-4", 
-      "title": " 9. Deus chama Moises "
+      "title": "9. Deus chama Moises"
     }, 
     {
       "frames": [
@@ -463,7 +674,7 @@
       ], 
       "number": "10", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: \u00caxodo 5-10", 
-      "title": " 10. As Dez Pragas "
+      "title": "10. As Dez Pragas"
     }, 
     {
       "frames": [
@@ -510,7 +721,7 @@
       ], 
       "number": "11", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: \u00caxodo 11:1-12:32", 
-      "title": " 11. A P\u00e1scoa "
+      "title": "11. A P\u00e1scoa"
     }, 
     {
       "frames": [
@@ -587,7 +798,7 @@
       ], 
       "number": "12", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: \u00caxodo 12:33-15:21", 
-      "title": " 12. O \u00caxodo "
+      "title": "12. O \u00caxodo"
     }, 
     {
       "frames": [
@@ -669,7 +880,7 @@
       ], 
       "number": "13", 
       "ref": "Uma Hist\u00f3ria da B\u00edblia: \u00caxodo 19-34", 
-      "title": " 13. A Alian\u00e7a de Deus com Israel "
+      "title": "13. A Alian\u00e7a de Deus com Israel"
     }, 
     {
       "frames": [
@@ -751,44 +962,24 @@
       ], 
       "number": "14", 
       "ref": "A hist\u00f3ria b\u00edblica de: \u00caxodo 16-17; N\u00fameros 10-14, 20, 27, Deuteron\u00f4mio 34", 
-      "title": " 14. VAGANDO NO DESERTO "
+      "title": "14. VAGANDO NO DESERTO"
     }, 
     {
       "frames": [
         {
           "id": "15-01", 
           "img": "{{:en:obs:obs-15-01.jpg?nolink&640x360}}", 
-          "text": "Morava naquela cidade uma prostituta chamada Raabe, que protegeu os espi\u00f5es e mais tarde tamb\u00e9m os ajudou a escapar do povo de Jeric\u00f3.  Ela lhes fez esse bem porque ela creu em Deus quando ouviu dizer como Deus era tremendo. Em troca, eles prometeram proteg\u00ea-la e a toda a sua fam\u00edlia, quando Jeric\u00f3 fosse destru\u00edda."
-        }, 
-        {
-          "id": "15-01", 
-          "img": "{{:en:obs:obs-15-01.jpg?nolink&640x360}}", 
-          "text": "Morava naquela cidade uma prostituta chamada Raabe, que protegeu os espi\u00f5es e mais tarde tamb\u00e9m os ajudou a escapar do povo de Jeric\u00f3.  Ela lhes fez esse bem porque ela creu em Deus quando ouviu dizer como Deus era tremendo. Em troca, eles prometeram proteg\u00ea-la e a toda a sua fam\u00edlia, quando Jeric\u00f3 fosse destru\u00edda."
+          "text": "Ap\u00f3s uma longa jornada de quarenta anos pelo deserto, tinha finalmente chegado a hora dos israelitas entrarem na Terra Prometida. N\u00e3o seria assim t\u00e3o f\u00e1cil entrar, pois eles precisariam antes conquist\u00e1-la. Josu\u00e9 decidiu ent\u00e3o enviar dois espi\u00f5es para a cidade cananeia de Jeric\u00f3, que era fortemente protegida por muralhas altas e bem grossas. Quando o povo de Jeric\u00f3 soube da presen\u00e7a dos espias, eles queriam lhes fazer mal. Morava naquela cidade uma prostituta chamada Raabe, que protegeu os espi\u00f5es e mais tarde tamb\u00e9m os ajudou a escapar do povo de Jeric\u00f3.  Ela lhes fez esse bem porque ela creu em Deus quando ouviu dizer como Deus era tremendo. Em troca, eles prometeram proteg\u00ea-la e a toda a sua fam\u00edlia, quando Jeric\u00f3 fosse destru\u00edda."
         }, 
         {
           "id": "15-02", 
           "img": "{{:en:obs:obs-15-02.jpg?nolink&640x360}}", 
-          "text": "Quando os p\u00e9s dos sacerdotes tocaram o rio Jord\u00e3o, a \u00e1gua parou de correr para que os israelitas pudessem atravessar a p\u00e9 enxuto."
-        }, 
-        {
-          "id": "15-02", 
-          "img": "{{:en:obs:obs-15-02.jpg?nolink&640x360}}", 
-          "text": "Quando os p\u00e9s dos sacerdotes tocaram o rio Jord\u00e3o, a \u00e1gua parou de correr para que os israelitas pudessem atravessar a p\u00e9 enxuto."
-        }, 
-        {
-          "id": "15-02", 
-          "img": "{{:en:obs:obs-15-02.jpg?nolink&640x360}}", 
-          "text": "Quando os p\u00e9s dos sacerdotes tocaram o rio Jord\u00e3o, a \u00e1gua parou de correr para que os israelitas pudessem atravessar a p\u00e9 enxuto."
+          "text": "Outro grande obst\u00e1culo havia, no entanto, para que eles entrassem e conquistassem a Terra Prometida: os israelitas teriam de atravessar o rio Jord\u00e3o. Deus disse a Josu\u00e9:_Diga aos sacerdotes que v\u00e3o \u00e0 frente do povo para atravessarem o rio! Quando os p\u00e9s dos sacerdotes tocaram o rio Jord\u00e3o, a \u00e1gua parou de correr para que os israelitas pudessem atravessar a p\u00e9 enxuto."
         }, 
         {
           "id": "15-03", 
           "img": "{{:en:obs:obs-15-03.jpg?nolink&640x360}}", 
-          "text": "Depois que o povo atravessou o rio Jord\u00e3o, Deus instruiu a Josu\u00e9 em como ele deveria atacar a poderosa cidade de Jeric\u00f3. O povo obedeceu a Deus, seguindo as Suas instru\u00e7\u00f5es. Os soldados e sacerdotes marcharam ao redor da cidade uma vez por dia, durante seis dias."
-        }, 
-        {
-          "id": "15-03", 
-          "img": "{{:en:obs:obs-15-03.jpg?nolink&640x360}}", 
-          "text": "Depois que o povo atravessou o rio Jord\u00e3o, Deus instruiu a Josu\u00e9 em como ele deveria atacar a poderosa cidade de Jeric\u00f3. O povo obedeceu a Deus, seguindo as Suas instru\u00e7\u00f5es. Os soldados e sacerdotes marcharam ao redor da cidade uma vez por dia, durante seis dias."
+          "text": "Eles conseguiram! Depois que o povo atravessou o rio Jord\u00e3o, Deus instruiu a Josu\u00e9 em como ele deveria atacar a poderosa cidade de Jeric\u00f3. O povo obedeceu a Deus, seguindo as Suas instru\u00e7\u00f5es. Os soldados e sacerdotes marcharam ao redor da cidade uma vez por dia, durante seis dias."
         }, 
         {
           "id": "15-04", 
@@ -803,27 +994,12 @@
         {
           "id": "15-06", 
           "img": "{{:en:obs:obs-15-06.jpg?nolink&640x360}}", 
-          "text": "Por\u00e9m, os gibeonitas, povo da cidade de Gibe\u00e3o, mentiram para Josu\u00e9 e fingiram ser de uma terra distante. Eles pediram a Josu\u00e9 para fazer um acordo de paz com eles. Josu\u00e9 acreditou neles e n\u00e3o pediu o conselho de Deus e, assim, Josu\u00e9 fez um pacto de paz com eles."
-        }, 
-        {
-          "id": "15-06", 
-          "img": "{{:en:obs:obs-15-06.jpg?nolink&640x360}}", 
-          "text": "Por\u00e9m, os gibeonitas, povo da cidade de Gibe\u00e3o, mentiram para Josu\u00e9 e fingiram ser de uma terra distante. Eles pediram a Josu\u00e9 para fazer um acordo de paz com eles. Josu\u00e9 acreditou neles e n\u00e3o pediu o conselho de Deus e, assim, Josu\u00e9 fez um pacto de paz com eles."
+          "text": "Deus tinha ordenado aos israelitas que n\u00e3o fizessem acordos de paz com nenhum dos povos em Cana\u00e3.Por\u00e9m, os gibeonitas, povo da cidade de Gibe\u00e3o, mentiram para Josu\u00e9 e fingiram ser de uma terra distante. Eles pediram a Josu\u00e9 para fazer um acordo de paz com eles. Josu\u00e9 acreditou neles e n\u00e3o pediu o conselho de Deus e, assim, Josu\u00e9 fez um pacto de paz com eles."
         }, 
         {
           "id": "15-07", 
           "img": "{{:en:obs:obs-15-07.jpg?nolink&640x360}}", 
-          "text": "_ N\u00e3o abandonem a gente! Todos os reis amorreus que moram nas montanhas se ajuntaram contra n\u00f3s. Venham nos ajudar!"
-        }, 
-        {
-          "id": "15-07", 
-          "img": "{{:en:obs:obs-15-07.jpg?nolink&640x360}}", 
-          "text": "_ N\u00e3o abandonem a gente! Todos os reis amorreus que moram nas montanhas se ajuntaram contra n\u00f3s. Venham nos ajudar!"
-        }, 
-        {
-          "id": "15-07", 
-          "img": "{{:en:obs:obs-15-07.jpg?nolink&640x360}}", 
-          "text": "_ N\u00e3o abandonem a gente! Todos os reis amorreus que moram nas montanhas se ajuntaram contra n\u00f3s. Venham nos ajudar!"
+          "text": "Os israelitas ficaram muito zangados quando descobriram que os gibeonitas os haviam enganado e mentido para eles. Apesar disso, mantiveram o acordo de paz com eles, pois haviam prometido diante de Deus.Quando os reis de outras tribos de Cana\u00e3 ouviram que os gibeonitas tinham feito paz com os israelitas, eles juntaram os seus ex\u00e9rcitos para atacar Gibe\u00e3o. Os gibeonitas enviaram uma mensagem a Josu\u00e9, dizendo:_ N\u00e3o abandonem a gente! Todos os reis amorreus que moram nas montanhas se ajuntaram contra n\u00f3s. Venham nos ajudar!"
         }, 
         {
           "id": "15-08", 
@@ -833,12 +1009,7 @@
         {
           "id": "15-09", 
           "img": "{{:en:obs:obs-15-09.jpg?nolink&640x360}}", 
-          "text": "Assim, os israelitas os derrotaram completamente naquele dia."
-        }, 
-        {
-          "id": "15-09", 
-          "img": "{{:en:obs:obs-15-09.jpg?nolink&640x360}}", 
-          "text": "Assim, os israelitas os derrotaram completamente naquele dia."
+          "text": "Deus lutou por Israel naquele momento. Quando os inimigos viram o ex\u00e9rcito de Israel, que tinha chegado de surpresa, ficaram apavorados e confusos. Enquanto tentavam fugir dos israelitas, foram mortos por grandes pedras de granizo que Deus jogou do c\u00e9u sobre eles. E mais pessoas morreram por causa da chuva de pedras do que no combate com o ex\u00e9rcito de Israel.Assim, os israelitas os derrotaram completamente naquele dia."
         }, 
         {
           "id": "15-10", 
@@ -863,7 +1034,7 @@
       ], 
       "number": "15", 
       "ref": "A hist\u00f3ria b\u00edblica de: Josu\u00e9 1-24", 
-      "title": " 15. A Terra Prometida "
+      "title": "15. A Terra Prometida"
     }, 
     {
       "frames": [
@@ -890,12 +1061,7 @@
         {
           "id": "16-05", 
           "img": "{{:en:obs:obs-16-05.jpg?nolink&640x360}}", 
-          "text": "_Deus est\u00e1 com voc\u00ea, poderoso guerreiro. Ele tem planos para voc\u00ea e quer us\u00e1-lo de um modo especial. Ele quer que voc\u00ea v\u00e1 e salve Israel dos midianitas."
-        }, 
-        {
-          "id": "16-05", 
-          "img": "{{:en:obs:obs-16-05.jpg?nolink&640x360}}", 
-          "text": "_Deus est\u00e1 com voc\u00ea, poderoso guerreiro. Ele tem planos para voc\u00ea e quer us\u00e1-lo de um modo especial. Ele quer que voc\u00ea v\u00e1 e salve Israel dos midianitas."
+          "text": "Um dia, um homem chamado Gide\u00e3o estava debulhando secretamente os gr\u00e3os de trigo que havia colhido, a fim de que os midianitas n\u00e3o pudessem roub\u00e1-los. O anjo do Deus Yahweh veio a Gide\u00e3o e disse:_Deus est\u00e1 com voc\u00ea, poderoso guerreiro. Ele tem planos para voc\u00ea e quer us\u00e1-lo de um modo especial. Ele quer que voc\u00ea v\u00e1 e salve Israel dos midianitas."
         }, 
         {
           "id": "16-06", 
@@ -905,17 +1071,7 @@
         {
           "id": "16-07", 
           "img": "{{:en:obs:obs-16-07.jpg?nolink&640x360}}", 
-          "text": "Porque ele disse isso, o povo reconsiderou e n\u00e3o matou Gide\u00e3o."
-        }, 
-        {
-          "id": "16-07", 
-          "img": "{{:en:obs:obs-16-07.jpg?nolink&640x360}}", 
-          "text": "Porque ele disse isso, o povo reconsiderou e n\u00e3o matou Gide\u00e3o."
-        }, 
-        {
-          "id": "16-07", 
-          "img": "{{:en:obs:obs-16-07.jpg?nolink&640x360}}", 
-          "text": "Porque ele disse isso, o povo reconsiderou e n\u00e3o matou Gide\u00e3o."
+          "text": "Na manh\u00e3 seguinte, o povo viu que o \u00eddolo tinha sido demolido e ficaram com muita raiva. Ao descobrirem que tinha sido Gide\u00e3o, foram para a casa dele e queriam mat\u00e1-lo, mas o pai de Gide\u00e3o disse a eles:_Por que voc\u00eas est\u00e3o tentando defender e ajudar os seus deuses? Se eles s\u00e3o deuses, que protejam a si mesmos!Porque ele disse isso, o povo reconsiderou e n\u00e3o matou Gide\u00e3o."
         }, 
         {
           "id": "16-08", 
@@ -930,32 +1086,12 @@
         {
           "id": "16-10", 
           "img": "{{:en:obs:obs-16-10.jpg?nolink&640x360}}", 
-          "text": "Gide\u00e3o, no entanto, estava ainda com medo de enfrentar um ex\u00e9rcito t\u00e3o grande de inimigos, lutando s\u00f3 com 300 homens."
-        }, 
-        {
-          "id": "16-10", 
-          "img": "{{:en:obs:obs-16-10.jpg?nolink&640x360}}", 
-          "text": "Gide\u00e3o, no entanto, estava ainda com medo de enfrentar um ex\u00e9rcito t\u00e3o grande de inimigos, lutando s\u00f3 com 300 homens."
+          "text": "Depois de ter sido convencido pelos sinais de Deus, trinta e dois mil soldados israelitas vieram a Gide\u00e3o. Por\u00e9m, Deus lhe disse que era gente demais. Ent\u00e3o Gide\u00e3o mandou para casa vinte e dois mil, que estavam com muito medo de lutar. E Deus disse a Gide\u00e3o que ele ainda tinha homens demais. Ent\u00e3o Gide\u00e3o ficou s\u00f3 com 300 soldados, enviando todo o resto para casa.Gide\u00e3o, no entanto, estava ainda com medo de enfrentar um ex\u00e9rcito t\u00e3o grande de inimigos, lutando s\u00f3 com 300 homens."
         }, 
         {
           "id": "16-11", 
           "img": "{{:en:obs:obs-16-11.jpg?nolink&640x360}}", 
-          "text": "Quando Gide\u00e3o ouviu isso, ele adorou a Deus."
-        }, 
-        {
-          "id": "16-11", 
-          "img": "{{:en:obs:obs-16-11.jpg?nolink&640x360}}", 
-          "text": "Quando Gide\u00e3o ouviu isso, ele adorou a Deus."
-        }, 
-        {
-          "id": "16-11", 
-          "img": "{{:en:obs:obs-16-11.jpg?nolink&640x360}}", 
-          "text": "Quando Gide\u00e3o ouviu isso, ele adorou a Deus."
-        }, 
-        {
-          "id": "16-11", 
-          "img": "{{:en:obs:obs-16-11.jpg?nolink&640x360}}", 
-          "text": "Quando Gide\u00e3o ouviu isso, ele adorou a Deus."
+          "text": "Sabendo disso, naquela noite, Deus disse a Gide\u00e3o:_V\u00e1 at\u00e9 o acampamento dos midianitas e quando voc\u00ea ouvir o que eles disserem, voc\u00ea n\u00e3o vai mais ter medo. Ent\u00e3o, naquela noite, Gide\u00e3o desceu para o campo e ouviu um soldado midianita dizendo a seu amigo sobre um sonho que ele tinha tido. O amigo do homem lhe disse: _Este sonho significa que Gide\u00e3o vai derrotar os ex\u00e9rcitos de Midi\u00e3!Quando Gide\u00e3o ouviu isso, ele adorou a Deus."
         }, 
         {
           "id": "16-12", 
@@ -965,12 +1101,7 @@
         {
           "id": "16-13", 
           "img": "{{:en:obs:obs-16-13.jpg?nolink&640x360}}", 
-          "text": "_Pelo Deus eterno e por Gide\u00e3o!"
-        }, 
-        {
-          "id": "16-13", 
-          "img": "{{:en:obs:obs-16-13.jpg?nolink&640x360}}", 
-          "text": "_Pelo Deus eterno e por Gide\u00e3o!"
+          "text": "Ent\u00e3o, ao mesmo tempo, todos eles quebraram os potes onde estavam escondidas as tochas. Eles tocaram as buzinas e gritaram: _Pelo Deus eterno e por Gide\u00e3o!"
         }, 
         {
           "id": "16-14", 
@@ -1000,7 +1131,7 @@
       ], 
       "number": "16", 
       "ref": "A hist\u00f3ria b\u00edblica de: Ju\u00edzes 1-3; 6-8", 
-      "title": " 16. OS LIBERTADORES "
+      "title": "16. OS LIBERTADORES"
     }, 
     {
       "frames": [
@@ -1017,22 +1148,7 @@
         {
           "id": "17-03", 
           "img": "{{:en:obs:obs-17-03.jpg?nolink&640x360}}", 
-          "text": "Depois disso, Davi venceu ainda muitas batalhas contra os inimigos de Israel. Recebeu, portanto, o louvor e o reconhecimento do seu povo."
-        }, 
-        {
-          "id": "17-03", 
-          "img": "{{:en:obs:obs-17-03.jpg?nolink&640x360}}", 
-          "text": "Depois disso, Davi venceu ainda muitas batalhas contra os inimigos de Israel. Recebeu, portanto, o louvor e o reconhecimento do seu povo."
-        }, 
-        {
-          "id": "17-03", 
-          "img": "{{:en:obs:obs-17-03.jpg?nolink&640x360}}", 
-          "text": "Depois disso, Davi venceu ainda muitas batalhas contra os inimigos de Israel. Recebeu, portanto, o louvor e o reconhecimento do seu povo."
-        }, 
-        {
-          "id": "17-03", 
-          "img": "{{:en:obs:obs-17-03.jpg?nolink&640x360}}", 
-          "text": "Depois disso, Davi venceu ainda muitas batalhas contra os inimigos de Israel. Recebeu, portanto, o louvor e o reconhecimento do seu povo."
+          "text": "Davi tornou-se um grande soldado e l\u00edder. Quando ainda era bem jovem, ele lutou contra um gigante chamado Golias. Golias era um soldado treinado, experiente, o mais forte do ex\u00e9rcito dos inimigos filisteus, e com quase tr\u00eas metros de altura! Davi enfrentou-o com essas palavras:_Voc\u00ea vem a mim com espada, lan\u00e7a e escudo. Mas eu vou contra voc\u00ea em nome do Deus Todo-Poderoso, o Deus dos ex\u00e9rcitos israelitas, que voc\u00ea desafiou.E dizendo isso, atirou-lhe uma pedra com um estilingue e acertou-o em cheio, na testa, derrubando-o e matando-o. Deus ajudou Davi a matar Golias e a salvar Israel. Depois disso, Davi venceu ainda muitas batalhas contra os inimigos de Israel. Recebeu, portanto, o louvor e o reconhecimento do seu povo."
         }, 
         {
           "id": "17-04", 
@@ -1052,17 +1168,7 @@
         {
           "id": "17-07", 
           "img": "{{:en:obs:obs-17-07.jpg?nolink&640x360}}", 
-          "text": "O Messias \u00e9 o Escolhido de Deus para salvar o mundo do pecado."
-        }, 
-        {
-          "id": "17-07", 
-          "img": "{{:en:obs:obs-17-07.jpg?nolink&640x360}}", 
-          "text": "O Messias \u00e9 o Escolhido de Deus para salvar o mundo do pecado."
-        }, 
-        {
-          "id": "17-07", 
-          "img": "{{:en:obs:obs-17-07.jpg?nolink&640x360}}", 
-          "text": "O Messias \u00e9 o Escolhido de Deus para salvar o mundo do pecado."
+          "text": "Deus enviou um profeta chamado Nat\u00e3 a Davi com esta mensagem:_Porque voc\u00ea \u00e9 um homem de guerra, voc\u00ea n\u00e3o vai construir este lugar de adora\u00e7\u00e3o para mim. Seu filho o construir\u00e1. Mas vou aben\u00e7o\u00e1-lo grandemente. Algu\u00e9m da sua fam\u00edlia vai sempre sentar-se no trono para governar como rei de Israel. E o Messias ser\u00e1 um dos seus descendentes!  O Messias \u00e9 o Escolhido de Deus para salvar o mundo do pecado."
         }, 
         {
           "id": "17-08", 
@@ -1102,24 +1208,14 @@
       ], 
       "number": "17", 
       "ref": "A hist\u00f3ria b\u00edblica de: 1 Samuel 10; 15-19; 24; 31; 2 Samuel 5; 7; 11-12", 
-      "title": " 17. Alian\u00e7a de Deus com David "
+      "title": "17. Alian\u00e7a de Deus com David"
     }, 
     {
       "frames": [
         {
           "id": "18-01", 
           "img": "{{:en:obs:obs-18-01.jpg?nolink&640x360}}", 
-          "text": "Quando Salom\u00e3o pediu sabedoria, Deus se agradou e fez dele o homem mais s\u00e1bio do mundo. Deus tamb\u00e9m o fez muito rico. Ele aprendeu muitas coisas e foi um juiz muito justo."
-        }, 
-        {
-          "id": "18-01", 
-          "img": "{{:en:obs:obs-18-01.jpg?nolink&640x360}}", 
-          "text": "Quando Salom\u00e3o pediu sabedoria, Deus se agradou e fez dele o homem mais s\u00e1bio do mundo. Deus tamb\u00e9m o fez muito rico. Ele aprendeu muitas coisas e foi um juiz muito justo."
-        }, 
-        {
-          "id": "18-01", 
-          "img": "{{:en:obs:obs-18-01.jpg?nolink&640x360}}", 
-          "text": "Quando Salom\u00e3o pediu sabedoria, Deus se agradou e fez dele o homem mais s\u00e1bio do mundo. Deus tamb\u00e9m o fez muito rico. Ele aprendeu muitas coisas e foi um juiz muito justo."
+          "text": "Depois de muitos anos o rei Davi morreu, e seu filho Salom\u00e3o come\u00e7ou a reinar em Israel. Um dia, Deus falou com Salom\u00e3o e lhe perguntou:_O que voc\u00ea quer que eu lhe d\u00ea? Pe\u00e7a-me o que voc\u00ea quiser.Quando Salom\u00e3o pediu sabedoria, Deus se agradou e fez dele o homem mais s\u00e1bio do mundo. Deus tamb\u00e9m o fez muito rico. Ele aprendeu muitas coisas e foi um juiz muito justo."
         }, 
         {
           "id": "18-02", 
@@ -1144,12 +1240,7 @@
         {
           "id": "18-06", 
           "img": "{{:en:obs:obs-18-06.jpg?nolink&640x360}}", 
-          "text": "_Voc\u00eas acham que meu pai Salom\u00e3o os fez trabalhar duro, mas eu vou fazer voc\u00eas trabalharem mais do que ele fez, e eu vou puni-los com mais rigor do que ele."
-        }, 
-        {
-          "id": "18-06", 
-          "img": "{{:en:obs:obs-18-06.jpg?nolink&640x360}}", 
-          "text": "_Voc\u00eas acham que meu pai Salom\u00e3o os fez trabalhar duro, mas eu vou fazer voc\u00eas trabalharem mais do que ele fez, e eu vou puni-los com mais rigor do que ele."
+          "text": "Robo\u00e3o respondeu com estupidez e lhes disse:_Voc\u00eas acham que meu pai Salom\u00e3o os fez trabalhar duro, mas eu vou fazer voc\u00eas trabalharem mais do que ele fez, e eu vou puni-los com mais rigor do que ele."
         }, 
         {
           "id": "18-07", 
@@ -1189,7 +1280,7 @@
       ], 
       "number": "18", 
       "ref": "A hist\u00f3ria b\u00edblica de: 1 Reis 1-6; 11-12", 
-      "title": " 18. O REINO DIVIDIDO "
+      "title": "18. O REINO DIVIDIDO"
     }, 
     {
       "frames": [
@@ -1201,17 +1292,7 @@
         {
           "id": "19-02", 
           "img": "{{:en:obs:obs-19-02.jpg?nolink&640x360}}", 
-          "text": "Isso deixou Acabe muito zangado e ele queria matar o profeta Elias."
-        }, 
-        {
-          "id": "19-02", 
-          "img": "{{:en:obs:obs-19-02.jpg?nolink&640x360}}", 
-          "text": "Isso deixou Acabe muito zangado e ele queria matar o profeta Elias."
-        }, 
-        {
-          "id": "19-02", 
-          "img": "{{:en:obs:obs-19-02.jpg?nolink&640x360}}", 
-          "text": "Isso deixou Acabe muito zangado e ele queria matar o profeta Elias."
+          "text": "Elias era um profeta na \u00e9poca em que Acabe era rei do Reino de Israel. Acabe era um homem mau, que incentivava as pessoas a adorarem um falso deus chamado Baal. Um dia, Elias, com a autoridade de Deus, disse a Acabe:_N\u00e3o haver\u00e1 chuva ou orvalho em Israel at\u00e9 que eu diga o contr\u00e1rio.Isso deixou Acabe muito zangado e ele queria matar o profeta Elias."
         }, 
         {
           "id": "19-03", 
@@ -1226,72 +1307,22 @@
         {
           "id": "19-05", 
           "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
-        }, 
-        {
-          "id": "19-05", 
-          "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
-        }, 
-        {
-          "id": "19-05", 
-          "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
-        }, 
-        {
-          "id": "19-05", 
-          "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
-        }, 
-        {
-          "id": "19-05", 
-          "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
-        }, 
-        {
-          "id": "19-05", 
-          "img": "{{:en:obs:obs-19-05.jpg?nolink&640x360}}", 
-          "text": "_Leve todo o povo do Reino de Israel ao monte Carmelo."
+          "text": "Ap\u00f3s tr\u00eas anos e meio de dura seca, Deus disse a Elias para retornar a Israel e avisar a Acabe que Ele ia enviar chuva novamente. Quando Acabe viu Elias, ele foi logo lhe falando:_Olha a\u00ed o encrenqueiro! Elias lhe respondeu:_Voc\u00ea \u00e9 o encrenqueiro! Voc\u00ea abandonou Yahweh, o verdadeiro Deus, e preferiu adorar a Baal. E continuou a dizer a Acabe:_Leve todo o povo do Reino de Israel ao monte Carmelo."
         }, 
         {
           "id": "19-06", 
           "img": "{{:en:obs:obs-19-06.jpg?nolink&640x360}}", 
-          "text": "_Por quanto tempo voc\u00eas v\u00e3o ficar indecisos, mudando de ideia? Decidam-se de uma vez por todas! Se o Senhor \u00e9 Deus, sirva-o! Se Baal \u00e9 Deus, sirva-o!"
-        }, 
-        {
-          "id": "19-06", 
-          "img": "{{:en:obs:obs-19-06.jpg?nolink&640x360}}", 
-          "text": "_Por quanto tempo voc\u00eas v\u00e3o ficar indecisos, mudando de ideia? Decidam-se de uma vez por todas! Se o Senhor \u00e9 Deus, sirva-o! Se Baal \u00e9 Deus, sirva-o!"
+          "text": "Todo o povo de Israel, incluindo os quatrocentos profetas de Baal, chegou ao Monte Carmelo. Elias ent\u00e3o, desafiando-os, disse:_Por quanto tempo voc\u00eas v\u00e3o ficar indecisos, mudando de ideia? Decidam-se de uma vez por todas! Se o Senhor \u00e9 Deus, sirva-o! Se Baal \u00e9 Deus, sirva-o!"
         }, 
         {
           "id": "19-07", 
           "img": "{{:en:obs:obs-19-07.jpg?nolink&640x360}}", 
-          "text": "Assim os sacerdotes de Baal fizeram. Prepararam um sacrif\u00edcio, mas n\u00e3o acenderam o fogo."
-        }, 
-        {
-          "id": "19-07", 
-          "img": "{{:en:obs:obs-19-07.jpg?nolink&640x360}}", 
-          "text": "Assim os sacerdotes de Baal fizeram. Prepararam um sacrif\u00edcio, mas n\u00e3o acenderam o fogo."
-        }, 
-        {
-          "id": "19-07", 
-          "img": "{{:en:obs:obs-19-07.jpg?nolink&640x360}}", 
-          "text": "Assim os sacerdotes de Baal fizeram. Prepararam um sacrif\u00edcio, mas n\u00e3o acenderam o fogo."
+          "text": "E aos profetas de Baal:_Matem um touro e preparem-no como um sacrif\u00edcio, mas n\u00e3o acendam o fogo. Vou fazer o mesmo. O Deus que responder com fogo \u00e9 o Deus verdadeiro. Assim os sacerdotes de Baal fizeram. Prepararam um sacrif\u00edcio, mas n\u00e3o acenderam o fogo."
         }, 
         {
           "id": "19-08", 
           "img": "{{:en:obs:obs-19-08.jpg?nolink&640x360}}", 
-          "text": "Durante todo o dia eles oraram e gritaram e at\u00e9 mesmo se cortavam com facas, mas n\u00e3o houve resposta."
-        }, 
-        {
-          "id": "19-08", 
-          "img": "{{:en:obs:obs-19-08.jpg?nolink&640x360}}", 
-          "text": "Durante todo o dia eles oraram e gritaram e at\u00e9 mesmo se cortavam com facas, mas n\u00e3o houve resposta."
-        }, 
-        {
-          "id": "19-08", 
-          "img": "{{:en:obs:obs-19-08.jpg?nolink&640x360}}", 
-          "text": "Durante todo o dia eles oraram e gritaram e at\u00e9 mesmo se cortavam com facas, mas n\u00e3o houve resposta."
+          "text": "Ent\u00e3o eles oravam a Baal:_Ou\u00e7a-nos, \u00f3 Baal! Durante todo o dia eles oraram e gritaram e at\u00e9 mesmo se cortavam com facas, mas n\u00e3o houve resposta."
         }, 
         {
           "id": "19-09", 
@@ -1301,52 +1332,22 @@
         {
           "id": "19-10", 
           "img": "{{:en:obs:obs-19-10.jpg?nolink&640x360}}", 
-          "text": "_\u00d3 Senhor, Deus de Abra\u00e3o, Isaque e Jac\u00f3, mostra-nos hoje que Tu \u00e9s o Deus de Israel e que eu sou Teu servo. Responde-me para que este povo saiba que Tu \u00e9s o Deus verdadeiro."
-        }, 
-        {
-          "id": "19-10", 
-          "img": "{{:en:obs:obs-19-10.jpg?nolink&640x360}}", 
-          "text": "_\u00d3 Senhor, Deus de Abra\u00e3o, Isaque e Jac\u00f3, mostra-nos hoje que Tu \u00e9s o Deus de Israel e que eu sou Teu servo. Responde-me para que este povo saiba que Tu \u00e9s o Deus verdadeiro."
+          "text": "E Elias orou:_\u00d3 Senhor, Deus de Abra\u00e3o, Isaque e Jac\u00f3, mostra-nos hoje que Tu \u00e9s o Deus de Israel e que eu sou Teu servo. Responde-me para que este povo saiba que Tu \u00e9s o Deus verdadeiro."
         }, 
         {
           "id": "19-11", 
           "img": "{{:en:obs:obs-19-11.jpg?nolink&640x360}}", 
-          "text": "_Yahweh \u00e9 Deus! Yahweh \u00e9 Deus!"
-        }, 
-        {
-          "id": "19-11", 
-          "img": "{{:en:obs:obs-19-11.jpg?nolink&640x360}}", 
-          "text": "_Yahweh \u00e9 Deus! Yahweh \u00e9 Deus!"
+          "text": "Imediatamente o fogo caiu do c\u00e9u e queimou totalmente a carne, a madeira, as pedras, e at\u00e9 mesmo o ch\u00e3o molhado ao redor do altar. Quando o povo viu isso, eles ca\u00edram no ch\u00e3o e diziam:_Yahweh \u00e9 Deus! Yahweh \u00e9 Deus!"
         }, 
         {
           "id": "19-12", 
           "img": "{{:en:obs:obs-19-12.jpg?nolink&640x360}}", 
-          "text": "Depois que todos foram presos, Elias fez com que descessem at\u00e9 o riacho de Quisom e ali os matou."
-        }, 
-        {
-          "id": "19-12", 
-          "img": "{{:en:obs:obs-19-12.jpg?nolink&640x360}}", 
-          "text": "Depois que todos foram presos, Elias fez com que descessem at\u00e9 o riacho de Quisom e ali os matou."
-        }, 
-        {
-          "id": "19-12", 
-          "img": "{{:en:obs:obs-19-12.jpg?nolink&640x360}}", 
-          "text": "Depois que todos foram presos, Elias fez com que descessem at\u00e9 o riacho de Quisom e ali os matou."
+          "text": "Elias ordenou: \u2014 Prendam os profetas de Baal! N\u00e3o deixem escapar nenhum! Depois que todos foram presos, Elias fez com que descessem at\u00e9 o riacho de Quisom e ali os matou."
         }, 
         {
           "id": "19-13", 
           "img": "{{:en:obs:obs-19-13.jpg?nolink&640x360}}", 
-          "text": "O c\u00e9u come\u00e7ou a ficar escuro, e logo caiu uma grande tempestade. Era Deus pondo um fim \u00e0 seca que Ele mesmo tinha determinado e demonstrando o poder de quem era e \u00e9 o \u00fanico Deus verdadeiro."
-        }, 
-        {
-          "id": "19-13", 
-          "img": "{{:en:obs:obs-19-13.jpg?nolink&640x360}}", 
-          "text": "O c\u00e9u come\u00e7ou a ficar escuro, e logo caiu uma grande tempestade. Era Deus pondo um fim \u00e0 seca que Ele mesmo tinha determinado e demonstrando o poder de quem era e \u00e9 o \u00fanico Deus verdadeiro."
-        }, 
-        {
-          "id": "19-13", 
-          "img": "{{:en:obs:obs-19-13.jpg?nolink&640x360}}", 
-          "text": "O c\u00e9u come\u00e7ou a ficar escuro, e logo caiu uma grande tempestade. Era Deus pondo um fim \u00e0 seca que Ele mesmo tinha determinado e demonstrando o poder de quem era e \u00e9 o \u00fanico Deus verdadeiro."
+          "text": "Ent\u00e3o, Elias voltou-se ao rei Acabe e lhe disse:_Volte imediatamente para a cidade, pois a chuva est\u00e1 chegando.O c\u00e9u come\u00e7ou a ficar escuro, e logo caiu uma grande tempestade. Era Deus pondo um fim \u00e0 seca que Ele mesmo tinha determinado e demonstrando o poder de quem era e \u00e9 o \u00fanico Deus verdadeiro."
         }, 
         {
           "id": "19-14", 
@@ -1376,7 +1377,7 @@
       ], 
       "number": "19", 
       "ref": "A hist\u00f3ria b\u00edblica de: 1 Reis 16-18, 2 Reis 5, Jeremias 38", 
-      "title": " 19. OS PROFETAS "
+      "title": "19. OS PROFETAS"
     }, 
     {
       "frames": [
@@ -1448,7 +1449,7 @@
       ], 
       "number": "20", 
       "ref": "A hist\u00f3ria b\u00edblica de: 2 Reis 17; 24-25, 2 Cr\u00f4nicas 36; Esdras 1-10; Neemias 1-13", 
-      "title": " 20. O EX\u00cdLIO E O RETORNO "
+      "title": "20. O EX\u00cdLIO E O RETORNO"
     }, 
     {
       "frames": [
@@ -1530,7 +1531,7 @@
       ], 
       "number": "21", 
       "ref": "A hist\u00f3ria b\u00edblica de G\u00eanesis 3:15, 12:1-3, Deuteron\u00f4mio 18:15; 2 Samuel 7; Jeremias 31, Isa\u00edas 59:16; Daniel 7; Malaquias 4:05, Isa\u00edas 7:14; Miqu\u00e9ias 5:2 , Isa\u00edas 9:1-7; 35:3-5; 61; 53, Salmos 22:18; 35:19; 69:4; 41:9; Zacarias 11:12-13, Isa\u00edas 50:6, Salmos 16: 10-11", 
-      "title": " 21. Deus promete o Messias "
+      "title": "21. Deus promete o Messias"
     }, 
     {
       "frames": [
@@ -1572,7 +1573,7 @@
       ], 
       "number": "22", 
       "ref": "A hist\u00f3ria b\u00edblica de: Lucas 1", 
-      "title": " 22. O NASCIMENTO DE JO\u00c3O "
+      "title": "22. O NASCIMENTO DE JO\u00c3O"
     }, 
     {
       "frames": [
@@ -1629,7 +1630,7 @@
       ], 
       "number": "23", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 1, Lucas 2", 
-      "title": " 23. O NASCIMENTO DE JESUS "
+      "title": "23. O NASCIMENTO DE JESUS"
     }, 
     {
       "frames": [
@@ -1681,7 +1682,7 @@
       ], 
       "number": "24", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 3, Marcos 1:9-11, Lucas 3:1-23", 
-      "title": " 24. JO\u00c3O BATIZA JESUS "
+      "title": "24. JO\u00c3O BATIZA JESUS"
     }, 
     {
       "frames": [
@@ -1728,7 +1729,7 @@
       ], 
       "number": "25", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 4:1-11, Marcos 1:12-13, Lucas 4:1-13", 
-      "title": " 25. SATAN\u00c1S TENTOU JESUS "
+      "title": "25. SATAN\u00c1S TENTOU JESUS"
     }, 
     {
       "frames": [
@@ -1785,7 +1786,7 @@
       ], 
       "number": "26", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 4:12-25, Marcos 1:14-15, 35-39; 3:13-21, Lucas 4:14-30, 38-44", 
-      "title": " 26. Jesus come\u00e7a o seu Minist\u00e9rio "
+      "title": "26. Jesus come\u00e7a o seu Minist\u00e9rio"
     }, 
     {
       "frames": [
@@ -1847,7 +1848,7 @@
       ], 
       "number": "27", 
       "ref": "A hist\u00f3ria b\u00edblica de: Lucas 10:25-37", 
-      "title": " 27. O Bom Samaritano "
+      "title": "27. O Bom Samaritano"
     }, 
     {
       "frames": [
@@ -1904,7 +1905,7 @@
       ], 
       "number": "28", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 19:16-30, Marcos 10:17-31, Lucas 18:18-30", 
-      "title": " 28. O jovem rico "
+      "title": "28. O jovem rico"
     }, 
     {
       "frames": [
@@ -1956,7 +1957,7 @@
       ], 
       "number": "29", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 18:21-35", 
-      "title": " 29. A HIST\u00d3RIA DO SERVO INCOMPASSIVO "
+      "title": "29. A HIST\u00d3RIA DO SERVO INCOMPASSIVO"
     }, 
     {
       "frames": [
@@ -2008,7 +2009,7 @@
       ], 
       "number": "30", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 14:13-21, Marcos 6:31-44, Lucas 9:10-17, Jo\u00e3o 6:5-15", 
-      "title": " 30. Jesus alimenta cinco mil pessoas "
+      "title": "30. Jesus alimenta cinco mil pessoas"
     }, 
     {
       "frames": [
@@ -2055,7 +2056,7 @@
       ], 
       "number": "31", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 14:22-33, Marcos 6:45-52, Jo\u00e3o 6:16-21", 
-      "title": " 31. Jesus anda na \u00e1gua "
+      "title": "31. Jesus anda na \u00e1gua"
     }, 
     {
       "frames": [
@@ -2142,7 +2143,7 @@
       ], 
       "number": "32", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 8:28-34, Marcos 5:1-20, Lucas 8:26-39", 
-      "title": " 32. Jesus cura um endemoninhado "
+      "title": "32. Jesus cura um endemoninhado"
     }, 
     {
       "frames": [
@@ -2194,7 +2195,7 @@
       ], 
       "number": "33", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 13:1-8, 18-23, Marcos 4:1-8, 13-20, Lucas 8:4-15", 
-      "title": " 33. O SEMEADOR "
+      "title": "33. O SEMEADOR"
     }, 
     {
       "frames": [
@@ -2251,7 +2252,7 @@
       ], 
       "number": "34", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 13:31-33, 44-46, Marcos 4:30-32, Lucas 13:18-21; 18:9-14", 
-      "title": " 34. Jesus ensina Outras Hist\u00f3rias "
+      "title": "34. Jesus ensina Outras Hist\u00f3rias"
     }, 
     {
       "frames": [
@@ -2268,17 +2269,7 @@
         {
           "id": "35-03", 
           "img": "{{:en:obs:obs-35-03.jpg?nolink&640x360}}", 
-          "text": "Ent\u00e3o o homem dividiu os seus bens entre seus dois filhos."
-        }, 
-        {
-          "id": "35-03", 
-          "img": "{{:en:obs:obs-35-03.jpg?nolink&640x360}}", 
-          "text": "Ent\u00e3o o homem dividiu os seus bens entre seus dois filhos."
-        }, 
-        {
-          "id": "35-03", 
-          "img": "{{:en:obs:obs-35-03.jpg?nolink&640x360}}", 
-          "text": "Ent\u00e3o o homem dividiu os seus bens entre seus dois filhos."
+          "text": "Um homem tinha dois filhos. Certo dia, o filho mais novo disse: \u2013 Pai, quero receber logo a minha parte da heran\u00e7a! Ent\u00e3o o homem dividiu os seus bens entre seus dois filhos."
         }, 
         {
           "id": "35-04", 
@@ -2293,12 +2284,7 @@
         {
           "id": "35-06", 
           "img": "{{:en:obs:obs-35-06.jpg?nolink&640x360}}", 
-          "text": "\u2013 O que \u00e9 que eu estou fazendo aqui? Por que estou vivendo assim?  Todos os servos na casa do meu pai t\u00eam o bastante para comer, e aqui estou eu, passando fome! Vou voltar para a casa do meu pai e pedir-lhe para ser um de seus servos!"
-        }, 
-        {
-          "id": "35-06", 
-          "img": "{{:en:obs:obs-35-06.jpg?nolink&640x360}}", 
-          "text": "\u2013 O que \u00e9 que eu estou fazendo aqui? Por que estou vivendo assim?  Todos os servos na casa do meu pai t\u00eam o bastante para comer, e aqui estou eu, passando fome! Vou voltar para a casa do meu pai e pedir-lhe para ser um de seus servos!"
+          "text": "Enfim, ele perguntou a si mesmo: \u2013 O que \u00e9 que eu estou fazendo aqui? Por que estou vivendo assim?  Todos os servos na casa do meu pai t\u00eam o bastante para comer, e aqui estou eu, passando fome! Vou voltar para a casa do meu pai e pedir-lhe para ser um de seus servos!"
         }, 
         {
           "id": "35-07", 
@@ -2308,22 +2294,12 @@
         {
           "id": "35-08", 
           "img": "{{:en:obs:obs-35-08.jpg?nolink&640x360}}", 
-          "text": "\u2013 Pai, pequei contra o senhor e contra Deus. N\u00e3o mere\u00e7o mais ser o seu filho. Por favor, permita que eu seja um dos seus servos."
-        }, 
-        {
-          "id": "35-08", 
-          "img": "{{:en:obs:obs-35-08.jpg?nolink&640x360}}", 
-          "text": "\u2013 Pai, pequei contra o senhor e contra Deus. N\u00e3o mere\u00e7o mais ser o seu filho. Por favor, permita que eu seja um dos seus servos."
+          "text": "O filho lhe disse: \u2013 Pai, pequei contra o senhor e contra Deus. N\u00e3o mere\u00e7o mais ser o seu filho. Por favor, permita que eu seja um dos seus servos."
         }, 
         {
           "id": "35-09", 
           "img": "{{:en:obs:obs-35-09.jpg?nolink&640x360}}", 
-          "text": "\u2013 V\u00e1 r\u00e1pido! Pegue as melhores roupas para vestir o meu filho! Coloquemos um anel no seu dedo e sand\u00e1lias nos seus p\u00e9s. Vamos matar o melhor bezerro para fazer uma grande festa, pois meu filho estava morto, e agora voltou a viver! Eu o tinha perdido, mas eu o achei de novo! Estou t\u00e3o feliz! E assim come\u00e7ou a festa."
-        }, 
-        {
-          "id": "35-09", 
-          "img": "{{:en:obs:obs-35-09.jpg?nolink&640x360}}", 
-          "text": "\u2013 V\u00e1 r\u00e1pido! Pegue as melhores roupas para vestir o meu filho! Coloquemos um anel no seu dedo e sand\u00e1lias nos seus p\u00e9s. Vamos matar o melhor bezerro para fazer uma grande festa, pois meu filho estava morto, e agora voltou a viver! Eu o tinha perdido, mas eu o achei de novo! Estou t\u00e3o feliz! E assim come\u00e7ou a festa."
+          "text": "Mas o pai chamou um de seus servos e lhe disse: \u2013 V\u00e1 r\u00e1pido! Pegue as melhores roupas para vestir o meu filho! Coloquemos um anel no seu dedo e sand\u00e1lias nos seus p\u00e9s. Vamos matar o melhor bezerro para fazer uma grande festa, pois meu filho estava morto, e agora voltou a viver! Eu o tinha perdido, mas eu o achei de novo! Estou t\u00e3o feliz! E assim come\u00e7ou a festa."
         }, 
         {
           "id": "35-10", 
@@ -2343,17 +2319,12 @@
         {
           "id": "35-13", 
           "img": "{{:en:obs:obs-35-13.jpg?nolink&640x360}}", 
-          "text": "\u2013 Filho meu, voc\u00ea est\u00e1 sempre comigo, e tudo que \u00e9 meu, \u00e9 seu! Mas hoje n\u00f3s devemos nos alegrar e festejar, pois este seu irm\u00e3o estava morto, e agora est\u00e1 vivo; estava perdido, mas agora foi achado!"
-        }, 
-        {
-          "id": "35-13", 
-          "img": "{{:en:obs:obs-35-13.jpg?nolink&640x360}}", 
-          "text": "\u2013 Filho meu, voc\u00ea est\u00e1 sempre comigo, e tudo que \u00e9 meu, \u00e9 seu! Mas hoje n\u00f3s devemos nos alegrar e festejar, pois este seu irm\u00e3o estava morto, e agora est\u00e1 vivo; estava perdido, mas agora foi achado!"
+          "text": "O pai lhe respondeu: \u2013 Filho meu, voc\u00ea est\u00e1 sempre comigo, e tudo que \u00e9 meu, \u00e9 seu! Mas hoje n\u00f3s devemos nos alegrar e festejar, pois este seu irm\u00e3o estava morto, e agora est\u00e1 vivo; estava perdido, mas agora foi achado!"
         }
       ], 
       "number": "35", 
       "ref": "Uma hist\u00f3ria b\u00edblica: Lucas 15:11-32", 
-      "title": " 35. A hist\u00f3ria do Pai compassivo "
+      "title": "35. A hist\u00f3ria do Pai compassivo"
     }, 
     {
       "frames": [
@@ -2395,7 +2366,7 @@
       ], 
       "number": "36", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 17:1-9, Marcos 9:2-8, Lucas 9:28-36", 
-      "title": " 36. A transfigura\u00e7\u00e3o "
+      "title": "36. A transfigura\u00e7\u00e3o"
     }, 
     {
       "frames": [
@@ -2457,7 +2428,7 @@
       ], 
       "number": "37", 
       "ref": "A hist\u00f3ria b\u00edblica de: Jo\u00e3o 11:1-46", 
-      "title": " 37. Jesus ressuscita L\u00e1zaro dentre os mortos "
+      "title": "37. Jesus ressuscita L\u00e1zaro dentre os mortos"
     }, 
     {
       "frames": [
@@ -2539,7 +2510,7 @@
       ], 
       "number": "38", 
       "ref": "A hist\u00f3ria b\u00edblica de:  Mateus 26:14-56, Marcos 14:10-50, Lucas 22:1-53, Jo\u00e3o 18:1-11", 
-      "title": " 38. Jesus \u00e9 tra\u00eddo "
+      "title": "38. Jesus \u00e9 tra\u00eddo"
     }, 
     {
       "frames": [
@@ -2601,16 +2572,12 @@
         {
           "id": "39-12", 
           "img": "{{:en:obs:obs-39-12.jpg?nolink&640x360}}", 
-          "text": "A hist\u00f3ria b\u00edblica de: Mateus 26:57-27:26; Mark 14:53-15:15, Lucas 22:54-23:25, Jo\u00e3o 18:12-19:16"
-        }, 
-        {
-          "id": "39-12", 
-          "img": "{{:en:obs:obs-39-12.jpg?nolink&640x360}}", 
-          "text": "A hist\u00f3ria b\u00edblica de: Mateus 26:57-27:26; Mark 14:53-15:15, Lucas 22:54-23:25, Jo\u00e3o 18:12-19:16"
+          "text": "Mas Pilatos ficou com medo de que um motim come\u00e7aria, ent\u00e3o ele entregou Jesus a eles para ser crucificado. Os soldados chicoteado Jesus, colocar um manto real e uma coroa feita de espinhos na dele, e zombavam dele, dizendo: \"Olha, o rei dos judeus!\"A hist\u00f3ria b\u00edblica de: Mateus 26:57-27:26; Mark 14:53-15:15, Lucas 22:54-23:25, Jo\u00e3o 18:12-19:16"
         }
       ], 
       "number": "39", 
-      "title": " 39. Jesus \u00e9 levado a julgamento "
+      "ref": "NOT FOUND", 
+      "title": "39. Jesus \u00e9 levado a julgamento"
     }, 
     {
       "frames": [
@@ -2662,7 +2629,7 @@
       ], 
       "number": "40", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 27:27-61, Marcos 15:16-47, Lucas 23:26-56, Jo\u00e3o 19:17-42", 
-      "title": " 40. Jesus \u00e9 crucificado "
+      "title": "40. Jesus \u00e9 crucificado"
     }, 
     {
       "frames": [
@@ -2709,7 +2676,7 @@
       ], 
       "number": "41", 
       "ref": "A hist\u00f3ria b\u00edblica de: Matthew 27:62-28:15, Marcos 16:1-11, Lucas 24:1-12, Jo\u00e3o 20:1-18", 
-      "title": " 41. Deus ressuscitou Jesus dos mortos "
+      "title": "41. Deus ressuscitou Jesus dos mortos"
     }, 
     {
       "frames": [
@@ -2771,7 +2738,7 @@
       ], 
       "number": "42", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 28:16-20, Marcos 16:12-20, Lucas 24:13-53, Jo\u00e3o 20:19-23, Atos 1:1-11", 
-      "title": " 42. JESUS RETORNA AO C\u00c9U "
+      "title": "42. JESUS RETORNA AO C\u00c9U"
     }, 
     {
       "frames": [
@@ -2828,7 +2795,7 @@
         {
           "id": "43-11", 
           "img": "{{:en:obs:obs-43-11.jpg?nolink&640x360}}", 
-          "text": "Pedro disse: \"Arrependam-se e sejam batizados, cada um de voc\u00eas, em nome de Jesus Cristo para remiss\u00e3o dos seus pecados, e voc\u00eas receber//\u00e3o////// o dom do Esp\u00edrito Santo.\""
+          "text": ""
         }, 
         {
           "id": "43-12", 
@@ -2838,12 +2805,12 @@
         {
           "id": "43-13", 
           "img": "{{:en:obs:obs-43-13.jpg?nolink&640x360}}", 
-          "text": "Os crist\u00e3os se dedicavam ao ensino dos disc\u00edpulos e a comunh\u00e3o, eles comiam juntos e oravam. Todos eles se reuniam e compartilhavam tudo o que tinham. Eles louvavam a Deus e at\u00e9 e os que n\u00e3o eram c//rist\u00e3os// pensavam bem deles. Todos os dias, mais pessoas se tornavam crist\u00e3s."
+          "text": ""
         }
       ], 
       "number": "43", 
-      "ref": "A hist\u00f3ria b\u00edblica de: Atos 2", 
-      "title": " 43. O in\u00edcio da Igreja "
+      "ref": "\u00e3o", 
+      "title": "43. O in\u00edcio da Igreja"
     }, 
     {
       "frames": [
@@ -2895,7 +2862,7 @@
       ], 
       "number": "44", 
       "ref": "A hist\u00f3ria b\u00edblica de: Atos 3:01-04:22", 
-      "title": " 44. Pedro e Jo\u00e3o curam um mendigo "
+      "title": "44. Pedro e Jo\u00e3o curam um mendigo"
     }, 
     {
       "frames": [
@@ -2967,7 +2934,7 @@
       ], 
       "number": "45", 
       "ref": "A Bible story from: Acts 8:26-40", 
-      "title": " 45. Filipe e o Oficial Et\u00edope "
+      "title": "45. Filipe e o Oficial Et\u00edope"
     }, 
     {
       "frames": [
@@ -3024,7 +2991,7 @@
       ], 
       "number": "46", 
       "ref": "A Bible story from: Acts 6:8-8:3; 9:1-25; 11:25-26", 
-      "title": " 46. PAULO TORNA-SE UM CRIST\u00c3O "
+      "title": "46. PAULO TORNA-SE UM CRIST\u00c3O"
     }, 
     {
       "frames": [
@@ -3101,7 +3068,7 @@
       ], 
       "number": "47", 
       "ref": "A hist\u00f3ria b\u00edblica de: Atos 16:11-40", 
-      "title": " 47. PAULO E SILAS EM FILIPOS "
+      "title": "47. PAULO E SILAS EM FILIPOS"
     }, 
     {
       "frames": [
@@ -3178,7 +3145,7 @@
       ], 
       "number": "48", 
       "ref": "A hist\u00f3ria b\u00edblica de G\u00eanesis 1-3, 6, 14, 22; \u00caxodo 12, 20; 2 Samuel 7; hebraico 3:1-6, 04:14 - 05:10, 07:01 - 08:13, 9: 11-10:18, Apocalipse 21", 
-      "title": " 48. Jesus \u00e9 o Messias Prometido "
+      "title": "48. Jesus \u00e9 o Messias Prometido"
     }, 
     {
       "frames": [
@@ -3275,7 +3242,7 @@
       ], 
       "number": "49", 
       "ref": "A hist\u00f3ria b\u00edblica de Romanos 3:21-26, 5:1-11, Jo\u00e3o 3:16, Marcos 16:16, Colossenses 1:13-14; 2 Tessalonicenses 5:17-21, 1 Jo\u00e3o 1:5-10", 
-      "title": " 49. NOVA ALIAN\u00c7A DE DEUS "
+      "title": "49. NOVA ALIAN\u00c7A DE DEUS"
     }, 
     {
       "frames": [
@@ -3367,7 +3334,7 @@
       ], 
       "number": "50", 
       "ref": "A hist\u00f3ria b\u00edblica de: Mateus 24:14; 28:18, Jo\u00e3o 15:20, 16:33, Apocalipse 2:10, Mateus 13:24-30, 36-42, 1 Tessalonicenses 4:13 ao 05:11, Tiago 1:12, Mateus 22:13, Apocalipse 20:10, 21:01-22:21", 
-      "title": " 50. A VOLTA DE JESUS "
+      "title": "50. A VOLTA DE JESUS"
     }
   ], 
   "date_modified": "20140724", 
