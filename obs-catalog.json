@@ -57,7 +57,7 @@
     "string": "Polski"
   }, 
   {
-    "date_modified": "20140725", 
+    "date_modified": "20140728", 
     "direction": "ltr", 
     "language": "pt-br", 
     "status": {}, 
@@ -99,7 +99,7 @@
     "string": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
   }, 
   {
-    "date_modified": "20140725", 
+    "date_modified": "20140728", 
     "direction": "ltr", 
     "language": "fr", 
     "status": {}, 
@@ -127,7 +127,7 @@
     "string": "Bahasa Indonesia"
   }, 
   {
-    "date_modified": "20140724", 
+    "date_modified": "20140728", 
     "direction": "ltr", 
     "language": "abp", 
     "status": {}, 
@@ -199,7 +199,7 @@
     "string": "Kiswahili"
   }, 
   {
-    "date_modified": "20140724", 
+    "date_modified": "20140728", 
     "direction": "ltr", 
     "language": "blx", 
     "status": {}, 
