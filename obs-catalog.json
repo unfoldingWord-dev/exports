@@ -99,7 +99,7 @@
     "string": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
   }, 
   {
-    "date_modified": "20140728", 
+    "date_modified": "20140729", 
     "direction": "ltr", 
     "language": "fr", 
     "status": {}, 
@@ -407,5 +407,12 @@
     "language": "bhj", 
     "status": {}, 
     "string": "Bahing"
+  }, 
+  {
+    "date_modified": "20140729", 
+    "direction": "ltr", 
+    "language": "wo", 
+    "status": {}, 
+    "string": "Wollof"
   }
 ]
