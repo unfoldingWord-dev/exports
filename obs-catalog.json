@@ -192,7 +192,7 @@
     "string": "Eesti"
   }, 
   {
-    "date_modified": "20140724", 
+    "date_modified": "20140731", 
     "direction": "ltr", 
     "language": "sw", 
     "status": {}, 
@@ -409,10 +409,94 @@
     "string": "Bahing"
   }, 
   {
-    "date_modified": "20140730", 
+    "date_modified": "20140731", 
     "direction": "ltr", 
     "language": "wo", 
     "status": {}, 
     "string": "Wollof"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "kmb", 
+    "status": {}, 
+    "string": "Kimbundu"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "bho", 
+    "status": {}, 
+    "string": "Bhojpuri"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "ttt-x-txizi", 
+    "status": {}, 
+    "string": "Xizi"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "ums", 
+    "status": {}, 
+    "string": "Pendau"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "zmz", 
+    "status": {}, 
+    "string": "Mbandja"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "tll", 
+    "status": {}, 
+    "string": "Tetla"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "ktu", 
+    "status": {}, 
+    "string": "Kikongo"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "tdj", 
+    "status": {}, 
+    "string": "Tajio"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "dgo", 
+    "status": {}, 
+    "string": "Dogri"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "ttt-x-ismai", 
+    "status": {}, 
+    "string": "Ismaili"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "lua", 
+    "status": {}, 
+    "string": "Luba-Kasai"
+  }, 
+  {
+    "date_modified": "20140731", 
+    "direction": "ltr", 
+    "language": "brx", 
+    "status": {}, 
+    "string": "Bodo"
   }
 ]
