@@ -2702,7 +2702,7 @@
         }, 
         {
           "id": "42-04", 
-          "img": "{{:en:obs:obs-42-04.jpg?nolink&640x360", 
+          "img": "{{:en:obs:obs-42-04.jpg?nolink&640x360}}", 
           "text": "Les deux hommes invit\u00e8rent J\u00e9sus \u00e0 rester avec eux, alors il entra dans la maison. Il se mit \u00e0 table avec eux, prit le pain et apr\u00e8s avoir prononc\u00e9 la pri\u00e8re de b\u00e9n\u00e9diction, Il le partagea et le leur donna.  Alors leurs yeux s'ouvrirent et ils le reconnurent.  Mais d\u00e9j\u00e0, Il avait disparu."
         }, 
         {
@@ -3342,7 +3342,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140802", 
+  "date_modified": "20140803", 
   "direction": "ltr", 
   "language": "fr"
 }
