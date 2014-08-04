@@ -498,5 +498,12 @@
     "language": "brx", 
     "status": {}, 
     "string": "Bodo"
+  }, 
+  {
+    "date_modified": "20140804", 
+    "direction": "ltr", 
+    "language": "kn", 
+    "status": {}, 
+    "string": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1"
   }
 ]
