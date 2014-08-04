@@ -1,15 +1,15 @@
 {
   "app_words": {
-    "cancel": "Cancelar.", 
-    "chapters": "Cap\u00edtulos", 
-    "languages-419": "Idiomas", 
-    "next_chapter": "Siguiente cap\u00edtulo", 
+    "cancel": "Cancel", 
+    "chapters": "Chapters", 
+    "languages": "Languages", 
+    "next_chapter": "Next Chapter", 
     "ok": "OK", 
-    "remove_locally": "Borrar del dispositivo.", 
-    "remove_this_string": "Borrar este idioma del almacenamiento del dispositivo. Necesitar\u00e1 una conexi\u00f3n a internet para verlo posteriormente.", 
-    "save_locally": "Guardar en el dispositivo.", 
-    "save_this_string": "Grabar este idioma en el dispositivo para usar sin conexi\u00f3n.", 
-    "select_a_language": "Seleccione un idioma"
+    "remove_locally": "Remove Locally", 
+    "remove_this_string": "Remove this language from offline storage. You will need an internet connection to view it in the future.", 
+    "save_locally": "Save Locally", 
+    "save_this_string": "Save this language locally for offline use.", 
+    "select_a_language": "Select a Language"
   }, 
   "chapters": [
     {
@@ -2274,7 +2274,7 @@
         {
           "id": "16-17", 
           "img": "{{:en:obs:obs-16-17.jpg?nolink&640x360}}", 
-          "text": "This pattern repeated many times-419: the Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. Over many years, God sent many deliverers who saved the Israelites from their enemies."
+          "text": "This pattern repeated many times: the Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. Over many years, God sent many deliverers who saved the Israelites from their enemies."
         }, 
         {
           "id": "16-18", 
