@@ -505,5 +505,12 @@
     "language": "kn", 
     "status": {}, 
     "string": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1"
+  }, 
+  {
+    "date_modified": "20140804", 
+    "direction": "ltr", 
+    "language": "es-419", 
+    "status": {}, 
+    "string": "Espa\u00f1ol Latin America"
   }
 ]
