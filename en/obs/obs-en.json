@@ -159,7 +159,7 @@
         {
           "id": "02-12", 
           "img": "{{:en:obs:obs-02-12.jpg?nolink&640x360}}", 
-          "text": "Then God said, \"Now that the human beings have become like us by knowing good and evil, they must not be allowed to eat the fruit of the tree of life and live forever.\" So God sent Adam and Eve away from the beautiful garden. God placed large, powerful angels at the entrance to the garden to keep anyone from eating the fruit of the tree of life."
+          "text": "Then God said, \"Now that the human beings have become like us by knowing good and evil, they must not be allowed to eat the fruit of the tree of life and live forever.\" So God sent Adam and Eve away from the beautiful garden. God placed powerful angels at the entrance to the garden to keep anyone from eating the fruit of the tree of life."
         }
       ], 
       "number": "02", 
@@ -953,7 +953,7 @@
         {
           "id": "14-11", 
           "img": "{{:en:obs:obs-14-11.jpg?nolink&640x360}}", 
-          "text": "During the forty years that the people of Israel wandered in the wilderness, God provided for them. He gave them bread from heaven, called \"manna.\" He also sent flocks of quail (which are medium-sized birds) into their camp so they could have meat to eat. During all that time, God kept their clothes and shoes from wearing out."
+          "text": "During the forty years that the people of Israel wandered in the wilderness, God provided for them. He gave them bread from heaven, called \"manna.\" He also sent flocks of quail (which are medium-sized birds) into their camp so they could have meat to eat. During all that time, God kept their clothes and sandals from wearing out."
         }, 
         {
           "id": "14-12", 
@@ -1117,7 +1117,7 @@
         {
           "id": "16-13", 
           "img": "{{:en:obs:obs-16-13.jpg?nolink&640x360}}", 
-          "text": "Then, all of Gideon's soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and shouted, \"A sword for God and for Gideon!\""
+          "text": "Then, all of Gideon's soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and shouted, \"A sword for Yahweh and for Gideon!\""
         }, 
         {
           "id": "16-14", 
@@ -3166,11 +3166,6 @@
     {
       "frames": [
         {
-          "id": "33-02", 
-          "img": "{{:en:obs:obs-33-02.jpg?nolink&640x360}}", 
-          "text": "Jesus taught that some people will receive him and be saved, but others will not. He said that some people are like good soil. They receive the good news of Jesus and are saved. Other people are like the hard soil of a path, where the seed of God's word does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into his kingdom."
-        }, 
-        {
           "id": "49-01", 
           "img": "{{:en:obs:obs-49-01.jpg?nolink&640x360}}", 
           "text": "An angel told a virgin named Mary that she would give birth to God's Son. So while she was still a virgin, she gave birth to a son and named him Jesus. Therefore, Jesus is both God and human."
@@ -3194,6 +3189,11 @@
           "id": "49-05", 
           "img": "{{:en:obs:obs-49-05.jpg?nolink&640x360}}", 
           "text": "Jesus said that the kingdom of God is more valuable than anything else in the world. The most important thing that you should seek is to be saved from your sin so that you can enter into God's kingdom."
+        }, 
+        {
+          "id": "49-06", 
+          "img": "{{:en:obs:obs-49-06.jpg?nolink&640x360}}", 
+          "text": "Jesus taught that some people will receive him and be saved, but others will not. He said that some people are like good soil. They receive the good news of Jesus and are saved. Other people are like the hard soil of a path, where the seed of God's word does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into his kingdom."
         }, 
         {
           "id": "49-07", 
@@ -3353,7 +3353,7 @@
       "title": "50. Jesus Returns"
     }
   ], 
-  "date_modified": "20140724", 
+  "date_modified": "20140805", 
   "direction": "ltr", 
   "language": "en"
 }
