@@ -512,5 +512,22 @@
     "language": "es-419", 
     "status": {}, 
     "string": "Espa\u00f1ol Latin America"
+  }, 
+  {
+    "date_modified": "20140805", 
+    "direction": "ltr", 
+    "language": "mgh", 
+    "status": {
+      "checking_entity": "translation team", 
+      "checking_level": "1", 
+      "comments": "", 
+      "contributors": "", 
+      "progress_notes": "Initial setup 2014-08-05", 
+      "publish_date": "", 
+      "source_text": "en", 
+      "source_text_version": "3.0", 
+      "version": "3.1"
+    }, 
+    "string": "Makhuwa-Meetto"
   }
 ]
